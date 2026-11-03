@@ -1,0 +1,15 @@
+{
+  "problem_id": "P_quadrics_point_line_plane_conditions",
+  "name": "Quadrics through points and tangent to lines and planes",
+  "kind": "family",
+  "constructor_call": "quadric_conditions(a, b, c)",
+  "arguments": [],
+  "parameters": {},
+  "reference_ids": [
+    "brysiewicz_2020_tangent_quadrics"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

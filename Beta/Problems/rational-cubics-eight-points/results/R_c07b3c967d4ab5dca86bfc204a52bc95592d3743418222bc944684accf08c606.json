@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_rational_cubics_eight_points",
+  "question_id": "Q5",
+  "statement": "Exactly the real counts 8, 10, and 12 occur. Writing c+ for cubics with a solitary real node and c− for those with a crossing node, the relation c−−c+=8 and upper bound c−+c+≤12 force this spectrum; the preceding paragraph states that all three values occur.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "text": "Exactly the real counts 8, 10, and 12 occur. Writing c+ for cubics with a solitary real node and c− for those with a crossing node, the relation c−−c+=8 and upper bound c−+c+≤12 force this spectrum; the preceding paragraph states that all three values occur.",
+    "display": "{8,10,12}",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "degtyarev_2000_real_topology"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/math/0004134",
+    "location": "Proposition 4.7.3 and preceding “Digression: real rational curves”, printed p.50",
+    "version": "arXiv:math/0004134v1, 20 April 2000"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Although the article is broadly a survey, this association records its concrete proved proposition and explicit occurrence statement. Counts concern real curves, not a claim about a full chamber classification; singular/nongeneric point configurations are excluded.\n\nImported from the 2026-10-26 catalogue record R_94e4d7bb35dec444; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Irreducible rational plane cubics through eight generic real points; all singular members of the resulting generic pencil are nodal.",
+  "result_id": "R_c07b3c967d4ab5dca86bfc204a52bc95592d3743418222bc944684accf08c606"
+}

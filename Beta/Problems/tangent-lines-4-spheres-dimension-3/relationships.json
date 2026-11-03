@@ -1,0 +1,15 @@
+{
+  "relationships": [
+    {
+      "source_problem_id": "P_tangent_lines_4_spheres_dimension_3",
+      "target_problem_id": "P_tangent_lines_spheres",
+      "relation_type": "instance_of",
+      "relation_statement": "Lines tangent to 4 general spheres in three-dimensional space.",
+      "inheritance_policy": "Only explicitly recorded source specializations are inherited."
+    }
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

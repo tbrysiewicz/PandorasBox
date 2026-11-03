@@ -1,0 +1,19 @@
+{
+  "problem_id": "P_quadrics_nine_quadrics",
+  "question_id": "Q4",
+  "statement": "Can all 666,841,088 quadrics tangent to nine real quadrics be real?",
+  "reference_ids": [
+    "brysiewicz_2020_tangent_quadrics"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/2010.10879v2",
+    "location": "Section 6, Conjecture 6.1",
+    "version": "Source date recorded in the legacy catalogue: 2021-05-19"
+  },
+  "notes": "Open question stated in the cited source. No new verification of present-day unresolved status was performed for this import.",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "open_problem_id": "OP_ca5bc4ca594dcfc2ca560c557e272a31ff16f2d68e0f62f744699bd193b77292"
+}

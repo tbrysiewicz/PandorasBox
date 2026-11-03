@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_smooth_plane_cubic_characteristic_numbers",
+  "question_id": "Q1",
+  "statement": "The numbers of smooth plane cubics through 9−k general points and tangent to k general lines, in order k=0,…,9, are 1,4,16,64,256,976,3424,9766,21004,33616.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "text": "For k=0,…,9 the counts are 1,4,16,64,256,976,3424,9766,21004,33616.",
+    "display": "(1,4,16,64,256,976,3424,9766,21004,33616)",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "aluffi_1990_smooth_cubics"
+  ],
+  "source": {
+    "url": "https://www.math.fsu.edu/~aluffi/papers/1987TegopcIsc.pdf",
+    "location": "Corollary IV, §4, author preprint printed page 31; proof pages 31–33",
+    "version": "Author-hosted 37-page preprint, Corollary IV; journal publication identity separately verified"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Smooth genus-one cubics, not rational cubics. Ordinary tangencies and general conditions are essential. This supplies a modern proof of classical characteristic numbers.\n\nImported from the 2026-10-26 catalogue record R_12f0b1ba0ff06183; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Smooth plane cubics through 9−k general points and tangent to k general lines.",
+  "result_id": "R_0aa57817946901502b07dfd59f80c8e1162f8c4cf8ca26372b75cff63a6d4093"
+}

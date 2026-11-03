@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_laman_plane",
+  "question_id": "Q1",
+  "statement": "For a Laman graph with n vertices and generic edge lengths, the number of planar realization classes modulo orientation-preserving rigid motions is at most binomial(2n−4,n−2). The bound comes from twice the degree of the complex projective Cayley–Menger variety, whose degree is one half of that binomial coefficient; it bounds complex solutions and hence real ones. Reflected realizations are counted separately.",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "Generic planar realization count is at most binomial(2n−4,n−2), with reflected copies counted separately.",
+    "display": "Generic planar realization count is at most binomial(2n−4,n−2), with reflected copies counted separately.",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "borcea_2004_rigid_embeddings"
+  ],
+  "source": {
+    "url": "https://www.researchgate.net/publication/2853944_The_Number_of_Embeddings_of_Minimally_Rigid_Graphs",
+    "location": "Theorem 1.1 (printed p.289); Theorem 4.3 (p.297), with the complex Cayley–Menger degree argument of Sections 3–4",
+    "version": "Discrete & Computational Geometry 31 (2004), pp.287–303; journal full text uploaded by Ileana Streinu, 24 July 2015"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Theorem is phrased for Euclidean embeddings; the checked degree argument takes the intersection over C. The projective variety's degree itself is half the realization upper bound.\n\nImported from the 2026-10-26 catalogue record R_8631b75b25631914; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Minimally rigid n-vertex planar frameworks with prescribed edge lengths, modulo planar translations and rotations.",
+  "result_id": "R_18edf8a21c92a829f3523823a9b9a9f678615d0c78d25190cdd4b3dd235d539e"
+}

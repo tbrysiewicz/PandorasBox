@@ -1,0 +1,18 @@
+{
+  "reference_id": "bartzos_2022_upper_rigid",
+  "title": "New Upper Bounds for the Number of Embeddings of Minimally Rigid Graphs",
+  "authors": [
+    "Evangelos Bartzos",
+    "Ioannis Z. Emiris",
+    "Raimundas Vidunas"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "year": "2022",
+  "venue": "Discrete & Computational Geometry 68(3), 796-816",
+  "doi": "10.1007/s00454-022-00370-3",
+  "url": "https://doi.org/10.1007/s00454-022-00370-3",
+  "preprint_url": "https://arxiv.org/abs/2010.10578"
+}

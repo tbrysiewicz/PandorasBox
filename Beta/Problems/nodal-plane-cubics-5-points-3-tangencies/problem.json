@@ -1,0 +1,20 @@
+{
+  "problem_id": "P_nodal_plane_cubics_5_points_3_tangencies",
+  "name": "Nodal cubics through 5 points and tangent to 3 lines",
+  "kind": "specific_problem",
+  "constructor_call": "nodal_plane_curve_conditions(3, 5, 3)",
+  "arguments": [],
+  "parameters": {
+    "degree": 3,
+    "nodes": 1,
+    "point_conditions": 5,
+    "tangencies": 3
+  },
+  "reference_ids": [
+    "aluffi_1991_singular_cubics"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

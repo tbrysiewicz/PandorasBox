@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_so_linear_sections",
+  "question_id": "Q2",
+  "statement": "For unrestricted generic complementary affine sections of SO(n,C), n≥2, the geometric monodromy group is S_D, where D is the matrix-entry degree of SO(n,C).",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "text": "For unrestricted generic complementary affine sections of SO(n,C), n≥2, the geometric monodromy group is S_D, where D is the matrix-entry degree of SO(n,C).",
+    "display": "S_D, D=deg SO(n,C) (the displayed degree formula).",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "kadets_2018_sectional_monodromy"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1809.07293v2",
+    "location": "Proposition 1.1 (PDF p.1); Remark 3.4 (PDF p.8); explicit Bertini reduction in caveats",
+    "version": "arXiv:1809.07293v2 (24 October 2018). Proposition 1.1 and its proof apply in characteristic zero. The 2023 corrigendum concerns a characteristic-seven trinomial and does not affect this application."
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "This is an explicitly deduced consequence, not a claim that Kadets discusses this named variety. Take a general codimension dim(V)−1 linear section of the irreducible projective closure V. Bertini gives an integral curve C of degree D. Proposition 1.1 gives S_D as C meets a variable hyperplane; these loops are a subfamily of the unrestricted complementary-section problem, so the ambient monodromy contains S_D and equals S_D. For affine sections, a general complementary section misses the boundary V at infinity, which has dimension dim(V)−1; restricting the unramified base to this nonempty open preserves monodromy. This argument does not apply to fixed coordinate projections, physically constrained measurement subfamilies or reducible varieties. SO(n,C) is irreducible; arbitrary complementary cuts are essential. The n=1 problem is the trivial one-point case. Degree and connected reductive-group hypotheses: Brandt–Bruce–Brysiewicz–Krone–Robeva, arXiv:1701.03200v2, Theorem 1.1 and §2, https://arxiv.org/html/1701.03200v2 .\n\nImported from the 2026-10-26 catalogue record R_9bd54af36d66522d; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "SO(n,C) in the matrix-entry embedding, intersected with a generic linear subspace of codimension n(n−1)/2.; Codimension-six real linear sections of SO(4) in 4×4 matrix entries.",
+  "result_id": "R_3527b79a21da1cadfa0f26f48dbdc0ff012340572b76f69fb1a567523777cd48"
+}

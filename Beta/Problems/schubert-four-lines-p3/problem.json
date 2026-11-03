@@ -1,0 +1,15 @@
+{
+  "problem_id": "P_schubert_four_lines_p3",
+  "name": "Lines meeting four lines",
+  "kind": "specific_problem",
+  "constructor_call": "four_line_problem()",
+  "arguments": [],
+  "parameters": {},
+  "reference_ids": [
+    "leykin_2007_schubert_galois"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

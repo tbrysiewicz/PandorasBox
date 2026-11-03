@@ -1,0 +1,17 @@
+{
+  "problem_id": "P_cyclic_2_roots",
+  "name": "Cyclic 2-roots",
+  "kind": "specific_problem",
+  "constructor_call": "cyclic_roots(2)",
+  "arguments": [],
+  "parameters": {
+    "p": 2
+  },
+  "reference_ids": [
+    "haagerup_2008_cyclic_prime"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

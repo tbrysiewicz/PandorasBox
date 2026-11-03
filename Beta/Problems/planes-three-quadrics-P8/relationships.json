@@ -1,0 +1,15 @@
+{
+  "relationships": [
+    {
+      "source_problem_id": "P_planes_three_quadrics_P8",
+      "target_problem_id": "P_finite_complete_intersection_fano",
+      "relation_type": "instance_of",
+      "relation_statement": "Planes on a general complete intersection of three quadrics in projective eight-space.",
+      "inheritance_policy": "Only explicitly recorded source specializations are inherited."
+    }
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

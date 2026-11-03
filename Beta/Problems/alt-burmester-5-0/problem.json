@@ -1,0 +1,16 @@
+{
+  "problem_id": "P_alt_burmester_5_0",
+  "name": "Four-bar synthesis through five poses",
+  "kind": "specific_problem",
+  "constructor_call": "five_pose_synthesis()",
+  "arguments": [],
+  "parameters": {},
+  "reference_ids": [
+    "brake_2016_alt_burmester",
+    "hauenstein_2018_numerical_galois"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

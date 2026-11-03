@@ -1,0 +1,28 @@
+{
+  "problem_id": "P_smooth_plane_cubic_characteristic_numbers",
+  "name": "Smooth cubics through points and tangent to lines",
+  "kind": "family",
+  "constructor_call": "smooth_cubic_conditions(k)",
+  "arguments": [],
+  "parameters": {
+    "k": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "reference_ids": [
+    "aluffi_1990_smooth_cubics"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

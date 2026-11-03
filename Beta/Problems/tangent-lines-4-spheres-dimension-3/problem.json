@@ -1,0 +1,18 @@
+{
+  "problem_id": "P_tangent_lines_4_spheres_dimension_3",
+  "name": "Lines tangent to 4 spheres",
+  "kind": "specific_problem",
+  "constructor_call": "tangent_lines_to_spheres(3)",
+  "arguments": [],
+  "parameters": {
+    "n": 3
+  },
+  "reference_ids": [
+    "borcea_2006_sphere_tangents",
+    "sottile_2001_sphere_tangents"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_stewart_gough",
+  "question_id": "Q8",
+  "statement": "Let D be an irreducible configuration curve in the conformal compactification in P16, with span avoiding the rotational-projection center and codimension c+7. For its Euler image, the possible (degree, arithmetic genus) are: c=3: (3,0); c=2: (4,1); c=1: (4,0),(5,2),(6,4),(5,0),(6,3),(7,6),(8,9); c=0: (5,0),(5,1),(6,3),(6,2),(7,5); c≥4: a plane curve. Positive-dimensional generalized-hexapod families exist for the unstarred entries; at c=1 the last four pairs are starred and excluded from that existence assertion.",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "Explicit Euler degree/genus possibilities are classified by span codimension; the unstarred cases admit positive-dimensional generalized-hexapod families.",
+    "display": "Explicit Euler degree/genus possibilities are classified by span codimension; the unstarred cases admit positive-dimensional generalized-hexapod families.",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "bothmer_2020_smallspan"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/2012.05120",
+    "location": "Theorem 6.2 (printed p.22; PDF index 21); Tables 2–3 (pp.20–21); Corollary 7.14 (p.31)",
+    "version": "arXiv:2012.05120v1, 9 December 2020"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "The table invariants refer to the Euler projection, not the conformal curve's degree. A generalized complex hexapod curve is an actual real hexapod only when its leg scheme is reduced, affine, and consists of individually real points. The tables also specify minimal free resolutions; the extracted statement records their degree/genus part. Migration: Merge exceptional-fibre behaviour into Exceptional locus; preserve each source result separately.\n\nImported from the 2026-10-26 catalogue record R_c8eee65ab112094d; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Irreducible mobility-one configuration curves in the conformal compactification of SE3 whose spans avoid the rotational-projection center and have codimension c+7, c≥0.",
+  "result_id": "R_93868170b6dbd480128db017253e4a571800505d7f1fb3abcfc1b22ef3e2baa1"
+}

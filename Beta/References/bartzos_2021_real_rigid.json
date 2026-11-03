@@ -1,0 +1,19 @@
+{
+  "reference_id": "bartzos_2021_real_rigid",
+  "title": "On the maximal number of real embeddings of minimally rigid graphs in R^2, R^3 and S^2",
+  "authors": [
+    "Evangelos Bartzos",
+    "Ioannis Z. Emiris",
+    "Jan Legerský",
+    "Elias Tsigaridas"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "year": "2021",
+  "venue": "Journal of Symbolic Computation 102, 189-208",
+  "doi": "10.1016/j.jsc.2019.10.015",
+  "url": "https://doi.org/10.1016/j.jsc.2019.10.015",
+  "preprint_url": "https://arxiv.org/abs/1811.12800"
+}

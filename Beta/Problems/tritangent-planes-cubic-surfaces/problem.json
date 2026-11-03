@@ -1,0 +1,15 @@
+{
+  "problem_id": "P_tritangent_planes_cubic_surfaces",
+  "name": "Tritangent planes of a cubic surface",
+  "kind": "specific_problem",
+  "constructor_call": "cubic_surface_tritangent_planes()",
+  "arguments": [],
+  "parameters": {},
+  "reference_ids": [
+    "cayley_1849_triple_tangent"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

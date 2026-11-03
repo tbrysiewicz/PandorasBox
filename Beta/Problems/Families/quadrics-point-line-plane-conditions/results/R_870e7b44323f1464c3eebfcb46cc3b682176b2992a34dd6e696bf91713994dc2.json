@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_quadrics_point_line_plane_conditions",
+  "question_id": "Q4",
+  "statement": "Among the 55 general point/line/plane constraint problems on quadrics with alpha+beta+gamma=9, at least 46 admit nonempty open sets of real input data for which every complex solution is real. In particular the rational (3,3,3) instance in Example 4.2 has 104 real tangent quadrics. The proofs certify the numerical solutions; the nine other cases are reported as partial lower-bound records.",
+  "status": "partial",
+  "evidence": "certified_computation",
+  "answer": {
+    "text": "Among the 55 general point/line/plane constraint problems on quadrics with alpha+beta+gamma=9, at least 46 admit nonempty open sets of real input data for which every complex solution is real. In particular the rational (3,3,3) instance in Example 4.2 has 104 real tangent quadrics. The proofs certify the numerical solutions; the nine other cases are reported as partial lower-bound records.",
+    "display": "Total reality for ≥46 of 55 types",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "brysiewicz_2020_tangent_quadrics"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/2010.10879v2",
+    "location": "Theorem 4.1, p. 6; Example 4.2 and Remark 4.3, p. 7",
+    "version": "arXiv:2010.10879v2 (19 May 2021); printed/PDF pp. 6–7"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Does not prove total reality for all 55 cases; the 46 cases are a precisely bounded subfamily, not 46 invented independent article records.\n\nImported from the 2026-10-26 catalogue record R_da4203e2d42ffebe; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "The 55 point/line/plane problems with alpha+beta+gamma=9.",
+  "result_id": "R_870e7b44323f1464c3eebfcb46cc3b682176b2992a34dd6e696bf91713994dc2"
+}

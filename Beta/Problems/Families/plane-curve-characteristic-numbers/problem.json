@@ -1,0 +1,19 @@
+{
+  "problem_id": "P_plane_curve_characteristic_numbers",
+  "name": "Plane curves through points and tangent to lines",
+  "kind": "family",
+  "constructor_call": "plane_curve_conditions(d, points, tangencies)",
+  "arguments": [],
+  "parameters": {
+    "degree": [
+      1,
+      2,
+      3
+    ]
+  },
+  "reference_ids": [],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

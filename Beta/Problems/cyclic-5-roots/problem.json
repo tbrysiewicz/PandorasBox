@@ -1,0 +1,17 @@
+{
+  "problem_id": "P_cyclic_5_roots",
+  "name": "Cyclic 5-roots",
+  "kind": "specific_problem",
+  "constructor_call": "cyclic_roots(5)",
+  "arguments": [],
+  "parameters": {
+    "p": 5
+  },
+  "reference_ids": [
+    "haagerup_2008_cyclic_prime"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

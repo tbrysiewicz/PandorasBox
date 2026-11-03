@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_tangent_lines_spheres",
+  "question_id": "Q1",
+  "statement": "For n>=3, if 2n-2 spheres with positive real radii and centers affinely spanning R^n have finitely many complex common tangent affine lines, their number is at most 3*2^(n-1). Part(b) attains this bound with distinct real lines, so the generic complex count is 3*2^(n-1). The projective formulation has an excess component at infinity which is not included in this affine count.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "text": "For n>=3, if 2n-2 spheres with positive real radii and centers affinely spanning R^n have finitely many complex common tangent affine lines, their number is at most 3*2^(n-1). Part(b) attains this bound with distinct real lines, so the generic complex count is3*2^(n-1). The projective formulation has an excess component at infinity which is not included in this affine count.",
+    "display": "3·2^(n−1)",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "sottile_2001_sphere_tangents"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/math/0105180v2",
+    "location": "Theorem 2(a,b), p. 2; Section 2 polynomial formulation",
+    "version": "arXiv:math/0105180v2 (16 May 2002); printed/PDF p. 2"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Affine tangent lines and spheres, rather than arbitrary projective quadrics; n >= 3.\n\nImported from the 2026-10-26 catalogue record R_8af04be0c8b4915f; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Common affine tangent lines to 2n-2 general spheres in R^n, complexified, n >= 3.",
+  "result_id": "R_2533a4961707fe49782bee4d76dd7b2fd073720105384f9421ce8affa645124a"
+}

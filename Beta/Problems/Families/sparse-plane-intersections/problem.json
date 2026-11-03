@@ -1,0 +1,16 @@
+{
+  "problem_id": "P_sparse_plane_intersections",
+  "name": "Intersections of sparse plane curves",
+  "kind": "family",
+  "constructor_call": "sparse_plane_intersection(supports)",
+  "arguments": [],
+  "parameters": {},
+  "reference_ids": [
+    "cattani_2011_mixed",
+    "dickenstein_2013_plane"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

@@ -1,0 +1,29 @@
+{
+  "problem_id": "P_wronski_inverse",
+  "question_id": "Q4",
+  "statement": "Let V be an (r+1)-dimensional complex vector subspace of C[x], r≥1. If every root of its monic Wronskian Wr_V is real, then V has a basis of polynomials with real coefficients. The conclusion allows multiple Wronskian roots.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "text": "Let V be an (r+1)-dimensional complex vector subspace of C[x], r≥1. If every root of its monic Wronskian Wr_V is real, then V has a basis of polynomials with real coefficients. The conclusion allows multiple Wronskian roots.",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "mukhin_2005_shapiro"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/math/0512299v2",
+    "location": "Theorem 1.1, Section 1.1",
+    "version": "arXiv:math/0512299v2 (2 May 2006)"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "This is the original Shapiro–Shapiro theorem. Its statement is reality of V; transversality of arbitrary osculating intersections is established in the subsequent MTV paper, Corollary 6.3.\n\nImported from the 2026-10-26 catalogue record R_0f2c08b0d14561a0; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Polynomial subspaces of fixed dimension and degree bound with a prescribed Wronskian; Wronskian roots all real.",
+  "result_id": "R_5e73424a38af3a4debb01e5986faf388e4dd3cf42a698b1f6e936475198fb167"
+}

@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_stewart_gough",
+  "question_id": "Q8",
+  "statement": "Computation 4.9 decomposes the spatial–spatial rank-at-most-five leg-coefficient locus into seven classes. Their (number,dimension,degree) are (15,30,1), (40,28,3), (15,27,72), (30,26,3), (12,26,444), (1,26,8445), and (2,25,924). The classes are described by coincidences, collinearities, coplanarities, or planar–planar anchor arrangements. Such rank deficiency supplies algebraically dependent leg constraints; consistent lengths can admit positive-dimensional configuration fibres.",
+  "status": "partial",
+  "evidence": "numerical_evidence",
+  "answer": {
+    "text": "Numerical rank-deficiency locus has seven component classes with explicit incidence descriptions.",
+    "display": "Numerical rank-deficiency locus has seven component classes with explicit incidence descriptions.",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "hauenstein_2018_exceptional_stewart"
+  ],
+  "source": {
+    "url": "https://academicweb.nd.edu/~jhauenst/preprints/hswStewartGough.pdf",
+    "location": "§4.5, Computation 4.9 (printed pp.14–15)",
+    "version": "Author preprint dated 7 January 2018, 24 pages"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "This classifies one concrete rank-deficiency source of exceptional mobility, not every self-motion mechanism. Computation 4.9 uses numerical irreducible decomposition; no exact certificate is claimed here. Inconsistent right-hand sides can produce empty fibres. Migration: Merge exceptional-fibre behaviour into Exceptional locus; preserve each source result separately.\n\nImported from the 2026-10-26 catalogue record R_20d95f7d333efe11; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Spatial–spatial anchor data whose 6×16 Segre leg-coefficient matrix has rank≤5.",
+  "result_id": "R_45e4d92e95cf18e9a1d9f001010f2aa2ce47c72d6700ee79a3dd314ecc59a86e"
+}

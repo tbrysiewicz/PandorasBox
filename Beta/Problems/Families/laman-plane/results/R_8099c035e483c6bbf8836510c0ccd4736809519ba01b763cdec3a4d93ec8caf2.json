@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_laman_plane",
+  "question_id": "Q1",
+  "statement": "For an n-vertex (n≥3) Laman graph framework with generic prescribed edge lengths, the number of planar embeddings is strictly smaller than 4^(n−2). The mixed-volume argument bounds the relevant complex polynomial solutions, hence also the real embeddings; rotations and translations are removed by the paper's coordinate normalization.",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "Corollary 9 proves the strict upper bound 4^(n−2) for generic planar embeddings.",
+    "display": "Corollary 9 proves the strict upper bound 4^(n−2) for generic planar embeddings.",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "steffens_2009_mixed_laman"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/0805.4120v2",
+    "location": "Corollary 9, §4.3",
+    "version": "arXiv:0805.4120v2 (2009), HTML"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "A mixed-volume bound is not automatically an attained degree. Journal metadata verified on the author's publication page; preprint full text inspected.\n\nImported from the 2026-10-26 catalogue record R_268ce4ee475d2c00; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Laman graphs with n≥3 vertices and generic prescribed edge lengths, normalized modulo planar rotations and translations.",
+  "result_id": "R_8099c035e483c6bbf8836510c0ccd4736809519ba01b763cdec3a4d93ec8caf2"
+}

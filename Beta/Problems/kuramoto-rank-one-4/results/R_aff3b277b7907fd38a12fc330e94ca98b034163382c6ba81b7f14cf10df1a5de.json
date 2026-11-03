@@ -1,0 +1,32 @@
+{
+  "problem_id": "P_kuramoto_rank_one_4",
+  "question_id": "Q1",
+  "statement": "For generic zero-sum frequencies and positive rank-one coupling parameters, the complex polynomial Kuramoto system with 4 oscillators has 14 solutions modulo common phase shift.",
+  "answer": {
+    "count": 14,
+    "display": "14",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "coss_2017_rank_one_kuramoto"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1705.06568v2",
+    "location": "Corollary 4.4, printed p. 19 (PDF page 19)",
+    "version": "arXiv:1705.06568v2, manuscript dated 30 October 2017"
+  },
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_kuramoto_rank_one",
+    "inheritance_basis": "Set n=4 total oscillators in Corollary 4.4: 2^n-2.",
+    "original_result_id": "R_64d0a5c73023cbd4695d2ecb125f9e0aa6e392c35421610a1ba9339802a57cc3"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Source specialization: Set n=4 total oscillators in Corollary 4.4: 2^n-2.",
+  "result_id": "R_aff3b277b7907fd38a12fc330e94ca98b034163382c6ba81b7f14cf10df1a5de"
+}

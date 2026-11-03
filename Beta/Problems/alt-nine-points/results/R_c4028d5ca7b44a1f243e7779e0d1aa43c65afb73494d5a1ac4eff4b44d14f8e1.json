@@ -1,0 +1,29 @@
+{
+  "problem_id": "P_alt_nine_points",
+  "question_id": "Q1",
+  "statement": "For Alt's nine-point problem, computations of the saturated generalized degree g_0 over several finite fields and repeated homotopy experiments all return 8,652. If proved in characteristic zero, g_0=8,652 would bound the original problem by 4,326 mechanisms and 1,442 coupler curves. The paper's a priori success guarantee above 99% requires p>2^116, beyond the computations performed; the reported finite-field results therefore remain evidence rather than an unconditional proof of that exact degree.",
+  "status": "partial",
+  "evidence": "numerical_evidence",
+  "answer": {
+    "text": "Repeated finite-field and numerical evidence supports saturated degree 8,652 and hence proposed sharp Alt counts 4,326 / 1,442; the stated >99% prime-size guarantee was not computationally reached.",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "hauenstein_2022_altsaturation"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1908.06020",
+    "location": "Section 5.3, Tables 2–4 (printed pp.19–20); Section 6, paragraphs 2–3 (p.21)",
+    "version": "arXiv:1908.06020v1, 15 August 2019"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Does not establish deterministic completeness: §6 says the field size needed for its >99% a priori guarantee (p>2^116) exceeded available computational resources. This describes the evidence in this earlier paper; Brysiewicz (2026), Theorem 1.1, now proves the 1,442-curve count.\n\nImported from the 2026-10-26 catalogue record R_c77bfed709ca1a78; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Alt's nine-point synthesis problem, formulated using eight design coordinates and saturation away from the degenerate base locus.",
+  "result_id": "R_c4028d5ca7b44a1f243e7779e0d1aa43c65afb73494d5a1ac4eff4b44d14f8e1"
+}

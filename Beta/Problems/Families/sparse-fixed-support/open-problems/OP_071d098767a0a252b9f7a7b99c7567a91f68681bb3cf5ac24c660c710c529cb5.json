@@ -1,0 +1,19 @@
+{
+  "problem_id": "P_sparse_fixed_support",
+  "question_id": "Q2",
+  "statement": "Determine the Galois groups of sparse Laurent systems in the imprimitive cases, including the nonreduced supports not settled by the known wreath-product criteria.",
+  "reference_ids": [
+    "sottile_yahl_2021_galois_survey"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/2108.07905v2",
+    "location": "Section 4 introductory paragraph (HTML lines 285–289); Section 4.2, Theorem 12 and the following discussion (lines 353–356).",
+    "version": "Source date recorded in the legacy catalogue: 2025-09-19"
+  },
+  "notes": "Open question stated in the cited source. No new verification of present-day unresolved status was performed for this import.",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "open_problem_id": "OP_071d098767a0a252b9f7a7b99c7567a91f68681bb3cf5ac24c660c710c529cb5"
+}

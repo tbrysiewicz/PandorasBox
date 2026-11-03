@@ -1,0 +1,19 @@
+{
+  "reference_id": "duff_2021_galois_reconstruction",
+  "title": "Galois/Monodromy Groups for Decomposing Minimal Problems in 3D Reconstruction",
+  "authors": [
+    "Timothy Duff",
+    "Viktor Korotynskiy",
+    "Tomas Pajdla",
+    "Margaret H. Regan"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "year": "2022",
+  "venue": "SIAM Journal on Applied Algebra and Geometry 6(4), 740-772",
+  "doi": "10.1137/21m1422872",
+  "url": "https://doi.org/10.1137/21m1422872",
+  "preprint_url": "https://arxiv.org/abs/2105.04460"
+}

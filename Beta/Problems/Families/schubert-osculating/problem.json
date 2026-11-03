@@ -1,0 +1,16 @@
+{
+  "problem_id": "P_schubert_osculating",
+  "name": "Osculating Schubert problems",
+  "kind": "family",
+  "constructor_call": "osculating_schubert_problem(n, k, conditions)",
+  "arguments": [],
+  "parameters": {},
+  "reference_ids": [
+    "mukhin_2007_schubert_representations",
+    "mukhin_2014_real_lower"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

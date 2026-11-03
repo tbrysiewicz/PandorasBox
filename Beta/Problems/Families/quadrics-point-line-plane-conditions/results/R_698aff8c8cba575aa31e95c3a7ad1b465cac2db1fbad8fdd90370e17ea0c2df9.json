@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_quadrics_point_line_plane_conditions",
+  "question_id": "Q1",
+  "statement": "For alpha+beta+gamma=9 general point, line-tangency and plane-tangency conditions on nonsingular quadrics in P3, the solution count is the coefficient of T0^(9-alpha)T1^(20-beta)T2^(9-gamma) in the multidegree of the complete-quadric prime ideal I4 specified in Theorem 3.1. This recovers all 55 entries of Figure1; in particular the (3,3,3) count is 104 and the (2,5,2) count is 128.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "text": "For alpha+beta+gamma=9 general point, line-tangency and plane-tangency conditions on nonsingular quadrics in P3, the solution count is the coefficient of T0^(9-alpha)T1^(20-beta)T2^(9-gamma) in the multidegree of the complete-quadric prime ideal I4 specified in Theorem 3.1. This recovers all 55 entries of Figure1; in particular the (3,3,3) count is 104 and the (2,5,2) count is 128.",
+    "display": "[T₀^(9−α)T₁^(20−β)T₂^(9−γ)] mdeg(I₄)",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "brysiewicz_2020_tangent_quadrics"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/2010.10879v2",
+    "location": "Theorem 3.1, p. 5; Figure 1; introductory equation (1), p. 2",
+    "version": "arXiv:2010.10879v2 (19 May 2021); printed/PDF pp. 1–5"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Singular/extraneous quadrics are removed by saturation; raw Bezout products need not be the answer.\n\nImported from the 2026-10-26 catalogue record R_9a497977435c3a14; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Nonsingular quadrics in P3 through alpha points, tangent to beta lines and gamma planes, alpha+beta+gamma=9, with general constraints.",
+  "result_id": "R_698aff8c8cba575aa31e95c3a7ad1b465cac2db1fbad8fdd90370e17ea0c2df9"
+}

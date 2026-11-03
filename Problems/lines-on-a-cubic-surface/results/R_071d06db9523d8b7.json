@@ -26,17 +26,17 @@
     "version": "Original Philosophical Transactions 153(1863),193–241; JSTOR original-journal scan"
   },
   "generated_by": [
-    "Taylor Brysiewicz - AI"
+    "Taylor Brysiewicz AI 20261103"
   ],
   "checked_by": [
-    "Taylor Brysiewicz 20261102"
+    "Taylor Brysiewicz 20261103"
   ],
   "origin": {
     "kind": "direct",
     "original_result_id": "R_071d06db9523d8b7"
   },
   "headline": true,
-  "checked_content_sha256": "8397728ef463294114bbf461263efa271f052c1dcb0a144d5f33c1a0e0f32e19",
+  "checked_content_sha256": "a9507167856ebf41717a3722ec0961b7507b3592658e8d9525708ba8a8cdd153",
   "scope": "Nonsingular real cubic surfaces in real projective three-space; count real projective lines, not only lines with a specified affine incidence.",
   "notes": "The two 3-line species are distinguished by additional geometry. Equal real counts do not identify chambers."
 }

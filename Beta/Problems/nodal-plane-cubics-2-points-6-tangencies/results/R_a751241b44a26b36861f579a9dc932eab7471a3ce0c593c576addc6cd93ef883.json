@@ -1,0 +1,32 @@
+{
+  "problem_id": "P_nodal_plane_cubics_2_points_6_tangencies",
+  "question_id": "Q1",
+  "statement": "There are 756 irreducible nodal plane cubics through 2 general points and properly tangent to 6 general lines.",
+  "answer": {
+    "count": 756,
+    "display": "756",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "aluffi_1991_singular_cubics"
+  ],
+  "source": {
+    "url": "https://www.math.fsu.edu/~aluffi/papers/1988TegopcIInacc.pdf",
+    "location": "Theorem III, §3, table column D, author preprint printed page 22",
+    "version": "Author-hosted 30-page preprint, Theorem III, printed page 22"
+  },
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_nodal_plane_cubic_characteristic_numbers",
+    "inheritance_basis": "Entry k=6 of Theorem III, column D; proper tangencies.",
+    "original_result_id": "R_4020ede577cff352e97ae601cab8d0d6e23218846689152940a5d71734474e11"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Source specialization: Entry k=6 of Theorem III, column D; proper tangencies.",
+  "result_id": "R_a751241b44a26b36861f579a9dc932eab7471a3ce0c593c576addc6cd93ef883"
+}

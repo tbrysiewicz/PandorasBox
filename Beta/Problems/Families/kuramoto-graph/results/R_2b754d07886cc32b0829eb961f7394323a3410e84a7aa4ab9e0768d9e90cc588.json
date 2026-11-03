@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_kuramoto_graph",
+  "question_id": "Q1",
+  "statement": "For a fixed connected graph G on n+1 vertices, fix x_0=1. Generic frequencies and generic nonzero symmetric couplings k_ij=k_ji make all zeros of algebraic Kuramoto system (2.3) in (C*)^n isolated and nonsingular. Their number is the normalized volume of conv{±(e_i−e_j): {i,j}∈E(G)}, with e_0=0.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "text": "The generic complex torus root count equals the normalized volume of the graph adjacency polytope; the symmetric-coupling system is Bernshtein-general.",
+    "display": "Vol_ℤ conv{±(eᵢ−eⱼ):{i,j}∈E(G)}",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "chen_2022_typical_atypical"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/2210.00784v3",
+    "location": "Theorem 3.5, PDF p. 7; Corollary 3.6, PDF p. 9",
+    "version": "arXiv:2210.00784v3"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Imported from the 2026-10-26 catalogue record R_c16fc6c09b47bf4a; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Connected undirected graph G with generic symmetric nonzero edge couplings and generic frequencies; one reference phase fixed; complex torus variables.",
+  "result_id": "R_2b754d07886cc32b0829eb961f7394323a3410e84a7aa4ab9e0768d9e90cc588"
+}

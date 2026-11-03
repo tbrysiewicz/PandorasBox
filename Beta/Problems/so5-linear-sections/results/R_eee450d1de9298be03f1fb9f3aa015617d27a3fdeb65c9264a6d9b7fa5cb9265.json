@@ -1,0 +1,32 @@
+{
+  "problem_id": "P_so5_linear_sections",
+  "question_id": "Q1",
+  "statement": "A general complementary affine linear section of SO(5,C) has 384 complex points.",
+  "answer": {
+    "count": 384,
+    "display": "384",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "brandt_2017_degree_so"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/1701.03200v2",
+    "location": "Theorem 1.1; Table 1",
+    "version": "arXiv:1701.03200v2 (13 January 2017)"
+  },
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_so_linear_sections",
+    "inheritance_basis": "Theorem 1.1 and Table 1, n=5.",
+    "original_result_id": "R_edfa4a8efd6e3658f7542ee36dda4ec79cd6b02103b8618cb12f66e23d731c59"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Source specialization: Theorem 1.1 and Table 1, n=5.",
+  "result_id": "R_eee450d1de9298be03f1fb9f3aa015617d27a3fdeb65c9264a6d9b7fa5cb9265"
+}

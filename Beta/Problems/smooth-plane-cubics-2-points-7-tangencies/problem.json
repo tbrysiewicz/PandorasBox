@@ -1,0 +1,20 @@
+{
+  "problem_id": "P_smooth_plane_cubics_2_points_7_tangencies",
+  "name": "Smooth cubics through 2 points and tangent to 7 lines",
+  "kind": "specific_problem",
+  "constructor_call": "smooth_plane_curve_conditions(3, 2, 7)",
+  "arguments": [],
+  "parameters": {
+    "degree": 3,
+    "nodes": 0,
+    "point_conditions": 2,
+    "tangencies": 7
+  },
+  "reference_ids": [
+    "aluffi_1990_smooth_cubics"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

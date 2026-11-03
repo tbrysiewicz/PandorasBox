@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_stewart_gough",
+  "question_id": "Q4",
+  "statement": "For the Stewart–Gough design obtained by interpreting Dietmaier's published floating-point parameters as rational numbers, PHCpack supplies approximations to 40 postures. After conversion to rational approximate points, alphaCertified uses exact rational arithmetic to certify that they converge to 40 pairwise distinct real solutions. Thus this particular rational design rigorously attains 40 real postures; the general complex upper bound is separate prior work.",
+  "status": "solved",
+  "evidence": "certified_computation",
+  "answer": {
+    "text": "Exact rational alpha-theory certification of 40 distinct real Stewart–Gough postures.",
+    "display": "Exact rational alpha-theory certification of 40 distinct real Stewart–Gough postures.",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "hauenstein_2012_alphacertified"
+  ],
+  "source": {
+    "url": "https://academicweb.nd.edu/~jhauenst/preprints/hsAlphaCertified.pdf",
+    "location": "Section 5.1, final paragraph (printed p.12; PDF index 11)",
+    "version": "Author preprint dated 6 September 2011, 21 pages"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Included for this concrete result, not merely for its software. Certification was read, not independently rerun.\n\nImported from the 2026-10-26 catalogue record R_efcffb8e78c99b4d; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Rationalized Dietmaier Stewart-Gough platform parameters and fixed leg lengths.",
+  "result_id": "R_8696bce3cf72da0562431edeb39515685289adccf2dad1efbfea6f3055b4b213"
+}

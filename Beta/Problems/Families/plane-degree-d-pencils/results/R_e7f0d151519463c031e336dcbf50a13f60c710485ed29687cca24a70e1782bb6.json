@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_plane_degree_d_pencils",
+  "question_id": "Q8",
+  "statement": "For every d≥3, the number of degree-d plane curves of genus (d−1)(d−2)/2−1 through d(d+3)/2−1 generic points equals 3(d−1)². This is the degree of the discriminant hypersurface of singular degree-d curves, so a generic pencil has 3(d−1)² singular members.",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "For every d≥3, the number of degree-d plane curves of genus (d−1)(d−2)/2−1 through d(d+3)/2−1 generic points equals 3(d−1)². This is the degree of the discriminant hypersurface of singular degree-d curves, so a generic pencil has 3(d−1)² singular members.",
+    "display": "3(d−1)²",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "brugalle_2008_floors"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/0812.3354v3",
+    "location": "Proposition 6.1, Section 6.1",
+    "version": "arXiv:0812.3354v3 (1 July 2019)"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "A new proof of a classical formula; generic singular members have one node.\n\nImported from the 2026-10-26 catalogue record R_9b8717d32d7252bb; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Projective plane curves of degree d≥3; discriminant in their coefficient space, equivalently singular members of a generic pencil.",
+  "result_id": "R_e7f0d151519463c031e336dcbf50a13f60c710485ed29687cca24a70e1782bb6"
+}

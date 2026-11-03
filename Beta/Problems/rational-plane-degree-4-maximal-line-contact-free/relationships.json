@@ -1,0 +1,15 @@
+{
+  "relationships": [
+    {
+      "source_problem_id": "P_rational_plane_degree_4_maximal_line_contact_free",
+      "target_problem_id": "P_rational_plane_maximal_line_contact",
+      "relation_type": "instance_of",
+      "relation_statement": "Rational plane curves of degree 4 through 8 general points with order-4 contact to a fixed line at a freely varying point.",
+      "inheritance_policy": "Only explicitly recorded source specializations are inherited."
+    }
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

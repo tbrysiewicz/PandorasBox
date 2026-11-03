@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_tritangents_space_sextics",
+  "question_id": "Q4",
+  "statement": "120 real tritangent planes. The complex total is 120 and a generic real family has all 120 contacts real, hence all 120 planes real. The odd-theta convention excludes the cone ruling family.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "text": "120 real tritangent planes.",
+    "display": "120 real tritangent planes.",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "kulkarni_2017_space_sextics"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/1712.06274v2",
+    "location": "Example 2.2; Lemma 2.1",
+    "version": "arXiv:1712.06274v2, 7 June 2018"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "The infinite ruling-tangent family on the quadric cone is excluded by the odd-theta convention. The explicit computations were inspected as reported, not rerun. Generic-scope migration: The complex total is 120 and a generic real family has all 120 contacts real, hence all 120 planes real. The odd-theta convention excludes the cone ruling family.\n\nImported from the 2026-10-26 catalogue record R_cfd7a3ec0b629c35; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Smooth canonical genus-four sextics, including curves on a quadric cone; only the 120 odd-theta tritangents are counted, requiring three distinct real contacts.",
+  "result_id": "R_78cf17c44901bfd1614e0c7981d3f4506351daa4ac915f87d5fb2fbdb84c43d6"
+}

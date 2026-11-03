@@ -1,0 +1,20 @@
+{
+  "problem_id": "P_smooth_plane_quartics_9_points_5_tangencies",
+  "name": "Smooth quartics through 9 points and tangent to 5 lines",
+  "kind": "specific_problem",
+  "constructor_call": "smooth_plane_curve_conditions(4, 9, 5)",
+  "arguments": [],
+  "parameters": {
+    "degree": 4,
+    "nodes": 0,
+    "point_conditions": 9,
+    "tangencies": 5
+  },
+  "reference_ids": [
+    "vakil_1999_quartic_characteristic"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

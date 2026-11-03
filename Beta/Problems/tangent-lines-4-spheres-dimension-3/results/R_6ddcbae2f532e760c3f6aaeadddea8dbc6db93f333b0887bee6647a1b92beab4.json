@@ -1,0 +1,32 @@
+{
+  "problem_id": "P_tangent_lines_4_spheres_dimension_3",
+  "question_id": "Q1",
+  "statement": "Four general spheres in three-dimensional space have 12 complex common affine tangent lines.",
+  "answer": {
+    "count": 12,
+    "display": "12",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "sottile_2001_sphere_tangents"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/math/0105180v2",
+    "location": "Theorem 2(a,b), p. 2; Section 2 polynomial formulation",
+    "version": "arXiv:math/0105180v2 (16 May 2002); printed/PDF p. 2"
+  },
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_tangent_lines_spheres",
+    "inheritance_basis": "Evaluate 3*2^(n-1) at n=3. The theorem assumes n>=3.",
+    "original_result_id": "R_2533a4961707fe49782bee4d76dd7b2fd073720105384f9421ce8affa645124a"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Source specialization: Evaluate 3*2^(n-1) at n=3. The theorem assumes n>=3.",
+  "result_id": "R_6ddcbae2f532e760c3f6aaeadddea8dbc6db93f333b0887bee6647a1b92beab4"
+}

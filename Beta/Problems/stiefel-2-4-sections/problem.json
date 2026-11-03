@@ -1,0 +1,18 @@
+{
+  "problem_id": "P_stiefel_2_4_sections",
+  "name": "Linear sections of St(2,4)",
+  "kind": "specific_problem",
+  "constructor_call": "stiefel_linear_section(2, 4)",
+  "arguments": [],
+  "parameters": {
+    "k": 2,
+    "n": 4
+  },
+  "reference_ids": [
+    "brysiewicz_2019_stiefel"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

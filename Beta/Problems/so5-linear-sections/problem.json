@@ -1,0 +1,17 @@
+{
+  "problem_id": "P_so5_linear_sections",
+  "name": "Linear sections of SO(5)",
+  "kind": "specific_problem",
+  "constructor_call": "special_orthogonal_linear_section(5)",
+  "arguments": [],
+  "parameters": {
+    "n": 5
+  },
+  "reference_ids": [
+    "brandt_2017_degree_so"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

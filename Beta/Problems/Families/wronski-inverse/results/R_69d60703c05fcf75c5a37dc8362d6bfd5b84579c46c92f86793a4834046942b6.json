@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_wronski_inverse",
+  "question_id": "Q8",
+  "statement": "For d,m≥2, the scheme-theoretic inverse image of the repeated-root polynomial discriminant Δ_(dm) is the reduced union Z_(2)∪Z_(1,1). Here Z_λ is the locus of polynomial spaces lying in an osculating Schubert variety of type λ at some t∈P1; each domino divisor is irreducible and surjects onto Δ_(dm).",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "For d,m≥2, the scheme-theoretic inverse image of the repeated-root polynomial discriminant Δ_(dm) is the reduced union Z_(2)∪Z_(1,1). Here Z_λ is the locus of polynomial spaces lying in an osculating Schubert variety of type λ at some t∈P1; each domino divisor is irreducible and surjects onto Δ_(dm).",
+    "display": "Wr⁻¹(Δ)=Z_(2)∪Z_(1,1)",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "brazelton_2026_twisted_wronski"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/2610.23816v1",
+    "location": "Definition 4.9; Proposition 4.11, printed p. 19",
+    "version": "https://arxiv.org/pdf/2610.23816v1"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "This is the preimage of the polynomial repeated-root discriminant, not the Wronski branch divisor. The conditions d,m≥2 ensure both domino partitions fit the rectangle. Migration: The result decomposes the inverse image of the branch discriminant, so concerns the exceptional locus.\n\nImported from the 2026-10-26 catalogue record R_9618b8eb01c3b48b; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Inverse Wronski problem Wr:Gr(d,C[z]≤n−1)→P(C[z]≤d(n−d)); real-root, Schubert-cell and cyclic-fixed restrictions are recorded separately.",
+  "result_id": "R_69d60703c05fcf75c5a37dc8362d6bfd5b84579c46c92f86793a4834046942b6"
+}

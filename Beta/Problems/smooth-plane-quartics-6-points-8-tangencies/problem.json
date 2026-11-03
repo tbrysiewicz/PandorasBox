@@ -1,0 +1,20 @@
+{
+  "problem_id": "P_smooth_plane_quartics_6_points_8_tangencies",
+  "name": "Smooth quartics through 6 points and tangent to 8 lines",
+  "kind": "specific_problem",
+  "constructor_call": "smooth_plane_curve_conditions(4, 6, 8)",
+  "arguments": [],
+  "parameters": {
+    "degree": 4,
+    "nodes": 0,
+    "point_conditions": 6,
+    "tangencies": 8
+  },
+  "reference_ids": [
+    "vakil_1999_quartic_characteristic"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

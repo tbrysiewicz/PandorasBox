@@ -1,0 +1,17 @@
+{
+  "problem_id": "P_sparse_fixed_support",
+  "name": "Sparse Laurent systems",
+  "kind": "family",
+  "constructor_call": "sparse_laurent_system(supports)",
+  "arguments": [],
+  "parameters": {},
+  "reference_ids": [
+    "esterov_2018_galois",
+    "esterov_2018_wreath",
+    "pokidkin_2025_discriminants"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

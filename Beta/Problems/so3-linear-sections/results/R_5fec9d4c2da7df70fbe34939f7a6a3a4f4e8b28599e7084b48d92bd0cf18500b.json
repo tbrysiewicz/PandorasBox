@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_so3_linear_sections",
+  "question_id": "Q5",
+  "statement": "Table 3 reports occurrences of {0,2,4,6,8}. Counts below the selected certified maximum were not all certified. The sampling experiment supplies numerical evidence of attainability, with separately tallied tracking failures.",
+  "status": "partial",
+  "evidence": "numerical_evidence",
+  "answer": {
+    "text": "Observed real-count spectrum: {0,2,4,6,8}.",
+    "display": "Observed {0,2,4,6,8}",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "brandt_2017_degree_so"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/1701.03200v2",
+    "location": "Section 7; Table 3, real-count and frequency rows",
+    "version": "arXiv:1701.03200v2, 13 January 2017"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Observed spectra are not chamber classifications or rigorous exhaustive spectra. No distribution-specific expectation is inferred from the unspecified Macaulay2 random call.\n\nImported from the 2026-10-26 catalogue record R_bdb61b8e61d4d570; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Numerical samples of generic real complementary affine sections of SO(3); reality tolerance 0.001 per coordinate.",
+  "result_id": "R_5fec9d4c2da7df70fbe34939f7a6a3a4f4e8b28599e7084b48d92bd0cf18500b"
+}

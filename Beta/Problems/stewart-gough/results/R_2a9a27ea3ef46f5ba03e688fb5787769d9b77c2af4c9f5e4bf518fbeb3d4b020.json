@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_stewart_gough",
+  "question_id": "Q4",
+  "statement": "For a general Stewart–Gough platform, the explicit base points, platform points and six leg lengths in Table 2 produce 40 numerically distinct real direct-kinematic postures. Table 3 lists all 40 posture vectors, and Figures 3–4 display them. The example is obtained by deforming an initial design with six real postures and turning its 17 conjugate pairs into real pairs. This paper supplies numerical realization evidence, without an exact certification of these solutions.",
+  "status": "partial",
+  "evidence": "numerical_evidence",
+  "answer": {
+    "text": "Explicit numerical Stewart–Gough design with 40 real postures; Table 3 lists the postures.",
+    "display": "Explicit numerical Stewart–Gough design with 40 real postures; Table 3 lists the postures.",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "dietmaier_1998_stewart40"
+  ],
+  "source": {
+    "url": "https://www.researchgate.net/publication/228808666_The_Stewart-Gough_Platform_of_General_Geometry_can_have_40_Real_Postures",
+    "location": "Section 4 'An example', Tables 2–3 (printed pp.12–13), Figures 3–4 (pp.14–15)",
+    "version": "Advances in Robot Kinematics: Analysis and Control (1998), pp.7–16; full text uploaded by Peter Dietmaier, 28 October 2014"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Numerical construction here; rigorous certification is supplied separately by Hauenstein–Sottile.\n\nImported from the 2026-10-26 catalogue record R_11f1c17a8cb31c54; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Six fixed-length SPS legs connecting specified base and moving-platform anchors in three dimensions.",
+  "result_id": "R_2a9a27ea3ef46f5ba03e688fb5787769d9b77c2af4c9f5e4bf518fbeb3d4b020"
+}

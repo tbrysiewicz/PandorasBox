@@ -1,0 +1,32 @@
+{
+  "problem_id": "P_nodal_plane_cubics_4_points_4_tangencies",
+  "question_id": "Q1",
+  "statement": "There are 480 irreducible nodal plane cubics through 4 general points and properly tangent to 4 general lines.",
+  "answer": {
+    "count": 480,
+    "display": "480",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "aluffi_1991_singular_cubics"
+  ],
+  "source": {
+    "url": "https://www.math.fsu.edu/~aluffi/papers/1988TegopcIInacc.pdf",
+    "location": "Theorem III, §3, table column D, author preprint printed page 22",
+    "version": "Author-hosted 30-page preprint, Theorem III, printed page 22"
+  },
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_nodal_plane_cubic_characteristic_numbers",
+    "inheritance_basis": "Entry k=4 of Theorem III, column D; proper tangencies.",
+    "original_result_id": "R_4020ede577cff352e97ae601cab8d0d6e23218846689152940a5d71734474e11"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Source specialization: Entry k=4 of Theorem III, column D; proper tangencies.",
+  "result_id": "R_d845212c9be568746385c1e76a467652ab3f44e8e07afe47160b82ce70de3912"
+}

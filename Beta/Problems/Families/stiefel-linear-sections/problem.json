@@ -1,0 +1,24 @@
+{
+  "problem_id": "P_stiefel_linear_sections",
+  "name": "Linear sections of Stiefel varieties",
+  "kind": "family",
+  "constructor_call": "stiefel_linear_section(k, n)",
+  "arguments": [],
+  "parameters": {
+    "k": "1 <= k <= n",
+    "n": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "reference_ids": [
+    "brysiewicz_2019_stiefel",
+    "kadets_2018_sectional_monodromy"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

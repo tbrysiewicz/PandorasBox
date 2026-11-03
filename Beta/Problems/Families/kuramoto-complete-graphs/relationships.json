@@ -1,0 +1,15 @@
+{
+  "relationships": [
+    {
+      "source_problem_id": "P_kuramoto_complete_graphs",
+      "target_problem_id": "P_kuramoto_graph",
+      "relation_type": "subfamily_of",
+      "relation_statement": "Complexified Kuramoto equilibria on the complete graph with n oscillators and symmetric edge couplings, after fixing a reference phase.",
+      "inheritance_policy": "Only explicitly recorded source specializations are inherited."
+    }
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

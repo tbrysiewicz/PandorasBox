@@ -1,0 +1,20 @@
+{
+  "problem_id": "P_nodal_plane_cubics_7_points_1_tangencies",
+  "name": "Nodal cubics through 7 points and tangent to 1 line",
+  "kind": "specific_problem",
+  "constructor_call": "nodal_plane_curve_conditions(3, 7, 1)",
+  "arguments": [],
+  "parameters": {
+    "degree": 3,
+    "nodes": 1,
+    "point_conditions": 7,
+    "tangencies": 1
+  },
+  "reference_ids": [
+    "aluffi_1991_singular_cubics"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

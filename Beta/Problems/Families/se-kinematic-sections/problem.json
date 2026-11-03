@@ -1,0 +1,15 @@
+{
+  "problem_id": "P_se_kinematic_sections",
+  "name": "Linear sections of the kinematic SE(n) variety",
+  "kind": "family",
+  "constructor_call": "special_euclidean_linear_section(n)",
+  "arguments": [],
+  "parameters": {},
+  "reference_ids": [
+    "hauenstein_2018_exceptional_stewart"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

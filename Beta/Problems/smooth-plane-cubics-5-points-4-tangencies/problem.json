@@ -1,0 +1,20 @@
+{
+  "problem_id": "P_smooth_plane_cubics_5_points_4_tangencies",
+  "name": "Smooth cubics through 5 points and tangent to 4 lines",
+  "kind": "specific_problem",
+  "constructor_call": "smooth_plane_curve_conditions(3, 5, 4)",
+  "arguments": [],
+  "parameters": {
+    "degree": 3,
+    "nodes": 0,
+    "point_conditions": 5,
+    "tangencies": 4
+  },
+  "reference_ids": [
+    "aluffi_1990_smooth_cubics"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

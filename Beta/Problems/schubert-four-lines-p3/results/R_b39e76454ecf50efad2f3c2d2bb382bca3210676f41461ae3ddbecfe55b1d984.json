@@ -1,0 +1,29 @@
+{
+  "problem_id": "P_schubert_four_lines_p3",
+  "question_id": "Q1",
+  "statement": "There are two complex lines meeting four general lines in P3: the first three lie in one ruling of a smooth quadric, and the two intersections of the fourth line with that quadric determine the two solution lines.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "text": "There are two complex lines meeting four general lines in P3: the first three lie in one ruling of a smooth quadric, and the two intersections of the fourth line with that quadric determine the two solution lines.",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "leykin_2007_schubert_galois"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/0710.4607v4",
+    "location": "Section 1, opening four-lines argument and Figure 1, printed p. 3",
+    "version": "https://arxiv.org/pdf/0710.4607v4"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "This introductory geometric argument is exact and independent of the paper’s later uncertified numerical Galois computations.\n\nImported from the 2026-10-26 catalogue record R_4113ca0c0e067d9b; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Lines meeting four ordered general lines in P3. Chamber statements concern the open set of pairwise skew lines satisfying the genericity conditions of Fehér–Matszangosz Definition 2.6, without quotient by ambient projective transformations or relabelling.",
+  "result_id": "R_b39e76454ecf50efad2f3c2d2bb382bca3210676f41461ae3ddbecfe55b1d984"
+}

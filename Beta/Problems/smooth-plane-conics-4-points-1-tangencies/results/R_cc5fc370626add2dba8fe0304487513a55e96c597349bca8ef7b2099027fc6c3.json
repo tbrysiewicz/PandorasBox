@@ -1,0 +1,32 @@
+{
+  "problem_id": "P_smooth_plane_conics_4_points_1_tangencies",
+  "question_id": "Q1",
+  "statement": "There are 2 irreducible rational plane curves of degree 2 through 4 general points with contact order 2 to a fixed line at an unspecified point of the line.",
+  "answer": {
+    "count": 2,
+    "display": "2",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "fomin_2009_labeled_floors"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/0906.3828v4",
+    "location": "Corollary 4.8; Theorem 4.9, equation (4.6); Figure 8, d=3,4 rows",
+    "version": "arXiv:0906.3828v4 (18 January 2010)"
+  },
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_rational_plane_maximal_line_contact",
+    "inheritance_basis": "Use d*z(d) with d=2; z(2)=1 follows from the recurrence and Figure 8 gives z(3)=7,z(4)=138.",
+    "original_result_id": "R_15350fe6a9a57dd3d5775043e0d51d6e3419cbb8ca5df5b41c45596ed247bb4f"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Source specialization: Use d*z(d) with d=2; z(2)=1 follows from the recurrence and Figure 8 gives z(3)=7,z(4)=138.",
+  "result_id": "R_cc5fc370626add2dba8fe0304487513a55e96c597349bca8ef7b2099027fc6c3"
+}

@@ -1,0 +1,19 @@
+{
+  "problem_id": "P_stewart_gough",
+  "name": "Stewart–Gough forward kinematics",
+  "kind": "specific_problem",
+  "constructor_call": "stewart_gough()",
+  "arguments": [],
+  "parameters": {},
+  "reference_ids": [
+    "bothmer_2020_smallspan",
+    "dietmaier_1998_stewart40",
+    "gallet_2017_liaison",
+    "hauenstein_2012_alphacertified",
+    "hauenstein_2018_exceptional_stewart"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

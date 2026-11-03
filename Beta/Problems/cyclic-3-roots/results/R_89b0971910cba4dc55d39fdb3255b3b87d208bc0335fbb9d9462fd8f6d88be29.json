@@ -1,0 +1,34 @@
+{
+  "problem_id": "P_cyclic_3_roots",
+  "question_id": "Q1",
+  "statement": "The labelled cyclic 3-root system has total intersection multiplicity 6.",
+  "answer": {
+    "count": 6,
+    "display": "6 (with multiplicity)",
+    "relation": "partial",
+    "qualification": "This is a count with multiplicity. The quoted theorem alone does not assert this many distinct roots.",
+    "multiplicity": "Intersection multiplicity; not an assertion of distinct solutions."
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "haagerup_2008_cyclic_prime"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/0803.2629v1",
+    "location": "Theorem 6.4, printed p.23; Theorem 3.5",
+    "version": "arXiv:0803.2629v1, 18 March 2008"
+  },
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_cyclic_prime_roots",
+    "inheritance_basis": "Set p=3 in Theorem 6.4: binomial(2p-2,p-1).",
+    "original_result_id": "R_090c9dcbe5a8471edb7738fb71bd6c66a379679b166938f4a24474438c466de9"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Source specialization: Set p=3 in Theorem 6.4: binomial(2p-2,p-1).",
+  "result_id": "R_89b0971910cba4dc55d39fdb3255b3b87d208bc0335fbb9d9462fd8f6d88be29"
+}

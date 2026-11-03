@@ -1,0 +1,15 @@
+{
+  "relationships": [
+    {
+      "source_problem_id": "P_smooth_plane_quartics_4_points_10_tangencies",
+      "target_problem_id": "P_smooth_plane_quartic_characteristic_numbers",
+      "relation_type": "instance_of",
+      "relation_statement": "Smooth irreducible plane quartics through 4 general points and tangent at smooth points to 10 general lines.",
+      "inheritance_policy": "Only explicitly recorded source specializations are inherited."
+    }
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

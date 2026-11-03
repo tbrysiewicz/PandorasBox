@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_sparse_fixed_support",
+  "question_id": "Q8",
+  "statement": "A reduced irreducible tuple of n supports in Z^n is dual effective: its discriminant has a hypersurface component, unless a lattice automorphism and individual translations place all supports in the standard simplex, making the system essentially linear.",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "Proves the discriminant is a hypersurface except for systems that become linear after a monomial coordinate change.",
+    "display": "Proves the discriminant is a hypersurface except for systems that become linear after a monomial coordinate change.",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "esterov_2018_galois"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/1801.08260v3",
+    "location": "Theorem 1.20; Corollary 3.23; Definition 3.14",
+    "version": "arXiv:1801.08260v3 (7 July 2020), including addendum"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Uses the paper’s dual-effectiveness/discriminant conventions; no blanket claim that all higher-codimension singular-system loci disappear.\n\nImported from the 2026-10-26 catalogue record R_1219fbd9a30588cd; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Reduced irreducible support tuples for square Laurent systems; coefficient discriminant for coincident torus solutions.",
+  "result_id": "R_4fbeb8fb8b0fb01a03e7d16e17ce45c37bc5eec6fd377fdabce1b42e86645d06"
+}

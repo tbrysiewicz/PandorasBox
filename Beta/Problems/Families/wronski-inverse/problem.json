@@ -1,0 +1,19 @@
+{
+  "problem_id": "P_wronski_inverse",
+  "name": "Inverse Wronski problems",
+  "kind": "family",
+  "constructor_call": "inverse_wronski_problem(k, n)",
+  "arguments": [],
+  "parameters": {},
+  "reference_ids": [
+    "brazelton_2026_twisted_wronski",
+    "eremenko_2001_wronski_degree",
+    "levinson_2019_topological_shapiro",
+    "mukhin_2005_shapiro",
+    "purbhoo_2009_monodromy"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

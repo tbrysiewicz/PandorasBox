@@ -1,0 +1,16 @@
+{
+  "reference_id": "yahl_2022_fano_galois",
+  "title": "Computing Galois groups of Fano problems",
+  "authors": [
+    "Thomas Yahl"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "year": "2023",
+  "venue": "Journal of Symbolic Computation 119, 81-89",
+  "doi": "10.1016/j.jsc.2023.02.004",
+  "url": "https://doi.org/10.1016/j.jsc.2023.02.004",
+  "preprint_url": "https://arxiv.org/abs/2209.07010"
+}

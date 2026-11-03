@@ -1,0 +1,15 @@
+{
+  "problem_id": "P_quadrics_nine_quadrics",
+  "name": "Quadrics tangent to nine quadrics",
+  "kind": "specific_problem",
+  "constructor_call": "tangent_quadrics()",
+  "arguments": [],
+  "parameters": {},
+  "reference_ids": [
+    "brysiewicz_2020_tangent_quadrics"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

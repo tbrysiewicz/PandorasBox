@@ -1,0 +1,22 @@
+{
+  "relationships": [
+    {
+      "source_problem_id": "P_kuramoto_complete_4",
+      "target_problem_id": "P_kuramoto_complete_graphs",
+      "relation_type": "instance_of",
+      "relation_statement": "Complexified Kuramoto equilibria on 4 oscillators with general symmetric complete-graph couplings, after fixing a reference phase.",
+      "inheritance_policy": "Only explicitly recorded source specializations are inherited."
+    },
+    {
+      "source_problem_id": "P_kuramoto_complete_4",
+      "target_problem_id": "P_kuramoto_graph",
+      "relation_type": "instance_of",
+      "relation_statement": "Complexified Kuramoto equilibria on 4 oscillators with general symmetric complete-graph couplings, after fixing a reference phase.",
+      "inheritance_policy": "Only explicitly recorded source specializations are inherited."
+    }
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

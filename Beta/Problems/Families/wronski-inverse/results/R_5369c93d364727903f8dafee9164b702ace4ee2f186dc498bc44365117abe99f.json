@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_wronski_inverse",
+  "question_id": "Q1",
+  "statement": "For p-dimensional polynomial spaces in C[z]≤m+p−1, the complex Wronski map has degree d(m,p)=(mp)!·∏_(j=1)^(p−1)j!/∏_(j=0)^(p−1)(m+j)!. Thus a generic projective Wronskian has exactly this many preimages.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "text": "For p-dimensional polynomial spaces in C[z]≤m+p−1, the complex Wronski map has degree d(m,p)=(mp)!·∏_(j=1)^(p−1)j!/∏_(j=0)^(p−1)(m+j)!. Thus a generic projective Wronskian has exactly this many preimages.",
+    "display": "(d(n−d))! · ∏ⱼ₌₁^{d−1}j! / ∏ⱼ₌₀^{d−1}(n−d+j)!",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "eremenko_2001_wronski_degree"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/math/0108133v4",
+    "location": "Theorem A, equation (4), printed p. 3; Wronski specialization (6), printed p. 4",
+    "version": "arXiv:math/0108133v4, corrected 24 March 2021"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Theorem A is credited to Schubert; the paper identifies the Wronski map as a central projection with center disjoint from the Grassmannian. This is the degree of that projection, not an unsupported substitution of variety degree.\n\nImported from the 2026-10-26 catalogue record R_3b265d2296311021; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Inverse Wronski problem Wr:Gr(d,C[z]≤n−1)→P(C[z]≤d(n−d)); real-root, Schubert-cell and cyclic-fixed restrictions are recorded separately.",
+  "result_id": "R_5369c93d364727903f8dafee9164b702ace4ee2f186dc498bc44365117abe99f"
+}

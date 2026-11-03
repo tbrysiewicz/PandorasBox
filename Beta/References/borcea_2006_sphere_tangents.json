@@ -1,0 +1,18 @@
+{
+  "reference_id": "borcea_2006_sphere_tangents",
+  "title": "Common Tangents to Spheres in R^3",
+  "authors": [
+    "Ciprian Borcea",
+    "Xavier Goaoc",
+    "Sylvain Lazard",
+    "Sylvain Petitjean"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "year": "2006",
+  "venue": "Discrete & Computational Geometry 35(2), 287-300",
+  "doi": "10.1007/s00454-005-1230-y",
+  "url": "https://doi.org/10.1007/s00454-005-1230-y"
+}

@@ -1,0 +1,21 @@
+{
+  "reference_id": "capco_2018_laman",
+  "title": "The Number of Realizations of a Laman Graph",
+  "authors": [
+    "Jose Capco",
+    "Matteo Gallet",
+    "Georg Grasegger",
+    "Christoph Koutschan",
+    "Niels Lubbes",
+    "Josef Schicho"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "year": "2018",
+  "venue": "SIAM Journal on Applied Algebra and Geometry 2(1), 94-125",
+  "doi": "10.1137/17m1118312",
+  "url": "https://doi.org/10.1137/17m1118312",
+  "preprint_url": "https://arxiv.org/abs/1701.05500"
+}

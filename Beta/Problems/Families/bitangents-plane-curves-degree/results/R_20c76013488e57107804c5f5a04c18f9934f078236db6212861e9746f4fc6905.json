@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_bitangents_plane_curves_degree",
+  "question_id": "Q1",
+  "statement": "Section7 obtains a contact-point curve of degree(d−2)(d²−9), then divides its intersection count with the degree-d curve by two to give d(d−2)(d²−9)/2 bitangents.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "text": "Generic bitangent count: d(d−2)(d²−9)/2.",
+    "display": "Generic bitangent count: d(d−2)(d²−9)/2.",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "cayley_1859_double_tangents"
+  ],
+  "source": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/On_the_Double_Tangents_of_a_Plane_Curve_(IA_jstor-108697).pdf",
+    "location": "Section7, printed p.197; opening historical discussion p.193",
+    "version": "Original Philosophical Transactions149(1859),193–212; JSTOR original-journal scan"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "The paper credits Plücker1834 for the count. Cayley supplies an analytic derivation, not priority for the numerical formula. Generic smoothness and ordinary contact are essential.\n\nImported from the 2026-10-26 catalogue record R_3c44d1090943e802; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "General smooth complex projective plane curves of degree d≥4, ordinary bitangents with two distinct contact points.",
+  "result_id": "R_20c76013488e57107804c5f5a04c18f9934f078236db6212861e9746f4fc6905"
+}

@@ -1,0 +1,22 @@
+{
+  "problem_id": "P_cyclic_prime_roots",
+  "name": "Cyclic roots of prime length",
+  "kind": "family",
+  "constructor_call": "cyclic_roots(p)",
+  "arguments": [],
+  "parameters": {
+    "p": [
+      2,
+      3,
+      5,
+      7
+    ]
+  },
+  "reference_ids": [
+    "haagerup_2008_cyclic_prime"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

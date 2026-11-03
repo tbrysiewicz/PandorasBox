@@ -1,0 +1,22 @@
+{
+  "problem_id": "P_rational_quintics_fourteen_points",
+  "name": "Rational quintics through fourteen points",
+  "kind": "specific_problem",
+  "constructor_call": "rational_plane_curves(5)",
+  "arguments": [],
+  "parameters": {
+    "degree": 5,
+    "genus": 0
+  },
+  "reference_ids": [
+    "caporaso_1996_plane_curves",
+    "fomin_2009_labeled_floors",
+    "itenberg_2003_real_rational",
+    "kontsevich_1994_gw",
+    "welschinger_2003_invariants"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

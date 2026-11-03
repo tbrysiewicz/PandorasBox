@@ -1,0 +1,32 @@
+{
+  "problem_id": "P_rational_lines_two_points",
+  "question_id": "Q1",
+  "statement": "There is one irreducible rational plane curve of degree 1 through 2 general complex points.",
+  "answer": {
+    "count": 1,
+    "display": "1",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "fomin_2009_labeled_floors"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/0906.3828v4",
+    "location": "Theorem 1.6, equation (1.5); Example 1.7; Figure 1",
+    "version": "arXiv:0906.3828v4 (18 January 2010), full PDF and corresponding HTML checked"
+  },
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_rational_plane_curves",
+    "inheritance_basis": "Set d=1 and g=0 in Theorem 1.6; use the explicit values in Figure 1.",
+    "original_result_id": "R_2b00bf0fe47ea5e4"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Source specialization: Set d=1 and g=0 in Theorem 1.6; use the explicit values in Figure 1.",
+  "result_id": "R_a35bdae6655f7cfca7685f9467cbc560fb32ece56cb63abff1b5267455cec5af"
+}

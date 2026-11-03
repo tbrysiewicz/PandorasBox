@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_alt_burmester_5_0",
+  "question_id": "Q2",
+  "statement": "For the Alt–Burmester (5,0) equations, §5.2 reports monodromy S4, acting on the four diagonal solutions and on the twelve ordered distinct pairs. The fiber-product decomposition into diagonal and off-diagonal dyad pairs explains the two invariant components, and loops around 64 branch points produce the displayed permutations. These are numerical path computations; the paper does not supply exact path-tracking certificates.",
+  "status": "partial",
+  "evidence": "numerical_evidence",
+  "answer": {
+    "text": "Numerical monodromy computation gives S4, acting on the four diagonal solutions and on the twelve ordered distinct pairs.",
+    "display": "S₄ (numerical)",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "hauenstein_2018_numerical_galois"
+  ],
+  "source": {
+    "url": "https://academicweb.nd.edu/~jhauenst/preprints/hrsGalois.pdf",
+    "location": "§5.2, printed pp.18–19; Figure 8 for (5,0)",
+    "version": "Author draft dated 25 May 2016, corresponding to arXiv:1605.07806v1"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "The action is on ordered dyad solutions, not the quotient set of unlabeled linkages. No transfer of the full group to a restricted real parameter family is asserted.\n\nImported from the 2026-10-26 catalogue record R_0d6a1bb5e0daf37a; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Alt–Burmester (5,0) problem in the isotropic-coordinate formulation of Brake et al.; dyads are ordered and prescribed poses/points general.",
+  "result_id": "R_3587900534108fa27ece82247b1bb4b1f0137127ecacf6e8a2b0fc1cbedef59c"
+}

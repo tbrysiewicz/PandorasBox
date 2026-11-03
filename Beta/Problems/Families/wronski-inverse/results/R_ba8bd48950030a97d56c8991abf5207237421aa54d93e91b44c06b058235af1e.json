@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_wronski_inverse",
+  "question_id": "Q8",
+  "statement": "In characteristic zero (or characteristic at least d+m), Wr:Gr(d,d+m)→P^(dm) is finite, flat and a local complete intersection. In particular all fibres are zero-dimensional of constant scheme length #SYT(d×m), including fibres over repeated-root Wronskians.",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "In characteristic zero (or characteristic at least d+m), Wr:Gr(d,d+m)→P^(dm) is finite, flat and a local complete intersection. In particular all fibres are zero-dimensional of constant scheme length #SYT(d×m), including fibres over repeated-root Wronskians.",
+    "display": "Finite, flat; constant scheme length",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "brazelton_2026_twisted_wronski"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/2610.23816v1",
+    "location": "Proposition 4.5, printed p. 17",
+    "version": "https://arxiv.org/pdf/2610.23816v1"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Finiteness excludes positive-dimensional fibres, but does not assert reducedness or identify the branch locus. The preprint is dated 16 October 2026. Migration: Merge exceptional-fibre behaviour into Exceptional locus; preserve each source result separately.\n\nImported from the 2026-10-26 catalogue record R_c37045e96fc70ad9; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Inverse Wronski problem Wr:Gr(d,C[z]≤n−1)→P(C[z]≤d(n−d)); real-root, Schubert-cell and cyclic-fixed restrictions are recorded separately.",
+  "result_id": "R_ba8bd48950030a97d56c8991abf5207237421aa54d93e91b44c06b058235af1e"
+}

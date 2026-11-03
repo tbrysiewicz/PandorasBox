@@ -1,0 +1,17 @@
+{
+  "problem_id": "P_so2_linear_sections",
+  "name": "Linear sections of SO(2)",
+  "kind": "specific_problem",
+  "constructor_call": "special_orthogonal_linear_section(2)",
+  "arguments": [],
+  "parameters": {
+    "n": 2
+  },
+  "reference_ids": [
+    "brandt_2017_degree_so"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

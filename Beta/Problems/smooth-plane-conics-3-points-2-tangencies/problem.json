@@ -1,0 +1,18 @@
+{
+  "problem_id": "P_smooth_plane_conics_3_points_2_tangencies",
+  "name": "Smooth conics through 3 points and tangent to 2 lines",
+  "kind": "specific_problem",
+  "constructor_call": "smooth_plane_curve_conditions(2, 3, 2)",
+  "arguments": [],
+  "parameters": {
+    "degree": 2,
+    "nodes": 0,
+    "point_conditions": 3,
+    "tangencies": 2
+  },
+  "reference_ids": [],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

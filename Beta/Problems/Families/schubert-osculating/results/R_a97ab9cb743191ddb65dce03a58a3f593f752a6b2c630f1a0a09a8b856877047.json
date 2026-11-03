@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_schubert_osculating",
+  "question_id": "Q1",
+  "statement": "For a zero-dimensional osculating Grassmannian Schubert problem, the generic complex count is its Schubert intersection number, equivalently the specified tensor-product singular-weight-space dimension. Corollary 6.3 realizes exactly this many distinct real points at distinct real osculation parameters and proves transversality.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "text": "For a zero-dimensional osculating Grassmannian Schubert problem, the generic complex count is its Schubert intersection number, equivalently the specified tensor-product singular-weight-space dimension. Corollary 6.3 realizes exactly this many distinct real points at distinct real osculation parameters and proves transversality.",
+    "display": "∫_Gr(k,n) ∏ᵢ σ_(λᵢ) = dim((⊗ᵢ L_(λᵢ))_λ^sing)",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "mukhin_2007_schubert_representations"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/0711.4079v1",
+    "location": "Corollary 6.3(ii), PDF p.28; Theorem 6.1 and Corollary 6.2, pp.26–27",
+    "version": "arXiv:0711.4079v1 (26 November 2007), full PDF checked"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "The row retains arbitrary conjugation-invariant osculation data. Distinct real parameters supply a transverse witness and hence the generic complex count; no claim that every nonreal-parameter fibre is reduced is made. The weight λ includes the specified condition at infinity in the source notation.\n\nImported from the 2026-10-26 catalogue record R_3c8c14ea9e5616f8; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Zero-dimensional Grassmannian Schubert problems restricted to flags osculating one rational normal curve; real lower bounds allow conjugate pairs, total reality/transversality requires distinct real osculation points.",
+  "result_id": "R_a97ab9cb743191ddb65dce03a58a3f593f752a6b2c630f1a0a09a8b856877047"
+}

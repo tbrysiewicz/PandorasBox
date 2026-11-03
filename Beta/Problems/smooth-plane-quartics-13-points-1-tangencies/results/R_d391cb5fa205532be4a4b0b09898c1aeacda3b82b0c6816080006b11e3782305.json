@@ -1,0 +1,32 @@
+{
+  "problem_id": "P_smooth_plane_quartics_13_points_1_tangencies",
+  "question_id": "Q1",
+  "statement": "There are 6 smooth plane quartics through 13 general points and properly tangent to 1 general lines.",
+  "answer": {
+    "count": 6,
+    "display": "6",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "vakil_1999_quartic_characteristic"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/math/9812018v1",
+    "location": "Theorem8.1 and Table7, arXiv v1 printed page24",
+    "version": "arXiv:math/9812018v1 (2December1998)"
+  },
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_smooth_plane_quartic_characteristic_numbers",
+    "inheritance_basis": "Table 7, entry a=13 point conditions.",
+    "original_result_id": "R_4f733e1fb33f987b22de2be35c0e6ebe9d54b3d2a65d8d742f3064784ba58822"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Source specialization: Table 7, entry a=13 point conditions.",
+  "result_id": "R_d391cb5fa205532be4a4b0b09898c1aeacda3b82b0c6816080006b11e3782305"
+}

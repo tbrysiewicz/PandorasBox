@@ -1,0 +1,20 @@
+{
+  "problem_id": "P_smooth_plane_quartics_7_points_7_tangencies",
+  "name": "Smooth quartics through 7 points and tangent to 7 lines",
+  "kind": "specific_problem",
+  "constructor_call": "smooth_plane_curve_conditions(4, 7, 7)",
+  "arguments": [],
+  "parameters": {
+    "degree": 4,
+    "nodes": 0,
+    "point_conditions": 7,
+    "tangencies": 7
+  },
+  "reference_ids": [
+    "vakil_1999_quartic_characteristic"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

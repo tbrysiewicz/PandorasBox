@@ -1,0 +1,17 @@
+{
+  "problem_id": "P_tritangents_space_sextics",
+  "name": "Tritangent planes to canonical space sextics",
+  "kind": "specific_problem",
+  "constructor_call": "space_sextic_tritangents()",
+  "arguments": [],
+  "parameters": {},
+  "reference_ids": [
+    "cueto_2025_sextic_tritangents",
+    "harris_2017_sextic_tritangents",
+    "kulkarni_2017_space_sextics"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

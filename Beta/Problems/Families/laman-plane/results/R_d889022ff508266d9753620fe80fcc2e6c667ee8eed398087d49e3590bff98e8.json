@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_laman_plane",
+  "question_id": "Q1",
+  "statement": "For n-vertex minimally rigid graphs in the plane, the number of generic complex embeddings modulo direct rigid motions is O((4(3/4)^(1/5))^n), hence O(3.7764^n). The argument bounds constrained orientations of the graph and applies also to spherical embeddings. This is an upper bound on the complex solution count, not an assertion that every graph attains that bound.",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "Generic planar realization count is O((4(3/4)^(1/5))^n)=O(3.7764^n).",
+    "display": "Generic planar realization count is O((4(3/4)^(1/5))^n)=O(3.7764^n).",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "bartzos_2022_upper_rigid"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/2010.10578",
+    "location": "Theorem 3 (printed p.12; PDF index 11), proof on pp.12–13",
+    "version": "arXiv:2010.10578v2, 25 October 2021"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "The asymptotic theorem is recorded; avoid applying its displayed finite-n prefactor to the triangle without separately handling the base case.\n\nImported from the 2026-10-26 catalogue record R_44e8e95dab450fbb; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "n-vertex minimally rigid planar graphs with generic edge lengths, modulo rigid motions.",
+  "result_id": "R_d889022ff508266d9753620fe80fcc2e6c667ee8eed398087d49e3590bff98e8"
+}

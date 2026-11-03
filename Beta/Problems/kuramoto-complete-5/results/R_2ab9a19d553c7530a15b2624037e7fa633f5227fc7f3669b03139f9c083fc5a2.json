@@ -1,0 +1,31 @@
+{
+  "problem_id": "P_kuramoto_complete_5",
+  "question_id": "Q1",
+  "statement": "For 5 oscillators with generic frequencies and generic nonzero symmetric complete-graph couplings, the complex solution count after fixing one phase is the normalized lattice volume of conv{±(e_i-e_j): 0≤i<j≤4}, with e_0=0.",
+  "answer": {
+    "formula": "Vol_Z conv{±(e_i-e_j):0≤i<j≤4}, e_0=0",
+    "display": "Polytope volume",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "chen_2022_typical_atypical"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/2210.00784v3",
+    "location": "Theorem 3.5, PDF p. 7; Corollary 3.6, PDF p. 9",
+    "version": "arXiv:2210.00784v3"
+  },
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_kuramoto_graph",
+    "original_result_id": "R_2b754d07886cc32b0829eb961f7394323a3410e84a7aa4ab9e0768d9e90cc588",
+    "inheritance_basis": "Apply the theorem to the complete graph on 5 vertices, with one vertex fixed as the reference phase."
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "result_id": "R_2ab9a19d553c7530a15b2624037e7fa633f5227fc7f3669b03139f9c083fc5a2"
+}

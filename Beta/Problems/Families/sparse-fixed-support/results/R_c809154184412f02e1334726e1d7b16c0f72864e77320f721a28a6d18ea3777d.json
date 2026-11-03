@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_sparse_fixed_support",
+  "question_id": "Q2",
+  "statement": "For a monomial cover with lattice quotient H/L and reduced irreducible quotient system of degree d, put W=(H/L) wr S_d. If L+span_Z{Σ_(γ∈G_B)d_γ γ:B∈E}≠H, then G<W. If L+span_Z{d_(γ_B)γ_B:B∈E0}=H, then G=W. Here E indexes essential face subtuples, G_B their defining essential normals, d_γ the facial resultant multiplicity, and E0 the tuples whose every face has dimension n−1, hence unique normal γ_B. For analogous support tuples the two tests coincide.",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "Provides combinatorial criteria for expected wreath-product monodromy and examples where that expected equality fails.",
+    "display": "Provides combinatorial criteria for expected wreath-product monodromy and examples where that expected equality fails.",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "esterov_2018_wreath"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1812.07912v2",
+    "location": "Theorem 3.14(1)–(2), Remark 3.15(1) (PDF p. 19); Example 1.33 (PDF pp. 9–10)",
+    "version": "arXiv:1812.07912v2 (1 March 2020), 30-page PDF"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Notation is defined in Section 3.3. The criterion is not claimed necessary and sufficient for every tuple. Example 1.33 exhibits strict containment. Earlier draft locator “Theorem 4.14” referred to a different version; this record uses the inspected PDF’s Theorem 3.14.\n\nImported from the 2026-10-26 catalogue record R_39d8dcb6a542e630; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Generic multivariate systems with a nonreduced support lattice and a reduced irreducible quotient system.",
+  "result_id": "R_c809154184412f02e1334726e1d7b16c0f72864e77320f721a28a6d18ea3777d"
+}

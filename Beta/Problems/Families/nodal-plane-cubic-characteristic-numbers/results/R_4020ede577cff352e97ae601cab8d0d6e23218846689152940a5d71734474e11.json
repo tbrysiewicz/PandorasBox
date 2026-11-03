@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_nodal_plane_cubic_characteristic_numbers",
+  "question_id": "Q1",
+  "statement": "The numbers of nodal cubics through 8−k general points and properly tangent to k general lines are 12,36,100,240,480,712,756,600,400 for k=0,…,8.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "text": "For k=0,…,8 the proper counts are 12,36,100,240,480,712,756,600,400.",
+    "display": "(12,36,100,240,480,712,756,600,400)",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "aluffi_1991_singular_cubics"
+  ],
+  "source": {
+    "url": "https://www.math.fsu.edu/~aluffi/papers/1988TegopcIInacc.pdf",
+    "location": "Theorem III, §3, table column D, author preprint printed page 22",
+    "version": "Author-hosted 30-page preprint, Theorem III, printed page 22"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Use the proper counts in Theorem III, not the different weighted counts in Proposition3.1. A tangent line through the node does not satisfy a proper tangency.\n\nImported from the 2026-10-26 catalogue record R_a0c591078940bd8c; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Irreducible plane cubics with one ordinary node through 8−k general points and properly tangent at smooth points to k general lines.",
+  "result_id": "R_4020ede577cff352e97ae601cab8d0d6e23218846689152940a5d71734474e11"
+}

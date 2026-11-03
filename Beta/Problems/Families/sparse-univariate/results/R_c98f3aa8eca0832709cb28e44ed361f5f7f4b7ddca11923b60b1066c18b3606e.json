@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_sparse_univariate",
+  "question_id": "Q2",
+  "statement": "For the generic polynomial c0+c1 x^a1+…+ck x^a with 0<a1<…<ak=a and d=gcd(a1,…,ak), the monodromy group on its a nonzero roots is (Z/dZ) wr S_(a/d). It consists of all permutations preserving the root-of-unity necklace structure.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "text": "Proves the expected wreath-product monodromy C_d wr S_(a/d).",
+    "display": "(Z/dZ) wr S_{a/d}",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "esterov_2018_wreath"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1812.07912v2",
+    "location": "Theorem 1.5 (PDF p. 2)",
+    "version": "arXiv:1812.07912v2 (1 March 2020), 30-page PDF"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Coefficients vary over the full fixed-support family away from its bifurcation set.\n\nImported from the 2026-10-26 catalogue record R_bac15c24ab0a75f0; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Generic f(x)=c0+Σ c_i x^a_i, 0<a1<…<ak=a, d=gcd(a1,…,ak), nonzero roots.",
+  "result_id": "R_c98f3aa8eca0832709cb28e44ed361f5f7f4b7ddca11923b60b1066c18b3606e"
+}

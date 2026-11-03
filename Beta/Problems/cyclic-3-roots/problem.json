@@ -1,0 +1,17 @@
+{
+  "problem_id": "P_cyclic_3_roots",
+  "name": "Cyclic 3-roots",
+  "kind": "specific_problem",
+  "constructor_call": "cyclic_roots(3)",
+  "arguments": [],
+  "parameters": {
+    "p": 3
+  },
+  "reference_ids": [
+    "haagerup_2008_cyclic_prime"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

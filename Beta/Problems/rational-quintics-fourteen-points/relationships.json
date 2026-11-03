@@ -1,0 +1,22 @@
+{
+  "relationships": [
+    {
+      "source_problem_id": "P_rational_quintics_fourteen_points",
+      "target_problem_id": "P_plane_curves_degree_genus",
+      "relation_type": "instance_of",
+      "relation_statement": "Rational plane quintics through fourteen general points.",
+      "inheritance_policy": "Only explicitly recorded source specializations are inherited."
+    },
+    {
+      "source_problem_id": "P_rational_quintics_fourteen_points",
+      "target_problem_id": "P_rational_plane_curves",
+      "relation_type": "instance_of",
+      "relation_statement": "Rational plane quintics through fourteen general points.",
+      "inheritance_policy": "Only explicitly recorded source specializations are inherited."
+    }
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

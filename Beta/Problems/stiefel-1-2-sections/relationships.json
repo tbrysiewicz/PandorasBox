@@ -1,0 +1,15 @@
+{
+  "relationships": [
+    {
+      "source_problem_id": "P_stiefel_1_2_sections",
+      "target_problem_id": "P_stiefel_linear_sections",
+      "relation_type": "instance_of",
+      "relation_statement": "General complementary affine linear sections of St(1,2) in its matrix-entry embedding.",
+      "inheritance_policy": "Only explicitly recorded source specializations are inherited."
+    }
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

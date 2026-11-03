@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_laman_plane",
+  "question_id": "Q1",
+  "statement": "For n≥3, the largest complex planar realization number among n-vertex Laman graphs obeys M2(n)≥2·2^((n−3) mod 15)·976908^floor((n−3)/15). The construction glues copies of an eighteen-vertex graph with exactly 1,953,816 realizations along a triangle; its exponential growth base is 976908^(1/15)≈2.50798. Counts identify translations and rotations, retaining reflected realizations.",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "M2(n)≥2·2^((n−3) mod 15)·976908^floor((n−3)/15), with growth base approximately 2.50798.",
+    "display": "M2(n)≥2·2^((n−3) mod 15)·976908^floor((n−3)/15), with growth base approximately 2.50798.",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "grasegger_2018_lower_rigid"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/1710.08237v2",
+    "location": "Theorem 5, displayed lower bound; §2.3",
+    "version": "arXiv:1710.08237v2 (2018), HTML"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Bounds concern complex realization counts, not maximum real counts. Online publication year recorded.\n\nImported from the 2026-10-26 catalogue record R_10b67254a700f6d3; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Generic complex realizations of minimally rigid planar graphs with n vertices, maximized over the graph.",
+  "result_id": "R_3cbb1048e30c2f493676bfc24857e7c556f8758260643fcf1fe9b0b5dedefb7a"
+}

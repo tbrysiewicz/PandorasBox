@@ -1,0 +1,32 @@
+{
+  "problem_id": "P_smooth_plane_cubics_6_points_3_tangencies",
+  "question_id": "Q1",
+  "statement": "There are 64 smooth plane cubics through 6 general points and properly tangent to 3 general lines.",
+  "answer": {
+    "count": 64,
+    "display": "64",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "aluffi_1990_smooth_cubics"
+  ],
+  "source": {
+    "url": "https://www.math.fsu.edu/~aluffi/papers/1987TegopcIsc.pdf",
+    "location": "Corollary IV, §4, author preprint printed page 31; proof pages 31–33",
+    "version": "Author-hosted 37-page preprint, Corollary IV; journal publication identity separately verified"
+  },
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_smooth_plane_cubic_characteristic_numbers",
+    "inheritance_basis": "Entry k=3 of the explicit characteristic-number table in Corollary IV.",
+    "original_result_id": "R_0aa57817946901502b07dfd59f80c8e1162f8c4cf8ca26372b75cff63a6d4093"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Source specialization: Entry k=3 of the explicit characteristic-number table in Corollary IV.",
+  "result_id": "R_fa344452ae8bedc311ba6158dae48c3f1b35ac129302f8822bda4b8478cd2a6e"
+}

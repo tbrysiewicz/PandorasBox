@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_rational_cubics_eight_points",
+  "question_id": "Q1",
+  "statement": "There are 12 irreducible nodal plane cubics through eight general points, hence 12 irreducible rational plane cubics for those general point data.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "text": "The generic complex count is 12.",
+    "display": "The generic complex count is 12.",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "aluffi_1991_singular_cubics"
+  ],
+  "source": {
+    "url": "https://www.math.fsu.edu/~aluffi/papers/1988TegopcIInacc.pdf",
+    "location": "Theorem III, table column D, row k=0, author preprint printed page 22",
+    "version": "Author-hosted 30-page preprint, Theorem III, printed page 22"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Cuspidal and reducible cubics do not occur for eight general points. The generic nodal specialization does not classify exceptional eight-point configurations.\n\nImported from the 2026-10-26 catalogue record R_26b71f4b467cbd16; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Irreducible rational cubics through eight general complex points; the solutions are nodal.",
+  "result_id": "R_01c976f0bff2e009162a8e49755cad4a8aa1f740bb6548b4d4fff8b8c1944007"
+}

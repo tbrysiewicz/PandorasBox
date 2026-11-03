@@ -1,0 +1,19 @@
+{
+  "problem_id": "P_kuramoto_complete_2",
+  "name": "Kuramoto equilibria on the complete graph K2",
+  "kind": "specific_problem",
+  "constructor_call": "complete_graph_kuramoto(2)",
+  "arguments": [],
+  "parameters": {
+    "n": 2,
+    "graph": "complete"
+  },
+  "reference_ids": [
+    "chen_2022_typical_atypical",
+    "sclosa_2021_completely_degenerate"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

@@ -1,0 +1,15 @@
+{
+  "relationships": [
+    {
+      "source_problem_id": "P_rational_plane_degree_2_maximal_line_contact_fixed",
+      "target_problem_id": "P_rational_plane_maximal_line_contact",
+      "relation_type": "instance_of",
+      "relation_statement": "Rational plane curves of degree 2 through 3 general points with order-2 contact to a fixed line at a specified point.",
+      "inheritance_policy": "Only explicitly recorded source specializations are inherited."
+    }
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

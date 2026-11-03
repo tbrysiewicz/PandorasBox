@@ -1,0 +1,20 @@
+{
+  "problem_id": "P_smooth_plane_quartics_12_points_2_tangencies",
+  "name": "Smooth quartics through 12 points and tangent to 2 lines",
+  "kind": "specific_problem",
+  "constructor_call": "smooth_plane_curve_conditions(4, 12, 2)",
+  "arguments": [],
+  "parameters": {
+    "degree": 4,
+    "nodes": 0,
+    "point_conditions": 12,
+    "tangencies": 2
+  },
+  "reference_ids": [
+    "vakil_1999_quartic_characteristic"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

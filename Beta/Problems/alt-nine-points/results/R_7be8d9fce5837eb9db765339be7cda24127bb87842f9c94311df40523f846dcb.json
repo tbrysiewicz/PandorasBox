@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_alt_nine_points",
+  "question_id": "Q1",
+  "statement": "For nine general planar precision points, the homotopy computation reports 4,326 nonsingular, nondegenerate four-bar mechanisms arranged in 1,442 Roberts-cognate triples, hence 1,442 coupler curves. The corresponding polynomial system has 8,652 solutions because exchanging the two sides represents the same mechanism. One solution missed by path tracking was reconstructed from its cognates. Consistency checks support completeness but do not constitute a rigorous proof of the generic degree.",
+  "status": "partial",
+  "evidence": "numerical_evidence",
+  "answer": {
+    "text": "Numerical evidence for 4,326 mechanisms / 1,442 cognate curve classes / 8,652 polynomial solutions; completeness is not certified.",
+    "display": "Numerical evidence for 4,326 mechanisms / 1,442 cognate curve classes / 8,652 polynomial solutions; completeness is not certified.",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "wampler_1992_ninepoint"
+  ],
+  "source": {
+    "url": "https://academicweb.nd.edu/~cwample1/Preprints/Ninepoint_JMD1992.pdf",
+    "location": "Numerical Reduction (printed p.156); Parameter Continuation, paragraph following Eq.(25) (p.157); Summary (p.159)",
+    "version": "Journal of Mechanical Design 114 (1992), pp.153–159, author-hosted journal scan"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "The generic count is based on numerical continuation, not a fully certified completeness proof. Three cognate linkages trace each curve; further parameter-label symmetry can give 8652 polynomial roots. This describes the evidence in this earlier paper; Brysiewicz (2026), Theorem 1.1, now proves the 1,442-curve count.\n\nImported from the 2026-10-26 catalogue record R_76fbe7d2c20eace8; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Nondegenerate planar four-bar coupler curves interpolating nine generic complex points; distinguish Roberts-cognate linkages.",
+  "result_id": "R_7be8d9fce5837eb9db765339be7cda24127bb87842f9c94311df40523f846dcb"
+}

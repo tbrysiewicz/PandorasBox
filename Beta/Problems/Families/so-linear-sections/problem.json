@@ -1,0 +1,24 @@
+{
+  "problem_id": "P_so_linear_sections",
+  "name": "Linear sections of special orthogonal varieties",
+  "kind": "family",
+  "constructor_call": "special_orthogonal_linear_section(n)",
+  "arguments": [],
+  "parameters": {
+    "n": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ]
+  },
+  "reference_ids": [
+    "brandt_2017_degree_so",
+    "kadets_2018_sectional_monodromy"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

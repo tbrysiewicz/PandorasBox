@@ -1,0 +1,32 @@
+{
+  "problem_id": "P_bitangents_plane_quintics",
+  "question_id": "Q1",
+  "statement": "A general smooth plane quintic has 120 ordinary bitangent lines.",
+  "answer": {
+    "count": 120,
+    "display": "120",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "cayley_1859_double_tangents"
+  ],
+  "source": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/On_the_Double_Tangents_of_a_Plane_Curve_(IA_jstor-108697).pdf",
+    "location": "Section7, printed p.197; opening historical discussion p.193",
+    "version": "Original Philosophical Transactions149(1859),193–212; JSTOR original-journal scan"
+  },
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_bitangents_plane_curves_degree",
+    "inheritance_basis": "Evaluate d(d-2)(d^2-9)/2 at d=5.",
+    "original_result_id": "R_20c76013488e57107804c5f5a04c18f9934f078236db6212861e9746f4fc6905"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Source specialization: Evaluate d(d-2)(d^2-9)/2 at d=5.",
+  "result_id": "R_829cbe94ddd05f4aa96a1a08efe9adab0022e6d205d3d953f007742d86a12a5e"
+}

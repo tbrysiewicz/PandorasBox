@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_plane_curves_degree_genus",
+  "question_id": "Q1",
+  "statement": "For assigned/unassigned line-contact sequences α,β with Iα+Iβ=d, the auxiliary Severi degrees satisfy N^(d,δ)(α,β)=Σ_(β_k>0)kN^(d,δ)(α+e_k,β−e_k)+ΣI^(β′−β)binom(α,α′)binom(β′,β)N^(d−1,δ′)(α′,β′), with α′≤α,β′≥β,0≤δ′≤δ and δ−δ′+|β′−β|=d−1. Here Iα=Σkα_k and I^α=∏k^(α_k); sequence binomials are componentwise. Irreducible counts follow by subtracting reducible components, or the direct recursion in §1.4. The worked quartic example gives 675−55=620 irreducible rational quartics through eleven general points.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "text": "For assigned/unassigned line-contact sequences α,β with Iα+Iβ=d, the auxiliary Severi degrees satisfy N^(d,δ)(α,β)=Σ_(β_k>0)kN^(d,δ)(α+e_k,β−e_k)+ΣI^(β′−β)binom(α,α′)binom(β′,β)N^(d−1,δ′)(α′,β′), with α′≤α,β′≥β,0≤δ′≤δ and δ−δ′+|β′−β|=d−1. Here Iα=Σkα_k and I^α=∏k^(α_k); sequence binomials are componentwise. Irreducible counts follow by subtracting reducible components, or the direct recursion in §1.4. The worked quartic example gives 675−55=620 irreducible rational quartics through eleven general points.",
+    "display": "Caporaso–Harris recursion for N_(d,g)",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "caporaso_1996_plane_curves"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/alg-geom/9608025v1",
+    "location": "Theorem 1.1; Section 1.2, worked quartic example ending N_(4,3)=620; Section 1.4, displayed irreducible recursion",
+    "version": "arXiv:alg-geom/9608025v1 (22 August 1996)"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Theorem 1.1 alone counts possibly reducible curves. The row’s irreducible count uses the subtraction explained immediately after the theorem and the direct recursion in §1.4; δ=binom(d−1,2)−g. Undefined contact data contribute zero.\n\nImported from the 2026-10-26 catalogue record R_d0fd96361c1544c4; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Irreducible complex plane curves of degree d and geometric genus g passing through 3d−1+g general points.",
+  "result_id": "R_d6172770dd6531025f9a4528ef1488c552a90058434f8b00fc3840bf4d42e540"
+}

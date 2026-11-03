@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_sparse_plane_intersections",
+  "question_id": "Q8",
+  "statement": "For full-dimensional A1,A2⊂Z² with Qi=conv(Ai), the A1-degree of the mixed-discriminant cycle is area(Q2)+2MV(Q1,Q2)−Σ_(e,f) min{u(e,A1),u(f,A2)} length(f)−Σ_(v vertex of A1) mm(v). The first sum is over strongly parallel edges; mm(v)=MV(Q1,Q2)−MV(conv(A1 minus {v}),Q2), and u is subdiagram volume. Interchanging 1,2 gives the second degree.",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "Gives the explicit two-variable mixed-discriminant cycle bidegree in terms of mixed areas, parallel-edge subdiagram volumes and vertex mixed multiplicities.",
+    "display": "Gives the explicit two-variable mixed-discriminant cycle bidegree in terms of mixed areas, parallel-edge subdiagram volumes and vertex mixed multiplicities.",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "cattani_2011_mixed"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1112.1012",
+    "location": "Theorem 3.3, equation (3.3) (PDF p. 7); definitions (3.2) and preceding edge notation",
+    "version": "arXiv:1112.1012 PDF, 17 pages; printed p. 7"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "The theorem gives the cycle Δ̃=Δ^i(A), not automatically the reduced polynomial degree. Divide cycle degrees by the Cayley configuration’s lattice index to obtain reduced degrees. Areas use the source’s lattice normalization.\n\nImported from the 2026-10-26 catalogue record R_8b1c295b684ec7d9; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Two full-dimensional planar lattice supports; mixed-discriminant cycle of coincident torus roots, with lattice normalization retained.",
+  "result_id": "R_5798b991de2609adb1c34ae78b989f37aa72f50e917fb1abd8ae0b8c04eacd59"
+}

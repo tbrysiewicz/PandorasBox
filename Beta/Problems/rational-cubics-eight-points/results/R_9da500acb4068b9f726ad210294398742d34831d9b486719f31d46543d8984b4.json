@@ -1,0 +1,29 @@
+{
+  "problem_id": "P_rational_cubics_eight_points",
+  "question_id": "Q3",
+  "statement": "The minimum number of real rational cubics through eight generic real points is eight. Proposition 4.7.3 proves the universal lower bound, and the occurrence statement immediately before it includes a configuration attaining eight.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "text": "The minimum number of real rational cubics through eight generic real points is eight. Proposition 4.7.3 proves the universal lower bound, and the occurrence statement immediately before it includes a configuration attaining eight.",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "degtyarev_2000_real_topology"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/math/0004134",
+    "location": "Proposition 4.7.3 and preceding “Digression: real rational curves”, printed p.50",
+    "version": "arXiv:math/0004134v1, 20 April 2000"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Although the article is broadly a survey, this association records its concrete proved proposition and explicit occurrence statement. Counts concern real curves, not a claim about a full chamber classification; singular/nongeneric point configurations are excluded.\n\nImported from the 2026-10-26 catalogue record R_19f8a41d54b83ba3; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Irreducible rational plane cubics through eight generic real points; all singular members of the resulting generic pencil are nodal.",
+  "result_id": "R_9da500acb4068b9f726ad210294398742d34831d9b486719f31d46543d8984b4"
+}

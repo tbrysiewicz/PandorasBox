@@ -21,17 +21,17 @@
     "version": "Original published article"
   },
   "generated_by": [
-    "Taylor Brysiewicz - AI"
+    "Taylor Brysiewicz AI 20261103"
   ],
   "checked_by": [
-    "Taylor Brysiewicz 20261102"
+    "Taylor Brysiewicz 20261103"
   ],
   "origin": {
     "kind": "direct",
     "original_result_id": "R_7d33fff5a889653d"
   },
   "headline": true,
-  "checked_content_sha256": "8267b8dcf9933242034c56171a3be7976c883f9e3812d5cf0714bda2a367fce3",
+  "checked_content_sha256": "32c0d5680a7d173ba98271bd1d3401d00f8f305a0e2765c7a8b46e7c77f92c78",
   "scope": "Smooth cubic surfaces in P3 over an algebraically closed field.",
   "notes": "The statement is valid in the source’s stated arbitrary characteristic. The complex enumerative database uses its characteristic-zero specialization."
 }

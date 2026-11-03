@@ -1,0 +1,16 @@
+{
+  "problem_id": "P_five_point_essential_matrices",
+  "name": "Essential matrices from five points",
+  "kind": "specific_problem",
+  "constructor_call": "five_point_relative_pose()",
+  "arguments": [],
+  "parameters": {},
+  "reference_ids": [
+    "breiding_2022_average_essential",
+    "duff_2021_galois_reconstruction"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

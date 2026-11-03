@@ -1,0 +1,19 @@
+{
+  "problem_id": "P_kuramoto_complete_3",
+  "name": "Kuramoto equilibria on the complete graph K3",
+  "kind": "specific_problem",
+  "constructor_call": "complete_graph_kuramoto(3)",
+  "arguments": [],
+  "parameters": {
+    "n": 3,
+    "graph": "complete"
+  },
+  "reference_ids": [
+    "chen_2022_typical_atypical",
+    "sclosa_2021_completely_degenerate"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

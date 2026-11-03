@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_alt_nine_points",
+  "question_id": "Q4",
+  "statement": "For the explicit real nine-point synthesis instance called Problem 3, the computation obtains 8,652 approximate polynomial roots and identifies 384 real roots using 256-bit soft certification. Accounting for the sixfold symmetry from side exchange and Roberts cognates yields 64 real mechanism/coupler-curve classes in the paper's counting convention. This is a lower-bound example for the maximum number of real classes, not a proof that 64 is maximal.",
+  "status": "partial",
+  "evidence": "numerical_evidence",
+  "answer": {
+    "text": "Problem 3 supplies 384 real polynomial solutions, or 64 classes after sixfold symmetry, with floating-point soft certification.",
+    "display": "≥64 classes, numerical soft-certification evidence",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "hauenstein_2012_alphacertified"
+  ],
+  "source": {
+    "url": "https://academicweb.nd.edu/~jhauenst/preprints/hsAlphaCertified.pdf",
+    "location": "Section 5.2, Table 1 and following paragraph for Problem 3 (printed p.14; PDF index 13)",
+    "version": "Author preprint dated 6 September 2011, 21 pages"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "A lower bound on attainable real classes, not a maximum. The paper uses floating-point soft certification; physical order/branch admissibility is more restrictive.\n\nImported from the 2026-10-26 catalogue record R_787f0524ce8d41f6; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Specific real nine-point data from Problem 3 of Wampler–Morgan–Sommese (1992).",
+  "result_id": "R_8522479ff0f60aa44d9771c861341dd2cfbbbaff39bf996905d8020bdd668c39"
+}

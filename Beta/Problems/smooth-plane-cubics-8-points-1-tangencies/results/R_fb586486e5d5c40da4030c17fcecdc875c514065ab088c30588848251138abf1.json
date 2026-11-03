@@ -1,0 +1,32 @@
+{
+  "problem_id": "P_smooth_plane_cubics_8_points_1_tangencies",
+  "question_id": "Q1",
+  "statement": "There are 4 smooth plane cubics through 8 general points and properly tangent to 1 general lines.",
+  "answer": {
+    "count": 4,
+    "display": "4",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "aluffi_1990_smooth_cubics"
+  ],
+  "source": {
+    "url": "https://www.math.fsu.edu/~aluffi/papers/1987TegopcIsc.pdf",
+    "location": "Corollary IV, §4, author preprint printed page 31; proof pages 31–33",
+    "version": "Author-hosted 37-page preprint, Corollary IV; journal publication identity separately verified"
+  },
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_smooth_plane_cubic_characteristic_numbers",
+    "inheritance_basis": "Entry k=1 of the explicit characteristic-number table in Corollary IV.",
+    "original_result_id": "R_0aa57817946901502b07dfd59f80c8e1162f8c4cf8ca26372b75cff63a6d4093"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Source specialization: Entry k=1 of the explicit characteristic-number table in Corollary IV.",
+  "result_id": "R_fb586486e5d5c40da4030c17fcecdc875c514065ab088c30588848251138abf1"
+}

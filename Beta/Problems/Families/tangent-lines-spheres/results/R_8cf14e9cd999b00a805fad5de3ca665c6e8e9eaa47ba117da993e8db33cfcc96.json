@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_tangent_lines_spheres",
+  "question_id": "Q8",
+  "statement": "Four distinct spheres in R3 have infinitely many real common tangent lines if and only if their centers are collinear and at least one common real tangent exists. Such spheres either intersect in a common circle (possibly a point), or are tangent along circles to one common quadric of revolution whose axis contains all centers; this quadric may be a cone, cylinder or one-sheeted hyperboloid.",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "Four distinct spheres in R3 have infinitely many real common tangent lines if and only if their centers are collinear and at least one common real tangent exists. Such spheres either intersect in a common circle (possibly a point), or are tangent along circles to one common quadric of revolution whose axis contains all centers; this quadric may be a cone, cylinder or one-sheeted hyperboloid.",
+    "display": "n=3: infinitely many real tangents iff centres are collinear and a common real tangent exists",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "borcea_2006_sphere_tangents"
+  ],
+  "source": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s00454-005-1230-y.pdf",
+    "location": "Theorem 1 and following geometric characterization, printed p. 288 (PDF p. 2)",
+    "version": "Publisher PDF, Discrete & Computational Geometry 35 (2006),287–300"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "The four spheres must be distinct. This classifies infinitely many real tangents, not arbitrary complex tangency components. Migration: Merge exceptional-fibre behaviour into Exceptional locus; preserve each source result separately.\n\nImported from the 2026-10-26 catalogue record R_111ab4717c39c8b3; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Four distinct spheres in R3 and their real common tangent affine lines.",
+  "result_id": "R_8cf14e9cd999b00a805fad5de3ca665c6e8e9eaa47ba117da993e8db33cfcc96"
+}

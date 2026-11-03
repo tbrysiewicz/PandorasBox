@@ -1,0 +1,19 @@
+{
+  "problem_id": "P_se_kinematic_sections",
+  "question_id": "Q1",
+  "statement": "What is the degree of the augmented kinematic embedding of SE_N for even N at least 8?",
+  "reference_ids": [
+    "hauenstein_2018_exceptional_stewart"
+  ],
+  "source": {
+    "url": "https://academicweb.nd.edu/~jhauenst/preprints/hswStewartGough.pdf",
+    "location": "Problem 5.2, Section 5.1, printed page 18 (PDF page 18), immediately after Theorem 5.1.",
+    "version": "Source date recorded in the legacy catalogue: 2018-01-07"
+  },
+  "notes": "Open question stated in the cited source. No new verification of present-day unresolved status was performed for this import.",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "open_problem_id": "OP_c3adcae4efae9456a217766b28c693e7e35e76c754b2113d81267449faac56b8"
+}

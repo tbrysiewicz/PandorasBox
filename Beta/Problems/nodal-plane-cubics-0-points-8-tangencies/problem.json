@@ -1,0 +1,20 @@
+{
+  "problem_id": "P_nodal_plane_cubics_0_points_8_tangencies",
+  "name": "Nodal cubics tangent to 8 lines",
+  "kind": "specific_problem",
+  "constructor_call": "nodal_plane_curve_conditions(3, 0, 8)",
+  "arguments": [],
+  "parameters": {
+    "degree": 3,
+    "nodes": 1,
+    "point_conditions": 0,
+    "tangencies": 8
+  },
+  "reference_ids": [
+    "aluffi_1991_singular_cubics"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

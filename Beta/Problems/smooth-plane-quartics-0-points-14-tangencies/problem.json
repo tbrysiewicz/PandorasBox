@@ -1,0 +1,20 @@
+{
+  "problem_id": "P_smooth_plane_quartics_0_points_14_tangencies",
+  "name": "Smooth quartics tangent to 14 lines",
+  "kind": "specific_problem",
+  "constructor_call": "smooth_plane_curve_conditions(4, 0, 14)",
+  "arguments": [],
+  "parameters": {
+    "degree": 4,
+    "nodes": 0,
+    "point_conditions": 0,
+    "tangencies": 14
+  },
+  "reference_ids": [
+    "vakil_1999_quartic_characteristic"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

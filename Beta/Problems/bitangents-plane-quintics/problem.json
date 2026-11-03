@@ -1,0 +1,18 @@
+{
+  "problem_id": "P_bitangents_plane_quintics",
+  "name": "Bitangents to a plane quintic",
+  "kind": "specific_problem",
+  "constructor_call": "plane_curve_bitangents(5)",
+  "arguments": [],
+  "parameters": {
+    "degree": 5
+  },
+  "reference_ids": [
+    "cayley_1859_double_tangents",
+    "plucker_1834_curve_formula"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

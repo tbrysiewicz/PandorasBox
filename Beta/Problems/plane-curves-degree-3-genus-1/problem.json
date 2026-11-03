@@ -1,0 +1,20 @@
+{
+  "problem_id": "P_plane_curves_degree_3_genus_1",
+  "name": "Plane cubics of genus 1 through 9 points",
+  "kind": "specific_problem",
+  "constructor_call": "plane_curves(3, 1)",
+  "arguments": [],
+  "parameters": {
+    "degree": 3,
+    "genus": 1
+  },
+  "reference_ids": [
+    "aluffi_1990_smooth_cubics",
+    "caporaso_1996_plane_curves",
+    "fomin_2009_labeled_floors"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

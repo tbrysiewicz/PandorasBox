@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_sparse_plane_intersections",
+  "question_id": "Q8",
+  "statement": "For two planar full-dimensional supports, the resultant of f1,f2 and their toric Jacobian factors as the discriminant cycle Δ̃(f1,f2) times vertex coefficients c_v^mm(v) and common-edge resultants raised to μ(η). Its cycle bidegree is δ_i=Vol(Q_j)+2MV(Q1,Q2)−Σ_(η∈Σ′) length(e_j^η)μ(η)−Σ_(v vertex of Ai)mm(v), i≠j. Here mm(v)=MV(Q1,Q2)−MV(conv(Ai minus {v}),Qj), Σ′ consists of shared edge normals, and μ is the minimum inward lattice gap.",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "Explicitly factors the toric-Jacobian resultant and derives both coefficient degrees of the plane mixed-discriminant cycle.",
+    "display": "Explicitly factors the toric-Jacobian resultant and derives both coefficient degrees of the plane mixed-discriminant cycle.",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "dickenstein_2013_plane"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1304.5809",
+    "location": "Corollary 5, equations (11)–(13), printed pp. 11–12",
+    "version": "arXiv:1304.5809v1, 16-page PDF (internal date 9 October 2018)"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Definition (2), printed p. 3, works with the cycle Δ̃=Δ^i(A1,A2). Reduced polynomial degrees require division by this support-lattice index. Formula (13) includes all vertex and edge factors and uses lattice-normalized volumes.\n\nImported from the 2026-10-26 catalogue record R_39d1a354b933d5ba; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Two fixed-support bivariate Laurent polynomials, including factorizable members.",
+  "result_id": "R_2873598adce9abba259f00a8f82dd1cf2715a63fc8d483785225b228d3bc1007"
+}

@@ -1,0 +1,19 @@
+{
+  "reference_id": "coss_2017_rank_one_kuramoto",
+  "title": "Locating and Counting Equilibria of the Kuramoto Model with Rank-One Coupling",
+  "authors": [
+    "Owen Coss",
+    "Jonathan D. Hauenstein",
+    "Hoon Hong",
+    "Daniel K. Molzahn"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "year": "2018",
+  "venue": "SIAM Journal on Applied Algebra and Geometry 2(1), 45-71",
+  "doi": "10.1137/17m1128198",
+  "url": "https://doi.org/10.1137/17m1128198",
+  "preprint_url": "https://arxiv.org/abs/1705.06568"
+}

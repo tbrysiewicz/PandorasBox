@@ -1,0 +1,15 @@
+{
+  "relationships": [
+    {
+      "source_problem_id": "P_bitangents_plane_quartics",
+      "target_problem_id": "P_bitangents_plane_curves_degree",
+      "relation_type": "instance_of",
+      "relation_statement": "Find the bitangent lines of a smooth plane quartic.",
+      "inheritance_policy": "Only explicitly recorded source specializations are inherited."
+    }
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

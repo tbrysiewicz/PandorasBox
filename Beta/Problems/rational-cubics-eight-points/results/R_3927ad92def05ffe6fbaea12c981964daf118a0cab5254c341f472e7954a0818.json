@@ -1,0 +1,31 @@
+{
+  "problem_id": "P_rational_cubics_eight_points",
+  "question_id": "Q4",
+  "statement": "The maximum number of real rational cubics through eight generic real points is twelve, so total reality occurs. All twelve are real precisely when the pencil has two real cubics with solitary double points.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "text": "The maximum number of real rational cubics through eight generic real points is twelve, so total reality occurs. All twelve are real precisely when the pencil has two real cubics with solitary double points.",
+    "display": "12",
+    "count": 12,
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "degtyarev_2000_real_topology"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/math/0004134",
+    "location": "Proposition 4.7.3 and preceding “Digression: real rational curves”, printed p.50",
+    "version": "arXiv:math/0004134v1, 20 April 2000"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Although the article is broadly a survey, this association records its concrete proved proposition and explicit occurrence statement. Counts concern real curves, not a claim about a full chamber classification; singular/nongeneric point configurations are excluded.\n\nImported from the 2026-10-26 catalogue record R_257d575c27a73378; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Irreducible rational plane cubics through eight generic real points; all singular members of the resulting generic pencil are nodal.",
+  "result_id": "R_3927ad92def05ffe6fbaea12c981964daf118a0cab5254c341f472e7954a0818"
+}

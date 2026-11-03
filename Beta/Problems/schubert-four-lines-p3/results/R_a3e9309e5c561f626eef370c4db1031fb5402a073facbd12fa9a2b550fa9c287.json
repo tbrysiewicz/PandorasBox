@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_schubert_four_lines_p3",
+  "question_id": "Q2",
+  "statement": "The monodromy/Galois group is S2. Rotating the fourth given line around the point p in Figure 1 provides a loop interchanging the two solution lines.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "text": "The monodromy/Galois group is S2. Rotating the fourth given line around the point p in Figure 1 provides a loop interchanging the two solution lines.",
+    "display": "S₂",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "leykin_2007_schubert_galois"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/0710.4607v4",
+    "location": "Section 1, paragraph following Figure 1, printed p. 3",
+    "version": "https://arxiv.org/pdf/0710.4607v4"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Exact geometric loop argument; this is not one of the paper’s uncertified numerical results.\n\nImported from the 2026-10-26 catalogue record R_6b81984cc1a551e4; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Lines meeting four ordered general lines in P3. Chamber statements concern the open set of pairwise skew lines satisfying the genericity conditions of Fehér–Matszangosz Definition 2.6, without quotient by ambient projective transformations or relabelling.",
+  "result_id": "R_a3e9309e5c561f626eef370c4db1031fb5402a073facbd12fa9a2b550fa9c287"
+}

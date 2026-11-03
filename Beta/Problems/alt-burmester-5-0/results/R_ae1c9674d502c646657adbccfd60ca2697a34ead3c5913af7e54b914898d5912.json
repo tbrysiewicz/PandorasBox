@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_alt_burmester_5_0",
+  "question_id": "Q1",
+  "statement": "For general 5-pose, 0-point data, Table 1 reports a zero-dimensional solution set of degree 16 in all eight natural linkage variables. Of these, four have coincident dyads and are degenerate; the remaining twelve ordered solutions give six unlabelled four-bar linkages. The table is obtained with numerical algebraic geometry, and this extraction retains that evidentiary status rather than treating its path enumeration as an independent exact certificate.",
+  "status": "partial",
+  "evidence": "numerical_evidence",
+  "answer": {
+    "text": "Table 1 reports 16 ordered polynomial solutions. Only 12 are nondegenerate, representing six linkages.",
+    "display": "16 (numerical)",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "brake_2016_alt_burmester"
+  ],
+  "source": {
+    "url": "https://academicweb.nd.edu/~cwample1/Preprints/AltBurmester.pdf",
+    "location": "§4.1 and Table 1 (author PDF pp.9–10); five-pose interpretation immediately after Table 2",
+    "version": "Author preprint, 24 February 2016, 20 pages"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "The raw polynomial degree is not always the count of nondegenerate physical linkages. No certification is claimed by this table.\n\nImported from the 2026-10-26 catalogue record R_28d7c4b703db81e4; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Alt–Burmester (5,0) problem in the isotropic-coordinate formulation of Brake et al.; dyads are ordered and prescribed poses/points general.",
+  "result_id": "R_ae1c9674d502c646657adbccfd60ca2697a34ead3c5913af7e54b914898d5912"
+}

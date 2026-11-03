@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_secants_two_twisted_cubics",
+  "question_id": "Q2",
+  "statement": "The family of ten common secant lines of two general twisted cubics in complex projective 3-space has full symmetric monodromy S10. The proof identifies two generating permutations by numerical exploration and proves their occurrence by certified homotopy path tracking; thus this is a certified group determination rather than an unverified numerical guess.",
+  "status": "solved",
+  "evidence": "certified_computation",
+  "answer": {
+    "text": "The family of ten common secant lines of two general twisted cubics in complex projective 3-space has full symmetric monodromy S10. The proof identifies two generating permutations by numerical exploration and proves their occurrence by certified homotopy path tracking; thus this is a certified group determination rather than an unverified numerical guess.",
+    "display": "S₁₀",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "aslam_2026_common_secants"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/2603.25003v1",
+    "location": "Theorem 1.4; Section 3.2, certified monodromy loops",
+    "version": "arXiv:2603.25003v1 (26 March 2026)"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "The generic complex count ten is background here, not added as a new degree contribution.\n\nImported from the 2026-10-26 catalogue record R_f18d5b1250f1148f; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Ten common secant lines to a general pair of twisted cubics in complex projective 3-space.",
+  "result_id": "R_68011023fb0c26a85354e77447fca45cc5699143de4c7be73314671fc394b42f"
+}

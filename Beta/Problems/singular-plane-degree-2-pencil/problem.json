@@ -1,0 +1,17 @@
+{
+  "problem_id": "P_singular_plane_degree_2_pencil",
+  "name": "Singular conics in a pencil",
+  "kind": "specific_problem",
+  "constructor_call": "singular_plane_curves_in_pencil(2)",
+  "arguments": [],
+  "parameters": {
+    "degree": 2
+  },
+  "reference_ids": [
+    "brugalle_2008_floors"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

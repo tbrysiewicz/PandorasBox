@@ -1,0 +1,19 @@
+{
+  "problem_id": "P_finite_complete_intersection_fano",
+  "question_id": "Q2",
+  "statement": "Is the Galois group of every nonexceptional finite complete-intersection Fano problem the full symmetric group?",
+  "reference_ids": [
+    "yahl_2022_fano_galois"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/2209.07010",
+    "location": "Section 5, Theorem 7 and its concluding paragraph, printed p. 8",
+    "version": "Source date recorded in the legacy catalogue: 2022-10-29"
+  },
+  "notes": "Open question stated in the cited source. No new verification of present-day unresolved status was performed for this import.",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "open_problem_id": "OP_97ef91bc878ecbbe04921896d057a262832f15463a6c12f08cd810fed4dbee5a"
+}

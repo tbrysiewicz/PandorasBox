@@ -1,0 +1,23 @@
+{
+  "problem_id": "P_plane_nodal_curves",
+  "name": "Nodal plane curves",
+  "kind": "family",
+  "constructor_call": "nodal_plane_curves(d, delta)",
+  "arguments": [],
+  "parameters": {
+    "degree": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "nodes": "0 <= delta <= (d-1)(d-2)/2"
+  },
+  "reference_ids": [
+    "fomin_2009_labeled_floors"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

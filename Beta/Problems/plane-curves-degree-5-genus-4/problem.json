@@ -1,0 +1,18 @@
+{
+  "problem_id": "P_plane_curves_degree_5_genus_4",
+  "name": "Plane quintics of genus 4 through 18 points",
+  "kind": "specific_problem",
+  "constructor_call": "plane_curves(5, 4)",
+  "arguments": [],
+  "parameters": {
+    "degree": 5,
+    "genus": 4
+  },
+  "reference_ids": [
+    "caporaso_1996_plane_curves"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

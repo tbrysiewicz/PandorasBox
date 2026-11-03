@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_schubert_osculating",
+  "question_id": "Q3",
+  "statement": "Let d>n, with partitions ν,λ¹,…,λᵏ totaling n(d−n). Prescribe ν at infinity and λʲ at distinct conjugation-invariant osculation points, with the first 2c points conjugately paired and λ^(2i−1)=λ^(2i). The real solution count with multiplicity is at least the absolute coefficient of ∏_i x_i^(d−i−ν_(n+1−i)) in Δ_n(x)∏_(i=1)^c s_(λ^(2i))(x₁²,…,x_n²)∏_(j=2c+1)^k s_(λʲ)(x), where Δ_n=∏_(i<j)(x_i−x_j) and s denotes a Schur polynomial.",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "Let d>n, with partitions ν,λ¹,…,λᵏ totaling n(d−n). Prescribe ν at infinity and λʲ at distinct conjugation-invariant osculation points, with the first 2c points conjugately paired and λ^(2i−1)=λ^(2i). The real solution count with multiplicity is at least the absolute coefficient of ∏_i x_i^(d−i−ν_(n+1−i)) in Δ_n(x)∏_(i=1)^c s_(λ^(2i))(x₁²,…,x_n²)∏_(j=2c+1)^k s_(λʲ)(x), where Δ_n=∏_(i<j)(x_i−x_j) and s denotes a Schur polynomial.",
+    "display": "≥ absolute Schur-coefficient bound",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "mukhin_2014_real_lower"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1404.7194v1",
+    "location": "Corollary 7.3, printed p. 10; Theorem 7.2 and Proposition 7.1, printed p. 9",
+    "version": "arXiv:1404.7194v1 (28 April 2014), PDF pp. 9–10"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Counts algebraic multiplicities; for a reduced intersection these are ordinary real-point counts. Points not among the c conjugate pairs are real.\n\nImported from the 2026-10-26 catalogue record R_ef0263662c3f75e9; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Real osculating instances on Gr(n,d), allowing conjugate nonreal osculation parameters.",
+  "result_id": "R_fe650d7b3ed393877e1b98ed720bed8e7e220e1df81b2f7588102a464b85591b"
+}

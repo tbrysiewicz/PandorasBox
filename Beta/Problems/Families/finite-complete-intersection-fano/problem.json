@@ -1,0 +1,16 @@
+{
+  "problem_id": "P_finite_complete_intersection_fano",
+  "name": "Linear spaces on complete intersections",
+  "kind": "family",
+  "constructor_call": "linear_spaces_on_complete_intersection(n, k, degrees)",
+  "arguments": [],
+  "parameters": {},
+  "reference_ids": [
+    "hashimoto_2020_fano_monodromy",
+    "yahl_2022_fano_galois"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

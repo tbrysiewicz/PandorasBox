@@ -1,0 +1,21 @@
+{
+  "problem_id": "P_bitangents_plane_curves_degree",
+  "name": "Bitangents to plane curves",
+  "kind": "family",
+  "constructor_call": "plane_curve_bitangents(d)",
+  "arguments": [],
+  "parameters": {
+    "degree": [
+      4,
+      5
+    ]
+  },
+  "reference_ids": [
+    "cayley_1859_double_tangents",
+    "plucker_1834_curve_formula"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

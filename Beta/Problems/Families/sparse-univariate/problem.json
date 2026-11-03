@@ -1,0 +1,15 @@
+{
+  "problem_id": "P_sparse_univariate",
+  "name": "Sparse univariate polynomials",
+  "kind": "family",
+  "constructor_call": "sparse_univariate_polynomial(exponents)",
+  "arguments": [],
+  "parameters": {},
+  "reference_ids": [
+    "esterov_2018_wreath"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

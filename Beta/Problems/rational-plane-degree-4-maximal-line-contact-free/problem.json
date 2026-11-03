@@ -1,0 +1,18 @@
+{
+  "problem_id": "P_rational_plane_degree_4_maximal_line_contact_free",
+  "name": "Rational quartics with free maximal line contact",
+  "kind": "specific_problem",
+  "constructor_call": "rational_curves_with_line_contact(4, false)",
+  "arguments": [],
+  "parameters": {
+    "degree": 4,
+    "fixed_contact": false
+  },
+  "reference_ids": [
+    "fomin_2009_labeled_floors"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

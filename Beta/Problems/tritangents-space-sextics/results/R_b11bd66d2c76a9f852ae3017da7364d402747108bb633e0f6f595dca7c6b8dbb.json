@@ -1,0 +1,31 @@
+{
+  "problem_id": "P_tritangents_space_sextics",
+  "question_id": "Q1",
+  "statement": "A smooth canonical sextic obtained by intersecting a smooth quadric and a smooth cubic in projective 3-space over an algebraically closed field of characteristic different from two has 120 tritangent planes. The proof establishes a bijection with odd theta characteristics; each is represented by its contact divisor.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "text": "A smooth canonical sextic obtained by intersecting a smooth quadric and a smooth cubic in projective 3-space over an algebraically closed field of characteristic different from two has 120 tritangent planes. The proof establishes a bijection with odd theta characteristics; each is represented by its contact divisor.",
+    "display": "120",
+    "count": 120,
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "harris_2017_sextic_tritangents"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/1701.02353v1",
+    "location": "Theorem 2.1 and its theta-characteristic proof",
+    "version": "arXiv:1701.02353v1, 9 January 2017"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "A smooth quadric is required for this version of the statement. Contact-divisor interpretation allows appropriate special contacts; generic curves have distinct contact points.\n\nImported from the 2026-10-26 catalogue record R_e2974ebd2c22c2f6; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Smooth canonical sextic given by the transverse intersection of a smooth quadric and a smooth cubic in P3, characteristic not two.",
+  "result_id": "R_b11bd66d2c76a9f852ae3017da7364d402747108bb633e0f6f595dca7c6b8dbb"
+}

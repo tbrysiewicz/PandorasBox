@@ -1,0 +1,18 @@
+{
+  "reference_id": "hauenstein_2018_numerical_galois",
+  "title": "Numerical computation of Galois groups",
+  "authors": [
+    "Jonathan D. Hauenstein",
+    "Jose Israel Rodriguez",
+    "Frank Sottile"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "year": "2018",
+  "venue": "Foundations of Computational Mathematics 18(4), 867-890",
+  "doi": "10.1007/s10208-017-9356-x",
+  "url": "https://doi.org/10.1007/s10208-017-9356-x",
+  "preprint_url": "https://arxiv.org/abs/1605.07806"
+}

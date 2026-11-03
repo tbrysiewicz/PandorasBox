@@ -1,0 +1,15 @@
+{
+  "relationships": [
+    {
+      "source_problem_id": "P_kuramoto_rank_one_4",
+      "target_problem_id": "P_kuramoto_rank_one",
+      "relation_type": "instance_of",
+      "relation_statement": "Kuramoto equilibria on 4 oscillators with symmetric rank-one coupling, after fixing a reference phase.",
+      "inheritance_policy": "Only explicitly recorded source specializations are inherited."
+    }
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

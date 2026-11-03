@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_wronski_inverse",
+  "question_id": "Q3",
+  "statement": "For m+p odd, the real Wronski map Gr(m,R^(m+p))→RP^(mp) has topological degree up to sign I(m,p), the absolute sign imbalance of standard tableaux of rectangular shape m^p (equivalently ballot sequences on p symbols, each occurring m times). Thus it is surjective and every regular real fibre has at least I(m,p) real points. The sign imbalance is |Σ_T (−1)^inv(T)|, with the row-word inversion convention of equation (11).",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "For m+p odd, the real Wronski map Gr(m,R^(m+p))→RP^(mp) has topological degree up to sign I(m,p), the absolute sign imbalance of standard tableaux of rectangular shape m^p (equivalently ballot sequences on p symbols, each occurring m times). Thus it is surjective and every regular real fibre has at least I(m,p) real points. The sign imbalance is |Σ_T (−1)^inv(T)|, with the row-word inversion convention of equation (11).",
+    "display": "≥ |Σ_T (−1)^inv(T)|",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "eremenko_2001_wronski_degree"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/math/0108133v4",
+    "location": "Theorem 1; Corollary 2; equation (11)",
+    "version": "arXiv:math/0108133v4 (24 March 2021, corrected version)"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "The nonzero lower bound here assumes m+p odd. Do not confuse this real topological degree with the generic complex degree.\n\nImported from the 2026-10-26 catalogue record R_222e00b94017a5c7; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Real Wronski map Gr(m,m+p)→RP^(mp), with the domain convention and orientation specified in the paper.",
+  "result_id": "R_093c60a6e816b9301216a3b6215c991609d31b1e62d4b8dd88475187c40e7374"
+}

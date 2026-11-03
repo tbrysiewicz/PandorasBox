@@ -1,0 +1,15 @@
+{
+  "problem_id": "P_cuspidal_cubics_seven_points",
+  "name": "Cuspidal cubics through seven points",
+  "kind": "specific_problem",
+  "constructor_call": "cuspidal_cubics()",
+  "arguments": [],
+  "parameters": {},
+  "reference_ids": [
+    "aluffi_1991_singular_cubics"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

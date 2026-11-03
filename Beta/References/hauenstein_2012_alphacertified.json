@@ -1,0 +1,17 @@
+{
+  "reference_id": "hauenstein_2012_alphacertified",
+  "title": "Algorithm 921: alphaCertified: Certifying Solutions to Polynomial Systems",
+  "authors": [
+    "Jonathan D. Hauenstein",
+    "Frank Sottile"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "year": "2012",
+  "venue": "ACM Transactions on Mathematical Software 38(4), Article 28, 1–20",
+  "doi": "10.1145/2331130.2331136",
+  "url": "https://doi.org/10.1145/2331130.2331136",
+  "preprint_url": "https://arxiv.org/abs/1011.1091"
+}

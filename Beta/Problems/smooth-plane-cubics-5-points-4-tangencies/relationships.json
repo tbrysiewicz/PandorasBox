@@ -1,0 +1,22 @@
+{
+  "relationships": [
+    {
+      "source_problem_id": "P_smooth_plane_cubics_5_points_4_tangencies",
+      "target_problem_id": "P_smooth_plane_cubic_characteristic_numbers",
+      "relation_type": "instance_of",
+      "relation_statement": "Smooth irreducible plane cubics through 5 general points and tangent at smooth points to 4 general lines.",
+      "inheritance_policy": "Only explicitly recorded source specializations are inherited."
+    },
+    {
+      "source_problem_id": "P_smooth_plane_cubics_5_points_4_tangencies",
+      "target_problem_id": "P_plane_curve_characteristic_numbers",
+      "relation_type": "instance_of",
+      "relation_statement": "Smooth irreducible plane cubics through 5 general points and tangent at smooth points to 4 general lines.",
+      "inheritance_policy": "Only explicitly recorded source specializations are inherited."
+    }
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

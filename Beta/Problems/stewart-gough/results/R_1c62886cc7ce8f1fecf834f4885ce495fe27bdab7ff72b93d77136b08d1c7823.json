@@ -1,0 +1,31 @@
+{
+  "problem_id": "P_stewart_gough",
+  "question_id": "Q1",
+  "statement": "The affine kinematic variety SE_3⊂C16 has dimension six and degree 40. In the coordinates (r,x,y,M), each of the six fixed-length leg constraints is the linear equation (4). For general platform/base geometry and lengths their intersection is zero-dimensional with 40 complex assembly configurations. Theorem 5.1 independently gives deg(SE_3)=deg(SO_4)=40 for this embedding.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "text": "The generic complex assembly count is 40.",
+    "display": "40",
+    "count": 40,
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "hauenstein_2018_exceptional_stewart"
+  ],
+  "source": {
+    "url": "https://academicweb.nd.edu/~jhauenst/preprints/hswStewartGough.pdf",
+    "location": "§2, Eqs. (1)–(4) and generic-count paragraph (pp.3–4); Theorem 5.1",
+    "version": "Author preprint dated 7 January 2018, 24 pages"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Special mechanisms can have fewer isolated configurations or positive-dimensional fibres. The degree assertion is tied to the augmented embedding and the justified generic leg sections.\n\nImported from the 2026-10-26 catalogue record R_0ad13c45c454067e; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "General spatial Stewart–Gough six-leg geometry, with each leg condition expressed as a hyperplane in the augmented SE_3 embedding.",
+  "result_id": "R_1c62886cc7ce8f1fecf834f4885ce495fe27bdab7ff72b93d77136b08d1c7823"
+}

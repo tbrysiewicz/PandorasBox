@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_laman_plane",
+  "question_id": "Q1",
+  "statement": "For every n≥5, M2(n)≥8·2^((n−5) mod 19)·(611930960/8)^floor((n−5)/19). Here M2(n) is the maximum generic complex planar count, with reflected solutions distinct. The twenty-four-vertex building block has 611,930,960 realizations and a five-vertex subgraph with eight realizations. The resulting exponential growth base is approximately 2.59972.",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "For n≥5, M2(n)≥8·2^((n−5) mod 19)·76491370^floor((n−5)/19).",
+    "display": "For n≥5, M2(n)≥8·2^((n−5) mod 19)·76491370^floor((n−5)/19).",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "grasegger_2025_explorations"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/2502.04736v1",
+    "location": "Theorem 5 and the immediately preceding encoded 24-vertex graph (printed p.5; PDF index 4)",
+    "version": "arXiv:2502.04736v1 (2025), HTML"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "A maximum over graphs of generic complex counts; not a bound on maximum real realizations. Reflections are distinct.\n\nImported from the 2026-10-26 catalogue record R_fe18c3c7ca004ff0; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Generic complex realization counts of n-vertex Laman graphs, modulo direct isometries.",
+  "result_id": "R_5f0dd54abf9e054a09f86593f4293f4487aabd17b953caf542b20a8dcb14a3aa"
+}

@@ -1,0 +1,32 @@
+{
+  "problem_id": "P_stiefel_4_4_sections",
+  "question_id": "Q1",
+  "statement": "A general complementary affine linear section of St(4,4) has 80 complex points.",
+  "answer": {
+    "count": 80,
+    "display": "80",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "brysiewicz_2019_stiefel"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1909.10085v2",
+    "location": "Theorem 1.1; Table 1, printed page 7, row k=4, column n=4",
+    "version": "arXiv:1909.10085v2 (9 April 2021)"
+  },
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_stiefel_linear_sections",
+    "inheritance_basis": "Table 1, row k=4, column n=4.",
+    "original_result_id": "R_7697a26aafe67fbae7e6aac8bbb4e170bed51ab8c35af49e08b0a60b2bc98d11"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Source specialization: Table 1, row k=4, column n=4.",
+  "result_id": "R_009f128207ea8a6854628c79bd45832405caa8fe951a0ea3ac11af73447c9271"
+}

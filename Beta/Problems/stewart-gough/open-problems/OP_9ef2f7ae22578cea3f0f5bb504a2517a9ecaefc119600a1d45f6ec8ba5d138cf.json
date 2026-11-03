@@ -1,0 +1,19 @@
+{
+  "problem_id": "P_stewart_gough",
+  "question_id": "Q8",
+  "statement": "Classify all Stewart–Gough platforms with self-motion when the six leg lengths are fixed.",
+  "reference_ids": [
+    "hauenstein_2018_exceptional_stewart"
+  ],
+  "source": {
+    "url": "https://academicweb.nd.edu/~jhauenst/preprints/hswStewartGough.pdf",
+    "location": "Introduction, printed page 2 (PDF page 2); reiterated in the paper's conclusion.",
+    "version": "Source date recorded in the legacy catalogue: 2018-01-07"
+  },
+  "notes": "Open question stated in the cited source. No new verification of present-day unresolved status was performed for this import.",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "open_problem_id": "OP_9ef2f7ae22578cea3f0f5bb504a2517a9ecaefc119600a1d45f6ec8ba5d138cf"
+}

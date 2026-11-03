@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_tritangents_space_sextics",
+  "question_id": "Q8",
+  "statement": "In the coefficient space P9 × P19 of quadric/cubic pairs, the singular-sextic locus, the locus with a tritangent having two colliding contact points, and the locus with distinct tritangents sharing a contact are irreducible reduced hypersurfaces. Their respective bidegrees in quadric and cubic coefficients are (33,34), (744,592), and (8862,5236).",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "In the coefficient space P9 × P19 of quadric/cubic pairs, the singular-sextic locus, the locus with a tritangent having two colliding contact points, and the locus with distinct tritangents sharing a contact are irreducible reduced hypersurfaces. Their respective bidegrees in quadric and cubic coefficients are (33,34), (744,592), and (8862,5236).",
+    "display": "Bidegrees (33,34), (744,592), (8862,5236)",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "kulkarni_2017_space_sextics"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/1712.06274v2",
+    "location": "Theorem 5.4; definitions of Delta1, Delta2, Delta3 immediately preceding it in Section 5",
+    "version": "arXiv:1712.06274v2, 7 June 2018"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "These are coefficient-space bidegrees, not tritangent counts or the degree of the sextic.\n\nImported from the 2026-10-26 catalogue record R_f8cea3a7a53b574e; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Pairs of a quadric Q and cubic K in P9 × P19 defining canonical space sextics and their odd-theta tritangents.",
+  "result_id": "R_a3fbf7dcf7f3c737f69dcc9c52316acaf91e0b616a9e8c91b756c308814a4d70"
+}

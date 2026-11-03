@@ -1,0 +1,15 @@
+{
+  "relationships": [
+    {
+      "source_problem_id": "P_plane_curves_degree_5_genus_6",
+      "target_problem_id": "P_plane_curves_degree_genus",
+      "relation_type": "instance_of",
+      "relation_statement": "Irreducible plane curves of degree 5 and geometric genus 6 through 20 general points.",
+      "inheritance_policy": "Only explicitly recorded source specializations are inherited."
+    }
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

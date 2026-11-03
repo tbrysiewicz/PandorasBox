@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_so4_linear_sections",
+  "question_id": "Q4",
+  "statement": "The authors report alpha-theory certification of at least one witness set attaining their observed maximum of 30 real points on SO(4). This is a lower bound on the maximum, not a proof that 30 is maximal.",
+  "status": "partial",
+  "evidence": "certified_computation",
+  "answer": {
+    "count": 30,
+    "display": "≥30",
+    "relation": "at_least"
+  },
+  "reference_ids": [
+    "brandt_2017_degree_so"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/1701.03200v2",
+    "location": "Section 7, certification paragraph and Table 4, n=4",
+    "version": "arXiv:1701.03200v2, 13 January 2017"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "The paper says only selected maximum witnesses were certified; its full frequency table is numerical. Certificates were not rerun.\n\nImported from the 2026-10-26 catalogue record R_a7b83ced3a66937d; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Generic real complementary affine sections of SO(4) in matrix-entry coordinates.",
+  "result_id": "R_e7ecc3112e749e01a44f6bd8c5835117bab5d5102c5cbecc8ab0e91f9967f651"
+}

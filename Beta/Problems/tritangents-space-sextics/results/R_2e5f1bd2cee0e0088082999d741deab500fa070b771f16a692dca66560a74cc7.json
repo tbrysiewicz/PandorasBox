@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_tritangents_space_sextics",
+  "question_id": "Q5",
+  "statement": "For s>0 ovals: 8(2^(s−1)−1) real planes in the separating case; 2^(s+2) otherwise. This is the real-plane count by topology on the source locus, not the separate spectrum of totally-real contact planes. The full generic-plane spectrum is not asserted here.",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "For s>0 ovals: 8(2^(s−1)−1) real planes in the separating case; 2^(s+2) otherwise.",
+    "display": "For s>0 ovals: 8(2^(s−1)−1) real planes in the separating case; 2^(s+2) otherwise.",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "kulkarni_2017_space_sextics"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/1712.06274v2",
+    "location": "Theorem 1.1; proof in Section 2",
+    "version": "arXiv:1712.06274v2, 7 June 2018"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "This proves attainability, not exclusion of counts below 84 or classification of connected chambers. The odd-theta convention excludes the infinite ruling family on a quadric cone. Generic-scope migration: This is the real-plane count by topology on the source locus, not the separate spectrum of totally-real contact planes. The full generic-plane spectrum is not asserted here.\n\nImported from the 2026-10-26 catalogue record R_1e9e5b5ab8b2cf7f; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Smooth genus-four space sextics with five ovals; only odd-theta tritangents with three distinct real contacts.",
+  "result_id": "R_2e5f1bd2cee0e0088082999d741deab500fa070b771f16a692dca66560a74cc7"
+}

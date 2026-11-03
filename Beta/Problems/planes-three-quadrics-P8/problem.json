@@ -1,0 +1,16 @@
+{
+  "problem_id": "P_planes_three_quadrics_P8",
+  "name": "Planes on three quadrics in P⁸",
+  "kind": "specific_problem",
+  "constructor_call": "linear_spaces_on_complete_intersection(8, 2, [2, 2, 2])",
+  "arguments": [],
+  "parameters": {},
+  "reference_ids": [
+    "hashimoto_2020_fano_monodromy",
+    "yahl_2022_fano_galois"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

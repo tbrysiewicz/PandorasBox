@@ -1,0 +1,19 @@
+{
+  "problem_id": "P_so_linear_sections",
+  "question_id": "Q4",
+  "statement": "Does every SO(n), for n at least 5, have a complementary real linear section consisting entirely of real points?",
+  "reference_ids": [
+    "brandt_2017_degree_so"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1701.03200",
+    "location": "Conjecture 7.1, Section 7, printed page 17 (PDF page 17); original general conjecture, with the unresolved range updated using Brysiewicz–Gesmundo 2026.",
+    "version": "Source date recorded in the legacy catalogue: 2017-01-13"
+  },
+  "notes": "Open question stated in the cited source. No new verification of present-day unresolved status was performed for this import.",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "open_problem_id": "OP_8b866c97549b6d1e741723c01eba0815e0e0f2dfb096103b0e0fd603fd0a2330"
+}

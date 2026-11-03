@@ -1,0 +1,17 @@
+{
+  "problem_id": "P_kuramoto_rank_one_3",
+  "name": "Rank-one Kuramoto equilibria on 3 oscillators",
+  "kind": "specific_problem",
+  "constructor_call": "rank_one_kuramoto(3)",
+  "arguments": [],
+  "parameters": {
+    "n": 3
+  },
+  "reference_ids": [
+    "coss_2017_rank_one_kuramoto"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

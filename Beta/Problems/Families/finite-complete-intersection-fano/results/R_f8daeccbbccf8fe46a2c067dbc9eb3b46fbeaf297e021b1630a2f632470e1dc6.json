@@ -1,0 +1,29 @@
+{
+  "problem_id": "P_finite_complete_intersection_fano",
+  "question_id": "Q2",
+  "statement": "For every finite Fano problem except lines on a cubic surface and linear spaces on intersections of two quadrics, the geometric monodromy contains the alternating group on its N solutions, hence is A_N or S_N. For k-planes on two quadrics in P^(2k+2), the monodromy is W(D_(2k+3)) in characteristic different from two.",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "For every finite Fano problem except lines on a cubic surface and linear spaces on intersections of two quadrics, the geometric monodromy contains the alternating group on its N solutions, hence is A_N or S_N. For k-planes on two quadrics in P^(2k+2), the monodromy is W(D_(2k+3)) in characteristic different from two.",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "hashimoto_2020_fano_monodromy"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/2002.04580",
+    "location": "Theorems 1.1 and 1.2, printed pp.1–2",
+    "version": "arXiv:2002.04580v2, 22 November 2020"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "The alternating-versus-symmetric alternative is not resolved in general in this paper; Yahl settles all nonexceptional types of degree <75,000. The two-quadric equality uses char K≠2; complex geometry satisfies this.\n\nImported from the 2026-10-26 catalogue record R_4bdc9f66370c05a2; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "r-dimensional projective linear spaces on a general complex complete intersection of the specified multidegree in P^n, when the Fano scheme is finite.",
+  "result_id": "R_f8daeccbbccf8fe46a2c067dbc9eb3b46fbeaf297e021b1630a2f632470e1dc6"
+}

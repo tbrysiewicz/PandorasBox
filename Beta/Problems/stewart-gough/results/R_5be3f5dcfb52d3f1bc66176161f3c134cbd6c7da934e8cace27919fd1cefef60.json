@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_stewart_gough",
+  "question_id": "Q8",
+  "statement": "A mobility-one Stewart–Gough hexapod has conformal configuration-curve degree at most 28 if base and platform are not both planar, are not related by a similarity, and neither six-point set has parallel lines through disjoint pairs of points. Proposition 3.2 also proves mobility for bases with an order-three isometry cycling (1,2,3) and (4,5,6): choose platform order (4,6,5,1,3,2), scale one, and the specified three-dimensional linear family of squared leg lengths.",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "Conformal degree ≤28 under explicit nondegeneracy hypotheses; Proposition 3.2 gives an order-three-symmetric family with self-motion.",
+    "display": "Conformal degree ≤28 under explicit nondegeneracy hypotheses; Proposition 3.2 gives an order-three-symmetric family with self-motion.",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "gallet_2017_liaison"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/1510.01127v1",
+    "location": "Theorem 1.34; Definitions 1.1 and 1.19; Proposition 3.2",
+    "version": "arXiv:1510.01127v1, 5 October 2015"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Conformal curve degree in P16 is not a generic isolated-posture count. The general liaison construction remains conjectural; the extraction separately identifies the proved bound and a proved mobility construction. It does not assert that every subfamily instance has degree 28. Migration: Merge exceptional-fibre behaviour into Exceptional locus; preserve each source result separately.\n\nImported from the 2026-10-26 catalogue record R_b24505648e1e288f; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Mobility-one hexapods with non-planar, non-equiform base/platform; both point configurations non-parallel in the paper's sense.",
+  "result_id": "R_5be3f5dcfb52d3f1bc66176161f3c134cbd6c7da934e8cace27919fd1cefef60"
+}

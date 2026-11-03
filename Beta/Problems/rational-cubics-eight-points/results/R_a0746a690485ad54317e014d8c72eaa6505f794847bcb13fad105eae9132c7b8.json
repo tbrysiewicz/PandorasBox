@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_rational_cubics_eight_points",
+  "question_id": "Q8",
+  "statement": "The rational-cubic count, with intersection multiplicity, is below 12 exactly when three points are collinear or six lie on an irreducible conic. The completed singular-cubic fibre is infinite exactly when four are collinear or seven lie on a conic; then no irreducible cubic exists. There are 779777 quatroid strata (125 relabelling orbits). Each is irreducible except the 840 relabellings of (I,J)=({123,145,167,246,258,357,368,478},empty), whose strata each have two irreducible components.",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "The multiplicity-weighted count drops below 12 exactly on the collinear-triple or conic-sextuple locus; completed infinite fibres and the quatroid strata are classified.",
+    "display": "Count-drop locus: collinear triple or conic sextuple; infinite completed fibre: four collinear or seven on a conic",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "brysiewicz_2023_quatroids"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/2309.07357v1",
+    "location": "Propositions 2.1 and 2.4; Theorem 2.5; Corollary 3.21; Theorem 4.1; Table 4, row 41",
+    "version": "arXiv:2309.07357v1, 14 September 2023, full-text HTML; journal metadata verified separately (2024)"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Proposed addition. Components belong to parameter strata, not solution fibres. The infinite completed fibres contain reducible cubics; the irreducible-rational fibre is empty there. This is not a full ramification or distinct-root classification. Migration: Merge exceptional-fibre behaviour into Exceptional locus; preserve each source result separately.\n\nImported from the 2026-10-26 catalogue record R_f009403df5b12cfc; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Eight labelled distinct points p in complex projective 2-space; irreducible singular cubics, weighted by intersection multiplicity of their cubic pencil with the cubic discriminant. Quatroids specify all collinear triples and irreducible-conic sextuples.",
+  "result_id": "R_a0746a690485ad54317e014d8c72eaa6505f794847bcb13fad105eae9132c7b8"
+}

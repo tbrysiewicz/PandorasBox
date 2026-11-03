@@ -1,0 +1,32 @@
+{
+  "problem_id": "P_smooth_plane_quartics_8_points_6_tangencies",
+  "question_id": "Q1",
+  "statement": "There are 46656 smooth plane quartics through 8 general points and properly tangent to 6 general lines.",
+  "answer": {
+    "count": 46656,
+    "display": "46656",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "vakil_1999_quartic_characteristic"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/math/9812018v1",
+    "location": "Theorem8.1 and Table7, arXiv v1 printed page24",
+    "version": "arXiv:math/9812018v1 (2December1998)"
+  },
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_smooth_plane_quartic_characteristic_numbers",
+    "inheritance_basis": "Table 7, entry a=8 point conditions.",
+    "original_result_id": "R_4f733e1fb33f987b22de2be35c0e6ebe9d54b3d2a65d8d742f3064784ba58822"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Source specialization: Table 7, entry a=8 point conditions.",
+  "result_id": "R_10e11c8c723fd858acabd67a00ebb82f7153d401610accb4390191bb489da516"
+}

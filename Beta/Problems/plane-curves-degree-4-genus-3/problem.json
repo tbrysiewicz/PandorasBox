@@ -1,0 +1,20 @@
+{
+  "problem_id": "P_plane_curves_degree_4_genus_3",
+  "name": "Plane quartics of genus 3 through 14 points",
+  "kind": "specific_problem",
+  "constructor_call": "plane_curves(4, 3)",
+  "arguments": [],
+  "parameters": {
+    "degree": 4,
+    "genus": 3
+  },
+  "reference_ids": [
+    "caporaso_1996_plane_curves",
+    "fomin_2009_labeled_floors",
+    "vakil_1999_quartic_characteristic"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_laman_plane",
+  "question_id": "Q4",
+  "statement": "The §4.1 computations complete the seven-vertex Laman real-count classification. The displayed larger examples attain all 136 and 344 complex realizations over the reals for the eight- and nine-vertex graphs L136 and L344, respectively; for L880 the verified lower bound is 860, not the 868 suggested by floating-point output. The final counts were checked with Maple RootFinding[Isolate].",
+  "status": "partial",
+  "evidence": "certified_computation",
+  "answer": {
+    "text": "Completes the seven-vertex classification and gives certified total reality for L136 and L344; L880 has at least 860 real realizations.",
+    "display": "Completes the seven-vertex classification and gives certified total reality for L136 and L344; L880 has at least 860 real realizations.",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "bartzos_2021_real_rigid"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/1811.12800v1",
+    "location": "§4 verification paragraph; §4.1 first two paragraphs and unnumbered table with columns L136,L344,L880 (rows c2 and r2)",
+    "version": "arXiv:1811.12800v1 (2018), HTML"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Section 4 states final counts verified with Maple RootFinding[Isolate]; certificates not independently rerun. Graph classification is not parameter-chamber classification.\n\nImported from the 2026-10-26 catalogue record R_cf83ca00780d0c1f; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Seven-vertex Laman graphs and the specific eight-, nine-, ten-vertex graphs L136,L344,L880 of Figure 9; real edge labels; modulo translations and rotations.",
+  "result_id": "R_584f8f29bf795e0352362c1a0177ad40c3277bf415d90ec733bea5977712d044"
+}

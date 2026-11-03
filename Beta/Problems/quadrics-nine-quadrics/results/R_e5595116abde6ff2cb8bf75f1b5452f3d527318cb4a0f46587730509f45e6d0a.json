@@ -1,0 +1,31 @@
+{
+  "problem_id": "P_quadrics_nine_quadrics",
+  "question_id": "Q1",
+  "statement": "On the space of complete quadrics in P3, a quadric-tangency condition has divisor class q=2(p+l+h), where p,l,h impose incidence with a point, tangency to a line, and tangency to a plane. Consequently nine general quadric-tangency conditions have q^9=2^9 sum_(alpha+beta+gamma=9) [9!/(alpha!beta!gamma!)] p^alpha l^beta h^gamma=666841088 nonsingular complex solutions.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "text": "On the space of complete quadrics in P3, a quadric-tangency condition has divisor class q=2(p+l+h), where p,l,h impose incidence with a point, tangency to a line, and tangency to a plane. Consequently nine general quadric-tangency conditions have q^9=2^9 sum_(alpha+beta+gamma=9) [9!/(alpha!beta!gamma!)] p^alpha l^beta h^gamma=666841088 nonsingular complex solutions.",
+    "display": "666841088",
+    "count": 666841088,
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "brysiewicz_2020_tangent_quadrics"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/2010.10879v2",
+    "location": "Proposition 2.2, equation (6), p. 4; equation (1), p. 2",
+    "version": "arXiv:2010.10879v2 (19 May 2021); printed/PDF pp. 2,4"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Total reality for this nine-quadric problem is an aim, not a result of the paper.\n\nImported from the 2026-10-26 catalogue record R_8307a860c8d9b807; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Nonsingular quadrics tangent to nine general quadrics in P3.",
+  "result_id": "R_e5595116abde6ff2cb8bf75f1b5452f3d527318cb4a0f46587730509f45e6d0a"
+}

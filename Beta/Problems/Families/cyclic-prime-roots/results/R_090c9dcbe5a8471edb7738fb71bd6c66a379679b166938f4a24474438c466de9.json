@@ -1,0 +1,31 @@
+{
+  "problem_id": "P_cyclic_prime_roots",
+  "question_id": "Q1",
+  "statement": "For every prime p, the labelled cyclic p-root system has finitely many solutions and their total intersection multiplicity is binom(2p−2,p−1). The corresponding cyclic-sum map on (C*)^p is proper of that multiplicity. Distinct-root equality is not asserted for every prime.",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "There are binom(2p−2,p−1) cyclic p-roots with multiplicity.",
+    "display": "binom(2p−2,p−1), with multiplicity",
+    "relation": "partial",
+    "multiplicity": "Total intersection multiplicity; distinctness is not asserted."
+  },
+  "reference_ids": [
+    "haagerup_2008_cyclic_prime"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/0803.2629v1",
+    "location": "Theorem 6.4, printed p.23; Theorem 3.5",
+    "version": "arXiv:0803.2629v1, 18 March 2008"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Do not confuse ordinary real z-coordinates with unimodular cyclic roots/CAZAC sequences. All cyclic relabellings are counted.\n\nImported from the 2026-10-26 catalogue record R_0683fe549ebc1287; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Labelled z=(z_0,...,z_(n−1))∈(C*)^n satisfying Σ_i z_i...z_(i+k−1)=0 for k=1,...,n−1 (indices modulo n), and ∏_i z_i=1; no symmetry quotient. Restrict n=p prime.",
+  "result_id": "R_090c9dcbe5a8471edb7738fb71bd6c66a379679b166938f4a24474438c466de9"
+}

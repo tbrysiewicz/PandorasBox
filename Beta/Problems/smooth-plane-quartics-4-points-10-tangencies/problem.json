@@ -1,0 +1,20 @@
+{
+  "problem_id": "P_smooth_plane_quartics_4_points_10_tangencies",
+  "name": "Smooth quartics through 4 points and tangent to 10 lines",
+  "kind": "specific_problem",
+  "constructor_call": "smooth_plane_curve_conditions(4, 4, 10)",
+  "arguments": [],
+  "parameters": {
+    "degree": 4,
+    "nodes": 0,
+    "point_conditions": 4,
+    "tangencies": 10
+  },
+  "reference_ids": [
+    "vakil_1999_quartic_characteristic"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

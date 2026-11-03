@@ -1,0 +1,27 @@
+{
+  "problem_id": "P_nodal_plane_cubic_characteristic_numbers",
+  "name": "Nodal cubics through points and tangent to lines",
+  "kind": "family",
+  "constructor_call": "nodal_cubic_conditions(k)",
+  "arguments": [],
+  "parameters": {
+    "k": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  "reference_ids": [
+    "aluffi_1991_singular_cubics"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

@@ -1,0 +1,21 @@
+{
+  "problem_id": "P_laman_plane",
+  "name": "Planar Laman graph realizations",
+  "kind": "family",
+  "constructor_call": "laman_realizations(graph)",
+  "arguments": [],
+  "parameters": {},
+  "reference_ids": [
+    "bartzos_2021_real_rigid",
+    "bartzos_2022_upper_rigid",
+    "borcea_2004_rigid_embeddings",
+    "capco_2018_laman",
+    "grasegger_2018_lower_rigid",
+    "grasegger_2025_explorations",
+    "steffens_2009_mixed_laman"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": []
+}

@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_schubert_osculating",
+  "question_id": "Q4",
+  "statement": "For any Grassmannian Gr(k,n), let λ¹,…,λˢ fit its k×(n−k) rectangle and satisfy Σ|λᶦ|=k(n−k). At distinct real osculation parameters, the associated Schubert varieties intersect transversely in exactly their complex Schubert intersection number of distinct real points. In the paper’s polynomial-subspace notation this count is dim((⊗_s L_(λ^(s)))_λ^sing), including the specified condition at infinity.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "text": "For any Grassmannian Gr(k,n), let λ¹,…,λˢ fit its k×(n−k) rectangle and satisfy Σ|λᶦ|=k(n−k). At distinct real osculation parameters, the associated Schubert varieties intersect transversely in exactly their complex Schubert intersection number of distinct real points. In the paper’s polynomial-subspace notation this count is dim((⊗_s L_(λ^(s)))_λ^sing), including the specified condition at infinity.",
+    "display": "∫_Gr(k,n) ∏ᵢσ_(λᵢ)",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "mukhin_2007_schubert_representations"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/0711.4079v1",
+    "location": "Corollary 6.3(i)–(ii), Section 6.1",
+    "version": "arXiv:0711.4079v1 (26 November 2007)"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "Distinct real osculation parameters are required; the polynomial-subspace formulation includes the prescribed Schubert condition at infinity.\n\nImported from the 2026-10-26 catalogue record R_ebf700020cff6ee5; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "Zero-dimensional intersections with prescribed partitions and flags osculating a rational normal curve at distinct real parameters.",
+  "result_id": "R_95d13c5c1832ed9bb5aff6a4b86e2a707206504d97594a6863e5a4bc8cec53bb"
+}

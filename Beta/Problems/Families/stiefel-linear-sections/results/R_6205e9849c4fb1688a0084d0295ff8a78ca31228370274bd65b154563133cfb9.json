@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_stiefel_linear_sections",
+  "question_id": "Q2",
+  "statement": "For k<n, generic unrestricted complementary affine sections of St(k,n) have geometric monodromy S_D, where D is the matrix-entry degree.",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "For k<n, generic unrestricted complementary affine sections of St(k,n) have geometric monodromy S_D, where D is the matrix-entry degree.",
+    "display": "For k<n: S_D, D=deg St(k,n). The k=n orthogonal case is excluded here.",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "kadets_2018_sectional_monodromy"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1809.07293v2",
+    "location": "Proposition 1.1 (PDF p.1); Remark 3.4 (PDF p.8); explicit Bertini reduction in caveats",
+    "version": "arXiv:1809.07293v2 (24 October 2018). Proposition 1.1 and its proof apply in characteristic zero. The 2023 corrigendum concerns a characteristic-seven trinomial and does not affect this application."
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261103"
+  ],
+  "checked_by": [],
+  "notes": "This is an explicitly deduced consequence, not a claim that Kadets discusses this named variety. Take a general codimension dim(V)−1 linear section of the irreducible projective closure V. Bertini gives an integral curve C of degree D. Proposition 1.1 gives S_D as C meets a variable hyperplane; these loops are a subfamily of the unrestricted complementary-section problem, so the ambient monodromy contains S_D and equals S_D. For affine sections, a general complementary section misses the boundary V at infinity, which has dimension dim(V)−1; restricting the unramified base to this nonempty open preserves monodromy. This argument does not apply to fixed coordinate projections, physically constrained measurement subfamilies or reducible varieties. This fills only k<n. At k=n the variety is O(n), with two components; the full symmetric-group argument is inapplicable. Irreducibility and smoothness for k<n are proved in Brysiewicz–Gesmundo, arXiv:1909.10085v2, Lemma 2.4; degree in Theorem 1.1 and Corollary 4.2, https://arxiv.org/html/1909.10085v2 .\n\nImported from the 2026-10-26 catalogue record R_499c23cf700d2185; the source claim has not been newly rechecked against the paper for this beta import.",
+  "scope": "St(k,n)={X in C^(k×n): XX^T=I_k}, n≥k, in its matrix-entry embedding; generic complementary affine linear section.",
+  "result_id": "R_6205e9849c4fb1688a0084d0295ff8a78ca31228370274bd65b154563133cfb9"
+}
