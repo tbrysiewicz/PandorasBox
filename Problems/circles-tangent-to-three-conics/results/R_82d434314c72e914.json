@@ -29,6 +29,6 @@
     "original_result_id": "R_82d434314c72e914"
   },
   "headline": true,
-  "scope": "Three general complex plane conics; circles are conics through the two circular points at infinity.",
+  "scope": "Minimum over real coefficient triples of plane conics outside the real discriminant in R^18 for the source’s circle/contact-point system. The zero-real-circle instance supplied by Theorem 3.1 attains the nonnegative lower bound; it is an existence construction, not a claim that every real triple has zero real circles.",
   "notes": "An attained exact minimum. The paper explicitly places the examples outside the real discriminant; its certificates are cited, not rerun."
 }

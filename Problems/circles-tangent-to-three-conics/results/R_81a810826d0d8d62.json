@@ -2,9 +2,9 @@
   "result_id": "R_81a810826d0d8d62",
   "problem_id": "P_circles_three_conics",
   "question_id": "Q4",
-  "statement": "There exist three real plane conics with exactly 136 real tritangent circles. The proof supplies a specific rational triple, obtained by perturbing a triangle degeneration and hill climbing, and certifies its solutions. Hence the global maximum is at least136; the paper’s separate conjecture that136 is maximal is not part of the proved statement and has been disproved.",
+  "statement": "There exist three real plane conics with exactly 136 real tritangent circles. The proof supplies a specific rational triple, obtained by perturbing a triangle degeneration and hill climbing, and certifies its solutions. Hence the global maximum is at least 136. The source’s separate conjecture that 136 is maximal is not part of the proved statement.",
   "answer": {
-    "text": "There exist three real plane conics with exactly 136 real tritangent circles. The proof supplies a specific rational triple, obtained by perturbing a triangle degeneration and hill climbing, and certifies its solutions. Hence the global maximum is at least136; the paper’s separate conjecture that136 is maximal is not part of the proved statement and has been disproved.",
+    "text": "There exist three real plane conics with exactly 136 real tritangent circles. The proof supplies a specific rational triple, obtained by perturbing a triangle degeneration and hill climbing, and certifies its solutions. Hence the global maximum is at least 136. The source’s separate conjecture that 136 is maximal is not part of the proved statement.",
     "count": 136,
     "relation": "at_least",
     "lower_bound": 136
@@ -28,5 +28,5 @@
     "original_result_id": "R_81a810826d0d8d62"
   },
   "scope": "Three real plane conics, with distinct real tritangent circles.",
-  "notes": "136 is a construction, not the maximum; see Brysiewicz 2026 and Liu et al. 2026."
+  "notes": "The certified construction gives an attained count of 136 and a lower bound on the maximum. Optimality is conjectured, not proved, in this source."
 }

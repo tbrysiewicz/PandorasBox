@@ -7,7 +7,8 @@
     "text": "Gaussian sampling studied; no verified mean",
     "display": "Gaussian sampling studied; no verified mean",
     "relation": "partial",
-    "qualification": "The paper does not report an exact expectation or validated mean. The linked raw D2 labels include odd counts and values exceeding the textual cutoff of 60, so an unvalidated sample mean is not promoted to a mathematical answer."
+    "qualification": "The paper does not report an exact expectation or validated mean. The linked raw D2 labels include odd counts and values exceeding the textual cutoff of 60, so an unvalidated sample mean is not promoted to a mathematical answer.",
+    "distribution": "Independent standard-normal conic coefficients in the paper’s 18 monomial coordinates, N(0_18,I_18), for data set D2; excludes the hill-climbing augmentation in D1."
   },
   "status": "partial",
   "evidence": "numerical_evidence",

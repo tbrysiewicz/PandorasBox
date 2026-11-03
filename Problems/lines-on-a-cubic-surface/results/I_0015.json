@@ -4,7 +4,10 @@
   "question_id": "Q6",
   "statement": "A Kostlan Gaussian real cubic surface has expected real-line count 6√2−3.",
   "answer": {
-    "text": "A Kostlan Gaussian real cubic surface has expected real-line count 6√2−3."
+    "text": "A Kostlan Gaussian real cubic surface has expected real-line count 6√2−3.",
+    "value": "6√2−3",
+    "relation": "equal",
+    "distribution": "Kostlan Gaussian ensemble of real homogeneous cubic polynomials in four variables: independent centered monomial coefficients with variance equal to the corresponding multinomial coefficient."
   },
   "status": "solved",
   "evidence": "theorem",
@@ -14,7 +17,7 @@
   "source": {
     "url": "https://arxiv.org/pdf/1610.01205v2",
     "location": "Theorem 4 (p. 11); Theorem 11 (p. 23)",
-    "version": ""
+    "version": "arXiv:1610.01205v2 (8 November 2016); printed/PDF pages coincide"
   },
   "generated_by": [
     "Taylor Brysiewicz - AI"
@@ -22,7 +25,7 @@
   "checked_by": [],
   "origin": {
     "kind": "inherited",
-    "original_result_id": "I_0015",
+    "original_result_id": "R_fc63d4565a608250",
     "source_problem_id": "P_lines_degree_2n3_hypersurfaces",
     "inheritance_basis": "Set n=3 in the family and use the exact value in Theorem 4."
   },

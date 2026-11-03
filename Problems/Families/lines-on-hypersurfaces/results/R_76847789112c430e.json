@@ -4,7 +4,9 @@
   "question_id": "Q1",
   "statement": "For a generic degree d=2n-3 hypersurface in CP^n, its line count is C_n=[d^(2n-2)/(Gamma(n)Gamma(n+1))] product_(k=0)^d binom(d,k)^(-1) E|det J|^2. The (2n-2)-square matrix J has paired columns (w,0),(0,w) for n-1 independent complex Gaussian vectors w of length d, with independent entries and E|w_j|^2=binom(d-1,j-1). In particular C_3=27.",
   "answer": {
-    "text": "For a generic degree d=2n-3 hypersurface in CP^n, its line count is C_n=[d^(2n-2)/(Gamma(n)Gamma(n+1))] product_(k=0)^d binom(d,k)^(-1) E|det J|^2. The (2n-2)-square matrix J has paired columns (w,0),(0,w) for n-1 independent complex Gaussian vectors w of length d, with independent entries and E|w_j|^2=binom(d-1,j-1). In particular C_3=27."
+    "text": "For a generic degree d=2n-3 hypersurface in CP^n, its line count is C_n=[d^(2n-2)/(Gamma(n)Gamma(n+1))] product_(k=0)^d binom(d,k)^(-1) E|det J|^2. The (2n-2)-square matrix J has paired columns (w,0),(0,w) for n-1 independent complex Gaussian vectors w of length d, with independent entries and E|w_j|^2=binom(d-1,j-1). In particular C_3=27.",
+    "formula": "C_n = [d^(2n−2)/(Γ(n)Γ(n+1))] (∏_{k=0}^d binom(d,k)^(−1)) E|det J|²",
+    "relation": "equal"
   },
   "status": "solved",
   "evidence": "theorem",

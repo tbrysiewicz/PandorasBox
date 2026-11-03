@@ -7,7 +7,7 @@
     "text": "D₈ ⋊ Inn(D₈) (order 32)",
     "display": "D₈ ⋊ Inn(D₈) (order 32)",
     "relation": "equal",
-    "qualification": "The explicit group was inspected in Zeng’s 2025 expository derivation, which attributes the result to Harris (1982); Harris’s original text was inaccessible. Do not confuse this group with McKean’s set-theoretic (C₂)^3 duality action or with the group after base change to chosen radii.",
+    "qualification": "Attributed to Harris (1982). The original article has not been directly inspected for the exact group description; the recorded identification and permutation realization were checked through Zeng’s exposition. The action uses ordinary circle coefficients, without adjoining chosen square roots of the squared radii.",
     "group": {
       "degree": 8,
       "generators": [
@@ -62,9 +62,9 @@
     "harris_1982_theta"
   ],
   "source": {
-    "url": "https://zengrf.github.io/assets/pdf/circles-of-apollonius-monodromy.pdf",
-    "location": "Harris (1982), Apollonius application; explicit derivation and group identification in Zeng’s notes, p. 26",
-    "version": "Zeng, Monodromy of the Circles of Apollonius, 5 May 2025, p. 26; Harris (1982) DOI"
+    "url": "https://doi.org/10.1090/S0002-9947-1982-0654853-6",
+    "location": "Apollonius application; exact page or theorem locator not yet verified in the original article",
+    "version": "Published article, Transactions of the American Mathematical Society 271(2) (1982), 611–638"
   },
   "generated_by": [
     "Taylor Brysiewicz - AI"
@@ -76,5 +76,5 @@
   },
   "headline": true,
   "scope": "Labelled input circles parameterized by their ordinary conic coefficients, without adjoining chosen square roots of their squared radii.",
-  "notes": "The explicit group was inspected in Zeng’s 2025 expository derivation, which attributes the result to Harris (1982); Harris’s original text was inaccessible. Do not confuse this group with McKean’s set-theoretic (C₂)^3 duality action or with the group after base change to chosen radii.\n\nThe permutation representation is generated from the inner-holomorph construction in the source. A specific transitive-group catalogue label has not been independently identified.\n\nGenerator source: https://zengrf.github.io/assets/pdf/circles-of-apollonius-monodromy.pdf — Slide 26 (PDF page 26): inner holomorph of D8, SmallGroup(32,49)."
+  "notes": "Harris (1982) is the attributed original source and the sole bibliography reference for this result. Direct inspection of the original article and its exact result locator remains pending. Zeng’s 2025 exposition was used as a verification aid for the inner-holomorph description and the identification SmallGroup(32,49), not as the original attribution. The stored permutations give a transitive realization of that group; their labels are abstract solution labels. Do not confuse this monodromy action with McKean’s set-theoretic (C₂)^3 duality action or the group after base change to chosen radii."
 }

@@ -4,7 +4,10 @@
   "question_id": "Q8",
   "statement": "Four explicit quadratic pair-discriminants factor into signed centre-distance/radius-sum or radius-difference factors; their signs determine reality of the four conjugate pairs.",
   "answer": {
-    "text": "Four explicit quadratic pair-discriminants factor into signed centre-distance/radius-sum or radius-difference factors; their signs determine reality of the four conjugate pairs."
+    "text": "Four explicit quadratic pair-discriminants factor into signed centre-distance/radius-sum or radius-difference factors; their signs determine reality of the four conjugate pairs.",
+    "display": "Four factored quadratic branch discriminants",
+    "relation": "partial",
+    "qualification": "Regular elimination chart only; not a global reduced discriminant or full exceptional-locus classification."
   },
   "status": "partial",
   "evidence": "theorem",
@@ -25,5 +28,6 @@
     "original_result_id": "R_fbd30cbe52ef23c0"
   },
   "scope": "Three ordinary real input circles with strictly ordered positive radii and general centres, excluding mutual tangencies and the collinear-centre/zero-radius/straight-line special loci discussed separately.",
-  "notes": "These are discriminants of the displayed quadratic branches in their coordinate chart; no global reduced discriminant equation or degree is asserted. The common D^2 factor is an elimination-chart issue in the collinear-centre case."
+  "notes": "These are discriminants of the displayed quadratic branches in their coordinate chart; no global reduced discriminant equation or degree is asserted. The common D^2 factor is an elimination-chart issue in the collinear-centre case.",
+  "headline": true
 }

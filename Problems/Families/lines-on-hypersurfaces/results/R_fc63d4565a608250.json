@@ -7,7 +7,8 @@
     "text": "E₃=6√2−3; log E_n/log C_n →1/2",
     "display": "E₃=6√2−3; log E_n/log C_n →1/2",
     "relation": "partial",
-    "qualification": "Kostlan law; C_n is the generic complex count."
+    "qualification": "Kostlan law; C_n is the generic complex count.",
+    "distribution": "Kostlan Gaussian homogeneous polynomials of degree 2n−3 in n+1 variables; independent centered monomial coefficients with variances equal to their multinomial coefficients."
   },
   "status": "partial",
   "evidence": "theorem",

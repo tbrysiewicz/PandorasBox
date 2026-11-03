@@ -13,8 +13,8 @@
   ],
   "source": {
     "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E7A90EBF33F9B6B5142BBFD9F9A89361/S0013091500031898a.pdf/on-the-number-and-nature-of-the-solutions-of-the-apollonian-contact-problem.pdf",
-    "location": "Sections4–5, original pp.137–141; TableI, p.141; Sections6ff for boundary cases",
-    "version": "Original pp.135–147, Cambridge digitized journal PDF (online20January2009); publisher volume year1895, often cited1896."
+    "location": "Sections 4–5, original pp.137–141; Table I, p.141; Sections 6 ff for boundary cases",
+    "version": "Original pp.135–147, Cambridge digitized journal PDF (online 20 January 2009); publisher volume year 1895, often cited 1896."
   },
   "generated_by": [
     "Taylor Brysiewicz - AI"
@@ -25,5 +25,5 @@
     "original_result_id": "R_b3e7dde1c7cf4efd"
   },
   "scope": "Three real input circles; generic relative-position types, with special tangencies handled separately.",
-  "notes": "The fourteen incidence types are not asserted to be fourteen connected real discriminant-complement chambers. TableI is inspected alongside its explanatory prose; historical special self-contact conventions must be retained."
+  "notes": "The fourteen incidence types are not asserted to be fourteen connected real discriminant-complement chambers. Table I is inspected alongside its explanatory prose; historical special self-contact conventions must be retained."
 }

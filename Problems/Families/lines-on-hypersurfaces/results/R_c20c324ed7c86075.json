@@ -4,7 +4,11 @@
   "question_id": "Q3",
   "statement": "Let f be a real homogeneous polynomial of degree 2n-3 on R^(n+1). If the real lines on Z(f) in RP^n form a finite set, the sum of their multiplicities as isolated zeros of the restriction section of Sym^(2n-3)(U*) is at least (2n-3)!!. Transversality is not assumed; when all zeros are regular this gives the same lower bound for the ordinary number of real lines.",
   "answer": {
-    "text": "Let f be a real homogeneous polynomial of degree 2n-3 on R^(n+1). If the real lines on Z(f) in RP^n form a finite set, the sum of their multiplicities as isolated zeros of the restriction section of Sym^(2n-3)(U*) is at least (2n-3)!!. Transversality is not assumed; when all zeros are regular this gives the same lower bound for the ordinary number of real lines."
+    "text": "Let f be a real homogeneous polynomial of degree 2n-3 on R^(n+1). If the real lines on Z(f) in RP^n form a finite set, the sum of their multiplicities as isolated zeros of the restriction section of Sym^(2n-3)(U*) is at least (2n-3)!!. Transversality is not assumed; when all zeros are regular this gives the same lower bound for the ordinary number of real lines.",
+    "display": "minimum ≥ (2n−3)!!",
+    "relation": "at_least",
+    "formula": "(2n−3)!!",
+    "qualification": "For regular real fibres each local multiplicity is one, giving the ordinary real-line lower bound. For isolated nonregular zeros the bound is weighted by the algebraic multiplicities used in the source; attainment of the bound is not asserted."
   },
   "status": "partial",
   "evidence": "theorem",
@@ -25,5 +29,6 @@
     "original_result_id": "R_c20c324ed7c86075"
   },
   "scope": "Real hypersurfaces of degree 2n-3 in RP^n with finitely many real lines; multiplicities allowed.",
-  "notes": "At a nontransverse fibre this is a multiplicity-weighted bound; for simple lines it bounds the ordinary real count."
+  "notes": "At a nontransverse fibre this is a multiplicity-weighted bound; for simple lines it bounds the ordinary real count.",
+  "headline": true
 }

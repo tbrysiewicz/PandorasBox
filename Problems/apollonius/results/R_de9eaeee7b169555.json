@@ -7,7 +7,7 @@
     "text": "8",
     "display": "8",
     "relation": "equal",
-    "qualification": "Explicit consequence of the quadratic branch calculation and a regular eight-real case. Ordinary geometric circles, not oriented signed-radius duplicates or exceptional point/line circles. Euler’s quadratic pairing is in https://scholarlycommons.pacific.edu/cgi/viewcontent.cgi?article=1647&context=euler-works.",
+    "qualification": "Explicit consequence of Stoll’s quadratic branch calculation and a regular eight-real case. Ordinary geometric circles, not oriented signed-radius duplicates or exceptional point/line circles.",
     "count": 8
   },
   "status": "solved",
@@ -17,8 +17,8 @@
   ],
   "source": {
     "url": "https://gdz.sub.uni-goettingen.de/download/pdf/PPN235181684_0006/LOG_0045.pdf",
-    "location": "Equations (31)–(34), original p. 625; unnumbered table on p. 626, cases 1, 6 and 10. Compare Euler E648 §§6–7, original pp. 98–99.",
-    "version": "Stoll (1873), original scan pp. 625–626; Euler (1790) E648 original scan pp. 98–99"
+    "location": "Equations (31)–(34), original p. 625; unnumbered table on p. 626, cases 1, 6 and 10.",
+    "version": "Stoll (1873), original scan pp. 625–626"
   },
   "generated_by": [
     "Taylor Brysiewicz - AI"
@@ -30,5 +30,5 @@
   },
   "headline": true,
   "scope": "Three general labelled complex circles as inputs; distinct ordinary geometric solution circles tangent to all three, modulo the signed-radius duplication. Exclude point circles, limiting lines and exceptional quadratic-branch charts.",
-  "notes": "Explicit consequence of the quadratic branch calculation and a regular eight-real case. Ordinary geometric circles, not oriented signed-radius duplicates or exceptional point/line circles. Euler’s quadratic pairing is in https://scholarlycommons.pacific.edu/cgi/viewcontent.cgi?article=1647&context=euler-works."
+  "notes": "Explicit consequence of Stoll’s quadratic branch calculation and a regular eight-real case. Ordinary geometric circles, not oriented signed-radius duplicates or exceptional point/line circles."
 }

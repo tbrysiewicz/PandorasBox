@@ -7,7 +7,8 @@
     "text": "Irreducible discriminant of degree 32.",
     "display": "Irreducible discriminant of degree 32.",
     "relation": "equal",
-    "qualification": "The degree-32 singular-cubic discriminant is the excluded locus for the 27-line cover over smooth cubic coefficient space; the cover is finite étale on its complement."
+    "qualification": "The degree-32 singular-cubic discriminant is the excluded locus for the 27-line cover over smooth cubic coefficient space; the cover is finite étale on its complement.",
+    "degree": 32
   },
   "status": "solved",
   "evidence": "certified_computation",

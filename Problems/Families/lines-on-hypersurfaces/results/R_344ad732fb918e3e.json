@@ -2,12 +2,12 @@
   "result_id": "R_344ad732fb918e3e",
   "problem_id": "P_lines_degree_2n3_hypersurfaces",
   "question_id": "Q3",
-  "statement": "A generic real hypersurface of degree 2n-3 in RP^n has finitely many real lines and at least (2n-3)!! of them. More generally, if all real lines are isolated, the sum of the absolute local Euler indices of the induced symmetric-power tautological-bundle section is at least (2n-3)!!. The signed Euler count equals this double factorial.",
+  "statement": "The signed Euler count of real lines on a generic real hypersurface of degree 2n−3 in RP^n equals (2n−3)!!. More generally, if the induced symmetric-power tautological-bundle section has only isolated real zeros, the sum of the absolute values of their local Euler indices is at least (2n−3)!!.",
   "answer": {
-    "text": "A generic real hypersurface of degree 2n-3 in RP^n has finitely many real lines and at least (2n-3)!! of them. More generally, if all real lines are isolated, the sum of the absolute local Euler indices of the induced symmetric-power tautological-bundle section is at least (2n-3)!!. The signed Euler count equals this double factorial.",
-    "display": "minimum ≥(2n−3)!!",
-    "relation": "partial",
-    "qualification": "Ordinary counts require regular isolated real lines; multiplicity/index variants cover further cases."
+    "text": "The signed Euler count of real lines on a generic real hypersurface of degree 2n−3 in RP^n equals (2n−3)!!. More generally, if the induced symmetric-power tautological-bundle section has only isolated real zeros, the sum of the absolute values of their local Euler indices is at least (2n−3)!!.",
+    "display": "Signed Euler count: (2n−3)!!; sum of absolute local Euler indices ≥(2n−3)!!",
+    "relation": "at_least",
+    "qualification": "The signed Euler count and local Euler-index weighting are the claims recorded here. At regular zeros the absolute indices are one; at nonregular zeros they are distinct from the algebraic multiplicities of Okonek–Teleman."
   },
   "status": "partial",
   "evidence": "theorem",
@@ -27,7 +27,6 @@
     "kind": "direct",
     "original_result_id": "R_344ad732fb918e3e"
   },
-  "headline": true,
-  "scope": "Generic real degree 2n-3 hypersurfaces in RP^n, with n the ambient dimension (the paper uses dimension n-1 instead).",
-  "notes": "Catalogue n is ambient projective dimension; source writes ambient P^(n+1), degree2n-1. The lower bound need not be sharp. Local Euler-index multiplicities differ from the algebraic multiplicities of Okonek–Teleman."
+  "scope": "Generic real degree 2n−3 hypersurfaces in RP^n, where catalogue n is the ambient projective dimension. For ordinary real-line counts, the associated section is transverse; the broader isolated-line statement weights each line by the absolute value of its local Euler index.",
+  "notes": "Let n_source be the paper’s variable and n_catalogue the catalogue’s ambient dimension. The conversion is n_source = n_catalogue − 1, so n_source + 1 = n_catalogue and 2n_source − 1 = 2n_catalogue − 3. The lower bound need not be sharp. Local Euler-index multiplicities differ from the algebraic multiplicities of Okonek–Teleman."
 }

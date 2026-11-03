@@ -5778,7 +5778,7 @@
   "source": {
     "url": "https://arxiv.org/pdf/2002.04580v2",
     "location": "Introduction, paragraph immediately after Theorem 1.2, PDF p. 2; recalling Harris [Har79], §III.1",
-    "version": ""
+    "version": "arXiv:2002.04580v2 (22 November 2020), full PDF checked"
   },
   "generated_by": [
     "Taylor Brysiewicz - AI"
@@ -5786,7 +5786,7 @@
   "checked_by": [],
   "origin": {
     "kind": "inherited",
-    "original_result_id": "I_01849ac5d9421c82",
+    "original_result_id": "R_5926b7aa968645f7",
     "source_problem_id": "P_lines_degree_2n3_hypersurfaces",
     "inheritance_basis": "Apply the recorded full symmetric monodromy theorem for lines on hypersurfaces of degree greater than three at degree 5 in P⁴, with D4=2875."
   },

@@ -2,9 +2,9 @@
   "result_id": "R_c36480a6ef911c95",
   "problem_id": "P_lines_cubic_surfaces",
   "question_id": "Q4",
-  "statement": "SpeciesI.1 has all27 lines real; the complex count gives the matching upper bound.",
+  "statement": "Species I.1 has all 27 lines real; the complex count gives the matching upper bound.",
   "answer": {
-    "text": "The maximum real-line count is27.",
+    "text": "The maximum real-line count is 27.",
     "display": "27",
     "relation": "equal",
     "qualification": "",
@@ -17,8 +17,8 @@
   ],
   "source": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/On_the_Distribution_of_Surfaces_of_the_Third_Order_into_Species,_in_Reference_to_the_Absence_or_Presence_of_Singular_Points,_and_the_Reality_of_Their_Lines_(IA_jstor-108795).pdf",
-    "location": "Art5, first caseA, printed p.197",
-    "version": "Original Philosophical Transactions153(1863),193–241; JSTOR original-journal scan"
+    "location": "Art 5, first case A, printed p.197",
+    "version": "Original Philosophical Transactions 153(1863),193–241; JSTOR original-journal scan"
   },
   "generated_by": [
     "Taylor Brysiewicz - AI"

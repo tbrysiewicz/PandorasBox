@@ -2,7 +2,7 @@
   "result_id": "R_071d06db9523d8b7",
   "problem_id": "P_lines_cubic_surfaces",
   "question_id": "Q5",
-  "statement": "Arts5–6 enumerate the five nonsingular real species with line counts27,15,7,3,3. The preceding existence statement realizes all cases.",
+  "statement": "Arts 5–6 enumerate the five nonsingular real species with line counts 27,15,7,3,3. The preceding existence statement realizes all cases.",
   "answer": {
     "text": "{3,7,15,27}",
     "display": "{3,7,15,27}",
@@ -22,8 +22,8 @@
   ],
   "source": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/On_the_Distribution_of_Surfaces_of_the_Third_Order_into_Species,_in_Reference_to_the_Absence_or_Presence_of_Singular_Points,_and_the_Reality_of_Their_Lines_(IA_jstor-108795).pdf",
-    "location": "Arts4–6, printed pp.197–198",
-    "version": "Original Philosophical Transactions153(1863),193–241; JSTOR original-journal scan"
+    "location": "Arts 4–6, printed pp.197–198",
+    "version": "Original Philosophical Transactions 153(1863),193–241; JSTOR original-journal scan"
   },
   "generated_by": [
     "Taylor Brysiewicz - AI"
@@ -38,5 +38,5 @@
   "headline": true,
   "checked_content_sha256": "8397728ef463294114bbf461263efa271f052c1dcb0a144d5f33c1a0e0f32e19",
   "scope": "Nonsingular real cubic surfaces in real projective three-space; count real projective lines, not only lines with a specified affine incidence.",
-  "notes": "The two3-line species are distinguished by additional geometry. Equal real counts do not identify chambers."
+  "notes": "The two 3-line species are distinguished by additional geometry. Equal real counts do not identify chambers."
 }

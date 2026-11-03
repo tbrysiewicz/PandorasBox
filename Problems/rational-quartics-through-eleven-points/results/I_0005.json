@@ -2,9 +2,12 @@
   "result_id": "I_0005",
   "problem_id": "P_rational_quartics_eleven_points",
   "question_id": "Q1",
-  "statement": "The generic complex count is 620 irreducible rational degree-4 curves through 11 points.",
+  "statement": "Under Kontsevich–Manin’s stated Gromov–Witten axioms, the recurrence for rational plane curves gives N₄=620 for irreducible rational degree-4 curves through eleven general points.",
   "answer": {
-    "text": "The generic complex count is 620 irreducible rational degree-4 curves through 11 points."
+    "text": "Under Kontsevich–Manin’s stated Gromov–Witten axioms, the recurrence for rational plane curves gives N₄=620 for irreducible rational degree-4 curves through eleven general points.",
+    "count": 620,
+    "relation": "equal",
+    "qualification": "Conditional on the Gromov–Witten axioms used in the cited 1994 derivation; the unconditional enumerative theorem is recorded separately."
   },
   "status": "solved",
   "evidence": "theorem",
@@ -14,7 +17,7 @@
   "source": {
     "url": "https://arxiv.org/html/hep-th/9402147v2",
     "location": "Claim 5.2.1; equation (5.17); immediately following values",
-    "version": ""
+    "version": "arXiv:hep-th/9402147v2 (13 April 1994)"
   },
   "generated_by": [
     "Taylor Brysiewicz - AI"
@@ -22,7 +25,7 @@
   "checked_by": [],
   "origin": {
     "kind": "inherited",
-    "original_result_id": "I_0005",
+    "original_result_id": "R_3f28a541d1072590",
     "source_problem_id": "P_rational_plane_curves",
     "inheritance_basis": "Evaluate the displayed recurrence at d=4; the value is also printed immediately after equation (5.17)."
   },

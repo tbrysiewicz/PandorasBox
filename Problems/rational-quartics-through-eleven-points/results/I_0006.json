@@ -4,7 +4,11 @@
   "question_id": "Q1",
   "statement": "There are 620 irreducible rational quartics through eleven general points.",
   "answer": {
-    "text": "There are 620 irreducible rational quartics through eleven general points."
+    "text": "There are 620 irreducible rational quartics through eleven general points.",
+    "count": 620,
+    "relation": "equal",
+    "display": "620",
+    "qualification": "Irreducible rational quartics through eleven general complex points; the 55 reducible curves in the auxiliary count 675 are excluded."
   },
   "status": "solved",
   "evidence": "theorem",
@@ -14,17 +18,16 @@
   "source": {
     "url": "https://arxiv.org/html/alg-geom/9608025v1",
     "location": "Theorem 1.1; Section 1.2, worked quartic example ending N_(4,3)=620; Section 1.4, displayed irreducible recursion",
-    "version": ""
+    "version": "arXiv:alg-geom/9608025v1 (22 August 1996)"
   },
   "generated_by": [
     "Taylor Brysiewicz - AI"
   ],
   "checked_by": [],
   "origin": {
-    "kind": "inherited",
-    "original_result_id": "I_0006",
-    "source_problem_id": "P_plane_curves_degree_genus",
-    "inheritance_basis": "Set (d,g)=(4,0); the worked example subtracts 55 reducible curves from the auxiliary Severi degree 675."
+    "kind": "direct"
   },
-  "notes": "The reducible auxiliary count 675 is not the desired irreducible answer."
+  "notes": "Set d=4 and g=0, hence δ=3 nodes. The worked example in Section 1.2 subtracts the 55 reducible line-and-cubic curves from the auxiliary Severi degree 675, giving 675−55=620 irreducible rational quartics.",
+  "scope": "Irreducible rational degree-4 plane curves through eleven general complex points.",
+  "headline": true
 }

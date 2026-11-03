@@ -1,0 +1,42 @@
+{
+  "result_id": "R_e246eb966fdce6a2",
+  "problem_id": "P_rational_plane_curves",
+  "question_id": "Q5",
+  "statement": "For the degree-three member with all eight point constraints real and generic, exactly the real counts 8, 10, and 12 are attainable.",
+  "answer": {
+    "text": "For rational plane cubics through eight generic real points, the complete attainable real-count spectrum is {8, 10, 12}.",
+    "display": "d=3, all-real inputs: {8, 10, 12}",
+    "values": [
+      8,
+      10,
+      12
+    ],
+    "relation": "equal",
+    "qualification": "Complete spectrum for degree three with eight generic real point constraints; other degrees and mixed conjugate constraints are not covered.",
+    "parameters": {
+      "degree": 3,
+      "real_points": 8,
+      "conjugate_pairs": 0
+    }
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "degtyarev_2000_real_topology"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/math/0004134",
+    "location": "Proposition 4.7.3 and preceding “Digression: real rational curves”, printed p.50",
+    "version": "arXiv:math/0004134v1 (20 April 2000)"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct"
+  },
+  "headline": true,
+  "scope": "Irreducible rational plane curves of degree three through eight generic real points.",
+  "notes": "The spectrum is complete for this family member. The partial status reflects that the result does not determine the spectrum for every degree or for mixed real and conjugate point constraints. The minimum 8 and maximum 12 are also recorded separately under Q3 and Q4."
+}

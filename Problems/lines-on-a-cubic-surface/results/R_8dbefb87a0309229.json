@@ -2,9 +2,12 @@
   "result_id": "R_8dbefb87a0309229",
   "problem_id": "P_lines_cubic_surfaces",
   "question_id": "Q4",
-  "statement": "Section8 follows the lines under the smoothing: the three simple lines persist and the24 lines coalesced along the tetrahedron edges separate into real lines for typeI, giving27.",
+  "statement": "Section 8 follows the lines under the smoothing: the three simple lines persist and the 24 lines coalesced along the tetrahedron edges separate into real lines for type I, giving 27.",
   "answer": {
-    "text": "A smoothing realizes all27 lines as real."
+    "text": "A smoothing realizes all 27 lines as real.",
+    "count": 27,
+    "relation": "equal",
+    "qualification": "The type-I smoothing in Klein’s construction attains the complex upper bound."
   },
   "status": "solved",
   "evidence": "theorem",
@@ -13,8 +16,8 @@
   ],
   "source": {
     "url": "https://gdz.sub.uni-goettingen.de/download/pdf/PPN235181684_0006/LOG_0040.pdf",
-    "location": "Section8, printed pp.563–565, especially p.564",
-    "version": "Original Mathematische Annalen6(1873),551–581; GDZ article scan LOG_0040"
+    "location": "Section 8, printed pp.563–565, especially p.564",
+    "version": "Original Mathematische Annalen 6(1873),551–581; GDZ article scan LOG_0040"
   },
   "generated_by": [
     "Taylor Brysiewicz - AI"
@@ -25,5 +28,5 @@
     "original_result_id": "R_8dbefb87a0309229"
   },
   "scope": "Nonsingular real cubic surfaces obtained by smoothing the real four-node cubic in Klein’s construction.",
-  "notes": "The paragraph also displays15,7,3,3 for the other types. No chamber-connectedness result is catalogued from the historical deformation argument in this pass."
+  "notes": "The paragraph also displays 15,7,3,3 for the other types. No chamber-connectedness result is catalogued from the historical deformation argument in this pass."
 }

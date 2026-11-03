@@ -8,8 +8,8 @@
   ],
   "source": {
     "url": "https://sites.math.duke.edu/~kgw/papers/ExcessBW.pdf",
-    "location": "Question 3.2, printed pp.13–14",
-    "version": ""
+    "location": "Question 3.2, printed pp. 13–14; Introduction p. 3",
+    "version": "https://sites.math.duke.edu/~kgw/papers/ExcessBW.pdf (source date 2023)"
   },
   "generated_by": [
     "Taylor Brysiewicz - AI"
@@ -17,5 +17,6 @@
   "checked_by": [
     "Taylor Brysiewicz AI 20261102"
   ],
-  "checked_content_sha256": "e2c8dd172a0ac37c7c3d84a174023fc2a5bf8238f2940ac924939de039bc988e"
+  "checked_content_sha256": "e2c8dd172a0ac37c7c3d84a174023fc2a5bf8238f2940ac924939de039bc988e",
+  "notes": "The enriched global count is 1632 hyperbolic planes. Question 3.2 asks for an arithmetic-geometric interpretation of Tr⟨Jac σ(C)⟩ in terms of the solution conic and the five inputs. The 2023 source explicitly asks this question. A focused literature search on 26 October 2026 did not locate a resolution. The global enriched count remains solved; this open refinement concerns its local weights. Scope: nonsingular plane conics tangent to five input plane conics; generic finite complex counts and real constructions have their own hypotheses. Consolidated the qualifications and source metadata from former result R_081fb46ef77add02. The retained reviewer attribution and content hash apply to the pre-consolidation record; they have not been rebound to this edited content."
 }

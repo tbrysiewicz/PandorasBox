@@ -7,7 +7,7 @@
     "text": "Every eleven generic real points lie on at least 240 irreducible real rational quartics.",
     "display": "minimum ≥240",
     "relation": "at_least",
-    "qualification": "Eleven generic real points; attainment of240 is not verified here.",
+    "qualification": "Eleven generic real points; attainment of 240 is not verified here.",
     "count": 240,
     "lower_bound": 240
   },
@@ -19,7 +19,7 @@
   "source": {
     "url": "https://arxiv.org/pdf/math/0303378",
     "location": "Theorem 1.1 and calculation W4=240, printed p.2",
-    "version": ""
+    "version": "arXiv:math/0303378v2, 16 June 2003"
   },
   "generated_by": [
     "Taylor Brysiewicz - AI"
@@ -27,7 +27,7 @@
   "checked_by": [],
   "origin": {
     "kind": "inherited",
-    "original_result_id": "I_0008",
+    "original_result_id": "R_ebe8149cfc2808c6",
     "source_problem_id": "P_rational_plane_curves",
     "inheritance_basis": "The paper computes W4=240 and uses the universal inequality real count≥|W4|."
   },

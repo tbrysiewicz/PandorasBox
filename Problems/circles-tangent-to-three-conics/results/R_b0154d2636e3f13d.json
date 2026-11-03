@@ -2,7 +2,7 @@
   "result_id": "R_b0154d2636e3f13d",
   "problem_id": "P_circles_three_conics",
   "question_id": "Q5",
-  "statement": "The rational conics specified in equation (1), consisting of the hyperbola 20x^2-5y^2+1=0 and two perturbed double lines, have 144 real tritangent circles. Numerical certification establishes the example and disproves the earlier conjectured maximum 136. This proves a lower bound 144 on the maximum, not its equality to 144.",
+  "statement": "The rational triple in equation (1), consisting of the hyperbola 20x²−5y²+1=0 and two specified perturbations of double lines, has 144 real tritangent circles. Numerical certification proves that all 184 geometric solutions are isolated and distinct and that 144 are real and represent distinct tangent circles.",
   "answer": {
     "text": "144 is attainable",
     "values": [
@@ -28,6 +28,6 @@
     "kind": "direct",
     "original_result_id": "R_b0154d2636e3f13d"
   },
-  "scope": "Three general complex plane conics; circles are conics through the two circular points at infinity.",
+  "scope": "Attainability for the single rational triple in equation (1): the hyperbola 20x^2−5y^2+1=0 and two specified smooth perturbations of double lines. Numerical certification proves that all 184 solutions are isolated and distinct and that 144 are real and represent distinct tangent circles. This is a construction, not a count for every real conic triple.",
   "notes": "An individual attainable count; this does not settle the complete spectrum."
 }

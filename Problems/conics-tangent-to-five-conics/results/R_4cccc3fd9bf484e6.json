@@ -4,7 +4,10 @@
   "question_id": "Q4",
   "statement": "There exist five real plane conics with exactly 3264 smooth real conics simply tangent to each prescribed conic at exactly one real contact point. The construction deforms five suitable pairs of lines near the vertices of a regular pentagon; the final local-splitting count is 3264, with every solution having multiplicity one.",
   "answer": {
-    "text": "There exist five real plane conics with exactly 3264 smooth real conics simply tangent to each prescribed conic at exactly one real contact point. The construction deforms five suitable pairs of lines near the vertices of a regular pentagon; the final local-splitting count is 3264, with every solution having multiplicity one."
+    "text": "There exist five real plane conics with exactly 3264 smooth real conics simply tangent to each prescribed conic at exactly one real contact point. The construction deforms five suitable pairs of lines near the vertices of a regular pentagon; the final local-splitting count is 3264, with every solution having multiplicity one.",
+    "count": 3264,
+    "relation": "equal",
+    "qualification": "The construction attains the generic complex count with smooth real solution conics and simple real contacts."
   },
   "status": "solved",
   "evidence": "theorem",
@@ -14,7 +17,7 @@
   "source": {
     "url": "https://revistas.ucm.es/index.php/REMA/article/download/REMA9797230391A/16596",
     "location": "Section 0, opening paragraph on printed p. 392; concluding deformation count on pp. 419–420 (PDF pp. 29–30)",
-    "version": "Publisher PDF, Revista Matemática de la Universidad Complutense10(2) (1997),391–421"
+    "version": "Publisher PDF, Revista Matemática de la Universidad Complutense 10(2) (1997),391–421"
   },
   "generated_by": [
     "Taylor Brysiewicz - AI"

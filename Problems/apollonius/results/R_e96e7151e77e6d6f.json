@@ -4,7 +4,10 @@
   "question_id": "Q7",
   "statement": "The paper reduces the ordered-radius, nontangent input-position cases to twelve cases, listing the four discriminant signs and the real count for each.",
   "answer": {
-    "text": "The paper reduces the ordered-radius, nontangent input-position cases to twelve cases, listing the four discriminant signs and the real count for each."
+    "text": "The paper reduces the ordered-radius, nontangent input-position cases to twelve cases, listing the four discriminant signs and the real count for each.",
+    "display": "12 relative-position cases (ordered radii)",
+    "relation": "partial",
+    "qualification": "Twelve cases in Stoll’s nontangent, strictly ordered positive-radius regime; not a count of connected chambers in the full labelled parameter complement."
   },
   "status": "partial",
   "evidence": "theorem",
@@ -25,5 +28,6 @@
     "original_result_id": "R_e96e7151e77e6d6f"
   },
   "scope": "Three ordinary real input circles with strictly ordered positive radii and general centres, excluding mutual tangencies and the collinear-centre/zero-radius/straight-line special loci discussed separately.",
-  "notes": "A classification by relative circle position and branch signs, not a claim that the full labelled parameter complement has exactly twelve connected chambers."
+  "notes": "A classification by relative circle position and branch signs, not a claim that the full labelled parameter complement has exactly twelve connected chambers.",
+  "headline": true
 }

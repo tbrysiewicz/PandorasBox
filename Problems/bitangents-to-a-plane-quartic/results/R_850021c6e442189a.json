@@ -2,9 +2,13 @@
   "result_id": "R_850021c6e442189a",
   "problem_id": "P_bitangents_plane_quartics",
   "question_id": "Q1",
-  "statement": "The paper proves equivalence modulo U of three explicit degree14 contact equations due to Hesse and Salmon, and corrects normalizations from the1859 memoir. Intersecting with U yields the56 generic contact points corresponding in pairs to28 bitangents.",
+  "statement": "The paper proves equivalence modulo U of three explicit degree 14 contact equations due to Hesse and Salmon, and corrects normalizations from the 1859 memoir. Intersecting with U yields the 56 generic contact points corresponding in pairs to 28 bitangents.",
   "answer": {
-    "text": "Equivalent explicit degree14 equations determine bitangent contact points."
+    "text": "Equivalent explicit degree 14 equations determine bitangent contact points.",
+    "display": "28 (via the degree-14 contact equations)",
+    "count": 28,
+    "relation": "equal",
+    "qualification": "For a general smooth quartic, the 56 ordinary contact points pair into 28 bitangent lines."
   },
   "status": "solved",
   "evidence": "theorem",
@@ -14,7 +18,7 @@
   "source": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/On_the_Double_Tangents_of_a_Curve_of_the_Fourth_Order_(IA_jstor-108740).pdf",
     "location": "Opening statement and three displayed forms, pp.357–358; equivalence proofs pp.359–362",
-    "version": "Original Philosophical Transactions151(1861),357–362; JSTOR original-journal scan"
+    "version": "Original Philosophical Transactions 151(1861),357–362; JSTOR original-journal scan"
   },
   "generated_by": [
     "Taylor Brysiewicz - AI"
@@ -24,6 +28,7 @@
     "kind": "direct",
     "original_result_id": "R_850021c6e442189a"
   },
+  "headline": true,
   "scope": "A general smooth quartic U=0 and its ordinary double-tangent contact points.",
-  "notes": "The28 count here is the explicit generic Bézout consequence4·14/2; the central new result is equivalence of the contact equations. No discriminant or real-chamber statement is inferred."
+  "notes": "The 28 count here is the explicit generic Bézout consequence 4·14/2; the central new result is equivalence of the contact equations. No discriminant or real-chamber statement is inferred."
 }

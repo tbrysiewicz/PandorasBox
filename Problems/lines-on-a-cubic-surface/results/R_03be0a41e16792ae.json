@@ -2,9 +2,9 @@
   "result_id": "R_03be0a41e16792ae",
   "problem_id": "P_lines_cubic_surfaces",
   "question_id": "Q3",
-  "statement": "The five nonsingular species have27,15,7,3,3 real lines; their existence is stated before Art5, so the minimum is attained at3.",
+  "statement": "The five nonsingular species have 27,15,7,3,3 real lines; their existence is stated before Art 5, so the minimum is attained at 3.",
   "answer": {
-    "text": "The minimum real-line count is3.",
+    "text": "The minimum real-line count is 3.",
     "display": "3",
     "relation": "equal",
     "qualification": "",
@@ -17,8 +17,8 @@
   ],
   "source": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/On_the_Distribution_of_Surfaces_of_the_Third_Order_into_Species,_in_Reference_to_the_Absence_or_Presence_of_Singular_Points,_and_the_Reality_of_Their_Lines_(IA_jstor-108795).pdf",
-    "location": "Arts3–6, printed pp.196–198, especially existence paragraph before Art5",
-    "version": "Original Philosophical Transactions153(1863),193–241; JSTOR original-journal scan"
+    "location": "Arts 3–6, printed pp.196–198, especially existence paragraph before Art 5",
+    "version": "Original Philosophical Transactions 153(1863),193–241; JSTOR original-journal scan"
   },
   "generated_by": [
     "Taylor Brysiewicz - AI"

@@ -13,12 +13,12 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "alvarezvizoso_2024_line_formulas"
+    "basu_2016_random_lines"
   ],
   "source": {
-    "url": "https://arxiv.org/pdf/2402.13206v5",
-    "location": "Theorem 1, equation (8), p. 4",
-    "version": ""
+    "url": "https://arxiv.org/pdf/1610.01205v2",
+    "location": "Theorem 6, pp. 14–15, and preceding definition of the complex Gaussian matrix; exact n=4 specialization",
+    "version": "arXiv:1610.01205v2 (8 November 2016); printed/PDF pages coincide"
   },
   "generated_by": [
     "Taylor Brysiewicz - AI"
@@ -26,10 +26,10 @@
   "checked_by": [],
   "origin": {
     "kind": "inherited",
-    "original_result_id": "I_9aad38b9e775141d",
+    "original_result_id": "R_76847789112c430e",
     "source_problem_id": "P_lines_degree_2n3_hypersurfaces",
-    "inheritance_basis": "Set n=4 and d=2n−3=5 in the exact line-count formula: 5^6[1−3·(10/25)+10·(24/625)]=2875."
+    "inheritance_basis": "Set n=4 and degree 2n−3=5 in Theorem 6. The prefactor is 25/576, and exact expansion using independent complex-Gaussian moments gives E|det J|²=66240; hence (25/576)·66240=2875."
   },
   "headline": true,
-  "notes": "Generic reduced zero-dimensional Fano scheme; no claim for every smooth quintic."
+  "notes": "This is an explicitly evaluated specialization of the cited theorem, not a claim that the paper prints 2875. The generic Fano scheme is reduced and zero-dimensional; no claim is made for every smooth quintic."
 }

@@ -2,12 +2,14 @@
   "result_id": "R_9cbb8979620e8b13",
   "problem_id": "P_lines_cubic_surfaces",
   "question_id": "Q6",
-  "statement": "Let P_lambda=lambda H_3+(1-lambda)||x||^2 H_1, where H_3 and H_1 have independent standard Gaussian coefficients in the specified L2-orthonormal harmonic bases, and 0<lambda<=1. Put A=8lambda^2+(1-lambda)^2, B=2lambda^2+(1-lambda)^2 and C=20lambda^2+(1-lambda)^2. The expected real-line count is 9A/B times [2lambda^2/A-1/3+(2/3)sqrt(A/C)]. It increases with lambda and reaches 24sqrt(2/5)-3 at lambda=1; lambda=1/3 gives 6sqrt(2)-3.",
+  "statement": "Let P_lambda=lambda H_3+(1-lambda)||x||^2 H_1, where H_3 and H_1 have independent standard Gaussian coefficients in the specified L2-orthonormal harmonic bases, and 0<lambda<=1. Put A=8lambda^2+(1-lambda)^2, B=2lambda^2+(1-lambda)^2 and C=20lambda^2+(1-lambda)^2. The expected real-line count is 9A/B times [2lambda^2/A-1/3+(2/3)sqrt(A/C)]. It increases with lambda and reaches 24sqrt(2/5)-3 at lambda=1.",
   "answer": {
-    "text": "Let P_lambda=lambda H_3+(1-lambda)||x||^2 H_1, where H_3 and H_1 have independent standard Gaussian coefficients in the specified L2-orthonormal harmonic bases, and 0<lambda<=1. Put A=8lambda^2+(1-lambda)^2, B=2lambda^2+(1-lambda)^2 and C=20lambda^2+(1-lambda)^2. The expected real-line count is 9A/B times [2lambda^2/A-1/3+(2/3)sqrt(A/C)]. It increases with lambda and reaches 24sqrt(2/5)-3 at lambda=1; lambda=1/3 gives 6sqrt(2)-3.",
-    "display": "Kostlan: 6√2−3; Eλ=(9A/B)[2λ²/A−1/3+(2/3)√(A/C)]",
+    "text": "Let P_lambda=lambda H_3+(1-lambda)||x||^2 H_1, where H_3 and H_1 have independent standard Gaussian coefficients in the specified L2-orthonormal harmonic bases, and 0<lambda<=1. Put A=8lambda^2+(1-lambda)^2, B=2lambda^2+(1-lambda)^2 and C=20lambda^2+(1-lambda)^2. The expected real-line count is 9A/B times [2lambda^2/A-1/3+(2/3)sqrt(A/C)]. It increases with lambda and reaches 24sqrt(2/5)-3 at lambda=1.",
+    "display": "Eλ=(9A/B)[2λ²/A−1/3+(2/3)√(A/C)]",
     "relation": "equal",
-    "qualification": "A=8λ²+(1−λ)², B=2λ²+(1−λ)², C=20λ²+(1−λ)²; 0<λ≤1 in the specified harmonic Gaussian family."
+    "qualification": "A=8λ²+(1−λ)², B=2λ²+(1−λ)², C=20λ²+(1−λ)²; 0<λ≤1 in the specified harmonic Gaussian family.",
+    "formula": "Eλ=(9A/B)[2λ²/A−1/3+(2/3)√(A/C)]",
+    "distribution": "Pλ=λH₃+(1−λ)||x||²H₁, 0<λ≤1; H₃ and H₁ have independent standard Gaussian coefficients in the specified L²-orthonormal harmonic bases. The Kostlan specialization is λ=1/3."
   },
   "status": "solved",
   "evidence": "theorem",
@@ -28,6 +30,6 @@
     "original_result_id": "R_9cbb8979620e8b13"
   },
   "headline": true,
-  "scope": "Gaussian cubics P_lambda=lambda H3+(1-lambda)||x||^2 H1 with0<lambda<=1 and independent standard Gaussian harmonic coefficients in the specified L2 bases.",
+  "scope": "Gaussian cubics P_lambda=lambda H3+(1-lambda)||x||^2 H1 with 0<lambda<=1 and independent standard Gaussian harmonic coefficients in the specified L2 bases.",
   "notes": "At lambda=0 the geometric cubic is degenerate and has infinitely many lines; E_0=3 is the limiting expected count. Maximization is over the specified Gaussian family, not individual surfaces."
 }

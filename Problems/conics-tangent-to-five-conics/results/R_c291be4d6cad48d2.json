@@ -7,7 +7,7 @@
     "text": "S₃₂₆₄",
     "display": "S₃₂₆₄",
     "relation": "equal",
-    "qualification": "Harris’s original paper is cited via DOI; the full-symmetric assertion was checked in Zhan’s research-paper introduction. The original Harris text was not available for inspection. This is geometric monodromy, not the group of every arithmetic specialization.",
+    "qualification": "Zhan’s introduction records the full-symmetric monodromy theorem and attributes it to Harris (1979). This is generic geometric monodromy, not the group of every arithmetic specialization.",
     "group": {
       "degree": 3264,
       "generators": [
@@ -6551,12 +6551,12 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "harris_1979_enumerative_galois"
+    "zhan_2020_k3_monodromy"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2004.08719v3",
-    "location": "Harris (1979), Section IV; explicitly recalled in Zhan, Introduction p. 1",
-    "version": "Harris (1979); checked via Zhan, arXiv:2004.08719v3"
+    "location": "Introduction, p. 1, paragraph recalling Harris’s monodromy results",
+    "version": "Zhan, arXiv:2004.08719v3 (30 January 2022), p. 1; recalling Harris (1979)"
   },
   "generated_by": [
     "Taylor Brysiewicz - AI"
@@ -6568,5 +6568,5 @@
   },
   "headline": true,
   "scope": "Generic complex parameter space of five labelled plane conics; action on geometric tangent conics.",
-  "notes": "Harris’s original paper is cited via DOI; the full-symmetric assertion was checked in Zhan’s research-paper introduction. The original Harris text was not available for inspection. This is geometric monodromy, not the group of every arithmetic specialization.\n\nAn adjacent transposition and a full cycle generate the natural symmetric group. Labels are abstract solution labels, not a labelling of a particular computed fibre."
+  "notes": "The inspected source is Zhan’s research-paper introduction, which attributes the theorem to Harris (1979). Harris’s original text was not available for direct inspection. This is geometric monodromy, not the group of every arithmetic specialization.\n\nAn adjacent transposition and a full cycle generate the natural symmetric group. Labels are abstract solution labels, not a labelling of a particular computed fibre."
 }

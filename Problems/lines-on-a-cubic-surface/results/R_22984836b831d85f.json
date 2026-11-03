@@ -191,24 +191,26 @@
     }
   },
   "status": "solved",
-  "evidence": "certified_computation",
+  "evidence": "theorem",
   "reference_ids": [
-    "pichonpharabod_2025_symmetric_cubics"
+    "hashimoto_2020_fano_monodromy"
   ],
   "source": {
-    "url": "https://arxiv.org/html/2509.06785v1",
-    "location": "Theorem 1.2; Table 1, trivial-subgroup (Z1) row",
-    "version": "arXiv:2509.06785v1 (8 September 2025)"
+    "url": "https://arxiv.org/pdf/2002.04580v2",
+    "location": "Introduction, first paragraph, p. 1: Harris’s computation of the monodromy of the 27 lines on a cubic surface",
+    "version": "arXiv:2002.04580v2 (22 November 2020), full PDF checked"
   },
   "generated_by": [
     "Taylor Brysiewicz - AI"
   ],
   "checked_by": [],
   "origin": {
-    "kind": "direct",
-    "original_result_id": "R_22984836b831d85f"
+    "kind": "inherited",
+    "original_result_id": "R_5926b7aa968645f7",
+    "source_problem_id": "P_lines_degree_2n3_hypersurfaces",
+    "inheritance_basis": "Set n=3 and degree 2n−3=3 in the family classification; Hashimoto–Kadets explicitly recall the cubic-surface monodromy W(E6)."
   },
   "headline": true,
   "scope": "Projective lines on smooth cubic surfaces in P3. Generic complex enumeration, real parameter chambers, and probability distributions on real coefficients are distinguished in individual associations.",
-  "notes": "This is geometric monodromy of the unrestricted coefficient family; it is not S27 and is not a specialized arithmetic Galois group."
+  "notes": "This is geometric monodromy of the unrestricted coefficient family, not the group of every arithmetic specialization. The inspected source is Hashimoto–Kadets, which attributes the theorem to Harris. The stored permutations give a verified transitive realization of W(E6) of order 51,840; they are not asserted to have been extracted from the cited paper."
 }

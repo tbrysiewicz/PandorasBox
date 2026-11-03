@@ -7,7 +7,8 @@
     "text": "Empirical means: 0.2733·64, 0.3960·64, 0.5367·64.",
     "display": "Empirical means: 0.2733·64, 0.3960·64, 0.5367·64.",
     "relation": "partial",
-    "qualification": "Uniform nonsquared areas in (0,1),(0.3,1),(0.5,1), respectively; one million samples each."
+    "qualification": "Uniform nonsquared areas in (0,1),(0.3,1),(0.5,1), respectively; one million samples each.",
+    "distribution": "Three separate experiments: the ten nonsquared areas A_ijk are independent uniform on (α,1), for α=0, 0.3, or 0.5. The equation parameters are v_ijk=A_ijk², not uniformly distributed squared areas. Each experiment uses 1,000,000 samples."
   },
   "status": "partial",
   "evidence": "numerical_evidence",

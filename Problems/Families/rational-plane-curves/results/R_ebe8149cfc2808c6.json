@@ -4,7 +4,9 @@
   "question_id": "Q3",
   "statement": "Every such configuration has at least d!/2 real curves. The paper additionally computes the signed Welschinger values W4=240 and W5=18264, giving these stronger universal lower bounds in degrees four and five.",
   "answer": {
-    "text": "Every such configuration has at least d!/2 real curves. The paper additionally computes the signed Welschinger values W4=240 and W5=18264, giving these stronger universal lower bounds in degrees four and five."
+    "text": "Every such configuration has at least d!/2 real curves. The paper additionally computes the signed Welschinger values W4=240 and W5=18264, giving these stronger universal lower bounds in degrees four and five.",
+    "display": "All-real: minimum ≥ d!/2; d=4: ≥240; d=5: ≥18,264",
+    "qualification": "All 3d−1 input points are real and generic. These are lower bounds; attainment of the displayed bounds is not asserted."
   },
   "status": "partial",
   "evidence": "theorem",
@@ -25,5 +27,6 @@
     "original_result_id": "R_ebe8149cfc2808c6"
   },
   "scope": "Irreducible rational plane curves of degree d≥1 through 3d−1 generic real points.",
-  "notes": "These are lower bounds on the minimum; neither attainment of 240 nor total reality in degree four is proved here."
+  "notes": "These are lower bounds on the minimum; neither attainment of 240 nor total reality in degree four is proved here.",
+  "headline": true
 }

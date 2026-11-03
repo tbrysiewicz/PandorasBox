@@ -2,18 +2,21 @@
   "result_id": "R_5926b7aa968645f7",
   "problem_id": "P_lines_degree_2n3_hypersurfaces",
   "question_id": "Q2",
-  "statement": "For degree 2n−3 hypersurfaces in Pn with n≥4, the generic geometric monodromy on the D_n lines is the full symmetric group S_(D_n). Hashimoto–Kadets explicitly recall Harris’s computation of monodromy of lines on hypersurfaces of degree greater than three.",
+  "statement": "For general degree 2n−3 hypersurfaces in complex projective n-space, the geometric monodromy on the D_n lines is S_(D_n) for n≥4 and W(E6) for n=3. For n=2, the hypersurface is itself a single line, so D₂=1 and the monodromy is trivial.",
   "answer": {
-    "text": "For degree 2n−3 hypersurfaces in Pn with n≥4, the generic geometric monodromy on the D_n lines is the full symmetric group S_(D_n). Hashimoto–Kadets explicitly recall Harris’s computation of monodromy of lines on hypersurfaces of degree greater than three."
+    "text": "For general degree 2n−3 hypersurfaces in complex projective n-space, the geometric monodromy on the D_n lines is S_(D_n) for n≥4 and W(E6) for n=3. For n=2, the hypersurface is itself a single line, so D₂=1 and the monodromy is trivial.",
+    "display": "n≥4: S_(D_n); n=3: W(E6); n=2: trivial (D₂=1)",
+    "relation": "equal",
+    "qualification": "The unrestricted complex coefficient family is used. Hashimoto–Kadets recall Harris’s monodromy computations for the cubic and higher-degree cases; the degree-one case is an elementary deduction."
   },
-  "status": "partial",
+  "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
     "hashimoto_2020_fano_monodromy"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2002.04580v2",
-    "location": "Introduction, paragraph immediately after Theorem 1.2, PDF p.2; cites Harris [Har79], §III.1",
+    "location": "Introduction, first paragraph on p. 1 (cubic surfaces) and paragraph after Theorem 1.2 on p. 2 (degree greater than three); n=2 is the elementary one-line case",
     "version": "arXiv:2002.04580v2 (22 November 2020), full PDF checked"
   },
   "generated_by": [
@@ -24,6 +27,7 @@
     "kind": "direct",
     "original_result_id": "R_5926b7aa968645f7"
   },
-  "scope": "Generic degree d=2n−3 hypersurfaces in complex Pn, n≥4; monodromy over the unrestricted coefficient family.",
-  "notes": "This exact line-hypersurface result is stronger than the article’s general alternating-or-symmetric theorem for higher-dimensional linear spaces. The inspected source is Hashimoto–Kadets; Harris’s original §III.1 full text was not accessible in this pass. The generic cubic and degree-one cases are supplied separately."
+  "scope": "Generic degree 2n−3 hypersurfaces in complex projective n-space, n≥2, over the unrestricted coefficient family.",
+  "notes": "The inspected source is Hashimoto–Kadets, which attributes the cubic and higher-degree line monodromy computations to Harris [Har79]. Harris’s original text was not inspected. The n=2 member is a line in P² with exactly one line on it, so its permutation action is trivial. The article’s separate alternating-or-symmetric theorem for general Fano problems is not being used in place of these exact line results.",
+  "headline": true
 }
