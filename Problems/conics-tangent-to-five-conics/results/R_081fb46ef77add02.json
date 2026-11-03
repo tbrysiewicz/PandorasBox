@@ -1,0 +1,29 @@
+{
+  "result_id": "R_081fb46ef77add02",
+  "problem_id": "P_conics_five_conics",
+  "question_id": "Q9",
+  "statement": "Find an arithmetic-geometric interpretation of the local weights in the enriched count of 3,264 tangent conics.",
+  "answer": {
+    "text": "Open"
+  },
+  "status": "partial",
+  "evidence": "open_problem",
+  "reference_ids": [
+    "bachmann_2021_enriched_excess"
+  ],
+  "source": {
+    "url": "https://sites.math.duke.edu/~kgw/papers/ExcessBW.pdf",
+    "location": "Question 3.2, printed pp. 13–14; Introduction p. 3",
+    "version": "https://sites.math.duke.edu/~kgw/papers/ExcessBW.pdf (source date 2023)"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_081fb46ef77add02"
+  },
+  "scope": "Nonsingular plane conics tangent to five input plane conics; generic finite complex counts and real constructions have their own hypotheses.",
+  "notes": "The enriched global count is 1632 hyperbolic planes. Question 3.2 asks for an arithmetic-geometric interpretation of Tr⟨Jac σ(C)⟩ in terms of the solution conic and the five inputs. The 2023 source explicitly asks this question. A focused literature search on 26 October 2026 did not locate a resolution. The global enriched count remains solved; this open refinement concerns its local weights."
+}

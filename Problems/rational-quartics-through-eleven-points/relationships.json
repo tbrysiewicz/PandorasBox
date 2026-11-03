@@ -1,0 +1,19 @@
+{
+  "relationships": [
+    {
+      "relation_id": "rational_quartics_eleven_points__instance_of__rational_plane_curves",
+      "source_problem_id": "P_rational_quartics_eleven_points",
+      "target_problem_id": "P_rational_plane_curves",
+      "relation_type": "instance_of",
+      "relation_statement": "Fix d=4, giving 3d−1=11 point conditions.",
+      "evidence_location": "Claim 5.2.1; equation (5.17); immediately following values",
+      "supporting_source_url": "https://arxiv.org/html/hep-th/9402147v2",
+      "inheritance_policy": "The fixed-degree generic count specializes; universal real lower bounds specialize with the same distribution of point constraints.",
+      "caveats": ""
+    }
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": []
+}

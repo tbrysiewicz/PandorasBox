@@ -1,0 +1,34 @@
+{
+  "result_id": "R_d6f045c7e61048d2",
+  "problem_id": "P_apollonius_three_circles",
+  "question_id": "Q3",
+  "statement": "The generic real minimum is 0; the table exhibits the zero-real cases.",
+  "answer": {
+    "text": "0",
+    "display": "0",
+    "relation": "equal",
+    "qualification": "Generic ordinary-circle regime of Stoll’s classification; special or completed fibres are separate.",
+    "count": 0
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "stoll_1873_apollonius"
+  ],
+  "source": {
+    "url": "https://gdz.sub.uni-goettingen.de/download/pdf/PPN235181684_0006/LOG_0045.pdf",
+    "location": "Unnumbered table, original p.626, cases 3 and 12; preceding case reduction p.625",
+    "version": "Original German journal article (1873), GDZ article scan; PDF page 1 is a digitization cover, original p.613 begins on PDF page 2."
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_d6f045c7e61048d2"
+  },
+  "headline": true,
+  "scope": "Three ordinary real input circles with strictly ordered positive radii and general centres, excluding mutual tangencies and the collinear-centre/zero-radius/straight-line special loci discussed separately.",
+  "notes": "The minimum concerns distinct admissible real circles, not a signed or multiplicity-weighted invariant."
+}

@@ -1,0 +1,16 @@
+{
+  "problem_id": "P_rational_quartics_eleven_points",
+  "name": "Rational quartics through eleven points",
+  "kind": "specific_problem",
+  "constructor_call": "rational_plane_curves(4)",
+  "arguments": [],
+  "reference_ids": [
+    "mikhalkin_2002_lattice_paths",
+    "kontsevich_1994_gw",
+    "caporaso_1996_plane_curves"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": []
+}

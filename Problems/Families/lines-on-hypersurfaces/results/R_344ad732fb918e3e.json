@@ -1,0 +1,33 @@
+{
+  "result_id": "R_344ad732fb918e3e",
+  "problem_id": "P_lines_degree_2n3_hypersurfaces",
+  "question_id": "Q3",
+  "statement": "A generic real hypersurface of degree 2n-3 in RP^n has finitely many real lines and at least (2n-3)!! of them. More generally, if all real lines are isolated, the sum of the absolute local Euler indices of the induced symmetric-power tautological-bundle section is at least (2n-3)!!. The signed Euler count equals this double factorial.",
+  "answer": {
+    "text": "A generic real hypersurface of degree 2n-3 in RP^n has finitely many real lines and at least (2n-3)!! of them. More generally, if all real lines are isolated, the sum of the absolute local Euler indices of the induced symmetric-power tautological-bundle section is at least (2n-3)!!. The signed Euler count equals this double factorial.",
+    "display": "minimum ≥(2n−3)!!",
+    "relation": "partial",
+    "qualification": "Ordinary counts require regular isolated real lines; multiplicity/index variants cover further cases."
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "finashin_2012_abundance_lines"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1201.2897v1",
+    "location": "Corollary 3.1.3; Theorem 3.1.1 and Corollary 3.1.2 (p. 3)",
+    "version": "arXiv:1201.2897v1 (13 January 2012); printed/PDF p. 3"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_344ad732fb918e3e"
+  },
+  "headline": true,
+  "scope": "Generic real degree 2n-3 hypersurfaces in RP^n, with n the ambient dimension (the paper uses dimension n-1 instead).",
+  "notes": "Catalogue n is ambient projective dimension; source writes ambient P^(n+1), degree2n-1. The lower bound need not be sharp. Local Euler-index multiplicities differ from the algebraic multiplicities of Okonek–Teleman."
+}

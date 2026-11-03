@@ -1,0 +1,15 @@
+{
+  "problem_id": "P_conics_five_conics",
+  "name": "Conics tangent to five conics",
+  "kind": "specific_problem",
+  "constructor_call": "tangent_conics()",
+  "arguments": [],
+  "reference_ids": [
+    "breiding_2019_3264_conics",
+    "ronga_1997_real_conics"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": []
+}

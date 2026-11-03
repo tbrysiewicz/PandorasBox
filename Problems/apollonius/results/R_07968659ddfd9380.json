@@ -1,0 +1,32 @@
+{
+  "result_id": "R_07968659ddfd9380",
+  "problem_id": "P_apollonius_three_circles",
+  "question_id": "Q4",
+  "statement": "There are at most eight distinct real solution circles. Eight contact-sign patterns initially give two quadratic roots apiece; simultaneous reversal of all three signs identifies paired roots, leaving four quadratic equations and at most eight solutions.",
+  "answer": {
+    "text": "There are at most eight distinct real solution circles. Eight contact-sign patterns initially give two quadratic roots apiece; simultaneous reversal of all three signs identifies paired roots, leaving four quadratic equations and at most eight solutions.",
+    "count": 8,
+    "relation": "at_most",
+    "upper_bound": 8
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "euler_1790_apollonius"
+  ],
+  "source": {
+    "url": "https://scholarlycommons.pacific.edu/cgi/viewcontent.cgi?article=1647&context=euler-works",
+    "location": "Sections6–7, original pp.98–99; quadratic reduction Section4, p.97",
+    "version": "Original Latin journal scan (1790), pp.95–101 and plate; all eight PDF pages visually inspected. Archive identifier E648; the 1779 presentation date is not a publication year."
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_07968659ddfd9380"
+  },
+  "scope": "Three ordinary real circles in the noncollinear-centre regular chart; finite ordinary real solution circles, with internal and external contacts represented by signed input radii.",
+  "notes": "This records Euler’s upper bound, not a checked construction attaining eight. Special inputs outside the regular quadratic chart and infinite fibres are excluded; no claim about a singular-fibre spectrum is inherited."
+}

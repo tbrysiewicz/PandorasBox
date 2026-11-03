@@ -1,0 +1,32 @@
+{
+  "result_id": "R_90a9e71383920644",
+  "problem_id": "P_lines_cubic_surfaces",
+  "question_id": "Q8",
+  "statement": "The singular-cubic discriminant in the full projective coefficient space is irreducible of degree 32.",
+  "answer": {
+    "text": "Irreducible discriminant of degree 32.",
+    "display": "Irreducible discriminant of degree 32.",
+    "relation": "equal",
+    "qualification": "The degree-32 singular-cubic discriminant is the excluded locus for the 27-line cover over smooth cubic coefficient space; the cover is finite étale on its complement."
+  },
+  "status": "solved",
+  "evidence": "certified_computation",
+  "reference_ids": [
+    "pichonpharabod_2025_symmetric_cubics"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/2509.06785v1",
+    "location": "Theorem 1.2; Table 1, trivial-subgroup (Z1) row",
+    "version": "arXiv:2509.06785v1 (8 September 2025)"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_90a9e71383920644"
+  },
+  "headline": true,
+  "scope": "Projective lines on smooth cubic surfaces in P3. Generic complex enumeration, real parameter chambers, and probability distributions on real coefficients are distinguished in individual associations."
+}

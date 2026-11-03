@@ -1,0 +1,34 @@
+{
+  "result_id": "R_f714084adb0c9f85",
+  "problem_id": "P_bitangents_plane_quartics",
+  "question_id": "Q4",
+  "statement": "The four-oval case in Theorem 1.7/Table 1 has all 28 bitangents real. The complex count 28 gives the matching upper bound, so the maximum is 28.",
+  "answer": {
+    "text": "28",
+    "display": "28",
+    "relation": "equal",
+    "qualification": "This counts bitangent lines defined over R, including lines whose contact points are conjugate nonreal points.",
+    "count": 28
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "plaumann_2010_quartic_bitangents"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/1008.4104v2",
+    "location": "Theorem 1.7, PDF p.2; Table 1, PDF p.3",
+    "version": "arXiv:1008.4104v2 (10 January 2011), full PDF checked"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_f714084adb0c9f85"
+  },
+  "headline": true,
+  "scope": "Real projective bitangent lines to smooth real plane quartic curves; the two contact points may be real or a complex-conjugate pair.",
+  "notes": "This counts bitangent lines defined over R, including lines whose contact points are conjugate nonreal points."
+}

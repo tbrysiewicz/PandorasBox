@@ -1,0 +1,19 @@
+{
+  "relationships": [
+    {
+      "relation_id": "P_apollonius_three_circles__input_restriction_of__P_circles_three_conics",
+      "source_problem_id": "P_apollonius_three_circles",
+      "target_problem_id": "P_circles_three_conics",
+      "relation_type": "input_restriction_of",
+      "relation_statement": "Require each of the three input conics itself to be an ordinary circle. This gives Apollonius input data inside the three-conic input space.",
+      "evidence_location": "Definition of circles as conics through the two circular points; Section 2.1, with the separately recorded Apollonius quadratic count.",
+      "supporting_source_url": "https://arxiv.org/html/2211.06876v1",
+      "inheritance_policy": "Input inclusion only. The generic 184-circle count and generic monodromy do not transfer: the ordinary Apollonius problem has degree 8, and its compactification/admissibility conventions are different. Use its own result records.",
+      "caveats": "Elementary inclusion of the specified input classes. Regular versus exceptional restriction status is not classified here; this relation authorizes no automatic inheritance."
+    }
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": []
+}

@@ -1,0 +1,36 @@
+{
+  "result_id": "I_0008",
+  "problem_id": "P_rational_quartics_eleven_points",
+  "question_id": "Q3",
+  "statement": "Every eleven generic real points lie on at least 240 irreducible real rational quartics.",
+  "answer": {
+    "text": "Every eleven generic real points lie on at least 240 irreducible real rational quartics.",
+    "display": "minimum ≥240",
+    "relation": "at_least",
+    "qualification": "Eleven generic real points; attainment of240 is not verified here.",
+    "count": 240,
+    "lower_bound": 240
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "itenberg_2003_real_rational"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/math/0303378",
+    "location": "Theorem 1.1 and calculation W4=240, printed p.2",
+    "version": ""
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "inherited",
+    "original_result_id": "I_0008",
+    "source_problem_id": "P_rational_plane_curves",
+    "inheritance_basis": "The paper computes W4=240 and uses the universal inequality real count≥|W4|."
+  },
+  "headline": true,
+  "notes": "240 is a signed invariant and lower bound, not an established attained minimum."
+}

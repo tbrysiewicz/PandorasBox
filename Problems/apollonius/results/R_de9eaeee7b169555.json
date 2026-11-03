@@ -1,0 +1,34 @@
+{
+  "result_id": "R_de9eaeee7b169555",
+  "problem_id": "P_apollonius_three_circles",
+  "question_id": "Q1",
+  "statement": "For three general circles the ordinary complex circle problem has degree 8. The four quadratic branches give at most eight geometric circles; Stoll’s regular eight-real cases attain this upper bound, so the generic complex degree is eight. Opposite signed-radius descriptions are identified.",
+  "answer": {
+    "text": "8",
+    "display": "8",
+    "relation": "equal",
+    "qualification": "Explicit consequence of the quadratic branch calculation and a regular eight-real case. Ordinary geometric circles, not oriented signed-radius duplicates or exceptional point/line circles. Euler’s quadratic pairing is in https://scholarlycommons.pacific.edu/cgi/viewcontent.cgi?article=1647&context=euler-works.",
+    "count": 8
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "stoll_1873_apollonius"
+  ],
+  "source": {
+    "url": "https://gdz.sub.uni-goettingen.de/download/pdf/PPN235181684_0006/LOG_0045.pdf",
+    "location": "Equations (31)–(34), original p. 625; unnumbered table on p. 626, cases 1, 6 and 10. Compare Euler E648 §§6–7, original pp. 98–99.",
+    "version": "Stoll (1873), original scan pp. 625–626; Euler (1790) E648 original scan pp. 98–99"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_de9eaeee7b169555"
+  },
+  "headline": true,
+  "scope": "Three general labelled complex circles as inputs; distinct ordinary geometric solution circles tangent to all three, modulo the signed-radius duplication. Exclude point circles, limiting lines and exceptional quadratic-branch charts.",
+  "notes": "Explicit consequence of the quadratic branch calculation and a regular eight-real case. Ordinary geometric circles, not oriented signed-radius duplicates or exceptional point/line circles. Euler’s quadratic pairing is in https://scholarlycommons.pacific.edu/cgi/viewcontent.cgi?article=1647&context=euler-works."
+}

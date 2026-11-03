@@ -1,0 +1,33 @@
+{
+  "result_id": "R_fc63d4565a608250",
+  "problem_id": "P_lines_degree_2n3_hypersurfaces",
+  "question_id": "Q6",
+  "statement": "Let E_n be the expected number of real lines on a Kostlan Gaussian hypersurface of degree 2n-3 in RP^n, and C_n the generic complex line count in CP^n. Then E_3=6sqrt(2)-3 and lim_(n->infinity) log(E_n)/log(C_n)=1/2. The Gaussian monomial coefficients are independent, centered, with variances given by their multinomial coefficients.",
+  "answer": {
+    "text": "E₃=6√2−3; log E_n/log C_n →1/2",
+    "display": "E₃=6√2−3; log E_n/log C_n →1/2",
+    "relation": "partial",
+    "qualification": "Kostlan law; C_n is the generic complex count."
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "basu_2016_random_lines"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1610.01205v2",
+    "location": "Theorem 4 (p. 11); Theorem 11 (p. 23)",
+    "version": "arXiv:1610.01205v2 (8 November 2016); printed/PDF pages coincide"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_fc63d4565a608250"
+  },
+  "headline": true,
+  "scope": "Degree 2n-3 hypersurfaces in RP^n drawn from the Kostlan Gaussian ensemble.",
+  "notes": "Kostlan distribution; n is the ambient projective dimension."
+}

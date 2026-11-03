@@ -1,0 +1,34 @@
+{
+  "result_id": "R_e102df4e904f5a8d",
+  "problem_id": "P_4simplex_area_length",
+  "question_id": "Q1",
+  "statement": "For generic ten squared triangular areas of a 4-simplex, the area-length system in ten squared edge variables has 64 isolated complex solutions according to the starred numerical result. A total-degree homotopy starts with 1024 paths; 64 reach finite solutions and 960 diverge. The 64 solutions include both members of every global sign pair x and −x.",
+  "answer": {
+    "text": "64 (numerical).",
+    "display": "64 (numerical).",
+    "relation": "equal",
+    "qualification": "All labelled squared-edge assignments, including both global-sign partners.",
+    "count": 64
+  },
+  "status": "partial",
+  "evidence": "numerical_evidence",
+  "reference_ids": [
+    "asante_2024_area_length"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/2402.17080v2",
+    "location": "Theorem 1 (*); Section III.2, total-degree computation; equation (8)",
+    "version": "arXiv:2402.17080v2 (17 September 2024), matching published article"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_e102df4e904f5a8d"
+  },
+  "headline": true,
+  "scope": "Ten labelled squared edge variables x_ij=l_ij^2 of a 4-simplex; ten Heron equations 4x_ij*x_ik−(x_ij+x_ik−x_jk)^2=16v_ijk, with v_ijk=A_ijk^2.",
+  "notes": "The source explicitly marks the generic degree as susceptible to numerical error. These are squared-length assignments, not 64 Euclidean simplices, unsquared signed edge vectors, or sign-quotient classes."
+}

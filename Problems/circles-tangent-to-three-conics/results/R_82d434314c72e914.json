@@ -1,0 +1,34 @@
+{
+  "result_id": "R_82d434314c72e914",
+  "problem_id": "P_circles_three_conics",
+  "question_id": "Q3",
+  "statement": "Theorem 3.1 constructs and interval-certifies an instance outside the real discriminant with exactly n real tritangent circles for every even n from 0 to 136. Taking n=0, together with nonnegativity, proves that the minimum real count is exactly zero.",
+  "answer": {
+    "text": "0",
+    "display": "0",
+    "relation": "equal",
+    "qualification": "An attained exact minimum. The paper explicitly places the examples outside the real discriminant; its certificates are cited, not rerun.",
+    "count": 0
+  },
+  "status": "solved",
+  "evidence": "certified_computation",
+  "reference_ids": [
+    "breiding_2022_circles_conics"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/2211.06876v1",
+    "location": "Theorem 3.1 (take n=0)",
+    "version": "arXiv:2211.06876v1"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_82d434314c72e914"
+  },
+  "headline": true,
+  "scope": "Three general complex plane conics; circles are conics through the two circular points at infinity.",
+  "notes": "An attained exact minimum. The paper explicitly places the examples outside the real discriminant; its certificates are cited, not rerun."
+}

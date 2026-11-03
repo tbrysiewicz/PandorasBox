@@ -1,0 +1,111 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Attainable real counts result",
+  "allOf": [
+    {
+      "$ref": "../../Schemas/result-common.schema.json"
+    },
+    {
+      "properties": {
+        "question_id": {
+          "const": "Q5"
+        },
+        "answer": {
+          "anyOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "object",
+              "properties": {
+                "display": {
+                  "type": "string"
+                },
+                "relation": {
+                  "enum": [
+                    "equal",
+                    "at_least",
+                    "at_most",
+                    "partial",
+                    "contains",
+                    "contained_in",
+                    "unknown"
+                  ]
+                },
+                "qualification": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                },
+                "description": {
+                  "type": "string"
+                },
+                "witness_ids": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "uniqueItems": true
+                },
+                "parameters": {
+                  "type": [
+                    "object",
+                    "array"
+                  ]
+                },
+                "values": {
+                  "type": "array",
+                  "items": {
+                    "anyOf": [
+                      {
+                        "type": "integer",
+                        "minimum": 0
+                      },
+                      {
+                        "type": "string",
+                        "pattern": "^(0|[1-9][0-9]*(,[0-9]{3})*)$"
+                      }
+                    ]
+                  },
+                  "uniqueItems": true
+                },
+                "value": {
+                  "type": "string"
+                },
+                "formula": {
+                  "type": "string"
+                },
+                "expression": {
+                  "type": "string"
+                },
+                "range": {
+                  "type": "object"
+                },
+                "minimum": {
+                  "type": [
+                    "number",
+                    "string"
+                  ]
+                },
+                "maximum": {
+                  "type": [
+                    "number",
+                    "string"
+                  ]
+                },
+                "step": {
+                  "type": [
+                    "number",
+                    "string"
+                  ]
+                }
+              },
+              "additionalProperties": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

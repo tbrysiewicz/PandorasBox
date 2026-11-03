@@ -1,0 +1,100 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Exceptional locus result",
+  "allOf": [
+    {
+      "$ref": "../../Schemas/result-common.schema.json"
+    },
+    {
+      "properties": {
+        "question_id": {
+          "const": "Q8"
+        },
+        "answer": {
+          "anyOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "object",
+              "properties": {
+                "display": {
+                  "type": "string"
+                },
+                "relation": {
+                  "enum": [
+                    "equal",
+                    "at_least",
+                    "at_most",
+                    "partial",
+                    "contains",
+                    "contained_in",
+                    "unknown"
+                  ]
+                },
+                "qualification": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                },
+                "description": {
+                  "type": "string"
+                },
+                "witness_ids": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "uniqueItems": true
+                },
+                "parameters": {
+                  "type": [
+                    "object",
+                    "array"
+                  ]
+                },
+                "equations": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "ideal": {
+                  "type": [
+                    "string",
+                    "array",
+                    "object"
+                  ]
+                },
+                "degree": {
+                  "type": [
+                    "number",
+                    "string"
+                  ]
+                },
+                "value": {
+                  "type": "string"
+                },
+                "formula": {
+                  "type": "string"
+                },
+                "expression": {
+                  "type": "string"
+                },
+                "data_files": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "uniqueItems": true
+                }
+              },
+              "additionalProperties": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

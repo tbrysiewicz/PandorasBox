@@ -1,0 +1,33 @@
+{
+  "result_id": "R_3e765d30e30d97c1",
+  "problem_id": "P_circles_three_conics",
+  "question_id": "Q6",
+  "statement": "Section 4.1 studies 50,000 independent input coefficient vectors distributed as N(0_18,I_18), using numerical homotopy continuation to count real circles. Figure 4 reports the empirical count distribution, concentrated around 20 with substantial mass at zero. This is numerical evidence toward the distribution and expectation, not an exact expected-count formula.",
+  "answer": {
+    "text": "Gaussian sampling studied; no verified mean",
+    "display": "Gaussian sampling studied; no verified mean",
+    "relation": "partial",
+    "qualification": "The paper does not report an exact expectation or validated mean. The linked raw D2 labels include odd counts and values exceeding the textual cutoff of 60, so an unvalidated sample mean is not promoted to a mathematical answer."
+  },
+  "status": "partial",
+  "evidence": "numerical_evidence",
+  "reference_ids": [
+    "breiding_2022_circles_conics"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/2211.06876v1",
+    "location": "Section 4.1 and Figure 4; independent Gaussian data set D2",
+    "version": "arXiv:2211.06876v1; MathRepo data inspected 26 October 2026"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_3e765d30e30d97c1"
+  },
+  "headline": true,
+  "scope": "Real conic coefficients in the paper’s monomial coordinates, independently standard normal; data set D2, without the hill-climbing augmentation of D1.",
+  "notes": "The paper does not report an exact expectation or validated mean. The linked raw D2 labels include odd counts and values exceeding the textual cutoff of 60, so an unvalidated sample mean is not promoted to a mathematical answer."
+}

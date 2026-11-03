@@ -1,0 +1,33 @@
+{
+  "result_id": "R_b0154d2636e3f13d",
+  "problem_id": "P_circles_three_conics",
+  "question_id": "Q5",
+  "statement": "The rational conics specified in equation (1), consisting of the hyperbola 20x^2-5y^2+1=0 and two perturbed double lines, have 144 real tritangent circles. Numerical certification establishes the example and disproves the earlier conjectured maximum 136. This proves a lower bound 144 on the maximum, not its equality to 144.",
+  "answer": {
+    "text": "144 is attainable",
+    "values": [
+      144
+    ],
+    "relation": "partial"
+  },
+  "status": "partial",
+  "evidence": "certified_computation",
+  "reference_ids": [
+    "brysiewicz_2026_144_circles"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/2609.01521v1",
+    "location": "Theorem 1.1; explicit triple (1); numerical-certification Appendix (attainability consequence)",
+    "version": "arXiv:2609.01521v1 (1 September 2026)"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_b0154d2636e3f13d"
+  },
+  "scope": "Three general complex plane conics; circles are conics through the two circular points at infinity.",
+  "notes": "An individual attainable count; this does not settle the complete spectrum."
+}

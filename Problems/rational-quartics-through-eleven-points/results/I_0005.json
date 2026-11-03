@@ -1,0 +1,30 @@
+{
+  "result_id": "I_0005",
+  "problem_id": "P_rational_quartics_eleven_points",
+  "question_id": "Q1",
+  "statement": "The generic complex count is 620 irreducible rational degree-4 curves through 11 points.",
+  "answer": {
+    "text": "The generic complex count is 620 irreducible rational degree-4 curves through 11 points."
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "kontsevich_1994_gw"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/hep-th/9402147v2",
+    "location": "Claim 5.2.1; equation (5.17); immediately following values",
+    "version": ""
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "inherited",
+    "original_result_id": "I_0005",
+    "source_problem_id": "P_rational_plane_curves",
+    "inheritance_basis": "Evaluate the displayed recurrence at d=4; the value is also printed immediately after equation (5.17)."
+  },
+  "notes": "Historical qualification: this paper derives the recursion under its stated Gromov–Witten axioms and labels Section 5.2 Enumerative predictions; the introduction explicitly discusses the then incomplete geometric foundations."
+}

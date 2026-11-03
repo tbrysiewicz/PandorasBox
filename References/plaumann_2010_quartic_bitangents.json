@@ -1,0 +1,17 @@
+{
+  "reference_id": "plaumann_2010_quartic_bitangents",
+  "title": "Quartic curves and their bitangents",
+  "authors": "Daniel Plaumann; Bernd Sturmfels; Cynthia Vinzant",
+  "year": "2011",
+  "venue": "Journal of Symbolic Computation",
+  "volume": "46",
+  "issue": "6",
+  "pages": "712-733",
+  "doi": "10.1016/j.jsc.2011.01.007",
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S0747717111000198",
+  "preprint_url": "https://arxiv.org/abs/1008.4104",
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": []
+}

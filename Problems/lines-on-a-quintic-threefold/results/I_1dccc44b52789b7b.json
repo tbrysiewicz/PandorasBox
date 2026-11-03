@@ -1,0 +1,36 @@
+{
+  "result_id": "I_1dccc44b52789b7b",
+  "problem_id": "P_lines_quintic_threefold",
+  "question_id": "Q3",
+  "statement": "Every generic real quintic threefold has at least 15 real projective lines.",
+  "answer": {
+    "text": "minimum ≥15",
+    "display": "minimum ≥15",
+    "relation": "at_least",
+    "qualification": "Lower bound on ordinary real lines for regular fibres; no assertion that 15 is an attained minimum. Source ambient notation is P^(n+1), so its n is 3 here.",
+    "count": 15,
+    "lower_bound": 15
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "finashin_2012_abundance_lines"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1201.2897v1",
+    "location": "Corollary 3.1.3; Theorem 3.1.1 and Corollary 3.1.2, p. 3",
+    "version": ""
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "inherited",
+    "original_result_id": "I_1dccc44b52789b7b",
+    "source_problem_id": "P_lines_degree_2n3_hypersurfaces",
+    "inheritance_basis": "Specialize the lower bound (2n−3)!! to ambient n=4: 5!!=15."
+  },
+  "headline": true,
+  "notes": "Lower bound on ordinary real lines for regular fibres; no assertion that 15 is an attained minimum. Source ambient notation is P^(n+1), so its n is 3 here."
+}

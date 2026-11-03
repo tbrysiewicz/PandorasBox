@@ -1,0 +1,34 @@
+{
+  "result_id": "R_a640d7d56a399920",
+  "problem_id": "P_conics_five_conics",
+  "question_id": "Q1",
+  "statement": "Five general nonsingular plane conics have exactly 3,264 nonsingular complex tangent conics. On the space of complete conics, C=2(P+L), and C^5=32(1+5·2+10·4+10·4+5·2+1)=3264. The calculation excludes the double-line component responsible for the naive 6^5 count.",
+  "answer": {
+    "text": "3264",
+    "display": "3264",
+    "relation": "equal",
+    "qualification": "Geometric conics for general inputs; the source recalls the complete-conic intersection calculation and cites its transversality justification. Double lines are extraneous.",
+    "count": 3264
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "breiding_2019_3264_conics"
+  ],
+  "source": {
+    "url": "https://files-www.mis.mpg.de/mpi-typo3/preprints/2019/preprint2019_24.pdf",
+    "location": "Section “Chow Rings, Pentagons, and Real Conics”, printed pp. 5–6; unnumbered calculation C^5=3264 on p. 6",
+    "version": "MPI MIS preprint 24/2019, containing arXiv:1902.05518v1; inspected calculation on printed p. 6"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_a640d7d56a399920"
+  },
+  "headline": true,
+  "scope": "Nonsingular plane conics tangent to five input plane conics; generic finite complex counts and real constructions have their own hypotheses.",
+  "notes": "Geometric conics for general inputs; the source recalls the complete-conic intersection calculation and cites its transversality justification. Double lines are extraneous."
+}

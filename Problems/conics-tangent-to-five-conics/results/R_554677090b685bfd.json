@@ -1,0 +1,34 @@
+{
+  "result_id": "R_554677090b685bfd",
+  "problem_id": "P_conics_five_conics",
+  "question_id": "Q3",
+  "statement": "The exact minimum is zero over the unrestricted real-coefficient parameter space. Choose one input conic with positive-definite quadratic form, hence empty real locus. At a regular generic solution, tangency to each input is a unique ordinary contact. A real solution would have its unique contact with the definite conic fixed by conjugation, hence real, a contradiction. Positive definiteness is Euclidean open and meets the generic covering locus.",
+  "answer": {
+    "text": "0",
+    "display": "0",
+    "relation": "equal",
+    "qualification": "Our explicit deduction, not a quoted minimum theorem. It does not settle the minimum under the additional restriction that all five input conics have nonempty real loci.",
+    "count": 0
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "bachmann_2021_enriched_excess"
+  ],
+  "source": {
+    "url": "https://sites.math.duke.edu/~kgw/papers/ExcessBW.pdf",
+    "location": "Deduction from generic ordinary-contact locus used in Section 3; positive-definite input argument",
+    "version": "Generic-locus source: Bachmann–Wickelgren, Section 3; deduction recorded 26 October 2026"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_554677090b685bfd"
+  },
+  "headline": true,
+  "scope": "Unrestricted real-coefficient nonsingular input conics, permitting an input conic with empty real locus; regular finite covering locus.",
+  "notes": "Our explicit deduction, not a quoted minimum theorem. It does not settle the minimum under the additional restriction that all five input conics have nonempty real loci."
+}

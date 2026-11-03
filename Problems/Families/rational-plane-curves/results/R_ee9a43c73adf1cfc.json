@@ -1,0 +1,29 @@
+{
+  "result_id": "R_ee9a43c73adf1cfc",
+  "problem_id": "P_rational_plane_curves",
+  "question_id": "Q3",
+  "statement": "For the degree-three member with all eight point constraints real and generic, exactly the real counts 8,10,12 are attainable. Consequently the minimum is 8 and the maximum is 12.",
+  "answer": {
+    "text": "For the degree-three member with all eight point constraints real and generic, exactly the real counts 8,10,12 are attainable. Consequently the minimum is 8 and the maximum is 12."
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "degtyarev_2000_real_topology"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/math/0004134",
+    "location": "Proposition 4.7.3 and preceding “Digression: real rational curves”, printed p.50",
+    "version": "arXiv:math/0004134v1 (20 April 2000)"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_ee9a43c73adf1cfc"
+  },
+  "scope": "Degree d=3 in the rational-plane-curve family, with eight generic real point constraints.",
+  "notes": "The extracted result covers only d=3 and all-real constraints; it does not determine the minimum or maximum in every degree or for mixed conjugate data."
+}

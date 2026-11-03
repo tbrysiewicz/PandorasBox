@@ -1,0 +1,17 @@
+{
+  "problem_id": "P_lines_cubic_surfaces",
+  "name": "Lines on a cubic surface",
+  "kind": "specific_problem",
+  "constructor_call": "twenty_seven_lines()",
+  "arguments": [],
+  "reference_ids": [
+    "altman_kleiman_1977_fano",
+    "cayley_1849_triple_tangent",
+    "schlafli_1863_cubic_species",
+    "kass_wickelgren_2017_cubic_lines"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": []
+}

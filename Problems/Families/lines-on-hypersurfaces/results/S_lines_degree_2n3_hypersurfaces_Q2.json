@@ -1,0 +1,36 @@
+{
+  "result_id": "S_lines_degree_2n3_hypersurfaces_Q2",
+  "problem_id": "P_lines_degree_2n3_hypersurfaces",
+  "question_id": "Q2",
+  "statement": "n≥4: S_(D_n); n=3: W(E6); n=2: trivial (D₂=1)",
+  "answer": {
+    "display": "n≥4: S_(D_n); n=3: W(E6); n=2: trivial (D₂=1)",
+    "relation": "equal",
+    "qualification": "For n=2 the line count is one, so its monodromy is trivial; n=3 and n≥4 use the listed monodromy sources."
+  },
+  "status": "solved",
+  "evidence": "synthesis",
+  "reference_ids": [
+    "alvarezvizoso_2024_line_formulas",
+    "hashimoto_2020_fano_monodromy",
+    "pichonpharabod_2025_symmetric_cubics"
+  ],
+  "source": {
+    "url": "",
+    "location": "Generated summary of the listed supporting results",
+    "version": ""
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "synthesis"
+  },
+  "supporting_result_ids": [
+    "R_5926b7aa968645f7",
+    "R_99c1dba0c863aa2c",
+    "R_6050343cda57b776"
+  ],
+  "headline": true
+}

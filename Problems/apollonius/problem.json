@@ -1,0 +1,15 @@
+{
+  "problem_id": "P_apollonius_three_circles",
+  "name": "Apollonius’s problem",
+  "kind": "specific_problem",
+  "constructor_call": "apollonius_circles()",
+  "arguments": [],
+  "reference_ids": [
+    "stoll_1873_apollonius",
+    "euler_1790_apollonius"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": []
+}

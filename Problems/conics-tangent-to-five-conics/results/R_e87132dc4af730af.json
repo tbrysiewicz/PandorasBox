@@ -1,0 +1,33 @@
+{
+  "result_id": "R_e87132dc4af730af",
+  "problem_id": "P_conics_five_conics",
+  "question_id": "Q9",
+  "statement": "For five general plane conics over a perfect field k of characteristic not 2, the sum over closed tangent conics of Tr_{k(C)/k}⟨Jac σ(C)⟩ equals 1632ℍ in GW(k). Its rank is 3264 and its real signature is zero.",
+  "answer": {
+    "text": "1632ℍ in GW(k)",
+    "display": "1632ℍ in GW(k)",
+    "relation": "equal",
+    "qualification": "",
+    "expression": "1632ℍ in GW(k)"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "bachmann_2021_enriched_excess"
+  ],
+  "source": {
+    "url": "https://sites.math.duke.edu/~kgw/papers/ExcessBW.pdf",
+    "location": "Theorem 1.1 (printed p. 3), proved in Theorem 3.1",
+    "version": "Author manuscript, 32 pages, corresponding to arXiv:2112.05960v2"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_e87132dc4af730af"
+  },
+  "headline": true,
+  "scope": "Five general conics over a perfect field of characteristic different from 2; the relative orientation and local Jacobian classes specified by the authors."
+}

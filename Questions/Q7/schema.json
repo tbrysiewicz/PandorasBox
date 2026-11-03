@@ -1,0 +1,100 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Real chamber structure result",
+  "allOf": [
+    {
+      "$ref": "../../Schemas/result-common.schema.json"
+    },
+    {
+      "properties": {
+        "question_id": {
+          "const": "Q7"
+        },
+        "answer": {
+          "anyOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "object",
+              "properties": {
+                "display": {
+                  "type": "string"
+                },
+                "relation": {
+                  "enum": [
+                    "equal",
+                    "at_least",
+                    "at_most",
+                    "partial",
+                    "contains",
+                    "contained_in",
+                    "unknown"
+                  ]
+                },
+                "qualification": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                },
+                "description": {
+                  "type": "string"
+                },
+                "witness_ids": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "uniqueItems": true
+                },
+                "parameters": {
+                  "type": [
+                    "object",
+                    "array"
+                  ]
+                },
+                "value": {
+                  "type": "string"
+                },
+                "formula": {
+                  "type": "string"
+                },
+                "expression": {
+                  "type": "string"
+                },
+                "chambers": {
+                  "type": [
+                    "array",
+                    "object"
+                  ]
+                },
+                "adjacency": {
+                  "type": [
+                    "array",
+                    "object",
+                    "string"
+                  ]
+                },
+                "representatives": {
+                  "type": [
+                    "array",
+                    "object"
+                  ]
+                },
+                "data_files": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "uniqueItems": true
+                }
+              },
+              "additionalProperties": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

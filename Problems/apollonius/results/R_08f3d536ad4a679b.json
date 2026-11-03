@@ -1,0 +1,80 @@
+{
+  "result_id": "R_08f3d536ad4a679b",
+  "problem_id": "P_apollonius_three_circles",
+  "question_id": "Q2",
+  "statement": "The monodromy of the eight ordinary circles tangent to three labelled general circles is the inner holomorph D₈ ⋊ Inn(D₈), where D₈ denotes the dihedral group of order 8. It has order 32 and GAP identifier SmallGroup(32,49).",
+  "answer": {
+    "text": "D₈ ⋊ Inn(D₈) (order 32)",
+    "display": "D₈ ⋊ Inn(D₈) (order 32)",
+    "relation": "equal",
+    "qualification": "The explicit group was inspected in Zeng’s 2025 expository derivation, which attributes the result to Harris (1982); Harris’s original text was inaccessible. Do not confuse this group with McKean’s set-theoretic (C₂)^3 duality action or with the group after base change to chosen radii.",
+    "group": {
+      "degree": 8,
+      "generators": [
+        [
+          2,
+          3,
+          4,
+          1,
+          6,
+          7,
+          8,
+          5
+        ],
+        [
+          5,
+          8,
+          7,
+          6,
+          1,
+          4,
+          3,
+          2
+        ],
+        [
+          2,
+          3,
+          4,
+          1,
+          8,
+          5,
+          6,
+          7
+        ],
+        [
+          5,
+          6,
+          7,
+          8,
+          1,
+          2,
+          3,
+          4
+        ]
+      ],
+      "description": "D₈ ⋊ Inn(D₈)",
+      "lmfdb_url": null
+    }
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "harris_1982_theta"
+  ],
+  "source": {
+    "url": "https://zengrf.github.io/assets/pdf/circles-of-apollonius-monodromy.pdf",
+    "location": "Harris (1982), Apollonius application; explicit derivation and group identification in Zeng’s notes, p. 26",
+    "version": "Zeng, Monodromy of the Circles of Apollonius, 5 May 2025, p. 26; Harris (1982) DOI"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_08f3d536ad4a679b"
+  },
+  "headline": true,
+  "scope": "Labelled input circles parameterized by their ordinary conic coefficients, without adjoining chosen square roots of their squared radii.",
+  "notes": "The explicit group was inspected in Zeng’s 2025 expository derivation, which attributes the result to Harris (1982); Harris’s original text was inaccessible. Do not confuse this group with McKean’s set-theoretic (C₂)^3 duality action or with the group after base change to chosen radii.\n\nThe permutation representation is generated from the inner-holomorph construction in the source. A specific transitive-group catalogue label has not been independently identified.\n\nGenerator source: https://zengrf.github.io/assets/pdf/circles-of-apollonius-monodromy.pdf — Slide 26 (PDF page 26): inner holomorph of D8, SmallGroup(32,49)."
+}

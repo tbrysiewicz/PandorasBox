@@ -1,0 +1,34 @@
+{
+  "result_id": "R_2b00bf0fe47ea5e4",
+  "problem_id": "P_rational_plane_curves",
+  "question_id": "Q1",
+  "statement": "The exact degree-d rational-curve count is N_(d,0)=Σ_D μ(D)ν(D), summing over the connected labelled floor diagrams of degree d and genus zero. Figure 1 gives N_d=1,1,12,620,87304,26312976 for d=1,2,3,4,5,6.",
+  "answer": {
+    "text": "The exact degree-d rational-curve count is N_(d,0)=Σ_D μ(D)ν(D), summing over the connected labelled floor diagrams of degree d and genus zero. Figure 1 gives N_d=1,1,12,620,87304,26312976 for d=1,2,3,4,5,6.",
+    "display": "d=1,…,6: 1, 1, 12, 620, 87,304, 26,312,976. General d: N_d=Σ_D μ(D)ν(D), equivalently the Kontsevich recursion.",
+    "relation": "equal",
+    "qualification": "The sum is over connected labelled genus-zero floor diagrams, with exact weights and marking factors specified in Theorem 1.6. All curves counted are irreducible; the mixed-real problem uses the same complex degree.",
+    "formula": "The exact degree-d rational-curve count is N_(d,0)=Σ_D μ(D)ν(D), summing over the connected labelled floor diagrams of degree d and genus zero. Figure 1 gives N_d=1,1,12,620,87304,26312976 for d=1,2,3,4,5,6."
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "fomin_2009_labeled_floors"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/0906.3828v4",
+    "location": "Theorem 1.6, equation (1.5); Example 1.7; Figure 1",
+    "version": "arXiv:0906.3828v4 (18 January 2010), full PDF and corresponding HTML checked"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_2b00bf0fe47ea5e4"
+  },
+  "headline": true,
+  "scope": "Irreducible rational degree-d plane curves through 3d−1 points; generic complex configurations or generic conjugation-invariant real configurations with specified numbers of real points and conjugate pairs.",
+  "notes": "This is an unsigned complex count of irreducible rational plane curves. It is not a count of unweighted tropical curves."
+}

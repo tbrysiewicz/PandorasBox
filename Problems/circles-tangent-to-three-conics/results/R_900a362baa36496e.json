@@ -1,0 +1,33 @@
+{
+  "result_id": "R_900a362baa36496e",
+  "problem_id": "P_circles_three_conics",
+  "question_id": "Q5",
+  "statement": "The rational triple in Theorem 4.3 is strongly general and has 184 distinct geometric tangent circles: 160 real circles with positive squared radius and 24 nonreal circles forming 12 conjugate pairs. The same real count persists on a nonempty Euclidean open set. Fourfold splitting plus exact Sturm–Tarski and rational interval/elimination certificates establish 160<=M_R<=184; maximality of 160 remains unproved.",
+  "answer": {
+    "text": "160 is attainable",
+    "values": [
+      160
+    ],
+    "relation": "partial"
+  },
+  "status": "partial",
+  "evidence": "certified_computation",
+  "reference_ids": [
+    "liu_2026_two_flag_circles"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/2609.26285v1",
+    "location": "Theorems 1.1, 4.2 and 4.3; Section 6.1, fixed rational fibre delta_0=1/500000 (attainability consequence)",
+    "version": "arXiv:2609.26285v1"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_900a362baa36496e"
+  },
+  "scope": "Three general complex plane conics; circles are conics through the two circular points at infinity.",
+  "notes": "An individual attainable count; this does not settle the complete spectrum."
+}

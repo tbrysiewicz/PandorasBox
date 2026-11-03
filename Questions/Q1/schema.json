@@ -1,0 +1,92 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Complex count result",
+  "allOf": [
+    {
+      "$ref": "../../Schemas/result-common.schema.json"
+    },
+    {
+      "properties": {
+        "question_id": {
+          "const": "Q1"
+        },
+        "answer": {
+          "anyOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "object",
+              "properties": {
+                "display": {
+                  "type": "string"
+                },
+                "relation": {
+                  "enum": [
+                    "equal",
+                    "at_least",
+                    "at_most",
+                    "partial",
+                    "contains",
+                    "contained_in",
+                    "unknown"
+                  ]
+                },
+                "qualification": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                },
+                "description": {
+                  "type": "string"
+                },
+                "witness_ids": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "uniqueItems": true
+                },
+                "parameters": {
+                  "type": [
+                    "object",
+                    "array"
+                  ]
+                },
+                "count": {
+                  "anyOf": [
+                    {
+                      "type": "integer",
+                      "minimum": 0
+                    },
+                    {
+                      "type": "string",
+                      "pattern": "^(0|[1-9][0-9]*(,[0-9]{3})*)$"
+                    }
+                  ]
+                },
+                "value": {
+                  "type": [
+                    "number",
+                    "string"
+                  ]
+                },
+                "formula": {
+                  "type": "string"
+                },
+                "expression": {
+                  "type": "string"
+                },
+                "multiplicity": {
+                  "type": "string"
+                }
+              },
+              "additionalProperties": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

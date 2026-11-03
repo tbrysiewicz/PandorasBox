@@ -1,0 +1,32 @@
+{
+  "result_id": "I_0173",
+  "problem_id": "P_bitangents_plane_quartics",
+  "question_id": "Q1",
+  "statement": "A general smooth plane quartic has28 bitangent lines.",
+  "answer": {
+    "text": "A general smooth plane quartic has28 bitangent lines.",
+    "count": 28,
+    "relation": "equal"
+  },
+  "status": "partial",
+  "evidence": "announced_result",
+  "reference_ids": [
+    "plucker_1834_curve_formula"
+  ],
+  "source": {
+    "url": "https://gdz.sub.uni-goettingen.de/download/pdf/PPN243919689_0012/LOG_0009.pdf",
+    "location": "Displayed formula p.107 and quartic paragraph p.108",
+    "version": ""
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "inherited",
+    "original_result_id": "I_0173",
+    "source_problem_id": "P_bitangents_plane_curves_degree",
+    "inheritance_basis": "Set d=4 in the announced generic formula; the original p.108 also states28 explicitly."
+  },
+  "notes": "The1834 note is an announcement with proof details deferred; retain that historical source qualification. Higher-contact specializations require multiplicities."
+}

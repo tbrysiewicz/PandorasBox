@@ -1,0 +1,29 @@
+{
+  "result_id": "R_3f28a541d1072590",
+  "problem_id": "P_rational_plane_curves",
+  "question_id": "Q1",
+  "statement": "Under the paper’s Gromov–Witten axioms, the degree-d rational-plane-curve counts are uniquely determined by N(1)=1 and N(d)=Σ_(k+l=d;k,l>0)N(k)N(l)k²l[l binom(3d−4,3k−2)−k binom(3d−4,3k−1)]. In particular, N(2)=1, N(3)=12, N(4)=620, and N(5)=87304. The recurrence is equivalent to associativity of the plane potential.",
+  "answer": {
+    "text": "Under the paper’s Gromov–Witten axioms, the degree-d rational-plane-curve counts are uniquely determined by N(1)=1 and N(d)=Σ_(k+l=d;k,l>0)N(k)N(l)k²l[l binom(3d−4,3k−2)−k binom(3d−4,3k−1)]. In particular, N(2)=1, N(3)=12, N(4)=620, and N(5)=87304. The recurrence is equivalent to associativity of the plane potential."
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "kontsevich_1994_gw"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/hep-th/9402147v2",
+    "location": "Claim 5.2.1; equation (5.17); immediately following values",
+    "version": "arXiv:hep-th/9402147v2 (13 April 1994)"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_3f28a541d1072590"
+  },
+  "scope": "Irreducible rational degree-d plane curves through 3d−1 general points.",
+  "notes": "Historical qualification: this paper derives the recursion under its stated Gromov–Witten axioms and labels Section 5.2 Enumerative predictions; the introduction explicitly discusses the then incomplete geometric foundations."
+}

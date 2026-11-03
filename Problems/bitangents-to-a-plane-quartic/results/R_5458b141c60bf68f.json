@@ -1,0 +1,33 @@
+{
+  "result_id": "R_5458b141c60bf68f",
+  "problem_id": "P_bitangents_plane_quartics",
+  "question_id": "Q7",
+  "statement": "The complement of the quartic discriminant in real projective coefficient space RP14 has six connected components, one for each topology in Table 1: four ovals, three ovals, two nonnested ovals, one oval, two nested ovals, and empty. Their real bitangent counts are 28,16,8,4,4,4.",
+  "answer": {
+    "text": "6 chambers: four ovals; three ovals; two nonnested ovals; one oval; two nested ovals; empty",
+    "display": "6 chambers: four ovals; three ovals; two nonnested ovals; one oval; two nested ovals; empty",
+    "relation": "equal",
+    "qualification": "Real-line counts 28,16,8,4,4,4 respectively in smooth real quartic coefficient space."
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "plaumann_2010_quartic_bitangents"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/1008.4104v2",
+    "location": "Theorem 1.7 and Table 1",
+    "version": "arXiv:1008.4104v2, 10 January 2011"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_5458b141c60bf68f"
+  },
+  "headline": true,
+  "scope": "Real bitangent lines to a smooth real plane quartic; tangency points may be real or a complex-conjugate pair.",
+  "notes": "These are smooth-quartic parameter chambers, not chambers separating contact-point reality within a fixed topology. Attribution in the paper is to Zeuthen and Klein."
+}

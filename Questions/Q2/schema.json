@@ -1,0 +1,148 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Monodromy / Galois group result",
+  "allOf": [
+    {
+      "$ref": "../../Schemas/result-common.schema.json"
+    },
+    {
+      "properties": {
+        "question_id": {
+          "const": "Q2"
+        },
+        "answer": {
+          "anyOf": [
+            {
+              "type": "null"
+            },
+            {
+              "type": "object",
+              "properties": {
+                "display": {
+                  "type": "string"
+                },
+                "relation": {
+                  "enum": [
+                    "equal",
+                    "at_least",
+                    "at_most",
+                    "partial",
+                    "contains",
+                    "contained_in",
+                    "unknown"
+                  ]
+                },
+                "qualification": {
+                  "type": "string"
+                },
+                "text": {
+                  "type": "string"
+                },
+                "description": {
+                  "type": "string"
+                },
+                "witness_ids": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  },
+                  "uniqueItems": true
+                },
+                "parameters": {
+                  "type": [
+                    "object",
+                    "array"
+                  ]
+                },
+                "group": {
+                  "type": "object",
+                  "properties": {
+                    "degree": {
+                      "type": "integer",
+                      "minimum": 1
+                    },
+                    "generators": {
+                      "type": "array",
+                      "items": {
+                        "type": "array",
+                        "items": {
+                          "type": "integer",
+                          "minimum": 1
+                        }
+                      }
+                    },
+                    "description": {
+                      "type": "string"
+                    },
+                    "lmfdb_url": {
+                      "type": [
+                        "string",
+                        "null"
+                      ]
+                    }
+                  },
+                  "required": [
+                    "degree",
+                    "generators",
+                    "description"
+                  ],
+                  "additionalProperties": false
+                },
+                "groups": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "degree": {
+                        "type": "integer",
+                        "minimum": 1
+                      },
+                      "generators": {
+                        "type": "array",
+                        "items": {
+                          "type": "array",
+                          "items": {
+                            "type": "integer",
+                            "minimum": 1
+                          }
+                        }
+                      },
+                      "description": {
+                        "type": "string"
+                      },
+                      "lmfdb_url": {
+                        "type": [
+                          "string",
+                          "null"
+                        ]
+                      }
+                    },
+                    "required": [
+                      "degree",
+                      "generators",
+                      "description"
+                    ],
+                    "additionalProperties": false
+                  }
+                },
+                "value": {
+                  "type": "string"
+                },
+                "formula": {
+                  "type": "string"
+                },
+                "expression": {
+                  "type": "string"
+                },
+                "containment": {
+                  "type": "string"
+                }
+              },
+              "additionalProperties": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

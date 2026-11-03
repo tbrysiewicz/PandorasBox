@@ -1,0 +1,34 @@
+{
+  "result_id": "R_01fd354b1d8c66b2",
+  "problem_id": "P_lines_cubic_surfaces",
+  "question_id": "Q9",
+  "statement": "For a smooth cubic surface V ⊂ P³_k over a field of characteristic different from 2, the sum over closed lines ℓ of Tr_{k(ℓ)/k}⟨type(ℓ)⟩ equals 15⟨1⟩ + 12⟨−1⟩ in GW(k). Its rank is 27; over ℝ its signature is 3, giving #hyperbolic real lines − #elliptic real lines = 3.",
+  "answer": {
+    "text": "15⟨1⟩ + 12⟨−1⟩ in GW(k)",
+    "display": "15⟨1⟩ + 12⟨−1⟩ in GW(k)",
+    "relation": "equal",
+    "qualification": "For every smooth cubic surface over a field k with char(k) ≠ 2. Sum of transferred arithmetic line types; over ℝ the signature is 3.",
+    "expression": "15⟨1⟩ + 12⟨−1⟩ in GW(k)"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "kass_wickelgren_2017_cubic_lines"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1708.01175v2",
+    "location": "Theorem 2, equation (4)",
+    "version": "arXiv:1708.01175v2 (6 October 2020)"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_01fd354b1d8c66b2"
+  },
+  "headline": true,
+  "scope": "Projective lines on every smooth cubic surface V ⊂ P³_k, for any field k of characteristic different from 2. Closed points of the Fano scheme (Galois orbits of geometric lines) contribute via the finite separable residue-field trace to GW(k).",
+  "notes": "The enriched value is a Grothendieck–Witt class, not the unsigned number of real lines. The line type is 1 for a hyperbolic line and the discriminant square class of the involution fixed locus for an elliptic line. Characteristic 2 is excluded; characteristic 3 is allowed."
+}

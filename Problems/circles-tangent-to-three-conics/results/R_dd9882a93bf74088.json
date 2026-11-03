@@ -1,0 +1,34 @@
+{
+  "result_id": "R_dd9882a93bf74088",
+  "problem_id": "P_circles_three_conics",
+  "question_id": "Q9",
+  "statement": "The sum of the local indices of tangent circles to three strongly general smooth plane conics equals 92ℍ in GW(k). Its rank is 184 and its real signature is zero. Here ℍ=⟨1⟩+⟨−1⟩.",
+  "answer": {
+    "text": "92ℍ in GW(k)",
+    "display": "92ℍ in GW(k)",
+    "relation": "equal",
+    "qualification": "Strong generality includes a finite étale zero scheme, smooth solution circles, ordinary contacts and transverse residual intersections. Signature zero is a signed count, not the number of real solutions.",
+    "expression": "92ℍ in GW(k)"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "liu_2026_two_flag_circles"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/2609.26285v1",
+    "location": "Theorem 1.2; Proposition 2.4 fixes the relative orientation",
+    "version": "arXiv:2609.26285v1"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_dd9882a93bf74088"
+  },
+  "headline": true,
+  "scope": "Characteristic-zero field k; three strongly general smooth plane conics, with the relative orientation of Proposition 2.4.",
+  "notes": "Strong generality includes a finite étale zero scheme, smooth solution circles, ordinary contacts and transverse residual intersections. Signature zero is a signed count, not the number of real solutions."
+}

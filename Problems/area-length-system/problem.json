@@ -1,0 +1,14 @@
+{
+  "problem_id": "P_4simplex_area_length",
+  "name": "Area–length equations for a 4-simplex",
+  "kind": "specific_problem",
+  "constructor_call": "area_length_system()",
+  "arguments": [],
+  "reference_ids": [
+    "asante_2024_area_length"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": []
+}

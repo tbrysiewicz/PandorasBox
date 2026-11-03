@@ -1,0 +1,21 @@
+{
+  "open_problem_id": "OP_58c0dcc48138e3f8",
+  "problem_id": "P_rational_plane_curves",
+  "question_id": "Q2",
+  "statement": "Is the generic arithmetic Galois group the full symmetric group S_(N_d) for every degree d?",
+  "reference_ids": [
+    "holmes_rome_2019_fields_rational_curves"
+  ],
+  "source": {
+    "url": "https://jtnb.centre-mersenne.org/item/10.5802/jtnb.1123.pdf",
+    "location": "Conjecture 1.5, printed p.294",
+    "version": ""
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [
+    "Taylor Brysiewicz AI 20261102"
+  ],
+  "checked_content_sha256": "2f3e573d4b79eea5d4900cb4802ed27efef5ca8dbcfb9ee7ee33eedcb186be81"
+}

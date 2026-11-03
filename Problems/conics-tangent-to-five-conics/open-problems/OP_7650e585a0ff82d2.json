@@ -1,0 +1,21 @@
+{
+  "open_problem_id": "OP_7650e585a0ff82d2",
+  "problem_id": "P_conics_five_conics",
+  "question_id": "Q9",
+  "statement": "What is an arithmetic-geometric interpretation of the local weights in the enriched count of conics tangent to five conics?",
+  "reference_ids": [
+    "bachmann_2021_enriched_excess"
+  ],
+  "source": {
+    "url": "https://sites.math.duke.edu/~kgw/papers/ExcessBW.pdf",
+    "location": "Question 3.2, printed pp.13–14",
+    "version": ""
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [
+    "Taylor Brysiewicz AI 20261102"
+  ],
+  "checked_content_sha256": "e2c8dd172a0ac37c7c3d84a174023fc2a5bf8238f2940ac924939de039bc988e"
+}

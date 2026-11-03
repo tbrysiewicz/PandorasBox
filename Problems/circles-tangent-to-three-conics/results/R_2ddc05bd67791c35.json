@@ -1,0 +1,33 @@
+{
+  "result_id": "R_2ddc05bd67791c35",
+  "problem_id": "P_circles_three_conics",
+  "question_id": "Q8",
+  "statement": "For the nine-variable real circle/contact incidence system, the real count fails to be locally constant exactly on arrangements having one of: a common real tangent line; a common real point; a real singular point of one conic lying on a circle tangent to the other two; a real tangency between two conics; or a common real tangent circle with matching curvature and equally directed normals at one contact.",
+  "answer": {
+    "text": "Five types: common tangent line; common point; singular-point contact; conic tangency; curvature-matched circle contact",
+    "display": "Five types: common tangent line; common point; singular-point contact; conic tangency; curvature-matched circle contact",
+    "relation": "equal",
+    "qualification": "Real circle/contact incidence discriminant with the source’s orientation and admissibility conventions."
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "breiding_2022_circles_conics"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/2211.06876v1",
+    "location": "Theorem 2.3 (The real discriminant), Section 2.3",
+    "version": "arXiv:2211.06876v1 (13 November 2022)"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_2ddc05bd67791c35"
+  },
+  "headline": true,
+  "scope": "Real parameter space of triples of plane conics in the nine-variable circle/contact-point formulation.",
+  "notes": "This characterizes the discriminant; it does not classify all complementary real chambers."
+}

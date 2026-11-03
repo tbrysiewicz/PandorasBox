@@ -1,0 +1,15 @@
+{
+  "problem_id": "P_lines_quintic_threefold",
+  "name": "Lines on a quintic threefold",
+  "kind": "specific_problem",
+  "constructor_call": "lines_on_quintic_3fold()",
+  "arguments": [],
+  "reference_ids": [
+    "alvarezvizoso_2024_line_formulas",
+    "pauli_2020_quintic_lines"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": []
+}

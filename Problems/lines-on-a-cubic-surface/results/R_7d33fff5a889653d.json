@@ -1,0 +1,37 @@
+{
+  "result_id": "R_7d33fff5a889653d",
+  "problem_id": "P_lines_cubic_surfaces",
+  "question_id": "Q1",
+  "statement": "A smooth cubic surface over an algebraically closed field contains precisely 27 distinct projective lines.",
+  "answer": {
+    "text": "Every smooth cubic surface has 27 distinct lines.",
+    "display": "27",
+    "relation": "equal",
+    "qualification": "",
+    "count": 27
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "altman_kleiman_1977_fano"
+  ],
+  "source": {
+    "url": "https://www.numdam.org/item/CM_1977__34_1_3_0.pdf",
+    "location": "Corollary (1.13), printed page 11",
+    "version": "Original published article"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [
+    "Taylor Brysiewicz 20261102"
+  ],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_7d33fff5a889653d"
+  },
+  "headline": true,
+  "checked_content_sha256": "8267b8dcf9933242034c56171a3be7976c883f9e3812d5cf0714bda2a367fce3",
+  "scope": "Smooth cubic surfaces in P3 over an algebraically closed field.",
+  "notes": "The statement is valid in the source’s stated arbitrary characteristic. The complex enumerative database uses its characteristic-zero specialization."
+}

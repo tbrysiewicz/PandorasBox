@@ -1,0 +1,29 @@
+{
+  "result_id": "R_ee9d2178e816dd6c",
+  "problem_id": "P_bitangents_plane_quartics",
+  "question_id": "Q5",
+  "statement": "The shape-(C) lifting conditions extend to smooth tropical quartics failing the earlier edge-length genericity condition. Among the 1278 unimodular triangulations modulo S3, the numbers admitting real-bitangent count sets {4,8,16,28}, {4,8,28}, {4,16,28}, {8,16,28}, {4,28}, {8,28}, and {16,28} are respectively 1207,15,27,18,6,3,2. In particular every triangulation admits a real lift with 28 bitangents.",
+  "answer": {
+    "text": "The shape-(C) lifting conditions extend to smooth tropical quartics failing the earlier edge-length genericity condition. Among the 1278 unimodular triangulations modulo S3, the numbers admitting real-bitangent count sets {4,8,16,28}, {4,8,28}, {4,16,28}, {8,16,28}, {4,28}, {8,28}, and {16,28} are respectively 1207,15,27,18,6,3,2. In particular every triangulation admits a real lift with 28 bitangents."
+  },
+  "status": "solved",
+  "evidence": "certified_computation",
+  "reference_ids": [
+    "geiger_2025_patchworking_bitangents"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/2503.22390v1",
+    "location": "Theorem 3.7; Theorem 3.9 and Table 3, all seven columns",
+    "version": "arXiv:2503.22390v1, 28 March 2025"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_ee9d2178e816dd6c"
+  },
+  "scope": "Real plane quartics with smooth tropicalizations, including tropical types not resolved by preceding lifting criteria.",
+  "notes": "Theorem 3.9 is a finite combinatorial computation, with data and algorithms supplied by the paper; computation was not rerun. Counts are across sign choices for a fixed triangulation, not connected coefficient chambers."
+}

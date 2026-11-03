@@ -1,0 +1,33 @@
+{
+  "result_id": "R_3d72d024d2e627fd",
+  "problem_id": "P_rational_plane_curves",
+  "question_id": "Q2",
+  "statement": "For every degree d, Proposition 2.2 proves that the arithmetic action on the N_d rational curves is transitive outside a thin subset of rational configurations. Conjecture 1.5 predicts the full symmetric group S_(N_d); §3 proves this for d=3 (S12), while d=1,2 are trivial.",
+  "answer": {
+    "text": "Arithmetic group: trivial for d=1,2; S12 for d=3; transitive generally. S_(N_d) conjectured in this source.",
+    "display": "Arithmetic group: trivial for d=1,2; S12 for d=3; transitive generally. S_(N_d) conjectured in this source.",
+    "relation": "partial",
+    "qualification": "Conjecture 1.5 is dated 2020 and is not asserted to be currently open. This is an arithmetic Galois statement, not an extracted geometric complex-monodromy classification."
+  },
+  "status": "partial",
+  "evidence": "conjecture",
+  "reference_ids": [
+    "holmes_rome_2019_fields_rational_curves"
+  ],
+  "source": {
+    "url": "https://jtnb.centre-mersenne.org/item/10.5802/jtnb.1123.pdf",
+    "location": "Proposition 2.2, printed p.295 and following paragraph p.296; Conjecture 1.5, p.294; §3, pp.299–300",
+    "version": "Published JTNB 32(1) (2020), 291–310; publisher PDF with cover page"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_3d72d024d2e627fd"
+  },
+  "headline": true,
+  "scope": "Arithmetic Galois action on degree-d rational plane curves through 3d−1 general Q-rational points; generic splitting field over the rational function field of the point-configuration space.",
+  "notes": "The full symmetric-group statement is a conjecture in this 2020 source for general d. No current unresolved-status claim is made, and arithmetic Galois is distinguished from geometric complex monodromy."
+}

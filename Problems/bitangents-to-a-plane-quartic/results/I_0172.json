@@ -1,0 +1,35 @@
+{
+  "result_id": "I_0172",
+  "problem_id": "P_bitangents_plane_quartics",
+  "question_id": "Q1",
+  "statement": "A general smooth complex plane quartic has28 bitangent lines.",
+  "answer": {
+    "text": "A general smooth complex plane quartic has28 bitangent lines.",
+    "display": "28",
+    "relation": "equal",
+    "qualification": "Generic complex count; special higher contacts retain their contact-divisor conventions.",
+    "count": 28
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "cayley_1859_double_tangents"
+  ],
+  "source": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/On_the_Double_Tangents_of_a_Plane_Curve_(IA_jstor-108697).pdf",
+    "location": "Section7, p.197",
+    "version": ""
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "inherited",
+    "original_result_id": "I_0172",
+    "source_problem_id": "P_bitangents_plane_curves_degree",
+    "inheritance_basis": "Evaluate d(d−2)(d²−9)/2 at d=4; retain ordinary generic contact hypotheses."
+  },
+  "headline": true,
+  "notes": "A higher-contact bitangent can carry multiplicity on special smooth quartics; this specialization is stated for a general quartic."
+}

@@ -1,0 +1,19 @@
+{
+  "relationships": [
+    {
+      "relation_id": "lines_cubic_surfaces__instance_of__lines_degree_2n3_hypersurfaces",
+      "source_problem_id": "P_lines_cubic_surfaces",
+      "target_problem_id": "P_lines_degree_2n3_hypersurfaces",
+      "relation_type": "instance_of",
+      "relation_statement": "Set ambient dimension n=3 and degree 2n−3=3.",
+      "evidence_location": "Basu et al., Theorem 6 and Corollary 7",
+      "supporting_source_url": "https://arxiv.org/pdf/1610.01205v2",
+      "inheritance_policy": "Fixed-dimension count and universal bounds specialize; use the correct probability distribution for expectation.",
+      "caveats": ""
+    }
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": []
+}

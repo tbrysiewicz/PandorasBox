@@ -1,0 +1,16 @@
+{
+  "problem_id": "P_circles_three_conics",
+  "name": "Circles tangent to three conics",
+  "kind": "specific_problem",
+  "constructor_call": "tangent_circles()",
+  "arguments": [],
+  "reference_ids": [
+    "breiding_2022_circles_conics",
+    "liu_2026_two_flag_circles",
+    "brysiewicz_2026_144_circles"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": []
+}

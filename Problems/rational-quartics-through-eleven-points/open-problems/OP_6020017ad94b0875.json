@@ -1,0 +1,21 @@
+{
+  "open_problem_id": "OP_6020017ad94b0875",
+  "problem_id": "P_rational_quartics_eleven_points",
+  "question_id": "Q2",
+  "statement": "Is the generic arithmetic Galois group for rational quartics through eleven general rational points the full symmetric group?",
+  "reference_ids": [
+    "holmes_rome_2019_fields_rational_curves"
+  ],
+  "source": {
+    "url": "https://jtnb.centre-mersenne.org/item/10.5802/jtnb.1123.pdf",
+    "location": "Conjecture 1.5, printed p.294; degree-four specialization",
+    "version": ""
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [
+    "Taylor Brysiewicz AI 20261102"
+  ],
+  "checked_content_sha256": "a8144642cad39aaaf27a3d027704738cba302497e6feac4e386d3e7ac71c94d1"
+}

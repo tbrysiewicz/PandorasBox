@@ -1,0 +1,33 @@
+{
+  "result_id": "R_ce07b9aa4fbe5c20",
+  "problem_id": "P_rational_quartics_eleven_points",
+  "question_id": "Q2",
+  "statement": "Specializing Conjecture 1.5 to d=4 predicts arithmetic splitting-field Galois group S620 for rational quartics through eleven general rational points. Proposition 2.2 proves transitivity outside a thin exceptional set; the paper does not prove the full group for d=4.",
+  "answer": {
+    "text": "Arithmetic action transitive; S620 conjectured in the 2020 source.",
+    "display": "Arithmetic action transitive; S620 conjectured in the 2020 source.",
+    "relation": "partial",
+    "qualification": "This records a proved transitivity statement and a dated full-group conjecture; it does not claim that the full Galois group has been proved or that the conjecture remains open today."
+  },
+  "status": "partial",
+  "evidence": "conjecture",
+  "reference_ids": [
+    "holmes_rome_2019_fields_rational_curves"
+  ],
+  "source": {
+    "url": "https://jtnb.centre-mersenne.org/item/10.5802/jtnb.1123.pdf",
+    "location": "Conjecture 1.5, printed p.294; Proposition 2.2, p.295; paragraph proposing e=4 computations on p.294",
+    "version": "Published JTNB 32(1) (2020), 291–310; publisher PDF with cover page"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_ce07b9aa4fbe5c20"
+  },
+  "headline": true,
+  "scope": "The arithmetic Galois action on the 620 irreducible rational quartics through eleven general Q-rational plane points.",
+  "notes": "S620 is explicitly a conjecture in this 2020 paper, not a verified group and not an assertion of present-day openness. The geometric complex group is not extracted."
+}

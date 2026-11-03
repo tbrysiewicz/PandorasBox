@@ -1,0 +1,34 @@
+{
+  "result_id": "R_cce7a23594fdb5e3",
+  "problem_id": "P_apollonius_three_circles",
+  "question_id": "Q9",
+  "statement": "The bilinear-form-valued contributions β_S of the circles of Apollonius sum to 4ℍ in GW(k). Theorems 1.2 and 1.3 describe local contributions using gradient volumes and weighted areas. The rank is 8; over the reals the signature is zero.",
+  "answer": {
+    "text": "4ℍ in GW(k)",
+    "display": "4ℍ in GW(k)",
+    "relation": "equal",
+    "qualification": "Local contributions include field transfers and multiplicity where needed in the theorem’s broader formulation. The weighted-area description has the additional nontangency and separability assumptions of Theorem 1.3.",
+    "expression": "4ℍ in GW(k)"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "mckean_2022_apollonius"
+  ],
+  "source": {
+    "url": "https://shmckean.github.io/research/apollonius.pdf",
+    "location": "Theorem 1.1, equation (1.1); Theorems 1.2 and 1.3",
+    "version": "Author manuscript, 46 pages; arXiv:2210.13288"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_cce7a23594fdb5e3"
+  },
+  "headline": true,
+  "scope": "Field of characteristic different from 2; three input circles with noncollinear centers. On the generic ordinary-circle locus this gives the enriched count of the eight solutions.",
+  "notes": "Local contributions include field transfers and multiplicity where needed in the theorem’s broader formulation. The weighted-area description has the additional nontangency and separability assumptions of Theorem 1.3."
+}

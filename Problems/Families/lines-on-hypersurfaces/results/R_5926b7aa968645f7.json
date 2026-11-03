@@ -1,0 +1,29 @@
+{
+  "result_id": "R_5926b7aa968645f7",
+  "problem_id": "P_lines_degree_2n3_hypersurfaces",
+  "question_id": "Q2",
+  "statement": "For degree 2n−3 hypersurfaces in Pn with n≥4, the generic geometric monodromy on the D_n lines is the full symmetric group S_(D_n). Hashimoto–Kadets explicitly recall Harris’s computation of monodromy of lines on hypersurfaces of degree greater than three.",
+  "answer": {
+    "text": "For degree 2n−3 hypersurfaces in Pn with n≥4, the generic geometric monodromy on the D_n lines is the full symmetric group S_(D_n). Hashimoto–Kadets explicitly recall Harris’s computation of monodromy of lines on hypersurfaces of degree greater than three."
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "hashimoto_2020_fano_monodromy"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/2002.04580v2",
+    "location": "Introduction, paragraph immediately after Theorem 1.2, PDF p.2; cites Harris [Har79], §III.1",
+    "version": "arXiv:2002.04580v2 (22 November 2020), full PDF checked"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_5926b7aa968645f7"
+  },
+  "scope": "Generic degree d=2n−3 hypersurfaces in complex Pn, n≥4; monodromy over the unrestricted coefficient family.",
+  "notes": "This exact line-hypersurface result is stronger than the article’s general alternating-or-symmetric theorem for higher-dimensional linear spaces. The inspected source is Hashimoto–Kadets; Harris’s original §III.1 full text was not accessible in this pass. The generic cubic and degree-one cases are supplied separately."
+}

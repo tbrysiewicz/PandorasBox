@@ -1,0 +1,33 @@
+{
+  "result_id": "R_97b0d089b8994ac0",
+  "problem_id": "P_4simplex_area_length",
+  "question_id": "Q6",
+  "statement": "For independently uniform nonsquared areas in (0,1), (0.3,1), or (0.5,1), respectively, the empirical mean number of real squared-edge solutions is 27.33%, 39.60%, or 53.67% of 64. Each experiment uses one million samples; these are estimates of distribution-specific expectations rather than exact formulas.",
+  "answer": {
+    "text": "Empirical means: 0.2733·64, 0.3960·64, 0.5367·64.",
+    "display": "Empirical means: 0.2733·64, 0.3960·64, 0.5367·64.",
+    "relation": "partial",
+    "qualification": "Uniform nonsquared areas in (0,1),(0.3,1),(0.5,1), respectively; one million samples each."
+  },
+  "status": "partial",
+  "evidence": "numerical_evidence",
+  "reference_ids": [
+    "asante_2024_area_length"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/2402.17080v2",
+    "location": "Table 1, Mean/64 column and rows I_0.0,I_0.3,I_0.5; Section IV.1, distribution definition",
+    "version": "arXiv:2402.17080v2 (17 September 2024), matching published article"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_97b0d089b8994ac0"
+  },
+  "headline": true,
+  "scope": "Ten labelled squared edge variables x_ij=l_ij^2 of a 4-simplex; ten Heron equations 4x_ij*x_ik−(x_ij+x_ik−x_jk)^2=16v_ijk, with v_ijk=A_ijk^2. Independent nonsquared areas A_ijk uniform in (alpha,1), for alpha=0,0.3,0.5, then v_ijk=A_ijk^2.",
+  "notes": "The distribution is uniform before squaring. The tabulated means are rounded Monte Carlo estimates, with no confidence interval or rigorous expectation bound supplied."
+}

@@ -1,0 +1,30 @@
+{
+  "result_id": "I_0015",
+  "problem_id": "P_lines_cubic_surfaces",
+  "question_id": "Q6",
+  "statement": "A Kostlan Gaussian real cubic surface has expected real-line count 6√2−3.",
+  "answer": {
+    "text": "A Kostlan Gaussian real cubic surface has expected real-line count 6√2−3."
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "basu_2016_random_lines"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1610.01205v2",
+    "location": "Theorem 4 (p. 11); Theorem 11 (p. 23)",
+    "version": ""
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "inherited",
+    "original_result_id": "I_0015",
+    "source_problem_id": "P_lines_degree_2n3_hypersurfaces",
+    "inheritance_basis": "Set n=3 in the family and use the exact value in Theorem 4."
+  },
+  "notes": "These are generic/simple-fibre or distribution-specific statements, not all singular cubic surfaces."
+}

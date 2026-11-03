@@ -1,0 +1,29 @@
+{
+  "result_id": "R_7ed0c213438e78b7",
+  "problem_id": "P_bitangents_plane_quartics",
+  "question_id": "Q5",
+  "statement": "Let a smooth plane quartic over a real closed complete non-Archimedean valued field have generic smooth tropicalization. Exactly 1, 2, 4, or 7 of its seven tropical bitangent classes admit real lifts near the tropical limit. Consequently the quartic has 4, 8, 16, or 28 totally real bitangents.",
+  "answer": {
+    "text": "Let a smooth plane quartic over a real closed complete non-Archimedean valued field have generic smooth tropicalization. Exactly 1, 2, 4, or 7 of its seven tropical bitangent classes admit real lifts near the tropical limit. Consequently the quartic has 4, 8, 16, or 28 totally real bitangents."
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "geiger_2021_tropical_bitangent_count"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/2112.04433v1",
+    "location": "Theorem 1.1; Section 4 proof",
+    "version": "arXiv:2112.04433v1, 8 December 2021"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_7ed0c213438e78b7"
+  },
+  "scope": "Smooth real plane quartics with the tropical smoothness and lifting genericity assumptions used in the paper.",
+  "notes": "The theorem is proved using combinatorial enumeration in polymake and real lifting criteria. Genericity is the paper’s Section 2 condition; this is not a chamber classification."
+}

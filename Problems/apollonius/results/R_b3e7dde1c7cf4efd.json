@@ -1,0 +1,29 @@
+{
+  "result_id": "R_b3e7dde1c7cf4efd",
+  "problem_id": "P_apollonius_three_circles",
+  "question_id": "Q7",
+  "statement": "Fourteen topological relative-position types of three circles are listed and their contact-circle counts and contact types tabulated.",
+  "answer": {
+    "text": "Fourteen topological relative-position types of three circles are listed and their contact-circle counts and contact types tabulated."
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "muirhead_1895_apollonian_contact"
+  ],
+  "source": {
+    "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E7A90EBF33F9B6B5142BBFD9F9A89361/S0013091500031898a.pdf/on-the-number-and-nature-of-the-solutions-of-the-apollonian-contact-problem.pdf",
+    "location": "Sections4–5, original pp.137–141; TableI, p.141; Sections6ff for boundary cases",
+    "version": "Original pp.135–147, Cambridge digitized journal PDF (online20January2009); publisher volume year1895, often cited1896."
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_b3e7dde1c7cf4efd"
+  },
+  "scope": "Three real input circles; generic relative-position types, with special tangencies handled separately.",
+  "notes": "The fourteen incidence types are not asserted to be fourteen connected real discriminant-complement chambers. TableI is inspected alongside its explanatory prose; historical special self-contact conventions must be retained."
+}

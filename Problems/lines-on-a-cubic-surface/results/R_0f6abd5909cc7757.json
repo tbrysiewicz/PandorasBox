@@ -1,0 +1,33 @@
+{
+  "result_id": "R_0f6abd5909cc7757",
+  "problem_id": "P_lines_cubic_surfaces",
+  "question_id": "Q7",
+  "statement": "Smooth real cubic surfaces modulo GL4(R) have five connected components indexed j=0,...,4, with real-line counts 27,15,7,3,3. Each component is the quotient of real hyperbolic 4-space minus a specified arrangement by the projective integral orthogonal group of -x0^2+sum_(i=1)^4 m_i xi^2, with exactly j coefficients m_i=3 and the others 1. The final two types have real loci RP2 and RP2 disjoint union S2, distinguishing chambers with the same count 3.",
+  "answer": {
+    "text": "5 moduli chambers; real-line counts 27,15,7,3,3",
+    "display": "5 moduli chambers; real-line counts 27,15,7,3,3",
+    "relation": "equal",
+    "qualification": "Modulo real projective equivalence; the two 3-line types have different real topology. The short source announces the result and sketches its proof."
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "allcock_2003_real_cubic_moduli"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/math/0303374v1",
+    "location": "Section 1 (Results), equation (1), paragraph defining PGamma_j, and unnumbered component table (types0–4); Theorem 1.1",
+    "version": "arXiv:math/0303374v1 (30 March 2003)"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_0f6abd5909cc7757"
+  },
+  "headline": true,
+  "scope": "Smooth real cubic surfaces modulo GL(4,R), the base moduli for the 27-line problem.",
+  "notes": "Chambers are in moduli modulo real projective equivalence. Two components have the same real-line count 3, showing why counts alone do not classify chambers. This short paper announces the results and sketches proof."
+}

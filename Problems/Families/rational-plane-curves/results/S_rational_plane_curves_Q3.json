@@ -1,0 +1,36 @@
+{
+  "result_id": "S_rational_plane_curves_Q3",
+  "problem_id": "P_rational_plane_curves",
+  "question_id": "Q3",
+  "statement": "Mixed data: minimum ≥|χ_r^d|. All-real: d=3 minimum=8; d=4 minimum≥240; d=5 minimum≥18,264; general d minimum≥d!/2.",
+  "answer": {
+    "display": "Mixed data: minimum ≥|χ_r^d|. All-real: d=3 minimum=8; d=4 minimum≥240; d=5 minimum≥18,264; general d minimum≥d!/2.",
+    "relation": "partial",
+    "qualification": "The degree-three minimum is attained. The other displayed values are rigorous lower bounds, not asserted attained minima. Mixed conjugate configurations have their own r-dependent Welschinger bound."
+  },
+  "status": "partial",
+  "evidence": "synthesis",
+  "reference_ids": [
+    "degtyarev_2000_real_topology",
+    "itenberg_2003_real_rational",
+    "welschinger_2003_invariants"
+  ],
+  "source": {
+    "url": "",
+    "location": "Generated summary of the listed supporting results",
+    "version": ""
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "synthesis"
+  },
+  "supporting_result_ids": [
+    "R_ebe8149cfc2808c6",
+    "R_89c896e4e3cd22ef",
+    "R_ee9a43c73adf1cfc"
+  ],
+  "headline": true
+}

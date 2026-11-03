@@ -1,0 +1,35 @@
+{
+  "result_id": "R_39c446e4d09e68b6",
+  "problem_id": "P_rational_quartics_eleven_points",
+  "question_id": "Q4",
+  "statement": "There is a configuration of eleven generic real points for which exactly 564 of the 620 irreducible rational quartics are real. Consequently the maximum attainable real count is at least 564.",
+  "answer": {
+    "text": "564 ≤ maximum ≤620",
+    "display": "564 ≤ maximum ≤620",
+    "relation": "partial",
+    "qualification": "A real configuration attaining564 is constructed; sharpness is not established.",
+    "lower_bound": 564,
+    "upper_bound": 620
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "mikhalkin_2002_lattice_paths"
+  ],
+  "source": {
+    "url": "https://www.numdam.org/item/10.1016/S1631-073X(03)00104-3.pdf",
+    "location": "Theorem 2 and Example 5, printed p.634",
+    "version": "Published Comptes Rendus Mathématique 336 (2003), 629–634"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_39c446e4d09e68b6"
+  },
+  "headline": true,
+  "scope": "Irreducible rational plane quartics through eleven general real points.",
+  "notes": "An existence construction and lower bound on the maximum, not a proof that 564 is maximal. The adjoining cubic example prints nine points, a typo not used in this extraction."
+}

@@ -1,0 +1,35 @@
+{
+  "result_id": "I_9aad38b9e775141d",
+  "problem_id": "P_lines_quintic_threefold",
+  "question_id": "Q1",
+  "statement": "A general quintic threefold in P⁴ contains exactly 2,875 projective lines.",
+  "answer": {
+    "text": "2875",
+    "display": "2875",
+    "relation": "equal",
+    "qualification": "Generic reduced zero-dimensional Fano scheme; no claim for every smooth quintic.",
+    "count": 2875
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "alvarezvizoso_2024_line_formulas"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/2402.13206v5",
+    "location": "Theorem 1, equation (8), p. 4",
+    "version": ""
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "inherited",
+    "original_result_id": "I_9aad38b9e775141d",
+    "source_problem_id": "P_lines_degree_2n3_hypersurfaces",
+    "inheritance_basis": "Set n=4 and d=2n−3=5 in the exact line-count formula: 5^6[1−3·(10/25)+10·(24/625)]=2875."
+  },
+  "headline": true,
+  "notes": "Generic reduced zero-dimensional Fano scheme; no claim for every smooth quintic."
+}

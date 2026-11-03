@@ -1,0 +1,18 @@
+{
+  "problem_id": "P_lines_degree_2n3_hypersurfaces",
+  "name": "Lines on hypersurfaces of degree 2n − 3",
+  "kind": "family",
+  "constructor_call": "hypersurface_lines(n)",
+  "arguments": [
+    "n = 3"
+  ],
+  "reference_ids": [
+    "alvarezvizoso_2024_line_formulas",
+    "basu_2016_random_lines",
+    "finashin_2012_abundance_lines"
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": []
+}

@@ -1,0 +1,29 @@
+{
+  "result_id": "R_4cccc3fd9bf484e6",
+  "problem_id": "P_conics_five_conics",
+  "question_id": "Q4",
+  "statement": "There exist five real plane conics with exactly 3264 smooth real conics simply tangent to each prescribed conic at exactly one real contact point. The construction deforms five suitable pairs of lines near the vertices of a regular pentagon; the final local-splitting count is 3264, with every solution having multiplicity one.",
+  "answer": {
+    "text": "There exist five real plane conics with exactly 3264 smooth real conics simply tangent to each prescribed conic at exactly one real contact point. The construction deforms five suitable pairs of lines near the vertices of a regular pentagon; the final local-splitting count is 3264, with every solution having multiplicity one."
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "ronga_1997_real_conics"
+  ],
+  "source": {
+    "url": "https://revistas.ucm.es/index.php/REMA/article/download/REMA9797230391A/16596",
+    "location": "Section 0, opening paragraph on printed p. 392; concluding deformation count on pp. 419–420 (PDF pp. 29–30)",
+    "version": "Publisher PDF, Revista Matemática de la Universidad Complutense10(2) (1997),391–421"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_4cccc3fd9bf484e6"
+  },
+  "scope": "Five general real plane conics; smooth solution conics simply tangent at one real point to each prescribed conic.",
+  "notes": "Solutions are smooth and have multiplicity one, as explicitly specified in the introduction."
+}

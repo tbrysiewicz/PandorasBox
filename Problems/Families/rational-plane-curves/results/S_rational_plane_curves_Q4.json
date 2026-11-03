@@ -1,0 +1,34 @@
+{
+  "result_id": "S_rational_plane_curves_Q4",
+  "problem_id": "P_rational_plane_curves",
+  "question_id": "Q4",
+  "statement": "All-real inputs: d=3 maximum=12; d=4: 564 ≤ maximum ≤620. Other degrees not determined by these results.",
+  "answer": {
+    "display": "All-real inputs: d=3 maximum=12; d=4: 564 ≤ maximum ≤620. Other degrees not determined by these results.",
+    "relation": "partial",
+    "qualification": "Only the stated degree members have values here. The quartic construction proves a lower bound on the maximum; total reality in degree four is not asserted."
+  },
+  "status": "partial",
+  "evidence": "synthesis",
+  "reference_ids": [
+    "degtyarev_2000_real_topology",
+    "mikhalkin_2002_lattice_paths"
+  ],
+  "source": {
+    "url": "",
+    "location": "Generated summary of the listed supporting results",
+    "version": ""
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "synthesis"
+  },
+  "supporting_result_ids": [
+    "R_8ccf3d39d12191e9",
+    "R_d64a1f57e10a21ec"
+  ],
+  "headline": true
+}

@@ -1,0 +1,34 @@
+{
+  "result_id": "S_apollonius_three_circles_Q7",
+  "problem_id": "P_apollonius_three_circles",
+  "question_id": "Q7",
+  "statement": "12-case and 14-type relative-position tables",
+  "answer": {
+    "display": "12-case and 14-type relative-position tables",
+    "relation": "partial",
+    "qualification": "These tables are not proved counts of connected chambers in the full labelled parameter complement."
+  },
+  "status": "partial",
+  "evidence": "synthesis",
+  "reference_ids": [
+    "muirhead_1895_apollonian_contact",
+    "stoll_1873_apollonius"
+  ],
+  "source": {
+    "url": "",
+    "location": "Generated summary of the listed supporting results",
+    "version": ""
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "synthesis"
+  },
+  "supporting_result_ids": [
+    "R_b3e7dde1c7cf4efd",
+    "R_e96e7151e77e6d6f"
+  ],
+  "headline": true
+}

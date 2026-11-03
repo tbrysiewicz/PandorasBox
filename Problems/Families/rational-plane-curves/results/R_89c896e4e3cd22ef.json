@@ -1,0 +1,29 @@
+{
+  "result_id": "R_89c896e4e3cd22ef",
+  "problem_id": "P_rational_plane_curves",
+  "question_id": "Q3",
+  "statement": "For degree d in the real projective plane, with r real points and (3d−1−r)/2 conjugate pairs in generic position, the signed rational-curve count χ_r^d=Σ_C(−1)^(solitary nodes of C) is independent of the configuration and |χ_r^d| bounds the ordinary real count below. Example 1 computes χ^3(T)=Σ_(j=0)^4 2jT^(2j); hence cubics through eight real points have at least eight real solutions.",
+  "answer": {
+    "text": "For degree d in the real projective plane, with r real points and (3d−1−r)/2 conjugate pairs in generic position, the signed rational-curve count χ_r^d=Σ_C(−1)^(solitary nodes of C) is independent of the configuration and |χ_r^d| bounds the ordinary real count below. Example 1 computes χ^3(T)=Σ_(j=0)^4 2jT^(2j); hence cubics through eight real points have at least eight real solutions."
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "welschinger_2003_invariants"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/math/0303145v1",
+    "location": "Theorem 2.1; Corollary 2.2; Section 2.1, Example 1",
+    "version": "arXiv:math/0303145v1 (12 March 2003)"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_89c896e4e3cd22ef"
+  },
+  "scope": "Real rational degree-d plane curves through a generic conjugation-invariant set of 3d−1 points, with a specified number of real points.",
+  "notes": "Signed invariants are lower bounds, not the ordinary number of real curves. The article treats more general real symplectic four-manifolds; only the plane specialization is mapped here."
+}

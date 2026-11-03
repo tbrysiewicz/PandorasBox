@@ -1,0 +1,29 @@
+{
+  "result_id": "R_b0d53bde127240f7",
+  "problem_id": "P_circles_three_conics",
+  "question_id": "Q1",
+  "statement": "For three strongly general smooth plane conics over a characteristic-zero field, the relatively oriented tangent-circle count in the Grothendieck–Witt group equals 92 hyperbolic planes. Its rank is 184. Over an algebraic closure this is the geometric degree H^2(6H-2E)^3 of the circle-tangency zero scheme on the blowup of P5 along the Veronese double-line locus.",
+  "answer": {
+    "text": "For three strongly general smooth plane conics over a characteristic-zero field, the relatively oriented tangent-circle count in the Grothendieck–Witt group equals 92 hyperbolic planes. Its rank is 184. Over an algebraic closure this is the geometric degree H^2(6H-2E)^3 of the circle-tangency zero scheme on the blowup of P5 along the Veronese double-line locus."
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "liu_2026_two_flag_circles"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/2609.26285v1",
+    "location": "Theorem 1.2; Lemma 2.3 and its complete-conic intersection calculation",
+    "version": "arXiv:2609.26285v1"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_b0d53bde127240f7"
+  },
+  "scope": "Strongly general smooth triples in characteristic zero, on the space of complete conics with the circle conditions.",
+  "notes": "The enriched refinement is separately catalogued under Enriched count; this association records its rank as the complex degree."
+}

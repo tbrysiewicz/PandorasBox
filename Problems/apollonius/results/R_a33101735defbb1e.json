@@ -1,0 +1,29 @@
+{
+  "result_id": "R_a33101735defbb1e",
+  "problem_id": "P_apollonius_three_circles",
+  "question_id": "Q8",
+  "statement": "Euler reduces the branch to L z²−2Mz+N=0 and z=(M±sqrt(M²−LN))/L. Thus the displayed branch radicand M²−LN controls coincidence and reality: positive gives two distinct real algebraic roots, negative gives no real roots, before geometric admissibility and sign-pair identifications. The coefficients L,M,N are explicitly given in the input distances and signed radii.",
+  "answer": {
+    "text": "Euler reduces the branch to L z²−2Mz+N=0 and z=(M±sqrt(M²−LN))/L. Thus the displayed branch radicand M²−LN controls coincidence and reality: positive gives two distinct real algebraic roots, negative gives no real roots, before geometric admissibility and sign-pair identifications. The coefficients L,M,N are explicitly given in the input distances and signed radii."
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "euler_1790_apollonius"
+  ],
+  "source": {
+    "url": "https://scholarlycommons.pacific.edu/cgi/viewcontent.cgi?article=1647&context=euler-works",
+    "location": "Section4, original p.97, displayed definitions of L,M,N and quadratic-root formula; Sections6–7, pp.98–99, signed-root identification",
+    "version": "Original Latin journal scan (1790), pp.95–101 and plate; all eight PDF pages visually inspected. Archive identifier E648; the 1779 presentation date is not a publication year."
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_a33101735defbb1e"
+  },
+  "scope": "The signed-radius branch of the three-circle contact equations in Euler’s noncollinear-centre regular chart, with nonzero leading coefficient L.",
+  "notes": "This is a discriminant of a specified elimination branch, not a claimed global reduced discriminant equation or degree. A repeated algebraic root may be geometrically inadmissible; regular-chart hypotheses remain necessary."
+}

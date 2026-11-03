@@ -1,0 +1,35 @@
+{
+  "result_id": "S_apollonius_three_circles_Q8",
+  "problem_id": "P_apollonius_three_circles",
+  "question_id": "Q8",
+  "statement": "M²−LN; four factored quadratic branch discriminants; exceptional fibres: Collinear-centre/coaxal and tangent-line limiting cases",
+  "answer": {
+    "display": "M²−LN; four factored quadratic branch discriminants; exceptional fibres: Collinear-centre/coaxal and tangent-line limiting cases",
+    "relation": "partial",
+    "qualification": "Elimination-branch/chart equations, not a global reduced discriminant classification. Selected completed/chart-degenerate cases; not the full exceptional locus. The recorded result describes part or a restricted aspect of the full exceptional locus; no global completeness claim is made."
+  },
+  "status": "partial",
+  "evidence": "synthesis",
+  "reference_ids": [
+    "euler_1790_apollonius",
+    "stoll_1873_apollonius"
+  ],
+  "source": {
+    "url": "",
+    "location": "Generated summary of the listed supporting results",
+    "version": ""
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "synthesis"
+  },
+  "supporting_result_ids": [
+    "R_a33101735defbb1e",
+    "R_fbd30cbe52ef23c0",
+    "R_a34d4d8bf73c596d"
+  ],
+  "headline": true
+}

@@ -1,0 +1,19 @@
+{
+  "relationships": [
+    {
+      "relation_id": "P_lines_quintic_threefold__instance_of__P_lines_degree_2n3_hypersurfaces",
+      "source_problem_id": "P_lines_quintic_threefold",
+      "target_problem_id": "P_lines_degree_2n3_hypersurfaces",
+      "relation_type": "instance_of",
+      "relation_statement": "Set ambient dimension n=4 and hypersurface degree 2n−3=5.",
+      "evidence_location": "Theorem 1, equation (8), p. 4, specialized at n=4; generic line count D4=2875.",
+      "supporting_source_url": "https://arxiv.org/pdf/2402.13206v5",
+      "inheritance_policy": "The universal line-count formula and generic real lower bound specialize at n=4. The full symmetric monodromy theorem applies because the degree is greater than three. No sharp real minimum or maximum is inferred.",
+      "caveats": "The quintic must be general in the finite reduced line-cover locus; a smooth special quintic need not have finitely many lines."
+    }
+  ],
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": []
+}

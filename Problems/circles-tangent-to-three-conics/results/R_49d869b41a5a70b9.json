@@ -1,0 +1,36 @@
+{
+  "result_id": "R_49d869b41a5a70b9",
+  "problem_id": "P_circles_three_conics",
+  "question_id": "Q4",
+  "statement": "The rational triple in Theorem 4.3 is strongly general and has 184 distinct geometric tangent circles: 160 real circles with positive squared radius and 24 nonreal circles forming 12 conjugate pairs. The same real count persists on a nonempty Euclidean open set. Fourfold splitting plus exact Sturm–Tarski and rational interval/elimination certificates establish 160<=M_R<=184; maximality of 160 remains unproved.",
+  "answer": {
+    "text": "The rational triple in Theorem 4.3 is strongly general and has 184 distinct geometric tangent circles: 160 real circles with positive squared radius and 24 nonreal circles forming 12 conjugate pairs. The same real count persists on a nonempty Euclidean open set. Fourfold splitting plus exact Sturm–Tarski and rational interval/elimination certificates establish 160<=M_R<=184; maximality of 160 remains unproved.",
+    "display": "160 ≤ maximum ≤184",
+    "relation": "at_least",
+    "qualification": "A certified construction attains 160; maximality is unproved.",
+    "count": 160,
+    "lower_bound": 160,
+    "upper_bound": 184
+  },
+  "status": "partial",
+  "evidence": "certified_computation",
+  "reference_ids": [
+    "liu_2026_two_flag_circles"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/2609.26285v1",
+    "location": "Theorems 1.1, 4.2 and 4.3; Section 6.1, fixed rational fibre delta_0=1/500000",
+    "version": "arXiv:2609.26285v1"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz - AI"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_49d869b41a5a70b9"
+  },
+  "headline": true,
+  "scope": "Strongly general triples of smooth real plane conics; tangent circles with positive squared radius.",
+  "notes": "Does not prove 160 maximal. The exhibited Euclidean open chamber is not a classification of all chambers. Certificates were inspected as reported, not rerun."
+}
