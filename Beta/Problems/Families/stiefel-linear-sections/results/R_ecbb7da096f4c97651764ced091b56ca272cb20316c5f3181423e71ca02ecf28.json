@@ -1,0 +1,28 @@
+{
+  "result_id": "R_ecbb7da096f4c97651764ced091b56ca272cb20316c5f3181423e71ca02ecf28",
+  "problem_id": "P_stiefel_linear_sections",
+  "question_id": "Q1",
+  "statement": "If n>=2k-1, the matrix-entry degree of St(k,n) is 2^(k(k+1)/2), since its projective closure is a complete intersection of k(k+1)/2 quadrics.",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "formula": "2^(k*(k+1)/2)",
+    "display": "2^{k(k+1)/2} for n>=2k-1",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "brysiewicz_2019_stiefel"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1909.10085",
+    "location": "Theorem 1.1, second case; Theorem 3.2 (printed pp.8–9)"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "scope": "Integers 1<=k<=n and n>=2k-1, within the parameters of the existing family."
+}

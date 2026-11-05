@@ -7,7 +7,7 @@
     "text": "4ℍ in GW(k)",
     "display": "4ℍ in GW(k)",
     "relation": "equal",
-    "qualification": "Local contributions include field transfers and multiplicity where needed in the theorem’s broader formulation. The weighted-area description has the additional nontangency and separability assumptions of Theorem 1.3.",
+    "qualification": "The global sum holds for three circles with noncollinear centers over char(k)≠2. Both the gradient-volume and weighted-area trace-form descriptions require that no two input circles are tangent and that the solution residue extension is separable.",
     "expression": "4ℍ in GW(k)"
   },
   "status": "solved",
@@ -21,7 +21,7 @@
     "version": "Author manuscript, 46 pages; arXiv:2210.13288"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
   "origin": {

@@ -10,7 +10,8 @@
     "relation": "partial"
   },
   "reference_ids": [
-    "dickenstein_2013_plane"
+    "dickenstein_2013_plane",
+    "cattani_2011_mixed"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/1304.5809",
@@ -21,10 +22,10 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Definition (2), printed p. 3, works with the cycle Δ̃=Δ^i(A1,A2). Reduced polynomial degrees require division by this support-lattice index. Formula (13) includes all vertex and edge factors and uses lattice-normalized volumes.\n\nImported from the 2026-10-26 catalogue record R_39d1a354b933d5ba; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Definition (2), printed p. 3, works with the cycle Δ̃=Δ^i(A1,A2). Reduced polynomial degrees require division by this support-lattice index. Formula (13) includes all vertex and edge factors and uses lattice-normalized volumes.\n\nImported from the 2026-10-26 catalogue record R_39d1a354b933d5ba; the source claim has not been newly rechecked against the paper for this beta import.\n\nThe bidegree calculation is credited to Cattani–Cueto–Dickenstein–Di Rocco–Sturmfels; the resultant factorization supplied by this paper remains separately credited here.",
   "scope": "Two fixed-support bivariate Laurent polynomials, including factorizable members.",
   "result_id": "R_2873598adce9abba259f00a8f82dd1cf2715a63fc8d483785225b228d3bc1007"
 }

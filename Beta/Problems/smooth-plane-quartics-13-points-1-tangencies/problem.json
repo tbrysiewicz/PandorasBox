@@ -11,10 +11,11 @@
     "tangencies": 1
   },
   "reference_ids": [
-    "vakil_1999_quartic_characteristic"
+    "vakil_1999_quartic_characteristic",
+    "ronga_2000_real_riemann_hurwitz"
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

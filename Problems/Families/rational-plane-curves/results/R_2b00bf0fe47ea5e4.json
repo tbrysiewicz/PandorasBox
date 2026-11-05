@@ -13,7 +13,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "fomin_2009_labeled_floors"
+    "brugalle_mikhalkin_2007_floors"
   ],
   "source": {
     "url": "https://arxiv.org/html/0906.3828v4",
@@ -21,7 +21,7 @@
     "version": "arXiv:0906.3828v4 (18 January 2010), full PDF and corresponding HTML checked"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
   "origin": {
@@ -30,5 +30,5 @@
   },
   "headline": true,
   "scope": "Irreducible rational degree-d plane curves through 3d−1 points; generic complex configurations or generic conjugation-invariant real configurations with specified numbers of real points and conjugate pairs.",
-  "notes": "This is an unsigned complex count of irreducible rational plane curves. It is not a count of unweighted tropical curves."
+  "notes": "This is an unsigned complex count of irreducible rational plane curves. It is not a count of unweighted tropical curves.\n\nThe floor-diagram correspondence is Brugallé–Mikhalkin, Enumeration of curves via floor diagrams (2007), Theorem 1. Fomin–Mikhalkin explicitly identify their Theorem 1.6 as a restatement; the recorded source retains their formula, table, or specialization for verification. This does not assert that the individual classical numerical values were first obtained by floor diagrams."
 }

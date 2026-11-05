@@ -11,10 +11,12 @@
     "tangencies": 1
   },
   "reference_ids": [
-    "fomin_2009_labeled_floors"
+    "fomin_2009_labeled_floors",
+    "bashelor_ksir_traves_2008_conics",
+    "bertrand_brugalle_mikhalkin_2014_characteristic"
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

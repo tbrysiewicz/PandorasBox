@@ -1,0 +1,35 @@
+{
+  "result_id": "R_c85e790bcd83b85bd7e1f94807c8d1ce59c617bfe8c78453fcce67f9c9684c62",
+  "problem_id": "P_lines_quintic_threefold",
+  "question_id": "Q6",
+  "statement": "For a Kostlan random real quintic hypersurface in RP^4, the expected number of real projective lines is (5/12) E[|det J|]. Here J has six columns (v_i,0),(0,v_i), i=1,2,3, and the independent five-entry Gaussian vectors have coordinate variances (1,4,6,4,1).",
+  "answer": {
+    "text": "(5/12) E[|det J|]",
+    "display": "(5/12) E[|det J|]",
+    "formula": "(5/12) E[|det J|]",
+    "relation": "equal",
+    "distribution": "Kostlan Gaussian quintics in five homogeneous variables.",
+    "qualification": "Exact random-matrix expectation, not a numerical approximation or an ordinary real-count maximum."
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "basu_2016_random_lines"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1610.01205v2",
+    "location": "Section 2.2, Theorem 1, p. 5",
+    "version": "arXiv:1610.01205v2 (8 November 2016)"
+  },
+  "scope": "Generic real quintic threefolds under the Kostlan coefficient distribution.",
+  "notes": "Direct specialization n=4: the product of binomial coefficients in the denominator is sqrt(1*5*10*10*5*1)=50, and 5^3/(Gamma(4)*50)=5/12.",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_c85e790bcd83b85bd7e1f94807c8d1ce59c617bfe8c78453fcce67f9c9684c62"
+  },
+  "headline": false
+}

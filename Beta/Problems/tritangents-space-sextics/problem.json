@@ -8,10 +8,12 @@
   "reference_ids": [
     "cueto_2025_sextic_tritangents",
     "harris_2017_sextic_tritangents",
-    "kulkarni_2017_space_sextics"
+    "kulkarni_2017_space_sextics",
+    "hauenstein_2018_certifying_projections",
+    "sertoz_2023_multiple_spin"
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

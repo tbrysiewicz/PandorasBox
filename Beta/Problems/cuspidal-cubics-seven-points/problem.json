@@ -6,10 +6,11 @@
   "arguments": [],
   "parameters": {},
   "reference_ids": [
-    "aluffi_1991_singular_cubics"
+    "aluffi_1991_singular_cubics",
+    "shustin_2024_non_nodal_real_curves"
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

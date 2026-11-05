@@ -1,0 +1,31 @@
+{
+  "problem_id": "P_smooth_plane_conics_2_points_3_tangencies",
+  "question_id": "Q3",
+  "statement": "The minimum real solution count is 0.",
+  "answer": {
+    "count": 0,
+    "display": "0",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "bertrand_brugalle_mikhalkin_2014_characteristic",
+    "bashelor_ksir_traves_2008_conics"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/1105.2004v4",
+    "location": "Example 7.1 and projective duality",
+    "version": "arXiv:1105.2004v4 (12 March 2013)"
+  },
+  "scope": "Smooth real conics; 2 general points and 3 general lines.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "Example 7.1 constructs a generic configuration with no real solutions. Real projective duality exchanges 3 points/2 lines with 2 points/3 lines.\n\nThis is an elementary real-configuration or conjugation/duality deduction, with Bashelor–Ksir–Traves retained as an expository verification source. Their paper explicitly disclaims novelty; no original discovery is attributed to them here.",
+  "result_id": "R_c3b67af350a859e7f5430dc0cb6a6d0bf2f60111947d8c826f20cc9865916e03"
+}

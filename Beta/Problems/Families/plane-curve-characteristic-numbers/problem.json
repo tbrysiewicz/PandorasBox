@@ -11,9 +11,12 @@
       3
     ]
   },
-  "reference_ids": [],
+  "reference_ids": [
+    "bashelor_ksir_traves_2008_conics",
+    "bertrand_brugalle_mikhalkin_2014_characteristic"
+  ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

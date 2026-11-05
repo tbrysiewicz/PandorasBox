@@ -193,7 +193,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "hashimoto_2020_fano_monodromy"
+    "harris_1979_enumerative_galois"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2002.04580v2",
@@ -201,7 +201,7 @@
     "version": "arXiv:2002.04580v2 (22 November 2020), full PDF checked"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
   "origin": {
@@ -212,5 +212,5 @@
   },
   "headline": true,
   "scope": "Projective lines on smooth cubic surfaces in P3. Generic complex enumeration, real parameter chambers, and probability distributions on real coefficients are distinguished in individual associations.",
-  "notes": "This is geometric monodromy of the unrestricted coefficient family, not the group of every arithmetic specialization. The inspected source is Hashimoto–Kadets, which attributes the theorem to Harris. The stored permutations give a verified transitive realization of W(E6) of order 51,840; they are not asserted to have been extracted from the cited paper."
+  "notes": "This is geometric monodromy of the unrestricted coefficient family, not the group of every arithmetic specialization. The inspected source is Hashimoto–Kadets, which attributes the theorem to Harris. The stored permutations give a verified transitive realization of W(E6) of order 51,840; they are not asserted to have been extracted from the cited paper.\n\nOriginality audit: Harris (1979) is the original attribution. The later Hashimoto–Kadets or Zhan text retained in source is a verification/restatement source, not the original claim. For the n=2 singleton case this record includes an elementary deduction."
 }

@@ -1,0 +1,70 @@
+{
+  "problem_id": "P_singular_plane_degree_3_pencil",
+  "question_id": "Q2",
+  "statement": "The geometric monodromy group on the 12 singular members, as a general degree-3 plane-curve pencil varies, is the full symmetric group S12.",
+  "answer": {
+    "text": "S12",
+    "display": "S12",
+    "relation": "equal",
+    "group": {
+      "degree": 12,
+      "generators": [
+        [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          1
+        ],
+        [
+          2,
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      ],
+      "description": "Symmetric group S12 in its natural action",
+      "lmfdb_url": "https://www.lmfdb.org/GaloisGroup/12T301"
+    }
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "kadets_2018_sectional_monodromy",
+    "boole_1842_linear_transformations",
+    "gelfand_kapranov_zelevinsky_1994_discriminants"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1809.07293v4",
+    "location": "Proposition1.1 and the restriction-to-a-subfamily monodromy-subgroup observation following Lemma2.1; apply via a general plane section of the irreducible discriminant hypersurface",
+    "version": "arXiv:1809.07293v4 (14 November 2020), primary PDF inspected 4 November 2026"
+  },
+  "scope": "Singular members of general degree-3 projective plane-curve pencils over C, with the pencil varying in the full pencil parameter space.",
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_plane_degree_d_pencils",
+    "original_result_id": "R_ac614962dc16fbfe24030eb07cd6696db7b0917f1f61083d41d1003854dcde94",
+    "inheritance_basis": "Set d=3, D=3(d−1)²=12 in the general discriminant-section argument."
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "Explicit geometric deduction, not a pencil example quoted from Kadets. Let N=d(d+3)/2 be the coefficient-space dimension and Δ⊂P^N the singular-curve discriminant. The incidence of a singular point p and a degree-d form singular at p is a projective bundle over P², since three independent linear conditions are imposed on the coefficients for d≥2. It is irreducible, and its image Δ is an irreducible hypersurface with a general one-nodal member. Its reduced degree is D=3(d−1)² (for d=2 the determinant cubic gives D=3). A general plane Λ⊂P^N meets Δ in an integral plane curve of degree D by Bertini. Restrict to pencils represented by lines ℓ⊂Λ. Their singular members are precisely ℓ∩(Δ∩Λ); Kadets Proposition 1.1 gives full S_D monodromy for this subfamily in characteristic zero. A subfamily monodromy is a subgroup of the full pencil monodromy, which already lies in S_D, so the full group is S_D. Counts and the ordinary-node assertion are also documented in the existing pencil Q1 records. Generators below, when present, use abstract solution labels and are standard generators for S_D, not permutations extracted from numerical continuation.\n\nThe degree3(d−1)^2 is the classical homogeneous-discriminant formula attributed to Boole (GKZ, Chapter 1 Example 4.15 and Chapter 9 Example 1.6). Brugallé–Mikhalkin give a later floor-diagram verification. For monodromy records, this supplies only the discriminant degree/irreducibility; the separate sectional-monodromy argument supplies the group.\n\nThis is a catalogue application of the classical characteristic-zero sectional-monodromy theorem, called folklore in Kadets, Proposition 1.1. Kadets is cited for an explicit proof, not as the originator of that theorem; the stated Bertini reduction identifies the particular enumerative family.",
+  "result_id": "R_da5dd7ea5bed9a636b9f00abfbc3e5bcfa7eb91d2e7136ca75e06530c1767762"
+}

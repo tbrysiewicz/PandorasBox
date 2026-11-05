@@ -1,0 +1,32 @@
+{
+  "problem_id": "P_smooth_plane_cubics_7_points_2_tangencies",
+  "question_id": "Q4",
+  "statement": "The sharp maximum real solution count is 16; total reality is attained.",
+  "answer": {
+    "count": 16,
+    "display": "16",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "bertrand_2008_real_zeuthen_two_lines"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/0710.1095v1",
+    "location": "Theorem 1; §2.2 (printed pp.2,5–6)",
+    "version": "arXiv:0710.1095v1 (4 October 2007)"
+  },
+  "scope": "Smooth irreducible degree-3 plane curves; all incidence points and lines real and general.",
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_smooth_plane_cubic_characteristic_numbers",
+    "original_result_id": "R_b5eb708827acbf846ca18418a250d99f86f0df7690f826b0f947c73d82874245",
+    "inheritance_basis": "Set degree d=3, with two lines and 7 points."
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "result_id": "R_c11ad7e6394ab5949aafa6c8fb240737c103cd4722bfa731a7992dce52edf5ba"
+}

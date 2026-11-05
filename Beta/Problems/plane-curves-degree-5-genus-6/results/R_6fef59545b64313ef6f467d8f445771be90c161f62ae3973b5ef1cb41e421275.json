@@ -1,0 +1,33 @@
+{
+  "problem_id": "P_plane_curves_degree_5_genus_6",
+  "question_id": "Q1",
+  "statement": "There is exactly one smooth complex plane quintic through twenty general points. It has geometric genus six.",
+  "answer": {
+    "count": 1,
+    "display": "1",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "caporaso_1996_plane_curves"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/0906.3828v4",
+    "location": "Theorem 1.6 and Figure 1, printed pages 6–7",
+    "version": "arXiv:0906.3828v4 (18 January 2010), primary PDF reinspected 4 November 2026"
+  },
+  "scope": "Irreducible plane curves of degree five and geometric genus six through twenty general complex points.",
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_plane_curves_degree_genus",
+    "original_result_id": "R_7c65e42ed61543648626d69e0acffbc2e4561bc1b88399af7d870dcdca4321ef",
+    "inheritance_basis": "Specialize d=5, g=6 in Figure 1."
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "Figure 1 has N_(5,6)=1. Equivalently, the projective space of quintic forms has dimension twenty, so twenty independent point conditions determine a unique form up to scale, smooth for general points.\n\nThe numerical count is associated with the earlier recursion (Caporaso–Harris for plane curves of arbitrary genus). Fomin–Mikhalkin’s table remains the inspected verification source; their floor-diagram Theorem 1.6 explicitly restates Brugallé–Mikhalkin. This is not a claim that the individual numerical value was historically first found by the cited recursion.",
+  "result_id": "R_6fef59545b64313ef6f467d8f445771be90c161f62ae3973b5ef1cb41e421275"
+}

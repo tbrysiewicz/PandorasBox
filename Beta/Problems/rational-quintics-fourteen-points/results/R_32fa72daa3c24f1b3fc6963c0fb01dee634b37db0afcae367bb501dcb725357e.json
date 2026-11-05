@@ -1,0 +1,33 @@
+{
+  "problem_id": "P_rational_quintics_fourteen_points",
+  "question_id": "Q3",
+  "statement": "Every configuration of fourteen general real points in the projective plane lies on at least 18264 real irreducible rational plane quintics.",
+  "answer": {
+    "count": 18264,
+    "display": "≥18264",
+    "relation": "at_least"
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "itenberg_2003_real_rational"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/math/0303378v2",
+    "location": "Theorem 1.1 and the following explicit calculation W4=240, W5=18264, printed page 2",
+    "version": "arXiv:math/0303378v2 (16 June 2003), primary PDF inspected 4 November 2026"
+  },
+  "scope": "All fourteen incidence points are real and general; irreducible rational plane quintics.",
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_rational_plane_curves",
+    "original_result_id": "R_ebe8149cfc2808c6",
+    "inheritance_basis": "Specialize the explicitly computed signed invariant W5=18264 to degree five."
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "The Welschinger signed invariant gives a universal lower bound. This record does not assert that the lower bound is attained or that the exact minimum is known.",
+  "result_id": "R_32fa72daa3c24f1b3fc6963c0fb01dee634b37db0afcae367bb501dcb725357e"
+}

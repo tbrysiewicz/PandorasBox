@@ -1,0 +1,35 @@
+{
+  "result_id": "R_7a8b1401561ffeb38515783e2c20881620f33f059215b4320e0303c58a59b635",
+  "problem_id": "P_lines_degree_2n3_hypersurfaces",
+  "question_id": "Q6",
+  "statement": "The expected number E_n of real lines on a degree-(2n−3) Kostlan hypersurface in RP^n equals an explicit constant times the expected absolute determinant of the (2n−2)-square Gaussian matrix J_n. Its columns are (v_i,0) and (0,v_i) for n−1 independent vectors v_i of length 2n−3; the j-th entries have variance binom(2n−4,j−1).",
+  "answer": {
+    "text": "E_n = ((2n-3)^(n-1)/Gamma(n))*product_{k=0}^{2n-3} binom(2n-3,k)^(-1/2) * E[|det J_n|]",
+    "display": "E_n = ((2n-3)^(n-1)/Gamma(n))*product_{k=0}^{2n-3} binom(2n-3,k)^(-1/2) * E[|det J_n|]",
+    "formula": "E_n = ((2n-3)^(n-1)/Gamma(n))*product_{k=0}^{2n-3} binom(2n-3,k)^(-1/2) * E[|det J_n|]",
+    "relation": "equal",
+    "distribution": "Independent centered Gaussian homogeneous coefficients, with variance equal to the corresponding multinomial coefficient.",
+    "qualification": "n≥2; the Gaussian entries inside J_n are independent across vectors and coordinates, but each vector is repeated in its paired shifted columns."
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "basu_2016_random_lines"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1610.01205v2",
+    "location": "Section 2.2, Theorem 1, p. 5",
+    "version": "arXiv:1610.01205v2 (8 November 2016)"
+  },
+  "scope": "The exact expectation under the specified Kostlan ensemble.",
+  "notes": "This supplies the general exact determinant expression missing from the earlier record of E3 and the logarithmic asymptotic; it is not an elementary closed form for all n.",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_7a8b1401561ffeb38515783e2c20881620f33f059215b4320e0303c58a59b635"
+  },
+  "headline": false
+}

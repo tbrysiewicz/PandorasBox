@@ -1,0 +1,16 @@
+{
+  "reference_id": "schubert_1886_linear_spaces",
+  "title": "Anzahl-Bestimmungen für lineare Räume beliebiger Dimension",
+  "authors": [
+    "Hermann Schubert"
+  ],
+  "year": "1886",
+  "venue": "Acta Mathematica 8, 97–118",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "doi": "10.1007/BF02417085",
+  "url": "https://doi.org/10.1007/BF02417085",
+  "notes": "Schubert’s Grassmannian degree computation, explicitly credited in Eremenko–Gabrielov, preceding Theorem A."
+}

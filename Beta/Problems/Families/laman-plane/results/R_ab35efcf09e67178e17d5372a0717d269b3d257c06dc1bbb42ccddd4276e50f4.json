@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_laman_plane",
+  "question_id": "Q4",
+  "statement": "Every n-vertex Laman graph that is planar as an abstract graph has a generic real realization whose edge lengths admit at least 2^(n−2) real realization classes.",
+  "answer": {
+    "display": "≥2^(n−2) for planar graphs",
+    "formula": "2^(n-2)",
+    "relation": "at_least"
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "jackson_2016_equivalent_rigid"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1204.1228v2",
+    "location": "Theorem 6.9, printed p.21; Theorem 6.8",
+    "version": "arXiv:1204.1228v2, revised 6 October 2016; inspected 2026-11-04"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "scope": "Abstract planar Laman graphs, n≥3; the realizations themselves may cross; reflected realizations are distinct.",
+  "notes": "The source identifies reflections and counts 2^(n−3); generic noncollinearity doubles this under the catalogue convention.",
+  "result_id": "R_ab35efcf09e67178e17d5372a0717d269b3d257c06dc1bbb42ccddd4276e50f4"
+}

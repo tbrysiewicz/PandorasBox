@@ -11,7 +11,8 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "cayley_1849_triple_tangent"
+    "cayley_1849_triple_tangent",
+    "salmon_1849_triple_tangent"
   ],
   "source": {
     "url": "https://rcin.org.pl/Content/119101/PDF/WA35_143391_12807-1_Art76.pdf",
@@ -19,7 +20,7 @@
     "version": "1889 Collected Mathematical Papers, vol.I, no.76, pp.445–456, reprinting Cambridge and Dublin Mathematical Journal 4(1849),118–132; RCIN scan"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
   "origin": {
@@ -27,5 +28,5 @@
     "original_result_id": "R_b0d37c6b1d49070c"
   },
   "scope": "Lines on a general smooth complex cubic surface in projective three-space.",
-  "notes": "The original author explicitly credits Salmon for determining the number. The 1849 identity and 1889 result locator are both retained."
+  "notes": "The original author explicitly credits Salmon for determining the number. The 1849 identity and 1889 result locator are both retained.\n\nOriginality audit: Salmon is credited by Cayley for determining the number 27; Cayley supplies the argument described in this record. Both historical contributions are retained. Salmon’s original text has not been inspected here."
 }

@@ -13,7 +13,8 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "breiding_2019_3264_conics"
+    "breiding_2019_3264_conics",
+    "chasles_1864_conic_counts"
   ],
   "source": {
     "url": "https://files-www.mis.mpg.de/mpi-typo3/preprints/2019/preprint2019_24.pdf",
@@ -21,7 +22,7 @@
     "version": "MPI MIS preprint 24/2019, containing arXiv:1902.05518v1; inspected calculation on printed p. 6"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
   "origin": {
@@ -30,5 +31,5 @@
   },
   "headline": true,
   "scope": "Nonsingular plane conics tangent to five input plane conics; generic finite complex counts and real constructions have their own hypotheses.",
-  "notes": "Geometric conics for general inputs; the source recalls the complete-conic intersection calculation and cites its transversality justification. Double lines are extraneous."
+  "notes": "Geometric conics for general inputs; the source recalls the complete-conic intersection calculation and cites its transversality justification. Double lines are extraneous.\n\nThe complex3264 count is classical Chasles; the modern paper’s certified all-real instance is a separate result."
 }

@@ -1,0 +1,35 @@
+{
+  "problem_id": "P_rational_conics_five_points",
+  "question_id": "Q5",
+  "statement": "The only attainable number of real solutions over generic real input data is one.",
+  "answer": {
+    "values": [
+      1
+    ],
+    "display": "{1}",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "kontsevich_1994_gw"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/0906.3828v4",
+    "location": "Theorem 1.6, equation (1.5); Example 1.7; Figure 1",
+    "version": "arXiv:0906.3828v4 (18 January 2010), full PDF and corresponding HTML checked"
+  },
+  "scope": "The generic fibre for conics through five points. For real-count assertions, all prescribed points and lines (including any specified contact point) are real and satisfy the genericity assumptions.",
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_rational_conics_five_points",
+    "original_result_id": "R_c2bb592c44d22ce88b04a6463de6f161cd27753483165c4c75818e9f64a1e458",
+    "inheritance_basis": "A reduced generic complex fibre of cardinality one has trivial permutation action; for generic real inputs conjugation fixes its unique solution."
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "Elementary deduction from the recorded complex count one. Complex conjugation preserves the fibre for real input data, so its unique point is fixed and the solution curve is defined over R. A permutation action on a singleton is trivial. These deductions are supplied here explicitly; they are not attributed as separate theorems in the cited paper. The assertion concerns real solution curves, not reality of every point on a real curve.\n\nThe numerical count is associated with the earlier recursion (Kontsevich–Manin for rational curves). Fomin–Mikhalkin’s table remains the inspected verification source; their floor-diagram Theorem 1.6 explicitly restates Brugallé–Mikhalkin. This is not a claim that the individual numerical value was historically first found by the cited recursion.",
+  "result_id": "R_a3fd271903ce70bc59b87e1740e682cb0f838dde72fc173abed5e55a3dcf16d2"
+}

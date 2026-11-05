@@ -7,10 +7,12 @@
   "parameters": {},
   "reference_ids": [
     "chen_2022_typical_atypical",
-    "sclosa_2021_completely_degenerate"
+    "sclosa_2021_completely_degenerate",
+    "chen_2017_kuramoto_intersection",
+    "lindberg_2020_real_power_flow"
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

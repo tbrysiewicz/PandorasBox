@@ -9,10 +9,11 @@
     "genus": 5
   },
   "reference_ids": [
-    "caporaso_1996_plane_curves"
+    "caporaso_1996_plane_curves",
+    "fomin_2009_labeled_floors"
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

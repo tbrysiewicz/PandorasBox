@@ -10,7 +10,8 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "vakil_1999_quartic_characteristic"
+    "vakil_1999_quartic_characteristic",
+    "zeuthen_1873_plane_curve_systems"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/math/9812018v1",
@@ -24,9 +25,9 @@
     "original_result_id": "R_4f733e1fb33f987b22de2be35c0e6ebe9d54b3d2a65d8d742f3064784ba58822"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Source specialization: Table 7, entry a=5 point conditions.",
+  "notes": "Source specialization: Table 7, entry a=5 point conditions.\n\nZeuthen 1873 predicted these quartic characteristic numbers; Vakil completes their rigorous verification. The prediction and proof are distinguished, and both references are retained. Singleton real/monodromy conclusions are deductions from the count.",
   "result_id": "R_f12df2738e04e7dafedd532db4087bc622e242049e3c6ae13b94da68f8178f3e"
 }

@@ -73,7 +73,7 @@
         ]
       ],
       "description": "Sp₆(𝔽₂)",
-      "lmfdb_url": null
+      "lmfdb_url": "https://www.lmfdb.org/GaloisGroup/28T1256"
     }
   },
   "status": "solved",
@@ -87,7 +87,7 @@
     "version": "arXiv:1008.4104v2, 10 January 2011"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
   "origin": {
@@ -96,5 +96,5 @@
   },
   "headline": true,
   "scope": "The 28 bitangents of a general plane quartic and their coefficient splitting field.",
-  "notes": "The full group is generic; special rational quartics can have smaller splitting-field groups. This established classical group is substantively used and represented, rather than claimed as a new discovery here.\n\nThe displayed pair is copied from primary database construction data, with its stated order 1451520. The default verifier checks exact transcription and transitivity; --full also enumerates the group.\n\nGenerator source: https://www.lmfdb.org/Groups/Abstract/1451520.a — Construction of abstract group, Sage/GAP permutation generators."
+  "notes": "The full group is generic; special rational quartics can have smaller splitting-field groups. This established classical group is substantively used and represented, rather than claimed as a new discovery here.\n\nThe displayed pair is copied from primary database construction data, with its stated order 1451520. The default verifier checks exact transcription and transitivity; --full also enumerates the group.\n\nGenerator source: https://www.lmfdb.org/Groups/Abstract/1451520.a — Construction of abstract group, Sage/GAP permutation generators.\n\nLMFDB identification: 28T1256 in the recorded permutation degree. Standard generating permutations, when newly supplied here, are an abstract relabeling of the proved group action; they are not additional path-tracking data. LMFDB abstract group 1451520.a lists 28T1256 as its degree-28 realization."
 }

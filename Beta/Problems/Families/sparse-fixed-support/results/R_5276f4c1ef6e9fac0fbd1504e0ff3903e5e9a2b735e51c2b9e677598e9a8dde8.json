@@ -1,0 +1,30 @@
+{
+  "result_id": "R_5276f4c1ef6e9fac0fbd1504e0ff3903e5e9a2b735e51c2b9e677598e9a8dde8",
+  "problem_id": "P_sparse_fixed_support",
+  "question_id": "Q1",
+  "statement": "For a square system of n Laurent polynomials with fixed finite supports A_1,…,A_n in Z^n and independently general complex coefficients, the number of isolated roots in (C*)^n is MV(conv(A_1),…,conv(A_n)). Here mixed volume is normalized so MV(P,…,P)=n! Vol(P); only torus roots are counted.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "formula": "MV(conv(A_1),…,conv(A_n))",
+    "display": "MV(A₁,…,Aₙ)",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "bernshtein_1975_roots"
+  ],
+  "source": {
+    "url": "https://www.mathnet.ru/php/getFT.phtml?jrnid=faa&option_lang=eng&paperid=2258&what=fullt",
+    "location": "Original Russian article, pp.1–2: Laurent-torus formulation, mixed-volume normalization, Theorem A; specialize to n=2 or n=1 as applicable",
+    "version": "Funktsional. Anal. i Prilozhen. 9(3) (1975), pp.1–4; original primary scan freshly inspected 4 November 2026"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "scope": "Generic square Laurent systems over C; independent coefficients with the prescribed supports. A zero mixed volume gives no generic torus roots.",
+  "notes": "This is a direct concrete answer for the existing fixed-support family. The mixed-volume bound for arbitrary coefficients counts isolated torus roots with multiplicity; affine coordinate-hyperplane roots are outside this scope. The original 1975 bibliographic metadata were verified through MathNet; the root-count statement was directly inspected as Theorem 1.1 in Esterov’s primary research PDF.\n\nOriginality audit: this count is a specialization of Bernshtein’s 1975 theorem. Esterov’s later restatement is not the original counting result.",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": []
+}

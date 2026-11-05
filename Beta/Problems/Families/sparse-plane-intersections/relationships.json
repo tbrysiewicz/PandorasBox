@@ -1,7 +1,19 @@
 {
-  "relationships": [],
+  "relationships": [
+    {
+      "relation_id": "P_sparse_plane_intersections__subfamily_of__P_sparse_fixed_support",
+      "source_problem_id": "P_sparse_plane_intersections",
+      "target_problem_id": "P_sparse_fixed_support",
+      "relation_type": "subfamily_of",
+      "relation_statement": "Set the number of variables and equations to two and use the same pair of supports A1,A2. The solution torus is (C*)^2.",
+      "evidence_location": "The two stored descriptors define exactly the same system after fixing n=2.",
+      "supporting_source_url": "https://arxiv.org/pdf/1801.08260",
+      "inheritance_policy": "No automatic inheritance. A result may be transferred only after explicitly checking its hypotheses, parameter specialization, solution convention and genericity.",
+      "caveats": ""
+    }
+  ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

@@ -1,0 +1,33 @@
+{
+  "problem_id": "P_plane_curves_degree_5_genus_1",
+  "question_id": "Q1",
+  "statement": "There are 87192 irreducible complex plane curves of degree 5 and geometric genus 1 through 15 general points.",
+  "answer": {
+    "count": 87192,
+    "display": "87192",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "caporaso_1996_plane_curves"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/0906.3828v4",
+    "location": "Theorem 1.6 and Figure 1, printed pages 6–7; definitions on printed page 2",
+    "version": "arXiv:0906.3828v4 (18 January 2010), primary PDF inspected 4 November 2026"
+  },
+  "scope": "Irreducible degree-5, genus-1 curves through 15 general complex projective plane points.",
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_plane_curves_degree_genus",
+    "original_result_id": "R_7c65e42ed61543648626d69e0acffbc2e4561bc1b88399af7d870dcdca4321ef",
+    "inheritance_basis": "Specialize d=5, g=1 in Figure 1."
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "The value is the irreducible count in Figure 1, not the possibly reducible Severi-degree entry in Figure 2.\n\nThe numerical count is associated with the earlier recursion (Caporaso–Harris for plane curves of arbitrary genus). Fomin–Mikhalkin’s table remains the inspected verification source; their floor-diagram Theorem 1.6 explicitly restates Brugallé–Mikhalkin. This is not a claim that the individual numerical value was historically first found by the cited recursion.",
+  "result_id": "R_086d7fb15c772d70f622046677daf78f5507ddc32cdda7ed29c4bd9a4d0e7f04"
+}

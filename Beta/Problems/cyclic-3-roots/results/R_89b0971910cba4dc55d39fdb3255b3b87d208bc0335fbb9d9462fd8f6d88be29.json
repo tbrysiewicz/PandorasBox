@@ -1,34 +1,33 @@
 {
   "problem_id": "P_cyclic_3_roots",
   "question_id": "Q1",
-  "statement": "The labelled cyclic 3-root system has total intersection multiplicity 6.",
+  "statement": "The labelled cyclic 3-root system has exactly 6 distinct complex solutions, all of multiplicity one.",
   "answer": {
     "count": 6,
-    "display": "6 (with multiplicity)",
-    "relation": "partial",
-    "qualification": "This is a count with multiplicity. The quoted theorem alone does not assert this many distinct roots.",
-    "multiplicity": "Intersection multiplicity; not an assertion of distinct solutions."
+    "display": "6",
+    "relation": "equal",
+    "multiplicity": "Every solution has intersection multiplicity one."
   },
-  "status": "partial",
+  "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
     "haagerup_2008_cyclic_prime"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/0803.2629v1",
-    "location": "Theorem 6.4, printed p.23; Theorem 3.5",
-    "version": "arXiv:0803.2629v1, 18 March 2008"
+    "location": "Introduction, printed p.2: table of γ(n) and paragraph stating multiplicity one for p=2,3,5,7; Theorem 6.4, printed p.23",
+    "version": "arXiv:0803.2629v1, 18 March 2008; inspected 2026-11-04"
   },
   "origin": {
     "kind": "inherited",
     "source_problem_id": "P_cyclic_prime_roots",
-    "inheritance_basis": "Set p=3 in Theorem 6.4: binomial(2p-2,p-1).",
+    "inheritance_basis": "Theorem 6.4 gives binomial(2*3-2,3-1)=6 with multiplicity; the introduction separately states all roots are simple for p=2,3,5,7.",
     "original_result_id": "R_090c9dcbe5a8471edb7738fb71bd6c66a379679b166938f4a24474438c466de9"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Source specialization: Set p=3 in Theorem 6.4: binomial(2p-2,p-1).",
+  "notes": "Haagerup explicitly recalls simplicity for these small primes. Simplicity for arbitrary prime length is not asserted.",
   "result_id": "R_89b0971910cba4dc55d39fdb3255b3b87d208bc0335fbb9d9462fd8f6d88be29"
 }

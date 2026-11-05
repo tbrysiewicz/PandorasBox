@@ -21,10 +21,10 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "The raw polynomial degree is not always the count of nondegenerate physical linkages. No certification is claimed by this table.\n\nImported from the 2026-10-26 catalogue record R_28d7c4b703db81e4; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "The raw polynomial degree is not always the count of nondegenerate physical linkages. No certification is claimed by this table.\n\nImported from the 2026-10-26 catalogue record R_28d7c4b703db81e4; the source claim has not been newly rechecked against the paper for this beta import.\n\nPass3 update (4 November 2026): primary source freshly retrieved and the cited claim rechecked against Title page; §4.1 p.9; Table 1 and five-pose paragraph after Table 2 p.10; §4.2 p.9. The earlier import note above describes its historical verification state.",
   "scope": "Alt–Burmester (5,0) problem in the isotropic-coordinate formulation of Brake et al.; dyads are ordered and prescribed poses/points general.",
   "result_id": "R_ae1c9674d502c646657adbccfd60ca2697a34ead3c5913af7e54b914898d5912"
 }

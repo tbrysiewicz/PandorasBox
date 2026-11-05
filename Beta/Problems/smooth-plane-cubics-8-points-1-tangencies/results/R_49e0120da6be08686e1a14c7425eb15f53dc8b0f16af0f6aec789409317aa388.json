@@ -1,0 +1,32 @@
+{
+  "problem_id": "P_smooth_plane_cubics_8_points_1_tangencies",
+  "question_id": "Q4",
+  "statement": "The sharp maximum real solution count is 4.",
+  "answer": {
+    "count": 4,
+    "display": "4",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "ronga_2000_real_riemann_hurwitz"
+  ],
+  "source": {
+    "url": "https://www.maths.tcd.ie/EMIS/journals/em/docs/boletim/vol312/v31-2-a5-2000.pdf",
+    "location": "§4, Theorem; §5, Proposition 6 (printed pp.183–185)",
+    "version": "Published article (2000), 13-page PDF"
+  },
+  "scope": "Smooth irreducible degree-3 plane curves; all incidence points and lines real and general.",
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_smooth_plane_cubic_characteristic_numbers",
+    "original_result_id": "R_b5eb708827acbf846ca18418a250d99f86f0df7690f826b0f947c73d82874245",
+    "inheritance_basis": "Set degree n=3 and use one tangent-line condition."
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "result_id": "R_49e0120da6be08686e1a14c7425eb15f53dc8b0f16af0f6aec789409317aa388"
+}

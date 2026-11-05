@@ -10,7 +10,8 @@
     "relation": "equal"
   },
   "reference_ids": [
-    "vakil_1999_quartic_characteristic"
+    "vakil_1999_quartic_characteristic",
+    "zeuthen_1873_plane_curve_systems"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/math/9812018v1",
@@ -21,10 +22,10 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Smooth quartics have genus3. In particular the last number is not the rational-quartic count620. General incidence conditions and proper tangencies are required.\n\nImported from the 2026-10-26 catalogue record R_848c12c1585006c6; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Smooth quartics have genus3. In particular the last number is not the rational-quartic count620. General incidence conditions and proper tangencies are required.\n\nImported from the 2026-10-26 catalogue record R_848c12c1585006c6; the source claim has not been newly rechecked against the paper for this beta import.\n\nZeuthen 1873 predicted these quartic characteristic numbers; Vakil completes their rigorous verification. The prediction and proof are distinguished, and both references are retained. Singleton real/monodromy conclusions are deductions from the count.",
   "scope": "Smooth plane quartics through a general points and properly tangent to 14−a general lines.",
   "result_id": "R_4f733e1fb33f987b22de2be35c0e6ebe9d54b3d2a65d8d742f3064784ba58822"
 }

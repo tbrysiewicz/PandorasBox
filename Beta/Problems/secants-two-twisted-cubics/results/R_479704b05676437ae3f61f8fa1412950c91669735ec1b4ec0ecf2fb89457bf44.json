@@ -1,0 +1,42 @@
+{
+  "problem_id": "P_secants_two_twisted_cubics",
+  "question_id": "Q5",
+  "statement": "Every totally-real secant count from 0 through 10 occurs. For the finer triple (totally, partially, minimally real), 128 of 161 admissible triples are certified realizable.",
+  "answer": {
+    "values": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "display": "Totally real: {0,…,10}; refined triples: 128/161 realized",
+    "relation": "partial"
+  },
+  "status": "partial",
+  "evidence": "certified_computation",
+  "reference_ids": [
+    "aslam_2026_common_secants"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/2603.25003v1",
+    "location": "Theorems 1.6–1.7; Section 5 and Appendix A",
+    "version": "Source inspected 2026-11-04"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "scope": "Refined intersection-point reality, distinct from ordinary real-line count.",
+  "notes": "The 33 unconstructed admissible triples are not asserted impossible.",
+  "result_id": "R_479704b05676437ae3f61f8fa1412950c91669735ec1b4ec0ecf2fb89457bf44"
+}

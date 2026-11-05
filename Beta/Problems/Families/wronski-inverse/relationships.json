@@ -1,7 +1,19 @@
 {
-  "relationships": [],
+  "relationships": [
+    {
+      "relation_id": "P_wronski_inverse__subfamily_of__P_schubert_osculating",
+      "source_problem_id": "P_wronski_inverse",
+      "target_problem_id": "P_schubert_osculating",
+      "relation_type": "subfamily_of",
+      "relation_statement": "On the full-degree squarefree Wronskian locus in Gr(k,C[z]_{<n}), write the k(n-k) distinct roots as t_i. The fibre is the intersection of k(n-k) one-box Schubert divisors for the osculating flags at t_i. Thus generic inverse Wronski problems are the all-one-box osculating Schubert subfamily.",
+      "evidence_location": "Abstract: equivalence of a prescribed Wronskian with incidence against osculating planes; apply one simple-root condition at each root.",
+      "supporting_source_url": "https://arxiv.org/abs/2309.04645v2",
+      "inheritance_policy": "No automatic inheritance. Apply only results whose Schubert data consist of k(n-k) one-box conditions and whose root and characteristic hypotheses agree.",
+      "caveats": "This statement is scoped to squarefree full-degree Wronskians. Repeated roots lead to unions of higher-partition Schubert strata with multiplicities, not one fixed arbitrary partition. Ordering the roots introduces a base change and must not be silently used to identify monodromy groups."
+    }
+  ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

@@ -1,0 +1,33 @@
+{
+  "problem_id": "P_rational_plane_degree_2_maximal_line_contact_fixed",
+  "question_id": "Q4",
+  "statement": "The maximum number of real solutions over generic real input data is one, so every generic real instance is totally real.",
+  "answer": {
+    "count": 1,
+    "display": "1",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "fomin_2009_labeled_floors"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/0906.3828v4",
+    "location": "Section 4.4 and Corollary 4.8, printed p.23; Figure 8, d=2 row, and Theorem 4.9 equation(4.6), printed p.24",
+    "version": "arXiv:0906.3828v4 (18 January 2010); primary PDF freshly rechecked 4 November 2026"
+  },
+  "scope": "The generic fibre for rational conics with fixed maximal line contact. For real-count assertions, all prescribed points and lines (including any specified contact point) are real and satisfy the genericity assumptions.",
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_rational_plane_degree_2_maximal_line_contact_fixed",
+    "original_result_id": "R_a331b77f74d0549e7cc89d9e32d8e03c5e0a1777c3c6cf688f17e3dbe7df6f40",
+    "inheritance_basis": "A reduced generic complex fibre of cardinality one has trivial permutation action; for generic real inputs conjugation fixes its unique solution."
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "Elementary deduction from the recorded complex count one. Complex conjugation preserves the fibre for real input data, so its unique point is fixed and the solution curve is defined over R. A permutation action on a singleton is trivial. These deductions are supplied here explicitly; they are not attributed as separate theorems in the cited paper. The assertion concerns real solution curves, not reality of every point on a real curve.",
+  "result_id": "R_ea30ee6fe5f0422d92ac6553a2058560656cd0222111e6428d03bf620377c5c4"
+}

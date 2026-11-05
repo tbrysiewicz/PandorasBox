@@ -12,10 +12,12 @@
     "capco_2018_laman",
     "grasegger_2018_lower_rigid",
     "grasegger_2025_explorations",
-    "steffens_2009_mixed_laman"
+    "steffens_2009_mixed_laman",
+    "clinch_2026_stable_cuts",
+    "jackson_2016_equivalent_rigid"
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

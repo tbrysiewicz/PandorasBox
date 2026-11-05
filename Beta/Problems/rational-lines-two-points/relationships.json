@@ -18,8 +18,9 @@
       "source_problem_id": "P_rational_lines_two_points",
       "target_problem_id": "P_plane_nodal_curves",
       "relation_type": "instance_of",
-      "relation_statement": "Lines through two general points in the plane.",
-      "inheritance_policy": "Only explicitly recorded source specializations are inherited."
+      "relation_statement": "Set d=1 and delta=0; the genus formula g=(d-1)(d-2)/2-delta gives g=0, and d(d+3)/2-delta=2 point conditions. The generic irreducible genus-0 curves through these general points have exactly 0 ordinary nodes and no other singularities.",
+      "inheritance_policy": "Only generic point-constrained enumerative statements with the same irreducibility convention transfer; no equivalence of singularity strata over special point configurations is asserted.",
+      "caveats": "Genus alone does not imply nodality for a special curve. This identifies the enumerative problem over general point configurations, where the counted curves lie in the ordinary nodal locus."
     },
     {
       "source_problem_id": "P_rational_lines_two_points",
@@ -32,12 +33,12 @@
       "source_problem_id": "P_rational_lines_two_points",
       "target_problem_id": "P_rational_plane_maximal_line_contact",
       "relation_type": "instance_of",
-      "relation_statement": "Lines through two general points in the plane.",
-      "inheritance_policy": "Only explicitly recorded source specializations are inherited."
+      "relation_statement": "Set d=1 and fixed_contact=false. A line through two general points meets a fixed general line at a unique unconstrained contact point, and order-one contact imposes no additional condition.",
+      "inheritance_policy": "Only the d=1 free-contact specialization is identified; the fixed-contact specialization is a different incidence problem."
     }
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

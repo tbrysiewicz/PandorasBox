@@ -1,0 +1,34 @@
+{
+  "problem_id": "P_plane_curves_degree_4_genus_3",
+  "question_id": "Q3",
+  "statement": "The minimum number of real solutions over generic real input data is one.",
+  "answer": {
+    "count": 1,
+    "display": "1",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "vakil_1999_quartic_characteristic",
+    "zeuthen_1873_plane_curve_systems"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/math/9812018v1",
+    "location": "Theorem8.1 and Table7, arXiv v1 printed page24",
+    "version": "arXiv:math/9812018v1 (2December1998)"
+  },
+  "scope": "The generic fibre for plane quartics of genus 3 through 14 points. For real-count assertions, all prescribed points and lines (including any specified contact point) are real and satisfy the genericity assumptions.",
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_plane_curves_degree_4_genus_3",
+    "original_result_id": "R_50909c87d4ef4248dcb64574be35152db7b0b1f5a6718ab798c148947a4e6c61",
+    "inheritance_basis": "A reduced generic complex fibre of cardinality one has trivial permutation action; for generic real inputs conjugation fixes its unique solution."
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "Elementary deduction from the recorded complex count one. Complex conjugation preserves the fibre for real input data, so its unique point is fixed and the solution curve is defined over R. A permutation action on a singleton is trivial. These deductions are supplied here explicitly; they are not attributed as separate theorems in the cited paper. The assertion concerns real solution curves, not reality of every point on a real curve.\n\nZeuthen 1873 predicted these quartic characteristic numbers; Vakil completes their rigorous verification. The prediction and proof are distinguished, and both references are retained. Singleton real/monodromy conclusions are deductions from the count.",
+  "result_id": "R_f3e0d4912199c24236d3340df29752ca8c31c3f7a9ca3b58ef6a81f0f74e437d"
+}

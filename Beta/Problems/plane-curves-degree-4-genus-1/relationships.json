@@ -11,12 +11,13 @@
       "source_problem_id": "P_plane_curves_degree_4_genus_1",
       "target_problem_id": "P_plane_nodal_curves",
       "relation_type": "instance_of",
-      "relation_statement": "Irreducible plane curves of degree 4 and geometric genus 1 through 12 general points.",
-      "inheritance_policy": "Only explicitly recorded source specializations are inherited."
+      "relation_statement": "Set d=4 and delta=2; the genus formula g=(d-1)(d-2)/2-delta gives g=1, and d(d+3)/2-delta=12 point conditions. The generic irreducible genus-1 curves through these general points have exactly 2 ordinary nodes and no other singularities.",
+      "inheritance_policy": "Only generic point-constrained enumerative statements with the same irreducibility convention transfer; no equivalence of singularity strata over special point configurations is asserted.",
+      "caveats": "Genus alone does not imply nodality for a special curve. This identifies the enumerative problem over general point configurations, where the counted curves lie in the ordinary nodal locus."
     }
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

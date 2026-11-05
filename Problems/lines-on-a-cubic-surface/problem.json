@@ -8,10 +8,12 @@
     "altman_kleiman_1977_fano",
     "cayley_1849_triple_tangent",
     "schlafli_1863_cubic_species",
-    "kass_wickelgren_2017_cubic_lines"
+    "kass_wickelgren_2017_cubic_lines",
+    "brazelton_raman_2025_symmetric_cubic_monodromy",
+    "brazelton_landi_raman_2026_symmetry_solvability"
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

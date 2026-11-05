@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_laman_plane",
+  "question_id": "Q1",
+  "statement": "Every n-vertex graph in the recursively defined QS subclass has complex planar realization count 2^(n−2), retaining reflected realizations.",
+  "answer": {
+    "display": "2^(n−2) for G in QS",
+    "formula": "2^(n-2)",
+    "relation": "equal"
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "jackson_2016_equivalent_rigid"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1204.1228v2",
+    "location": "Section 9, definition of QS and Theorem 9.1, printed p.32; Section 2, congruence convention",
+    "version": "arXiv:1204.1228v2, revised 6 October 2016; inspected 2026-11-04"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "scope": "QS starts with K3 and is closed under gluing G1 to G2−uv along any two distinct vertices of G1 and the endpoints of an edge uv of G2, for G1,G2 in QS. n≥3; generic edge lengths.",
+  "notes": "The source identifies reflections and counts 2^(n−3); generic noncollinearity doubles this under the catalogue convention.",
+  "result_id": "R_fe9dc09adc4b3475f458ffc4d50d04aca67d21d5dd8ed88ca2982da0e852da99"
+}

@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_kuramoto_graph",
+  "question_id": "Q1",
+  "statement": "For generic symmetric couplings and frequencies, an N-vertex tree has 2^(N−1) complex equilibria and an N-cycle has N·binom(N−1,floor((N−1)/2)).",
+  "answer": {
+    "display": "Trees: 2^(N−1); cycles: N·binom(N−1,⌊(N−1)/2⌋)",
+    "relation": "equal"
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "chen_2017_kuramoto_intersection",
+    "chen_2022_typical_atypical"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1708.09246v1",
+    "location": "Theorems 8, 11, 14 and 15 (arXiv v1); symmetric-coupling genericity: arXiv:2210.00784v3, Theorem 3.5",
+    "version": "arXiv:1708.09246v1, 30 August 2017; genericity comparison arXiv:2210.00784v3, 25 September 2024; inspected 2026-11-04"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "scope": "N≥2 for trees and N≥3 for cycles; complex torus solutions with one reference phase fixed.",
+  "notes": "The later genericity theorem justifies specializing the adjacency-polytope volume to symmetric couplings.",
+  "result_id": "R_5a069e40f8e1055db2442499eac2d8a4189c4ffcd486ef934bd73d43d632179f"
+}

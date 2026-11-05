@@ -1,0 +1,28 @@
+{
+  "problem_id": "P_secants_two_twisted_cubics",
+  "question_id": "Q3",
+  "statement": "Pairs with no real common secant line exist.",
+  "answer": {
+    "count": 0,
+    "display": "0",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "certified_computation",
+  "reference_ids": [
+    "aslam_2026_common_secants"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/2603.25003v1",
+    "location": "Theorem 1.7; Appendix A, triple (0,0,0)",
+    "version": "Source inspected 2026-11-04"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "result_id": "R_c347f823f398266645955fea19b308c0a7c4bcfef3ac8d38bc79ea3c7d7595aa"
+}

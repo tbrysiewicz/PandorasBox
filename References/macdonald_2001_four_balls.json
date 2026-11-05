@@ -1,0 +1,18 @@
+{
+  "reference_id": "macdonald_2001_four_balls",
+  "title": "Common tangents to four unit balls in R^3",
+  "authors": [
+    "I. G. Macdonald",
+    "János Pach",
+    "Thorsten Theobald"
+  ],
+  "year": "2001",
+  "venue": "Discrete & Computational Geometry 26(1), 1–17",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "doi": "10.1007/s004540010090",
+  "url": "https://doi.org/10.1007/s004540010090",
+  "preprint_url": "https://www.renyi.hu/~pach/publications/tangents.pdf"
+}

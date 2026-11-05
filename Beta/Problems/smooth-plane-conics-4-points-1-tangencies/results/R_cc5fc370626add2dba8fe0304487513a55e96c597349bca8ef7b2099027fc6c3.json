@@ -13,9 +13,9 @@
     "fomin_2009_labeled_floors"
   ],
   "source": {
-    "url": "https://arxiv.org/html/0906.3828v4",
-    "location": "Corollary 4.8; Theorem 4.9, equation (4.6); Figure 8, d=3,4 rows",
-    "version": "arXiv:0906.3828v4 (18 January 2010)"
+    "url": "https://arxiv.org/pdf/0906.3828v4",
+    "location": "Section 4.4 and Corollary 4.8, printed p.23; Figure 8, d=2 row, and Theorem 4.9 equation(4.6), printed p.24",
+    "version": "arXiv:0906.3828v4 (18 January 2010); primary PDF freshly rechecked 4 November 2026"
   },
   "origin": {
     "kind": "inherited",
@@ -24,7 +24,7 @@
     "original_result_id": "R_15350fe6a9a57dd3d5775043e0d51d6e3419cbb8ca5df5b41c45596ed247bb4f"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
   "notes": "Source specialization: Use d*z(d) with d=2; z(2)=1 follows from the recurrence and Figure 8 gives z(3)=7,z(4)=138.",

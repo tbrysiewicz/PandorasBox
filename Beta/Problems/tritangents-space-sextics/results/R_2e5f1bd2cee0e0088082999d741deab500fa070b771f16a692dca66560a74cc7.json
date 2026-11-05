@@ -10,21 +10,21 @@
     "relation": "partial"
   },
   "reference_ids": [
-    "kulkarni_2017_space_sextics"
+    "gross_harris_1981_real_curves"
   ],
   "source": {
-    "url": "https://arxiv.org/html/1712.06274v2",
-    "location": "Theorem 1.1; proof in Section 2",
-    "version": "arXiv:1712.06274v2, 7 June 2018"
+    "url": "https://arxiv.org/pdf/1701.02353v1",
+    "location": "Section 3, Proposition 3.1 and preceding odd-theta identification (printed p.5)",
+    "version": "arXiv:1701.02353v1, 9 January 2017; specified statement inspected 4 November 2026"
   },
   "origin": {
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "This proves attainability, not exclusion of counts below 84 or classification of connected chambers. The odd-theta convention excludes the infinite ruling family on a quadric cone. Generic-scope migration: This is the real-plane count by topology on the source locus, not the separate spectrum of totally-real contact planes. The full generic-plane spectrum is not asserted here.\n\nImported from the 2026-10-26 catalogue record R_1e9e5b5ab8b2cf7f; the source claim has not been newly rechecked against the paper for this beta import.",
-  "scope": "Smooth genus-four space sextics with five ovals; only odd-theta tritangents with three distinct real contacts.",
+  "notes": "Substitute g=4 in the two real-odd-theta formulas. This is a count of real tritangent planes; contact points may consist of one real point and a nonreal conjugate pair. The previous attribution to Kulkarni et al. Theorem 1.1 and its five-oval/three-real-contact scope mixed this with a different result: that theorem constructs 84,…,120 totally real contact planes. The corrected scope and source refer to the plane-count question. This pass inspected Harris–Len Proposition 3.1 directly; it did not fully check the paper.\n\nOriginality audit: the theta-characteristic formulas already appear with proof in Gross–Harris (1981), Proposition 5.1. Specialization to g=4 and the classical tritangent correspondence give this record. Harris–Len remains the inspected exposition in source, not the original theta-count attribution. Absolute priority before 1981 remains open.",
+  "scope": "Smooth real canonical genus-four sextics on a smooth quadric, with s>0 real ovals and regular tritangent fibre; real planes are counted regardless of whether all contact points are real.",
   "result_id": "R_2e5f1bd2cee0e0088082999d741deab500fa070b771f16a692dca66560a74cc7"
 }

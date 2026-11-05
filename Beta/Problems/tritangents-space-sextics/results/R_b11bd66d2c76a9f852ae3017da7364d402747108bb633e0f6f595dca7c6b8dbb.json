@@ -11,21 +11,22 @@
     "relation": "equal"
   },
   "reference_ids": [
-    "harris_2017_sextic_tritangents"
+    "harris_2017_sextic_tritangents",
+    "clebsch_1864_tritangents"
   ],
   "source": {
-    "url": "https://arxiv.org/html/1701.02353v1",
-    "location": "Theorem 2.1 and its theta-characteristic proof",
-    "version": "arXiv:1701.02353v1, 9 January 2017"
+    "url": "https://arxiv.org/pdf/1701.02353v1",
+    "location": "Theorem 2.2 and proof, printed p.3 (PDF page 3)",
+    "version": "arXiv:1701.02353v1 (9 January 2017), freshly inspected 4 November 2026"
   },
   "origin": {
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "A smooth quadric is required for this version of the statement. Contact-divisor interpretation allows appropriate special contacts; generic curves have distinct contact points.\n\nImported from the 2026-10-26 catalogue record R_e2974ebd2c22c2f6; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "A smooth quadric is required for this version of the statement. Contact-divisor interpretation allows appropriate special contacts; generic curves have distinct contact points.\n\nImported from the 2026-10-26 catalogue record R_e2974ebd2c22c2f6; the source claim has not been newly rechecked against the paper for this beta import.\n\nHarris–Len explicitly trace this classical count to Clebsch 1864. Their proof of the odd-theta correspondence in the stated setting remains cited as verification.",
   "scope": "Smooth canonical sextic given by the transverse intersection of a smooth quadric and a smooth cubic in P3, characteristic not two.",
   "result_id": "R_b11bd66d2c76a9f852ae3017da7364d402747108bb633e0f6f595dca7c6b8dbb"
 }

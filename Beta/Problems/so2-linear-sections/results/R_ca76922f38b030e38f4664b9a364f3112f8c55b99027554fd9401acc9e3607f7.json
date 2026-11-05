@@ -1,0 +1,43 @@
+{
+  "result_id": "R_ca76922f38b030e38f4664b9a364f3112f8c55b99027554fd9401acc9e3607f7",
+  "problem_id": "P_so2_linear_sections",
+  "question_id": "Q2",
+  "statement": "Unrestricted generic complementary affine linear sections of SO(2,C) have monodromy S_2.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "display": "S_2",
+    "relation": "equal",
+    "group": {
+      "degree": 2,
+      "generators": [
+        [
+          2,
+          1
+        ]
+      ],
+      "description": "S_2",
+      "lmfdb_url": "https://www.lmfdb.org/GaloisGroup/2T1"
+    }
+  },
+  "reference_ids": [
+    "kadets_2018_sectional_monodromy",
+    "brandt_2017_degree_so"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1809.07293v2",
+    "location": "Proposition 1.1; Bertini reduction explained in the family result"
+  },
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_so_linear_sections",
+    "original_result_id": "R_3527b79a21da1cadfa0f26f48dbdc0ff012340572b76f69fb1a567523777cd48",
+    "inheritance_basis": "Explicit specialization n=2, degree=2."
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "Deduction, not a named SO case in Kadets: take a general integral curve section of the irreducible projective closure; its variable-hyperplane monodromy S_D embeds in the unrestricted section monodromy. Restricting to the open set of affine sections missing infinity preserves this conclusion. Degree from Brandt et al. Theorem 1.1/Table 1.\n\nLMFDB identification: 2T1 in the recorded permutation degree. Standard generating permutations, when newly supplied here, are an abstract relabeling of the proved group action; they are not additional path-tracking data.\n\nThis is a catalogue application of the classical characteristic-zero sectional-monodromy theorem, called folklore in Kadets, Proposition 1.1. Kadets is cited for an explicit proof, not as the originator of that theorem; the stated Bertini reduction identifies the particular enumerative family.",
+  "scope": "Unrestricted complementary affine linear sections; no restriction to coordinate projections or homogeneous slices."
+}

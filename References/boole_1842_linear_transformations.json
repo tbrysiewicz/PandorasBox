@@ -1,0 +1,14 @@
+{
+  "reference_id": "boole_1842_linear_transformations",
+  "title": "Exposition of a General Theory of Linear Transformations, Parts I–II",
+  "authors": [
+    "George Boole"
+  ],
+  "year": "1842",
+  "venue": "Cambridge Mathematical Journal 3, 1–20 and 106–119",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "GKZ, Chapter 1 Example 4.15, dates the general homogeneous-discriminant degree formula to Boole 1842; the publication identity is checked against the University College Cork bibliography. The original parts were not directly inspected."
+}

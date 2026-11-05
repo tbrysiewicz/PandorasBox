@@ -1,0 +1,32 @@
+{
+  "problem_id": "P_smooth_plane_cubics_8_points_1_tangencies",
+  "question_id": "Q5",
+  "statement": "The exact real solution spectrum is {0,2,4}.",
+  "answer": {
+    "text": "{0,2,4}",
+    "display": "{0,2,4}",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "ronga_2000_real_riemann_hurwitz"
+  ],
+  "source": {
+    "url": "https://www.maths.tcd.ie/EMIS/journals/em/docs/boletim/vol312/v31-2-a5-2000.pdf",
+    "location": "§5, Proposition 6 (printed p.185)",
+    "version": "Published article (2000), 13-page PDF"
+  },
+  "scope": "Smooth irreducible degree-3 plane curves; all incidence points and lines real and general.",
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_smooth_plane_cubic_characteristic_numbers",
+    "original_result_id": "R_bdbace9a9245bed77bb5582025225935a30169f17f4b6c1f898c33595b7f7fe9",
+    "inheritance_basis": "Set n=3; r=0,…,2."
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "result_id": "R_b1987edbf348c8e6ee09be2272b4747c479f0a6598238ff6a1c61a6ba87eaae4"
+}

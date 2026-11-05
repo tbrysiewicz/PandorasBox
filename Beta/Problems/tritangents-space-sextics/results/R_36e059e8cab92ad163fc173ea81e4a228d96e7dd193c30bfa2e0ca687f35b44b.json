@@ -1,0 +1,28 @@
+{
+  "result_id": "R_36e059e8cab92ad163fc173ea81e4a228d96e7dd193c30bfa2e0ca687f35b44b",
+  "problem_id": "P_tritangents_space_sextics",
+  "question_id": "Q3",
+  "statement": "The minimum real tritangent-plane count for a regular real canonical genus-four sextic is zero.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "count": 0,
+    "display": "0",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "gross_harris_1981_real_curves"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1804.02707",
+    "location": "Table 1, printed p.8, row with no real connected components"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "Counts planes defined over R, not only those with three real contacts. The zero row establishes attainability.\n\nThe underlying real odd-theta count is Gross–Harris, Proposition 5.1. Hauenstein et al. explicitly attribute their Table 1 to this theory; their new certification method is not the origin of the spectrum recorded here."
+}

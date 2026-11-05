@@ -21,10 +21,10 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Counts algebraic multiplicities; for a reduced intersection these are ordinary real-point counts. Points not among the c conjugate pairs are real.\n\nImported from the 2026-10-26 catalogue record R_ef0263662c3f75e9; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Counts algebraic multiplicities; for a reduced intersection these are ordinary real-point counts. Points not among the c conjugate pairs are real.\n\nImported from the 2026-10-26 catalogue record R_ef0263662c3f75e9; the source claim has not been newly rechecked against the paper for this beta import.\n\nPass3 update (4 November 2026): primary source freshly retrieved and the cited claim rechecked against §3 osculating setup; §7 Proposition 7.1 and Theorem 7.2 p.9,Corollary 7.3 p.10. The earlier import note above describes its historical verification state.",
   "scope": "Real osculating instances on Gr(n,d), allowing conjugate nonreal osculation parameters.",
   "result_id": "R_fe650d7b3ed393877e1b98ed720bed8e7e220e1df81b2f7588102a464b85591b"
 }

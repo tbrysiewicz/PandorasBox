@@ -1,0 +1,30 @@
+{
+  "result_id": "R_63e51bf212c517b120120f50f2913578740f408a97eb64453bfc09071a8930fa",
+  "problem_id": "P_sparse_plane_intersections",
+  "question_id": "Q1",
+  "statement": "Two general Laurent plane curves with fixed finite supports A_1,A_2⊂Z² have MV(P_1,P_2)=Area(P_1+P_2)−Area(P_1)−Area(P_2) intersection points in (C*)², where P_i=conv(A_i) and Area is ordinary Euclidean area in the lattice coordinates. Generic intersections are reduced whenever the mixed area is positive.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "formula": "Area(P_1+P_2)−Area(P_1)−Area(P_2)",
+    "display": "MV(P₁,P₂)",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "bernshtein_1975_roots"
+  ],
+  "source": {
+    "url": "https://www.mathnet.ru/php/getFT.phtml?jrnid=faa&option_lang=eng&paperid=2258&what=fullt",
+    "location": "Original Russian article, pp.1–2: Laurent-torus formulation, mixed-volume normalization, Theorem A; specialize to n=2 or n=1 as applicable",
+    "version": "Funktsional. Anal. i Prilozhen. 9(3) (1975), pp.1–4; original primary scan freshly inspected 4 November 2026"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "scope": "Independent generic coefficients; intersections in the two-dimensional algebraic torus. Boundary intersections of toric compactifications are not counted.",
+  "notes": "Specialization of the general BKK theorem to the existing plane-intersection family. The formula uses ordinary area, not area normalized to make a unimodular triangle have area 1. The original 1975 bibliographic metadata were verified through MathNet; the root-count statement was directly inspected as Theorem 1.1 in Esterov’s primary research PDF.\n\nOriginality audit: this count is a specialization of Bernshtein’s 1975 theorem. Esterov’s later restatement is not the original counting result.",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": []
+}

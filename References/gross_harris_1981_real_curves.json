@@ -1,0 +1,17 @@
+{
+  "reference_id": "gross_harris_1981_real_curves",
+  "title": "Real algebraic curves",
+  "authors": [
+    "Benedict H. Gross",
+    "Joe Harris"
+  ],
+  "year": "1981",
+  "venue": "Annales scientifiques de l’École Normale Supérieure 14(2), 157–182",
+  "doi": "10.24033/asens.1401",
+  "url": "https://www.numdam.org/item/ASENS_1981_4_14_2_157_0/",
+  "notes": "Proposition 5.1 and its proof, pp.167–168, were directly inspected. This establishes the real theta-characteristic formula at least by 1981, before the Krasnov reference cited in Harris–Len. Absolute priority before 1981 is not asserted.",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": []
+}

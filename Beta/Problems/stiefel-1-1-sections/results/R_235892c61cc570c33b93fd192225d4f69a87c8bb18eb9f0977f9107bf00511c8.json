@@ -1,0 +1,39 @@
+{
+  "result_id": "R_235892c61cc570c33b93fd192225d4f69a87c8bb18eb9f0977f9107bf00511c8",
+  "problem_id": "P_stiefel_1_1_sections",
+  "question_id": "Q2",
+  "statement": "St(1,1)={−1,+1} has trivial geometric monodromy on its two points: complementary sections have codimension zero and both solutions are global constant sections.",
+  "answer": {
+    "display": "trivial on two points",
+    "relation": "equal",
+    "group": {
+      "degree": 2,
+      "generators": [
+        [
+          1,
+          2
+        ]
+      ],
+      "description": "Trivial group, nontransitive action with two singleton orbits",
+      "lmfdb_url": "https://www.lmfdb.org/Groups/Abstract/1.1"
+    }
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "brysiewicz_2019_stiefel"
+  ],
+  "source": {
+    "url": "https://arxiv.org/abs/1909.10085",
+    "location": "Direct substitution k=n=1 in the defining equation X^T X=I; elementary consequence"
+  },
+  "scope": "The existing St(1,1) zero-dimensional section problem over C.",
+  "notes": "This is an elementary deduction from the defining equation x²=1. The two labels do not interchange. It is not the transitive degree-two group 2T1; the disconnected O(k) case cannot inherit the S_D theorem for irreducible St(k,n), k<n. The LMFDB URL identifies the abstract group; the stated nontransitive permutation action and its orbit sizes are retained.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": []
+}

@@ -1,0 +1,18 @@
+{
+  "reference_id": "nister_hartley_stewenius_2007_galois",
+  "title": "Using Galois Theory to Prove Structure from Motion Algorithms are Optimal",
+  "authors": [
+    "David Nistér",
+    "Richard Hartley",
+    "Henrik Stewénius"
+  ],
+  "year": "2007",
+  "venue": "IEEE Conference on Computer Vision and Pattern Recognition, 1–8",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "doi": "10.1109/CVPR.2007.383089",
+  "url": "https://doi.org/10.1109/CVPR.2007.383089",
+  "notes": "Section 5 is explicitly credited for the essential-matrix S10 result by Duff et al. before Corollary 4.2."
+}

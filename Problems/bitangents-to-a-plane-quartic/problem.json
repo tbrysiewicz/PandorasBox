@@ -7,10 +7,11 @@
   "reference_ids": [
     "cayley_1861_quartic_double_tangents",
     "plaumann_2010_quartic_bitangents",
-    "geiger_2021_tropical_bitangent_count"
+    "geiger_2021_tropical_bitangent_count",
+    "brazelton_landi_raman_2026_symmetry_solvability"
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

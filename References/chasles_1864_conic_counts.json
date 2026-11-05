@@ -1,0 +1,14 @@
+{
+  "reference_id": "chasles_1864_conic_counts",
+  "title": "Détermination du nombre des sections coniques qui doivent toucher cinq courbes données d’ordre quelconque, ou satisfaire à diverses autres conditions",
+  "authors": [
+    "Michel Chasles"
+  ],
+  "year": "1864",
+  "venue": "Comptes rendus de l’Académie des sciences 58, 222–226, 297–308, 425–431",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "Series of communications, including the 3264 count and point/line/conic characteristic numbers. Title and attribution checked against the contemporary account in Nouvelles annales de mathématiques (1864), pp.191–193, and later primary papers; original communications not directly inspected."
+}

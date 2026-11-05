@@ -11,7 +11,8 @@
     "relation": "equal"
   },
   "reference_ids": [
-    "brysiewicz_2020_tangent_quadrics"
+    "brysiewicz_2020_tangent_quadrics",
+    "schubert_1879_kalkul"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2010.10879v2",
@@ -22,10 +23,10 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Total reality for this nine-quadric problem is an aim, not a result of the paper.\n\nImported from the 2026-10-26 catalogue record R_8307a860c8d9b807; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Total reality for this nine-quadric problem is an aim, not a result of the paper.\n\nImported from the 2026-10-26 catalogue record R_8307a860c8d9b807; the source claim has not been newly rechecked against the paper for this beta import.\n\nSchubert 1879, §22 and p.106, is explicitly credited for these numerical counts. Brysiewicz–Fevola–Sturmfels remain cited for their polynomial/prime-ideal formulation and modern verification; their certified real constructions are separate results.",
   "scope": "Nonsingular quadrics tangent to nine general quadrics in P3.",
   "result_id": "R_e5595116abde6ff2cb8bf75f1b5452f3d527318cb4a0f46587730509f45e6d0a"
 }

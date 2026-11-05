@@ -1,0 +1,37 @@
+{
+  "result_id": "R_1a2abece25995e473f3221461cb5a33af2512d436eaf451503ed23e107f76614",
+  "problem_id": "P_tritangents_space_sextics",
+  "question_id": "Q5",
+  "statement": "For regular smooth real canonical genus-four sextics, the possible numbers of real tritangent planes are exactly 0, 8, 16, 24, 32, 64, and 120.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "values": [
+      0,
+      8,
+      16,
+      24,
+      32,
+      64,
+      120
+    ],
+    "display": "{0,8,16,24,32,64,120}",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "gross_harris_1981_real_curves"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1804.02707",
+    "location": "Section 4.1 and Table 1, printed pp.6,8; real-plane classification attributed there to Gross–Harris"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "Here real means the plane is defined over R; its three contact points may include a conjugate pair. The table separately records totally-real contact counts, which can include odd numbers and are not this answer. The topology rows are respectively: no real components; 1 nondividing; 2 nondividing; 3 dividing; 3 nondividing; 4 nondividing; 5 dividing.\n\nThe underlying real odd-theta count is Gross–Harris, Proposition 5.1. Hauenstein et al. explicitly attribute their Table 1 to this theory; their new certification method is not the origin of the spectrum recorded here.",
+  "scope": "Smooth nonhyperelliptic canonical curves of genus four with a regular odd-theta tritangent fibre."
+}

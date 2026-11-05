@@ -1,0 +1,15 @@
+{
+  "reference_id": "nister_2003_five_point",
+  "title": "An Efficient Solution to the Five-Point Relative Pose Problem",
+  "authors": [
+    "David Nistér"
+  ],
+  "year": "2003",
+  "url": "https://www-users.cse.umn.edu/~hspark/CSci5980/nister.pdf",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "venue": "Proceedings of the IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR 2003), II-195–II-202",
+  "doi": "10.1109/CVPR.2003.1211470"
+}

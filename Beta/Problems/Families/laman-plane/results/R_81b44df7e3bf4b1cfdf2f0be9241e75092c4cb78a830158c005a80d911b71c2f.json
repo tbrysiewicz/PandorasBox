@@ -13,15 +13,15 @@
     "borcea_2004_rigid_embeddings"
   ],
   "source": {
-    "url": "https://www.researchgate.net/publication/2853944_The_Number_of_Embeddings_of_Minimally_Rigid_Graphs",
+    "url": "https://link.springer.com/content/pdf/10.1007/s00454-003-2902-0.pdf",
     "location": "Proposition 5.6 and its proof (printed p.301); Lemma 5.3 supplies the 24-real Desargues building block",
-    "version": "Discrete & Computational Geometry 31 (2004), pp.287–303; author-uploaded journal full text"
+    "version": "Published Discrete & Computational Geometry 31(2),287–303(2004), publisher PDF freshly inspected 4 November 2026"
   },
   "origin": {
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
   "notes": "Journal Proposition 5.6 is used. The older arXiv:math/0207126v1 Proposition 5.6 incorrectly gives the larger 24^(n/3) fan factor; that is not merely an abstract typo. No claim that this construction realizes the global maximum.\n\nImported from the 2026-10-26 catalogue record R_e51e5ffeafcabfc6; the source claim has not been newly rechecked against the paper for this beta import.",

@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_plane_curves_degree_genus",
+  "question_id": "Q1",
+  "statement": "The irreducible degree-d, genus-g plane-curve count through 3d+g−1 general points is the multiplicity-weighted count of marked connected floor diagrams of degree d and genus g. For d=4 the genus-0,1,2,3 counts are 620,225,27,1; for d=5 the genus-0,1,2,3,4,5,6 counts are 87304,87192,36855,7915,882,48,1.",
+  "answer": {
+    "text": "Weighted marked-floor-diagram formula; explicit degree-four and degree-five tables.",
+    "display": "d=4: (620,225,27,1); d=5: (87304,87192,36855,7915,882,48,1)",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "brugalle_mikhalkin_2007_floors"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/0906.3828v4",
+    "location": "Theorem 1.6 and Figure 1, printed pages 6–7; definitions on printed page 2",
+    "version": "arXiv:0906.3828v4 (18 January 2010), primary PDF inspected 4 November 2026"
+  },
+  "scope": "Irreducible complex projective plane curves of degree d and geometric genus g through 3d+g−1 general points.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "Figure 1 counts irreducible curves. Figure 2 instead gives possibly reducible Severi degrees and must not be substituted when its entries differ.\n\nThe floor-diagram correspondence is Brugallé–Mikhalkin, Enumeration of curves via floor diagrams (2007), Theorem 1. Fomin–Mikhalkin explicitly identify their Theorem 1.6 as a restatement; the recorded source retains their formula, table, or specialization for verification. This does not assert that the individual classical numerical values were first obtained by floor diagrams.",
+  "result_id": "R_7c65e42ed61543648626d69e0acffbc2e4561bc1b88399af7d870dcdca4321ef"
+}

@@ -7,7 +7,42 @@
   "answer": {
     "text": "Numerical monodromy computation gives S4, acting on the four diagonal solutions and on the twelve ordered distinct pairs.",
     "display": "S₄ (numerical)",
-    "relation": "partial"
+    "relation": "partial",
+    "group": {
+      "degree": 12,
+      "generators": [
+        [
+          4,
+          5,
+          6,
+          1,
+          2,
+          3,
+          8,
+          7,
+          9,
+          11,
+          10,
+          12
+        ],
+        [
+          5,
+          6,
+          4,
+          8,
+          9,
+          7,
+          11,
+          12,
+          10,
+          1,
+          2,
+          3
+        ]
+      ],
+      "description": "S4 acting faithfully on the twelve ordered pairs (i,j), i != j, of four dyads; pairs ordered lexicographically. This is the off-diagonal component of the numerical Alt–Burmester computation.",
+      "lmfdb_url": "https://www.lmfdb.org/Groups/Abstract/24.12"
+    }
   },
   "reference_ids": [
     "hauenstein_2018_numerical_galois"
@@ -21,10 +56,10 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "The action is on ordered dyad solutions, not the quotient set of unlabeled linkages. No transfer of the full group to a restricted real parameter family is asserted.\n\nImported from the 2026-10-26 catalogue record R_0d6a1bb5e0daf37a; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "The action is on ordered dyad solutions, not the quotient set of unlabeled linkages. No transfer of the full group to a restricted real parameter family is asserted.\n\nImported from the 2026-10-26 catalogue record R_0d6a1bb5e0daf37a; the source claim has not been newly rechecked against the paper for this beta import.\n\nLMFDB link identifies the abstract group S4 (24.12), not its natural degree-four permutation action. The stored degree-twelve generators are induced by (1 2) and (1 2 3 4) on lexicographically ordered distinct pairs. They encode the described abstract action and do not certify the original numerical path tracking. The separate diagonal component has four points.",
   "scope": "Alt–Burmester (5,0) problem in the isotropic-coordinate formulation of Brake et al.; dyads are ordered and prescribed poses/points general.",
   "result_id": "R_3587900534108fa27ece82247b1bb4b1f0137127ecacf6e8a2b0fc1cbedef59c"
 }

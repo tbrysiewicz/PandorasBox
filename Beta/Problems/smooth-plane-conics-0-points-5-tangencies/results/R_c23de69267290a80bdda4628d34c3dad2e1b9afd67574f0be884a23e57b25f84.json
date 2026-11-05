@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_smooth_plane_conics_0_points_5_tangencies",
+  "question_id": "Q3",
+  "statement": "The minimum real solution count is 1.",
+  "answer": {
+    "count": 1,
+    "display": "1",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "bashelor_ksir_traves_2008_conics"
+  ],
+  "source": {
+    "url": "https://www.usna.edu/Users/math/traves/_files/documents/Bashelor.pdf",
+    "location": "§4.3 (unique dual conic)",
+    "version": "Author-hosted published article (2008)"
+  },
+  "scope": "Smooth real conics; 0 general points and 5 general lines.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "Deduction: complex conjugation fixes the unique solution for real data, so it is real.\n\nThis is an elementary real-configuration or conjugation/duality deduction, with Bashelor–Ksir–Traves retained as an expository verification source. Their paper explicitly disclaims novelty; no original discovery is attributed to them here.",
+  "result_id": "R_c23de69267290a80bdda4628d34c3dad2e1b9afd67574f0be884a23e57b25f84"
+}

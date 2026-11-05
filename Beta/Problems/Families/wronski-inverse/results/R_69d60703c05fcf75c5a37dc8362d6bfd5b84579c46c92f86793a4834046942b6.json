@@ -21,10 +21,10 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "This is the preimage of the polynomial repeated-root discriminant, not the Wronski branch divisor. The conditions d,m≥2 ensure both domino partitions fit the rectangle. Migration: The result decomposes the inverse image of the branch discriminant, so concerns the exceptional locus.\n\nImported from the 2026-10-26 catalogue record R_9618b8eb01c3b48b; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "This is the preimage of the polynomial repeated-root discriminant, not the Wronski branch divisor. The conditions d,m≥2 ensure both domino partitions fit the rectangle. Migration: The result decomposes the inverse image of the polynomial repeated-root discriminant; this is distinct from the branch divisor of the Wronski map.\n\nImported from the 2026-10-26 catalogue record R_9618b8eb01c3b48b; the source claim has not been newly rechecked against the paper for this beta import.\n\nThe paper credits Laksov 1984 for the Wronski morphism and Purbhoo for the complex root-multiplicity description; its propositions supply the stated formulation over the indicated characteristic range. This record is not a claim of a new complex Wronski degree or a new complex Schubert multiplicity formula.",
   "scope": "Inverse Wronski problem Wr:Gr(d,C[z]≤n−1)→P(C[z]≤d(n−d)); real-root, Schubert-cell and cyclic-fixed restrictions are recorded separately.",
   "result_id": "R_69d60703c05fcf75c5a37dc8362d6bfd5b84579c46c92f86793a4834046942b6"
 }

@@ -21,10 +21,10 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Numerical construction here; rigorous certification is supplied separately by Hauenstein–Sottile.\n\nImported from the 2026-10-26 catalogue record R_11f1c17a8cb31c54; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Numerical construction here; rigorous certification is supplied separately by Hauenstein–Sottile.\n\nImported from the 2026-10-26 catalogue record R_11f1c17a8cb31c54; the source claim has not been newly rechecked against the paper for this beta import.\n\nPass3 update (4 November 2026): primary source freshly retrieved and the cited claim rechecked against Author-uploaded full-text §3 numerical procedure pp.11–12; §4 An example and Tables 2–3 pp.12–13; Figures 3–4 pp.14–15; §5 conclusions p.15. The earlier import note above describes its historical verification state.",
   "scope": "Six fixed-length SPS legs connecting specified base and moving-platform anchors in three dimensions.",
   "result_id": "R_2a9a27ea3ef46f5ba03e688fb5787769d9b77c2af4c9f5e4bf518fbeb3d4b020"
 }

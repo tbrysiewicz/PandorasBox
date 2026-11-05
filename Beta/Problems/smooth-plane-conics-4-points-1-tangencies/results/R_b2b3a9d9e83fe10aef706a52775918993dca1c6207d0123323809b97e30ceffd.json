@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_smooth_plane_conics_4_points_1_tangencies",
+  "question_id": "Q3",
+  "statement": "The minimum real solution count is 0.",
+  "answer": {
+    "count": 0,
+    "display": "0",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "bashelor_ksir_traves_2008_conics"
+  ],
+  "source": {
+    "url": "https://www.usna.edu/Users/math/traves/_files/documents/Bashelor.pdf",
+    "location": "§3.2; §4.2–4.3",
+    "version": "Author-hosted published article (2008)"
+  },
+  "scope": "Smooth real conics; 4 general points and 1 general lines.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "§3.2 gives real input data with no real solutions.\n\nThis is an elementary real-configuration or conjugation/duality deduction, with Bashelor–Ksir–Traves retained as an expository verification source. Their paper explicitly disclaims novelty; no original discovery is attributed to them here.",
+  "result_id": "R_b2b3a9d9e83fe10aef706a52775918993dca1c6207d0123323809b97e30ceffd"
+}

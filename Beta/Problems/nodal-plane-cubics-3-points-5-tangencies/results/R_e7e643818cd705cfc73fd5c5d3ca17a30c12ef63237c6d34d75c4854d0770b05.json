@@ -10,7 +10,9 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "aluffi_1991_singular_cubics"
+    "aluffi_1991_singular_cubics",
+    "maillard_1871_cubic_characteristics",
+    "zeuthen_1872_cubic_characteristics"
   ],
   "source": {
     "url": "https://www.math.fsu.edu/~aluffi/papers/1988TegopcIInacc.pdf",
@@ -24,9 +26,9 @@
     "original_result_id": "R_4020ede577cff352e97ae601cab8d0d6e23218846689152940a5d71734474e11"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Source specialization: Entry k=5 of Theorem III, column D; proper tangencies.",
+  "notes": "Source specialization: Entry k=5 of Theorem III, column D; proper tangencies.\n\nAluffi explicitly identifies these characteristic numbers as classical results of Maillard and Zeuthen. Those original claims and Aluffi’s rigorous verification are both cited; the modern proof is not presented as the first numerical claim. Any singleton real or monodromy assertion here is a deduction from the count.",
   "result_id": "R_e7e643818cd705cfc73fd5c5d3ca17a30c12ef63237c6d34d75c4854d0770b05"
 }

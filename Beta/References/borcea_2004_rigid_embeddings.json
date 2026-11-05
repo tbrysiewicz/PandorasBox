@@ -6,12 +6,13 @@
     "Ileana Streinu"
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
   "year": "2004",
   "venue": "Discrete and Computational Geometry 31(2), 287-303",
   "doi": "10.1007/s00454-003-2902-0",
   "url": "https://doi.org/10.1007/s00454-003-2902-0",
-  "preprint_url": "https://arxiv.org/abs/math/0207126"
+  "preprint_url": "https://arxiv.org/abs/math/0207126",
+  "notes": "The published 2004 journal article corrects the fan-construction growth in arXiv:math/0207126v1: Proposition 5.6 gives order 2×12^(n/3), not 24^(n/3). Use the journal version for that result."
 }

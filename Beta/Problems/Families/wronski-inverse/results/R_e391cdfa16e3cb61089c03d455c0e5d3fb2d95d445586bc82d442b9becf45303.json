@@ -1,0 +1,30 @@
+{
+  "result_id": "R_e391cdfa16e3cb61089c03d455c0e5d3fb2d95d445586bc82d442b9becf45303",
+  "problem_id": "P_wronski_inverse",
+  "question_id": "Q3",
+  "statement": "Let λ⊢N index the polynomial Schubert cell X^λ and μ=2^s 1^r with 2s+r=N. For a real monic Wronskian g with r distinct real roots and s conjugate pairs of nonreal roots, the number N_g of real points in the Wronski fibre, counted with algebraic multiplicity, satisfies |χ^λ(μ)|≤N_g≤f^λ. Here χ^λ is the irreducible S_N character and f^λ=χ^λ(1^N) is the standard-tableau count. For Gr(k,n) take the rectangle λ=(n−k)^k and N=k(n−k).",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "formula": "|χ^λ(2^s 1^r)|",
+    "display": "≥ |χ^λ(2ˢ1ʳ)|",
+    "relation": "at_least",
+    "qualification": "A lower bound on each prescribed root-type stratum; it is not asserted to be the sharp minimum."
+  },
+  "reference_ids": [
+    "mukhin_2014_real_lower"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1907.11924v2",
+    "location": "Theorem 1.3 and Corollary 1.4, printed p. 4"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "scope": "Real fibres of the Wronski map on X^λ over the indicated real-root-type stratum. Nonreal roots may repeat as permitted in the source; for regular fibres algebraic multiplicities are 1.",
+  "notes": "Primary PDF downloaded and Theorem 1.3/Corollary 1.4 inspected on 2026-11-04. This supplements the Eremenko–Gabrielov parity-dependent lower bound already present. The lower-bound interpretation is a direct consequence of the source’s character-oriented topological degree.\n\nLevinson–Purbhoo explicitly identify Corollary 1.4 as a special case of Mukhin–Tarasov’s lower-bound theorem. Their character-orientation proof is retained as the verification source.",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": []
+}

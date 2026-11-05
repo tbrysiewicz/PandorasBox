@@ -1,0 +1,36 @@
+{
+  "result_id": "R_88f33005899236cab143082dee3a4302a4ef5c2fa121dc318123213c33b8b51c",
+  "problem_id": "P_rational_plane_curves",
+  "question_id": "Q9",
+  "statement": "For general k-rational point constraints, the quadratically enriched counts in degrees three and four are respectively 2H + 8⟨1⟩ and 190H + 240⟨1⟩.",
+  "answer": {
+    "text": "d=3: 2H + 8⟨1⟩; d=4: 190H + 240⟨1⟩",
+    "display": "d=3: 2H + 8⟨1⟩; d=4: 190H + 240⟨1⟩",
+    "relation": "equal",
+    "ring": "GW(k)",
+    "field": "k perfect; characteristic zero or characteristic greater than 4",
+    "qualification": "Specializations d=3 and d=4 only; all 3d−1 point conditions k-rational; H=⟨1⟩+⟨−1⟩."
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "jaramillo_pauli_2023_correspondence",
+    "kass_levine_solomon_wickelgren_2023_rational_curves"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/2502.02569v4",
+    "location": "Setting 1.1; Theorems 1.2 and 1.3; Section 11.1, Table 4, p. 74",
+    "version": "arXiv:2502.02569v4 (30 June 2026)"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_88f33005899236cab143082dee3a4302a4ef5c2fa121dc318123213c33b8b51c"
+  },
+  "headline": false,
+  "scope": "Degree-three and degree-four members of the rational-plane-curve family.",
+  "notes": "Ranks recover 12 and 620. Over R the signatures recover 8 and 240; these are signed counts.\n\nFor the all-k-rational point constraints used here, the underlying enriched correspondence is Jaramillo Puentes–Pauli (arXiv:2309.11706). The later four-author papers explicitly credit that case; their new extension-point results are not needed for this record. Displayed numerical specializations and the rank/signature deduction remain as stated."
+}

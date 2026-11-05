@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_smooth_plane_quartic_characteristic_numbers",
+  "question_id": "Q5",
+  "statement": "With one line tangency and 13 point conditions, the exact real spectrum is {0,2,4,6}.",
+  "answer": {
+    "text": "{0,2,4,6}",
+    "display": "k=1: {0,2,4,6}",
+    "relation": "partial"
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "ronga_2000_real_riemann_hurwitz"
+  ],
+  "source": {
+    "url": "https://www.maths.tcd.ie/EMIS/journals/em/docs/boletim/vol312/v31-2-a5-2000.pdf",
+    "location": "§5, Proposition 6; §2 complex count (printed pp.176–177,185)",
+    "version": "Published article (2000), 13-page PDF"
+  },
+  "scope": "Smooth irreducible degree-4 plane curves; all incidence points and lines real and general.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "Proposition 6 realizes every even count from 0 to 2(d−1). Conjugation and the complex count exclude other values.",
+  "result_id": "R_748bbb0c5e13b21de3d754753394bf1a06132cc5431738172c476211ff885ff5"
+}

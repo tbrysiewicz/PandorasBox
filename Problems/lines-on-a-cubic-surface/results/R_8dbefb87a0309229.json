@@ -12,7 +12,8 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "klein_1873_cubic_surfaces"
+    "klein_1873_cubic_surfaces",
+    "schlafli_1858_cubic_lines"
   ],
   "source": {
     "url": "https://gdz.sub.uni-goettingen.de/download/pdf/PPN235181684_0006/LOG_0040.pdf",
@@ -20,7 +21,7 @@
     "version": "Original Mathematische Annalen 6(1873),551–581; GDZ article scan LOG_0040"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
   "origin": {
@@ -28,5 +29,5 @@
     "original_result_id": "R_8dbefb87a0309229"
   },
   "scope": "Nonsingular real cubic surfaces obtained by smoothing the real four-node cubic in Klein’s construction.",
-  "notes": "The paragraph also displays 15,7,3,3 for the other types. No chamber-connectedness result is catalogued from the historical deformation argument in this pass."
+  "notes": "The paragraph also displays 15,7,3,3 for the other types. No chamber-connectedness result is catalogued from the historical deformation argument in this pass.\n\nKlein explicitly credits Schläfli for the five real-line types. Klein remains cited for the geometric deformation/topological description included in this record."
 }

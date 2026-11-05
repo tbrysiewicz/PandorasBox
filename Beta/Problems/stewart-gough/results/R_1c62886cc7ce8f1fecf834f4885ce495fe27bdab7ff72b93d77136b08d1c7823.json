@@ -11,7 +11,8 @@
     "relation": "equal"
   },
   "reference_ids": [
-    "hauenstein_2018_exceptional_stewart"
+    "hauenstein_2018_exceptional_stewart",
+    "raghavan_1993_stewart"
   ],
   "source": {
     "url": "https://academicweb.nd.edu/~jhauenst/preprints/hswStewartGough.pdf",
@@ -22,10 +23,10 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Special mechanisms can have fewer isolated configurations or positive-dimensional fibres. The degree assertion is tied to the augmented embedding and the justified generic leg sections.\n\nImported from the 2026-10-26 catalogue record R_0ad13c45c454067e; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Special mechanisms can have fewer isolated configurations or positive-dimensional fibres. The degree assertion is tied to the augmented embedding and the justified generic leg sections.\n\nImported from the 2026-10-26 catalogue record R_0ad13c45c454067e; the source claim has not been newly rechecked against the paper for this beta import.\n\nThe generic40-configuration count is an earlier result of Raghavan and other cited authors, as the introduction states. Hauenstein–Sherman–Wampler remain cited for the specified kinematic embedding and its general degree theorem.",
   "scope": "General spatial Stewart–Gough six-leg geometry, with each leg condition expressed as a hyperplane in the augmented SE_3 embedding.",
   "result_id": "R_1c62886cc7ce8f1fecf834f4885ce495fe27bdab7ff72b93d77136b08d1c7823"
 }

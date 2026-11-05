@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_smooth_plane_conics_3_points_2_tangencies",
+  "question_id": "Q4",
+  "statement": "The maximum real solution count is 4; total reality is attained.",
+  "answer": {
+    "count": 4,
+    "display": "4",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "bertrand_brugalle_mikhalkin_2014_characteristic"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/1105.2004v4",
+    "location": "Proposition 7.3, with all constraint degrees equal to 1; complex upper bound from Bashelor–Ksir–Traves, Table 2",
+    "version": "arXiv:1105.2004v4 (12 March 2013)"
+  },
+  "scope": "Smooth real conics; 3 general points and 2 general lines.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "Specialize Proposition 7.3 to k=3 and 2 line constraints.\n\nThe explicit total-reality theorem/specialization is associated with Bertrand–Brugallé–Mikhalkin. Bashelor–Ksir–Traves is an expository verification source for the complex upper bound.",
+  "result_id": "R_11739091bfd70567908419232880b5acd341eceda2283a5973c6f5de30f40a0e"
+}

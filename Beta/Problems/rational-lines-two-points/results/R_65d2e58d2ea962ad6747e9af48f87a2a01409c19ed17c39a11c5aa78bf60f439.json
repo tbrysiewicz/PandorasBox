@@ -1,0 +1,31 @@
+{
+  "problem_id": "P_rational_lines_two_points",
+  "question_id": "Q9",
+  "statement": "Over a field k of characteristic zero, the quadratically enriched count of degree-1 rational plane curves through 2 general k-rational points is ⟨1⟩ in GW(k).",
+  "answer": {
+    "text": "⟨1⟩ in GW(k)",
+    "display": "⟨1⟩",
+    "expression": "⟨1⟩ ∈ GW(k)",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "kass_levine_solomon_wickelgren_2023_rational_curves"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/2307.01936v2",
+    "location": "Section 8.2 and Table 1, printed pages 56–57; characteristic-zero setup in Section 1.2.1",
+    "version": "arXiv:2307.01936v2 (28 February 2026), primary PDF inspected 4 November 2026"
+  },
+  "scope": "Degree-1 irreducible rational plane curves with 2 general k-rational point conditions, in characteristic zero.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "The source permits more general prescribed residue-field extensions; the displayed specialization is sufficient for this problem. The unique solution is smooth and its local arithmetic mass is ⟨1⟩.",
+  "result_id": "R_65d2e58d2ea962ad6747e9af48f87a2a01409c19ed17c39a11c5aa78bf60f439"
+}

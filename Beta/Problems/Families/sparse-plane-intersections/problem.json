@@ -7,10 +7,12 @@
   "parameters": {},
   "reference_ids": [
     "cattani_2011_mixed",
-    "dickenstein_2013_plane"
+    "dickenstein_2013_plane",
+    "bernshtein_1975_roots",
+    "esterov_2018_galois"
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

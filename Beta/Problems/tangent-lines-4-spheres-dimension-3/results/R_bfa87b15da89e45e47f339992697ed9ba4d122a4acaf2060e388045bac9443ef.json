@@ -1,0 +1,30 @@
+{
+  "result_id": "R_bfa87b15da89e45e47f339992697ed9ba4d122a4acaf2060e388045bac9443ef",
+  "problem_id": "P_tangent_lines_4_spheres_dimension_3",
+  "question_id": "Q3",
+  "statement": "The minimum number of real common tangent lines to four spheres in R^3 is zero.",
+  "answer": {
+    "display": "0",
+    "count": 0,
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "sottile_2001_sphere_tangents"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/math/0105180v2",
+    "location": "Elementary strict-containment deduction; finite generic affine problem: Introduction and Theorem 2(a), printed pp.1–2",
+    "version": "arXiv:math/0105180v2, 16 May 2002; freshly inspected 4 November 2026"
+  },
+  "scope": "Unrestricted positive-radius Euclidean spheres, with regular generic finite complex tangent fibre; no equal-radius or pairwise-disjoint-ball restriction.",
+  "notes": "Put one closed ball strictly inside another, with centre distance strictly less than the difference of the radii. A line tangent to the inner sphere enters the interior of the outer ball and therefore cannot be tangent to the outer sphere. Strict containment persists under small perturbation; choosing a generic configuration in this open set gives a regular fibre with no real common tangent. This elementary deduction does not apply to the equal-radius subfamily used in all-real constructions. For n=2 the same proof is about the existing two-circle instance; the 3·2^(n−1) degree formula is not applied there.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": []
+}

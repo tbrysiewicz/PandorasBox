@@ -10,7 +10,9 @@
     "relation": "equal"
   },
   "reference_ids": [
-    "aluffi_1991_singular_cubics"
+    "aluffi_1991_singular_cubics",
+    "maillard_1871_cubic_characteristics",
+    "zeuthen_1872_cubic_characteristics"
   ],
   "source": {
     "url": "https://www.math.fsu.edu/~aluffi/papers/1988TegopcIInacc.pdf",
@@ -21,10 +23,10 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Use the proper counts in Theorem III, not the different weighted counts in Proposition3.1. A tangent line through the node does not satisfy a proper tangency.\n\nImported from the 2026-10-26 catalogue record R_a0c591078940bd8c; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Use the proper counts in Theorem III, not the different weighted counts in Proposition 3.1. A tangent line through the node does not satisfy a proper tangency.\n\nImported from the 2026-10-26 catalogue record R_a0c591078940bd8c; the source claim has not been newly rechecked against the paper for this beta import.\n\nAluffi explicitly identifies these characteristic numbers as classical results of Maillard and Zeuthen. Those original claims and Aluffi’s rigorous verification are both cited; the modern proof is not presented as the first numerical claim. Any singleton real or monodromy assertion here is a deduction from the count.",
   "scope": "Irreducible plane cubics with one ordinary node through 8−k general points and properly tangent at smooth points to k general lines.",
   "result_id": "R_4020ede577cff352e97ae601cab8d0d6e23218846689152940a5d71734474e11"
 }

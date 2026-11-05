@@ -1,0 +1,32 @@
+{
+  "problem_id": "P_cuspidal_cubics_seven_points",
+  "question_id": "Q1",
+  "statement": "There are 24 irreducible cuspidal plane cubics through seven general complex points.",
+  "answer": {
+    "count": 24,
+    "display": "24",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "aluffi_1991_singular_cubics",
+    "maillard_1871_cubic_characteristics",
+    "zeuthen_1872_cubic_characteristics"
+  ],
+  "source": {
+    "url": "https://www.math.fsu.edu/~aluffi/papers/1988TegopcIInacc.pdf",
+    "location": "Proposition 1.2; Theorem III, column C and row k=0 (printed p.22)",
+    "version": "Author-hosted 30-page preprint; published 1991"
+  },
+  "scope": "Irreducible cuspidal plane cubics over C; seven general points.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "result_id": "R_74d55269397ed09b7b51c9260020337a55e5b36746af7f8e6c8d5196517ea548",
+  "notes": "Aluffi explicitly identifies these characteristic numbers as classical results of Maillard and Zeuthen. Those original claims and Aluffi’s rigorous verification are both cited; the modern proof is not presented as the first numerical claim. Any singleton real or monodromy assertion here is a deduction from the count."
+}

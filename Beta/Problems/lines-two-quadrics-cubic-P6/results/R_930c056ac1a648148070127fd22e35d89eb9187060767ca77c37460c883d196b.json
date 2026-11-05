@@ -11,7 +11,7 @@
     "relation": "equal"
   },
   "reference_ids": [
-    "yahl_2022_fano_galois"
+    "debarre_manivel_1998_fano"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2209.07010",
@@ -22,10 +22,10 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "The degree formula is credited to Debarre–Manivel. General complete intersections have a reduced finite Fano scheme; special fibres require multiplicity and dimension qualifications.\n\nImported from the 2026-10-26 catalogue record R_8f93bddcdab606ab; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "The degree formula is credited to Debarre–Manivel. General complete intersections have a reduced finite Fano scheme; special fibres require multiplicity and dimension qualifications.\n\nImported from the 2026-10-26 catalogue record R_8f93bddcdab606ab; the source claim has not been newly rechecked against the paper for this beta import.\n\nThe degree formula is Debarre–Manivel, Theorem 4.3; Yahl’s Theorem 2 and numerical table reproduce it. Yahl’s new monodromy results are separately credited to Yahl.",
   "scope": "Projective 1-planes contained in a general smooth complete intersection of multidegree (2,2,3) in complex P^6.",
   "result_id": "R_930c056ac1a648148070127fd22e35d89eb9187060767ca77c37460c883d196b"
 }

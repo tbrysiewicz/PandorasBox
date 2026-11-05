@@ -10,10 +10,12 @@
     "kontsevich_1994_gw",
     "itenberg_2003_real_rational",
     "welschinger_2003_invariants",
-    "fomin_2009_labeled_floors"
+    "fomin_2009_labeled_floors",
+    "jaramillo_markwig_pauli_rohrle_2025_enriched_plane",
+    "jaramillo_markwig_pauli_rohrle_2023_arithmetic_curves"
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

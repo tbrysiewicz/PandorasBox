@@ -1,0 +1,32 @@
+{
+  "problem_id": "P_smooth_plane_quartics_13_points_1_tangencies",
+  "question_id": "Q4",
+  "statement": "The sharp maximum real solution count is 6.",
+  "answer": {
+    "count": 6,
+    "display": "6",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "ronga_2000_real_riemann_hurwitz"
+  ],
+  "source": {
+    "url": "https://www.maths.tcd.ie/EMIS/journals/em/docs/boletim/vol312/v31-2-a5-2000.pdf",
+    "location": "§4, Theorem; §5, Proposition 6 (printed pp.183–185)",
+    "version": "Published article (2000), 13-page PDF"
+  },
+  "scope": "Smooth irreducible degree-4 plane curves; all incidence points and lines real and general.",
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_smooth_plane_quartic_characteristic_numbers",
+    "original_result_id": "R_27af1ec2e1ccda1ef1572bb5559911934cb4be40dceb03511708541a165cfbab",
+    "inheritance_basis": "Set degree n=4 and use one tangent-line condition."
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "result_id": "R_723e11d083bca13430d94e4a6b52e0c3a223638808f5a0c1fd1b5eb1f2b03da1"
+}

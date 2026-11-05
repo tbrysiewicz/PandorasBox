@@ -1,0 +1,35 @@
+{
+  "problem_id": "P_rational_plane_curves",
+  "question_id": "Q9",
+  "statement": "For all 3d−1 point conditions k-rational over a characteristic-zero field k, the quadratically enriched count of irreducible rational degree-d plane curves is ((N_d−W_d)/2)H+W_d⟨1⟩ in GW(k). Here N_d is the ordinary complex rational-curve count, W_d is the Welschinger signed count with all constraints real, and H=⟨1⟩+⟨−1⟩.",
+  "answer": {
+    "text": "((N_d−W_d)/2)H+W_d⟨1⟩ in GW(k)",
+    "display": "((N_d−W_d)/2)H+W_d⟨1⟩",
+    "expression": "((N_d−W_d)/2)H+W_d⟨1⟩ ∈ GW(k)",
+    "relation": "equal",
+    "ring": "GW(k)",
+    "field": "k of characteristic zero",
+    "qualification": "All 3d−1 incidence conditions are k-rational; the formula is an explicit deduction from enriched tropical multiplicities and the correspondence theorem."
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "jaramillo_pauli_2023_correspondence"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/2309.12586v2",
+    "location": "Definitions2.10/2.18 and Theorems2.11/2.19; characteristic-zero algebraic correspondence and specialization s=0 also in arXiv:2502.02569v4, Theorem1.2 and Proposition5.3",
+    "version": "arXiv:2309.12586v2 (23 September 2024), with arXiv:2502.02569v4 (30 June 2026), primary PDFs inspected 4 November 2026"
+  },
+  "scope": "Irreducible rational plane curves of any degree d through 3d−1 general k-rational point conditions, where k has characteristic zero.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "headline": false,
+  "notes": "Explicit deduction rather than a displayed closed formula quoted from either paper. With all tropical ends of weight one, Definition2.18 makes each arithmetic multiplicity an integer combination of ⟨1⟩ and ⟨−1⟩, whose rank is the complex multiplicity and whose signature after specialization to R is the real multiplicity. Summing therefore gives coefficients (N_d+W_d)/2 and (N_d−W_d)/2 on ⟨1⟩ and ⟨−1⟩, respectively. The integer coefficients are universal combinatorial coefficients, so the same expression holds over every characteristic-zero base field. The enriched correspondence theorem identifies the tropical count with the algebraic one. This strengthens but preserves the separate directly tabulated d=3,4 result. It does not supply formulas for N_d,W_d by itself, nor make an unsigned real-minimum claim.\n\nFor the all-k-rational point constraints used here, the underlying enriched correspondence is Jaramillo Puentes–Pauli (arXiv:2309.11706). The later four-author papers explicitly credit that case; their new extension-point results are not needed for this record. Displayed numerical specializations and the rank/signature deduction remain as stated.",
+  "result_id": "R_e0c2c8070110202775b1e6cd9cc842a88867472575c9f1e0bd4966f4172fe710"
+}

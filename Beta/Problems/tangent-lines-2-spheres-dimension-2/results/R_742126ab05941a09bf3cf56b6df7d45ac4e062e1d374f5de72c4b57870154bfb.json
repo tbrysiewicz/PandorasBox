@@ -1,0 +1,32 @@
+{
+  "result_id": "R_742126ab05941a09bf3cf56b6df7d45ac4e062e1d374f5de72c4b57870154bfb",
+  "problem_id": "P_tangent_lines_2_spheres_dimension_2",
+  "question_id": "Q5",
+  "statement": "For two ordinary real circles with positive radii at regular parameters, the attainable numbers of real common affine tangents are exactly 0, 2, and 4.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "values": [
+      0,
+      2,
+      4
+    ],
+    "display": "{0,2,4}",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "sottile_2001_sphere_tangents"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/math/0105180",
+    "location": "Elementary circle-geometry specialization of the n=2 problem in the introduction"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "For center distance d and radii r1,r2: d<|r1-r2| gives 0; |r1-r2|<d<r1+r2 gives 2; d>r1+r2 gives 4. Equalities are excluded because tangents merge. No unoriented tangent is counted twice.\n\nThis n=2 assertion is an elementary classical two-circle calculation, included here as a deduction; it is not attributed as a new theorem of Sottile–Theobald, whose general-dimensional theorem assumes n≥3."
+}

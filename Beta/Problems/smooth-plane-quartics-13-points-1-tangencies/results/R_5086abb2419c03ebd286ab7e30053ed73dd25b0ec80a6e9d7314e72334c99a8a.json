@@ -1,0 +1,32 @@
+{
+  "problem_id": "P_smooth_plane_quartics_13_points_1_tangencies",
+  "question_id": "Q5",
+  "statement": "The exact real solution spectrum is {0,2,4,6}.",
+  "answer": {
+    "text": "{0,2,4,6}",
+    "display": "{0,2,4,6}",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "ronga_2000_real_riemann_hurwitz"
+  ],
+  "source": {
+    "url": "https://www.maths.tcd.ie/EMIS/journals/em/docs/boletim/vol312/v31-2-a5-2000.pdf",
+    "location": "§5, Proposition 6 (printed p.185)",
+    "version": "Published article (2000), 13-page PDF"
+  },
+  "scope": "Smooth irreducible degree-4 plane curves; all incidence points and lines real and general.",
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_smooth_plane_quartic_characteristic_numbers",
+    "original_result_id": "R_748bbb0c5e13b21de3d754753394bf1a06132cc5431738172c476211ff885ff5",
+    "inheritance_basis": "Set n=4; r=0,…,3."
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "result_id": "R_5086abb2419c03ebd286ab7e30053ed73dd25b0ec80a6e9d7314e72334c99a8a"
+}

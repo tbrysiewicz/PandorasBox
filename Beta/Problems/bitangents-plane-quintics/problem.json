@@ -9,10 +9,12 @@
   },
   "reference_ids": [
     "cayley_1859_double_tangents",
-    "plucker_1834_curve_formula"
+    "plucker_1834_curve_formula",
+    "harris_1979_enumerative_galois",
+    "zhan_2020_k3_monodromy"
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

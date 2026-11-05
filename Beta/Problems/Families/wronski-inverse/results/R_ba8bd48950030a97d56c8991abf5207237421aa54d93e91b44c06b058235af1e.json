@@ -21,10 +21,10 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Finiteness excludes positive-dimensional fibres, but does not assert reducedness or identify the branch locus. The preprint is dated 16 October 2026. Migration: Merge exceptional-fibre behaviour into Exceptional locus; preserve each source result separately.\n\nImported from the 2026-10-26 catalogue record R_c37045e96fc70ad9; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Finiteness excludes positive-dimensional fibres, but does not assert reducedness or identify the branch locus. The preprint is dated 16 October 2026. Migration: Merge exceptional-fibre behaviour into Exceptional locus; preserve each source result separately.\n\nImported from the 2026-10-26 catalogue record R_c37045e96fc70ad9; the source claim has not been newly rechecked against the paper for this beta import.\n\nThe paper credits Laksov 1984 for the Wronski morphism and Purbhoo for the complex root-multiplicity description; its propositions supply the stated formulation over the indicated characteristic range. This record is not a claim of a new complex Wronski degree or a new complex Schubert multiplicity formula.",
   "scope": "Inverse Wronski problem Wr:Gr(d,C[z]≤n−1)→P(C[z]≤d(n−d)); real-root, Schubert-cell and cyclic-fixed restrictions are recorded separately.",
   "result_id": "R_ba8bd48950030a97d56c8991abf5207237421aa54d93e91b44c06b058235af1e"
 }

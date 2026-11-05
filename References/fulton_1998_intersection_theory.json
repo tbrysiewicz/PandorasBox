@@ -1,0 +1,14 @@
+{
+  "reference_id": "fulton_1998_intersection_theory",
+  "title": "Intersection Theory, second edition",
+  "authors": [
+    "William Fulton"
+  ],
+  "year": "1998",
+  "venue": "Ergebnisse der Mathematik und ihrer Grenzgebiete 2, Springer",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "Example 14.7.7(c) is the standard classical common-secant computation cited by Aslam et al.; this is a standard exposition, not an assertion of first discovery."
+}

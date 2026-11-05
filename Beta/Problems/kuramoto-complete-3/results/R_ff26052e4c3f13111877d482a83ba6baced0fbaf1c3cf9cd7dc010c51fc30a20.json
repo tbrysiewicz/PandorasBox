@@ -1,21 +1,22 @@
 {
   "problem_id": "P_kuramoto_complete_3",
   "question_id": "Q1",
-  "statement": "For 3 oscillators with generic frequencies and generic nonzero symmetric complete-graph couplings, the complex solution count after fixing one phase is the normalized lattice volume of conv{±(e_i-e_j): 0≤i<j≤2}, with e_0=0.",
+  "statement": "For 3 oscillators with generic frequencies and generic symmetric complete-graph couplings, the complex count after fixing one phase is 6 = binom(4,2).",
   "answer": {
-    "formula": "Vol_Z conv{±(e_i-e_j):0≤i<j≤2}, e_0=0",
-    "display": "Polytope volume",
+    "count": 6,
+    "display": "6",
     "relation": "equal"
   },
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "chen_2022_typical_atypical"
+    "chen_2022_typical_atypical",
+    "baillieul_byrnes_1982_power_flow"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2210.00784v3",
-    "location": "Theorem 3.5, PDF p. 7; Corollary 3.6, PDF p. 9",
-    "version": "arXiv:2210.00784v3"
+    "location": "Theorem 3.5, printed pp.7–8; Table 3.1, complete-network row, printed p.10",
+    "version": "arXiv:2210.00784v3, 25 September 2024; inspected 2026-11-04"
   },
   "origin": {
     "kind": "inherited",
@@ -24,8 +25,9 @@
     "inheritance_basis": "Apply the theorem to the complete graph on 3 vertices, with one vertex fixed as the reference phase."
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "result_id": "R_ff26052e4c3f13111877d482a83ba6baced0fbaf1c3cf9cd7dc010c51fc30a20"
+  "result_id": "R_ff26052e4c3f13111877d482a83ba6baced0fbaf1c3cf9cd7dc010c51fc30a20",
+  "notes": "Direct evaluation of the complete-graph adjacency-polytope volume formula.\n\nThe complete-network binomial count is credited to Baillieul–Byrnes in Chen–Korchevskaia–Lindberg. The latter remains cited for its explicit genericity theorem with symmetric couplings; the general graph theorem is a separate result."
 }

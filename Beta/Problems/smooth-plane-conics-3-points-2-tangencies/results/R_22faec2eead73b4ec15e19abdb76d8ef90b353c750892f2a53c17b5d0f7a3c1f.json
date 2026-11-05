@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_smooth_plane_conics_3_points_2_tangencies",
+  "question_id": "Q1",
+  "statement": "The generic complex solution count is 4.",
+  "answer": {
+    "count": 4,
+    "display": "4",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "chasles_1864_conic_counts"
+  ],
+  "source": {
+    "url": "https://www.usna.edu/Users/math/traves/_files/documents/Bashelor.pdf",
+    "location": "§3.3–3.4; §4.3 and Table 2",
+    "version": "Author-hosted published article (2008)"
+  },
+  "scope": "Smooth complex conics; 3 general points and 2 general lines.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "result_id": "R_22faec2eead73b4ec15e19abdb76d8ef90b353c750892f2a53c17b5d0f7a3c1f",
+  "notes": "These are classical conic characteristic numbers. Bashelor–Ksir–Traves explicitly state that their paper is expository and its results are not new; their Bézout/duality derivation is retained in the source for verification."
+}

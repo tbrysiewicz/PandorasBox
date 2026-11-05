@@ -1,0 +1,29 @@
+{
+  "problem_id": "P_five_point_essential_matrices",
+  "question_id": "Q4",
+  "statement": "Numerical experiments exhibit ten distinct physically valid five-point solutions.",
+  "answer": {
+    "display": "10 (numerical attainment)",
+    "relation": "at_least",
+    "lower_bound": 10
+  },
+  "status": "partial",
+  "evidence": "numerical_evidence",
+  "reference_ids": [
+    "nister_2003_five_point"
+  ],
+  "source": {
+    "url": "https://www-users.cse.umn.edu/~hspark/CSci5980/nister.pdf",
+    "location": "Introduction and Section 3 for generic degree10; Table 2 caption, PDF p. 6, for ten distinct physically valid numerical solutions (not Figure 3).",
+    "version": "Source inspected 2026-11-04"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "The paper reports well-separated solutions, without an exact numerical certificate. The complex degree gives upper bound 10.",
+  "result_id": "R_878ad6c39a821a8e721a95324e8cfd3c10a8f0437cccfeb1d757f94bf41fbffc"
+}

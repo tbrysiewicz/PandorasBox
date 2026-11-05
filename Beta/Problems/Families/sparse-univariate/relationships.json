@@ -1,7 +1,19 @@
 {
-  "relationships": [],
+  "relationships": [
+    {
+      "relation_id": "P_sparse_univariate__subfamily_of__P_sparse_fixed_support",
+      "source_problem_id": "P_sparse_univariate",
+      "target_problem_id": "P_sparse_fixed_support",
+      "relation_type": "subfamily_of",
+      "relation_statement": "Set the number of variables and equations to one, with support equal to the given exponent set. Laurent monomial factors are units on C*, so removing them preserves precisely the recorded nonzero roots.",
+      "evidence_location": "The two stored descriptors; direct specialization to one equation on C*.",
+      "supporting_source_url": "https://arxiv.org/pdf/1801.08260",
+      "inheritance_policy": "No automatic inheritance. A result may be transferred only after explicitly checking its hypotheses, parameter specialization, solution convention and genericity.",
+      "caveats": "Zero roots of a polynomial are excluded in both problems. Keep generic nonzero extremal coefficients and support-lattice hypotheses when transferring monodromy results."
+    }
+  ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

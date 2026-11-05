@@ -1,0 +1,31 @@
+{
+  "problem_id": "P_singular_plane_degree_2_pencil",
+  "question_id": "Q1",
+  "statement": "A general pencil of degree-2 plane curves has exactly 3 singular members, each counted once.",
+  "answer": {
+    "count": 3,
+    "display": "3",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "boole_1842_linear_transformations",
+    "gelfand_kapranov_zelevinsky_1994_discriminants"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/0906.3828v4",
+    "location": "Figure 2, d=2, δ=1; definition of Severi degrees immediately following the figure, printed page 7",
+    "version": "arXiv:0906.3828v4 (18 January 2010), primary PDF inspected 4 November 2026"
+  },
+  "scope": "Singular members of a general projective pencil in the full space of degree-2 plane curves.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "The three singular conics are unions of two distinct lines. This is a discriminant count and includes reducible conics. A general pencil is determined by four general base points; each partition of the four points into two pairs gives one singular conic.\n\nThis is the degree-two specialization of the classical homogeneous-discriminant formula, attributed to Boole. Fomin–Mikhalkin Figure 2 is retained as a verification source, not the origin of this count.",
+  "result_id": "R_9779c9f3d69c6f68581fd294cb5a80ab7fa656286802e7583a401ef595ad790f"
+}

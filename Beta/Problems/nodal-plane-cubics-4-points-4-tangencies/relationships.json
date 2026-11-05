@@ -6,17 +6,10 @@
       "relation_type": "instance_of",
       "relation_statement": "Nodal irreducible plane cubics through 4 general points and tangent at smooth points to 4 general lines.",
       "inheritance_policy": "Only explicitly recorded source specializations are inherited."
-    },
-    {
-      "source_problem_id": "P_nodal_plane_cubics_4_points_4_tangencies",
-      "target_problem_id": "P_plane_curve_characteristic_numbers",
-      "relation_type": "instance_of",
-      "relation_statement": "Nodal irreducible plane cubics through 4 general points and tangent at smooth points to 4 general lines.",
-      "inheritance_policy": "Only explicitly recorded source specializations are inherited."
     }
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

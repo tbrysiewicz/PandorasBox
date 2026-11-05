@@ -1,0 +1,31 @@
+{
+  "problem_id": "P_rational_cubics_eight_points",
+  "question_id": "Q9",
+  "statement": "Over a field k of characteristic zero, the quadratically enriched count of rational plane cubics through a general point configuration with prescribed finite separable residue fields σ=(L1,…,Lr), of total degree eight, is 2h+Σ_i Tr_(Li/k)⟨1⟩ in GW(k). For eight k-rational points this is 2h+8⟨1⟩, of rank12 and real signature8.",
+  "answer": {
+    "text": "2h+Σ_i Tr_(Li/k)⟨1⟩ in GW(k); 2h+8⟨1⟩ for eight k-rational points",
+    "display": "2h+Tr_(σ/k)⟨1⟩",
+    "expression": "2h+Tr_(σ/k)⟨1⟩ ∈ GW(k)",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "kass_levine_solomon_wickelgren_2023_rational_curves"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/2307.01936v2",
+    "location": "Section 8.2 and Table 1, printed pages 56–57; characteristic-zero setup in Section 1.2.1",
+    "version": "arXiv:2307.01936v2 (28 February 2026), primary PDF inspected 4 November 2026"
+  },
+  "scope": "Quadratically enriched count of irreducible rational plane cubics with eight geometric point conditions grouped into prescribed finite separable residue fields of total degree eight, over characteristic-zero k.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "The original enriched cubic formula is computed in Kass–Levine–Solomon–Wickelgren §8.2/Table 1. Here h=⟨1⟩+⟨−1⟩ and Tr_(σ/k) is the sum of the residue-field trace forms. The later tropical paper arXiv:2502.02569v4 establishes the correspondence and reproduces the multiquadratic specializations. This updates the source attribution and extends the previously recorded k-rational specialization; it is not a second duplicate result. The characteristic-zero restriction is sufficient for the cited setup.\n\nThe later tropical restatement is retained only as verification; the cubic formula is associated with the original Kass–Levine–Solomon–Wickelgren computation.",
+  "result_id": "R_bb65ef4bad43d12f2d2372476cdce3b958b774c879ebac63818de86cadd649d9"
+}

@@ -1,7 +1,19 @@
 {
-  "relationships": [],
+  "relationships": [
+    {
+      "relation_id": "P_smooth_plane_cubic_characteristic_numbers__subfamily_of__P_plane_curve_characteristic_numbers",
+      "source_problem_id": "P_smooth_plane_cubic_characteristic_numbers",
+      "target_problem_id": "P_plane_curve_characteristic_numbers",
+      "relation_type": "subfamily_of",
+      "relation_statement": "Set d=3, points=9-k and tangencies=k, for 0<=k<=9, and take the open locus of smooth curves. These are the same generic finite point-and-line-tangency problems.",
+      "evidence_location": "Stored descriptors and parameter lists; dimension of the projective space of plane cubics is 9.",
+      "supporting_source_url": "https://doi.org/10.1090/S0002-9947-1990-0972700-4",
+      "inheritance_policy": "No automatic inheritance. A result may be transferred only after explicitly checking its hypotheses, parameter specialization, solution convention and genericity.",
+      "caveats": "For the generic finite count, singular cubics form a lower-dimensional boundary and are excluded. Statements concerning boundary multiplicities or special input configurations require separate analysis."
+    }
+  ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

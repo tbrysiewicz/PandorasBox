@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_five_point_essential_matrices",
+  "question_id": "Q6",
+  "statement": "For five independent uniform correspondences in RP²×RP², the mean real count is (π³/4)E|det(z₁,…,z₅)|, with z=(br sinθ,br cosθ,as sinθ,as cosθ,rs), independent standard normal a,b,r,s and uniform θ∈[0,2π).",
+  "answer": {
+    "display": "(π³/4)E|det(z₁,…,z₅)|",
+    "formula": "(pi^3/4)*E(abs(det(z1,z2,z3,z4,z5)))",
+    "relation": "equal",
+    "distribution": "Five independent pairs of independent uniform points in RP²."
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "breiding_2024_average_essential"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/2212.01596v2",
+    "location": "Theorem 1.3, printed p.2; distribution definition and following discussion pp.2–3",
+    "version": "arXiv:2212.01596v2 (10 November 2023), published 2024"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "The Monte Carlo estimate is about 3.95; its exact evaluation is unknown. The separate Haar-Grassmannian mean 4 concerns a different distribution and is not assigned to these image correspondences.",
+  "result_id": "R_40a4322fdb99fabf24fba38a47caf0cace8b89a6fd0ae04304a82716cdf0b83e"
+}

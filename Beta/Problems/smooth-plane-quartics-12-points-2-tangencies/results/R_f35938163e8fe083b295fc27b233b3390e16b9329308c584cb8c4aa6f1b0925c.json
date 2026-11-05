@@ -1,0 +1,32 @@
+{
+  "problem_id": "P_smooth_plane_quartics_12_points_2_tangencies",
+  "question_id": "Q4",
+  "statement": "The sharp maximum real solution count is 36; total reality is attained.",
+  "answer": {
+    "count": 36,
+    "display": "36",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "bertrand_2008_real_zeuthen_two_lines"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/0710.1095v1",
+    "location": "Theorem 1; §2.2 (printed pp.2,5–6)",
+    "version": "arXiv:0710.1095v1 (4 October 2007)"
+  },
+  "scope": "Smooth irreducible degree-4 plane curves; all incidence points and lines real and general.",
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_smooth_plane_quartic_characteristic_numbers",
+    "original_result_id": "R_27af1ec2e1ccda1ef1572bb5559911934cb4be40dceb03511708541a165cfbab",
+    "inheritance_basis": "Set degree d=4, with two lines and 12 points."
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "result_id": "R_f35938163e8fe083b295fc27b233b3390e16b9329308c584cb8c4aa6f1b0925c"
+}

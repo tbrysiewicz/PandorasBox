@@ -1,0 +1,31 @@
+{
+  "problem_id": "P_kuramoto_rank_one_5",
+  "question_id": "Q3",
+  "statement": "For 5 oscillators, the minimum real equilibrium count is zero.",
+  "answer": {
+    "count": 0,
+    "display": "0",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "coss_2017_rank_one_kuramoto"
+  ],
+  "source": {
+    "url": "https://molzahn.github.io/pubs/coss_hauenstein_hoon_molzahn-kuramoto2017.pdf",
+    "location": "Equation (3); elementary bound |ω_i| ≤ k_i sum_{j≠i}k_j/n",
+    "version": "Source inspected 2026-11-04"
+  },
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_kuramoto_rank_one",
+    "original_result_id": "R_a171a7b46ea5768809e61676c51aba9ff2079ee43b014ac3d5e8bf520d05f9be",
+    "inheritance_basis": "Set n=5; violate the displayed necessary bound using zero-sum frequencies."
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "result_id": "R_0d18b817c6d10772d266a5056216e173a37f8e77500debf063b4835ac69e357e"
+}

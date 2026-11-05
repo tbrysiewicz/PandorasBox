@@ -1,0 +1,32 @@
+{
+  "result_id": "R_ecc241d884194c61ae06de91cd5d11fc000e46598ba6b1bc7a5509a233a5b763",
+  "problem_id": "P_schubert_four_lines_p3",
+  "question_id": "Q9",
+  "statement": "For four general individually F-defined lines in P^3 over a field F of characteristic different from two, the arithmetic count is Σ_L Tr_(F(L)/F)⟨λ_L−μ_L⟩ = ⟨1⟩+⟨−1⟩ in GW(F). Here λ_L is the cross-ratio of the four intersection points on L and μ_L is the cross-ratio of the four planes spanned by L and the input lines, with the same ordering.",
+  "answer": {
+    "display": "H=⟨1⟩+⟨−1⟩",
+    "expression": "Σ_L Tr_(F(L)/F)⟨λ_L−μ_L⟩ = H",
+    "ring": "GW(F)",
+    "field": "char(F) ≠ 2",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "srinivasan_2021_four_lines_arithmetic"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1810.03503v3",
+    "location": "Theorem 1 and its definitions (printed p.2); real-signature consequence on p.3; proof in Section 6",
+    "version": "arXiv:1810.03503v3, 6 November 2020; published Trans. AMS 374 (2021), 3427–3451"
+  },
+  "scope": "Four ordered, individually F-defined, pairwise skew lines, with the fourth transverse to the quadric ruled by transversals of the first three; char(F)≠2.",
+  "notes": "The sum is over closed solution lines, using the field trace transfer of quadratic forms. The rank recovers two geometric transversals. Over R the signature is zero, so the two real solutions, when present, carry opposite local signs. The more general Galois-invariant input set in the appendix is not asserted here. The introductory theorem and its definitions were directly inspected; the full proof and appendix were not fully checked.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": []
+}

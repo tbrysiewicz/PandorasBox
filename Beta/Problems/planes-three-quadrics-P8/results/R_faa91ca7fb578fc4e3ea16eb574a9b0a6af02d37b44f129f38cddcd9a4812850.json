@@ -1,0 +1,29 @@
+{
+  "result_id": "R_faa91ca7fb578fc4e3ea16eb574a9b0a6af02d37b44f129f38cddcd9a4812850",
+  "problem_id": "P_planes_three_quadrics_P8",
+  "question_id": "Q3",
+  "statement": "The minimum number of real solutions is zero for this finite Fano problem whenever at least one defining hypersurface has even degree; in particular this applies to the recorded types (2,2,3) in P^6 and (2,2,2) in P^8.",
+  "answer": {
+    "display": "0 when some d_j is even",
+    "count": 0,
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "yahl_2022_fano_galois"
+  ],
+  "source": {
+    "url": "https://arxiv.org/abs/2209.07010",
+    "location": "Elementary real-empty-locus deduction; generic finite, reduced Fano setup as in Theorems 1–2"
+  },
+  "scope": "Real general complete intersections of the existing expected-dimension-zero Fano type, with at least one even multidegree entry; real projective r-planes, r≥1.",
+  "notes": "Choose the even-degree equation to be positive definite, for example Σ x_i^(2e). Positive definiteness is a nonempty Euclidean-open condition on homogeneous forms, so it meets the real Zariski-open locus where the complete intersection is smooth and the Fano scheme is reduced and finite. There are then no real points on the complete intersection and hence no real projective r-planes. Zero is the smallest possible count. This is a direct elementary deduction, not a result claimed verbatim in Yahl. It makes no assertion for all-odd multidegrees.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": []
+}

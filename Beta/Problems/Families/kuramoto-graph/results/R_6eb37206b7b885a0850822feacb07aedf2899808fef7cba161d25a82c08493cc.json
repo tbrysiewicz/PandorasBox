@@ -10,7 +10,8 @@
     "relation": "partial"
   },
   "reference_ids": [
-    "chen_2022_typical_atypical"
+    "chen_2022_typical_atypical",
+    "lindberg_2020_real_power_flow"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2210.00784v3",
@@ -21,10 +22,10 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "This extracted example is a concrete subfamily of the broader exceptional-coupling theory; it is not a classification of all graph fibres. Migration: Merge exceptional-fibre behaviour into Exceptional locus; preserve each source result separately.\n\nImported from the 2026-10-26 catalogue record R_e2247ca422025ce1; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "This extracted example is a concrete subfamily of the broader exceptional-coupling theory; it is not a classification of all graph fibres. Migration: Merge exceptional-fibre behaviour into Exceptional locus; preserve each source result separately.\n\nImported from the 2026-10-26 catalogue record R_e2247ca422025ce1; the source claim has not been newly rechecked against the paper for this beta import.\n\nThe all-unit-coupling continuum is credited to Lindberg et al. in the source. The general balancing equation and its construction remain Chen–Korchevskaia–Lindberg’s contribution.",
   "scope": "Connected graph Kuramoto systems with symmetric nonzero couplings; explicitly extracted exceptional family: zero-frequency C4 on edges 01,12,23,30, with θ_0=0.",
   "result_id": "R_6eb37206b7b885a0850822feacb07aedf2899808fef7cba161d25a82c08493cc"
 }

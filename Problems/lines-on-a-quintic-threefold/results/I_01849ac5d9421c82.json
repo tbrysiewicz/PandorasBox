@@ -5773,7 +5773,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "hashimoto_2020_fano_monodromy"
+    "harris_1979_enumerative_galois"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2002.04580v2",
@@ -5781,7 +5781,7 @@
     "version": "arXiv:2002.04580v2 (22 November 2020), full PDF checked"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
   "origin": {
@@ -5791,5 +5791,5 @@
     "inheritance_basis": "Apply the recorded full symmetric monodromy theorem for lines on hypersurfaces of degree greater than three at degree 5 in P⁴, with D4=2875."
   },
   "headline": true,
-  "notes": "The inspected source recalls Harris’s line-hypersurface theorem. Generic geometric monodromy, not a claim for a restricted symmetric subfamily.\n\nAn adjacent transposition and a full cycle generate the natural symmetric group. Labels are abstract solution labels, not a labelling of a particular computed fibre."
+  "notes": "The inspected source recalls Harris’s line-hypersurface theorem. Generic geometric monodromy, not a claim for a restricted symmetric subfamily.\n\nAn adjacent transposition and a full cycle generate the natural symmetric group. Labels are abstract solution labels, not a labelling of a particular computed fibre.\n\nOriginality audit: Harris (1979) is the original attribution. The later Hashimoto–Kadets or Zhan text retained in source is a verification/restatement source, not the original claim. For the n=2 singleton case this record includes an elementary deduction."
 }

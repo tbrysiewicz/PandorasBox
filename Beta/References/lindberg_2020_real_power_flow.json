@@ -1,0 +1,20 @@
+{
+  "reference_id": "lindberg_2020_real_power_flow",
+  "title": "The Distribution of the Number of Real Solutions to the Power Flow Equations",
+  "authors": [
+    "Julia Lindberg",
+    "Alisha Zachariah",
+    "Nigel Boston",
+    "Bernard C. Lesieutre"
+  ],
+  "year": "2023",
+  "url": "https://doi.org/10.1109/TPWRS.2022.3170232",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "preprint_url": "https://arxiv.org/abs/2010.03069",
+  "doi": "10.1109/TPWRS.2022.3170232",
+  "venue": "IEEE Transactions on Power Systems 38(2), 1058–1068",
+  "notes": "First arXiv version posted 6 October 2020; published in volume 38 (2023). Result locators explicitly identify arXiv v1."
+}

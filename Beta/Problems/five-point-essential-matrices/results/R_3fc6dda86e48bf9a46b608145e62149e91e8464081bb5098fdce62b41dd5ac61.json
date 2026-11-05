@@ -1,0 +1,59 @@
+{
+  "problem_id": "P_five_point_essential_matrices",
+  "question_id": "Q2",
+  "statement": "The essential-matrix five-point problem has full symmetric monodromy S10.",
+  "answer": {
+    "display": "S₁₀",
+    "relation": "equal",
+    "group": {
+      "degree": 10,
+      "generators": [
+        [
+          2,
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          1
+        ]
+      ],
+      "description": "S10 in its natural action on the ten projective essential matrices",
+      "lmfdb_url": "https://www.lmfdb.org/GaloisGroup/10T45"
+    }
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "nister_hartley_stewenius_2007_galois"
+  ],
+  "source": {
+    "url": "https://www.margarethregan.com/GaloisMonodromyManuscript.pdf",
+    "location": "Corollary 4.2 and proof, PDF p. 21",
+    "version": "Source inspected 2026-11-04"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "This corollary has a geometric proof. The larger 20- and 40-sheet pose covers have different monodromy.\n\nLMFDB identification: 10T45 in the recorded permutation degree. Standard generating permutations, when newly supplied here, are an abstract relabeling of the proved group action; they are not additional path-tracking data.\n\nDuff et al. explicitly describe Corollary 4.2 as a geometric version of Nistér–Hartley–Stewénius, Section 5. The 2007 paper is the result association; Duff’s geometric proof remains the inspected verification source.",
+  "result_id": "R_3fc6dda86e48bf9a46b608145e62149e91e8464081bb5098fdce62b41dd5ac61"
+}

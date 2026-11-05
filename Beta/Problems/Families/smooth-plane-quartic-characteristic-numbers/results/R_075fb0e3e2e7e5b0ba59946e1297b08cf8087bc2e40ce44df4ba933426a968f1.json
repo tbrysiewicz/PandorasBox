@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_smooth_plane_quartic_characteristic_numbers",
+  "question_id": "Q3",
+  "statement": "With one line tangency and 13 point conditions, the sharp minimum real count is 0.",
+  "answer": {
+    "count": 0,
+    "display": "0 for one tangency",
+    "relation": "partial"
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "ronga_2000_real_riemann_hurwitz"
+  ],
+  "source": {
+    "url": "https://www.maths.tcd.ie/EMIS/journals/em/docs/boletim/vol312/v31-2-a5-2000.pdf",
+    "location": "§5, Proposition 6, including r=n−1 case (printed p.185)",
+    "version": "Published article (2000), 13-page PDF"
+  },
+  "scope": "Smooth irreducible degree-4 plane curves; all incidence points and lines real and general.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "Only the one-tangency member of this family is covered.",
+  "result_id": "R_075fb0e3e2e7e5b0ba59946e1297b08cf8087bc2e40ce44df4ba933426a968f1"
+}

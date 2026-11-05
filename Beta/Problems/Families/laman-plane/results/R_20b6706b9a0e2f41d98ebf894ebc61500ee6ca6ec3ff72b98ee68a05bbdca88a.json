@@ -1,0 +1,29 @@
+{
+  "problem_id": "P_laman_plane",
+  "question_id": "Q8",
+  "statement": "A planar Laman graph on at least two vertices admits a positive-edge-length assignment with a nontrivial continuous real flex if and only if it is not a 2-tree.",
+  "answer": {
+    "display": "Flexible positive-length specializations exist exactly for non-2-trees",
+    "relation": "partial"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "clinch_2026_stable_cuts"
+  ],
+  "source": {
+    "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jgt.70064",
+    "location": "Theorems 1.1 and 1.2",
+    "version": "Source inspected 2026-11-04"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "scope": "Real quasi-injective realizations modulo planar rigid motions: adjacent vertices must be distinct, but nonadjacent vertices may coincide.",
+  "notes": "The new theorem characterizes which graphs have such exceptional fibers, not the full discriminant or the number of its components. A 2-tree is built from one edge by successively adding a vertex adjacent to both endpoints of an existing edge.",
+  "result_id": "R_20b6706b9a0e2f41d98ebf894ebc61500ee6ca6ec3ff72b98ee68a05bbdca88a"
+}

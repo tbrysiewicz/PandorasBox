@@ -1,11 +1,11 @@
 {
   "problem_id": "P_wronski_inverse",
   "question_id": "Q2",
-  "statement": "Over a polynomial with N=d(n−d) distinct real projective roots, points of the Wronski fibre in Gr(d,n) can be labelled by standard tableaux of rectangle (n−d)^d. For endpoints whose roots have distinct absolute values, continuation along a generic real root path acts on these labels by the sliding operation of Definition 3.2, a jeu-de-taquin rule. Remark 3.7 identifies promotion and evacuation as the resulting monodromy operations.",
+  "statement": "Over a polynomial with N=d(n−d) distinct real projective roots, points of the Wronski fibre in Gr(d,n) can be labelled by standard tableaux of rectangle (n−d)^d. For endpoints whose roots have distinct absolute values, continuation along a generic real root path acts on these labels by the sliding operation of Definition 3.2, a jeu-de-taquin rule. Remark 3.7 describes the cyclic-root-loop action by sliding the smallest entry through the tableau to become the largest.",
   "status": "partial",
   "evidence": "theorem",
   "answer": {
-    "text": "Over a polynomial with N=d(n−d) distinct real projective roots, points of the Wronski fibre in Gr(d,n) can be labelled by standard tableaux of rectangle (n−d)^d. For endpoints whose roots have distinct absolute values, continuation along a generic real root path acts on these labels by the sliding operation of Definition 3.2, a jeu-de-taquin rule. Remark 3.7 identifies promotion and evacuation as the resulting monodromy operations.",
+    "text": "Over a polynomial with N=d(n−d) distinct real projective roots, points of the Wronski fibre in Gr(d,n) can be labelled by standard tableaux of rectangle (n−d)^d. For endpoints whose roots have distinct absolute values, continuation along a generic real root path acts on these labels by the sliding operation of Definition 3.2, a jeu-de-taquin rule. Remark 3.7 describes the cyclic-root-loop action by sliding the smallest entry through the tableau to become the largest.",
     "display": "Jeu-de-taquin continuation on tableau labels",
     "relation": "partial"
   },
@@ -21,7 +21,7 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
   "notes": "This describes the real-rooted monodromy groupoid, not a claim that the full complex monodromy group is symmetric. The theorem also treats skew shapes, with additional exclusions at 0 and infinity.\n\nImported from the 2026-10-26 catalogue record R_4685c36bf96bc35e; the source claim has not been newly rechecked against the paper for this beta import.",

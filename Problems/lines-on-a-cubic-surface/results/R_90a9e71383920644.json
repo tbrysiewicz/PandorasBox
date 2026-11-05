@@ -13,15 +13,16 @@
   "status": "solved",
   "evidence": "certified_computation",
   "reference_ids": [
-    "pichonpharabod_2025_symmetric_cubics"
+    "boole_1842_linear_transformations",
+    "gelfand_kapranov_zelevinsky_1994_discriminants"
   ],
   "source": {
     "url": "https://arxiv.org/html/2509.06785v1",
-    "location": "Theorem 1.2; Table 1, trivial-subgroup (Z1) row",
-    "version": "arXiv:2509.06785v1 (8 September 2025)"
+    "location": "Introduction p.1; Theorem 2/Table 1, Z1 row, p.3 in PDF (same theorem labelled 1.2 in arXiv HTML)",
+    "version": "arXiv:2509.06785v1 (8 September 2025), PDF and HTML freshly inspected 4 November 2026"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
   "origin": {
@@ -29,5 +30,6 @@
     "original_result_id": "R_90a9e71383920644"
   },
   "headline": true,
-  "scope": "Projective lines on smooth cubic surfaces in P3. Generic complex enumeration, real parameter chambers, and probability distributions on real coefficients are distinguished in individual associations."
+  "scope": "Projective lines on smooth cubic surfaces in P3. Generic complex enumeration, real parameter chambers, and probability distributions on real coefficients are distinguished in individual associations.",
+  "notes": "This is the classical homogeneous-discriminant formula attributed to Boole: four variables and degree3 give4(3−1)^3=32. GKZ supplies a standard proof and irreducibility; the unrestricted row is expressly not new in Pichon-Pharabod–Telen."
 }

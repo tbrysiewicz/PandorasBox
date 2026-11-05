@@ -1,0 +1,28 @@
+{
+  "result_id": "R_c855baae5d60fea42e8255002bf1a84e71359eddef0793db403870f5183fb724",
+  "problem_id": "P_tangent_lines_2_spheres_dimension_2",
+  "question_id": "Q1",
+  "statement": "Two general complex circles have four distinct common affine tangent lines.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "count": 4,
+    "display": "4",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "sottile_2001_sphere_tangents"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/math/0105180",
+    "location": "Introduction, printed p.1, n=2 case"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "The n>=3 formula 3*2^(n-1) does not apply at n=2. Equivalently, intersect the two dual conics and use Bezout; generic intersections are ordinary affine tangent lines.\n\nThis n=2 assertion is an elementary classical two-circle calculation, included here as a deduction; it is not attributed as a new theorem of Sottile–Theobald, whose general-dimensional theorem assumes n≥3."
+}

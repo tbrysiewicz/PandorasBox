@@ -1,0 +1,29 @@
+{
+  "result_id": "R_e57311b5d94298fc4c80f61a88d0b0393f7a700ed6e970a4f7e2a24478ca2b7c",
+  "problem_id": "P_stiefel_1_4_sections",
+  "question_id": "Q3",
+  "statement": "The minimum number of real points in a regular unrestricted complementary affine section of St(1,4)(R) is zero.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "count": 0,
+    "display": "0",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "brysiewicz_2019_stiefel"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1909.10085",
+    "location": "Elementary deduction from the matrix equations and the generic degree-section property"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "All real matrix entries have absolute value at most one. Require x_11=2 as one slicing equation, then perturb it and the remaining slicing equations to generic real equations. An open neighborhood still misses the compact real locus, and meets the Zariski-open regular complex-section locus. Thus zero is attained at a regular real parameter. This uses affine sections with offsets; it does not apply to homogeneous sections. The zero-dimensional St(1,1) case is deliberately excluded.",
+  "scope": "Positive-dimensional variety; unrestricted complementary affine linear sections over real coefficients."
+}

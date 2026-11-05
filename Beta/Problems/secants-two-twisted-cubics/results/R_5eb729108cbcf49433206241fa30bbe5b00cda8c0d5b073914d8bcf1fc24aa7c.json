@@ -1,0 +1,36 @@
+{
+  "problem_id": "P_secants_two_twisted_cubics",
+  "question_id": "Q5",
+  "statement": "The attainable counts of ordinary real common secant lines are exactly 0,2,4,6,8,10.",
+  "answer": {
+    "values": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10
+    ],
+    "display": "{0,2,4,6,8,10}",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "certified_computation",
+  "reference_ids": [
+    "aslam_2026_common_secants"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/2603.25003v1",
+    "location": "Theorem 1.7 and conjugation parity",
+    "version": "Source inspected 2026-11-04"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "Ordinary real lines include totally, partially and minimally real secants; these categories concern their intersection points.",
+  "result_id": "R_5eb729108cbcf49433206241fa30bbe5b00cda8c0d5b073914d8bcf1fc24aa7c"
+}

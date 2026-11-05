@@ -7,10 +7,13 @@
   "parameters": {},
   "reference_ids": [
     "breiding_2022_average_essential",
-    "duff_2021_galois_reconstruction"
+    "duff_2021_galois_reconstruction",
+    "nister_2003_five_point",
+    "duff_2023_monodromy_reconstruction",
+    "breiding_2024_average_essential"
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

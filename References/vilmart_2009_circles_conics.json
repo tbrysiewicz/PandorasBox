@@ -1,0 +1,14 @@
+{
+  "reference_id": "vilmart_2009_circles_conics",
+  "title": "Étude de cercles tangents à des coniques",
+  "authors": [
+    "Shaula Fiorelli Vilmart"
+  ],
+  "year": "2009",
+  "venue": "Doctoral thesis, Université de Genève",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "Brysiewicz, 144 real circles tangent to three conics, explicitly credits Theorem 1.1.1 with a136-real construction and the triangle degeneration. This does not credit the later184-complex proof or interval certificates to the thesis."
+}

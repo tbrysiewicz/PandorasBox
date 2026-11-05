@@ -6,10 +6,12 @@
   "arguments": [],
   "parameters": {},
   "reference_ids": [
-    "esterov_2018_wreath"
+    "esterov_2018_wreath",
+    "bernshtein_1975_roots",
+    "esterov_2018_galois"
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

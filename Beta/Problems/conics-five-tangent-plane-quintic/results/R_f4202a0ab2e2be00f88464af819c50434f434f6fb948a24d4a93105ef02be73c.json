@@ -1,0 +1,30 @@
+{
+  "result_id": "R_f4202a0ab2e2be00f88464af819c50434f434f6fb948a24d4a93105ef02be73c",
+  "problem_id": "P_conics_five_tangent_plane_quintic",
+  "question_id": "Q1",
+  "statement": "A general smooth complex plane quintic has exactly 2015 smooth irreducible conics tangent to it at five distinct points.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "count": 2015,
+    "display": "2015",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "gathmann_2005_five_tangent_conics"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/math/0202002",
+    "location": "Corollary 3.6 and Remark 3.7 (printed p.13), degree d=5",
+    "version": "arXiv:math/0202002v1, 31 January 2002"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "This is the enumerative count after subtracting non-enumerative stable-map contributions, including double covers of bitangent lines. The historical lower bound 1185 remains valid but is not the exact count. The d=5 entry is printed explicitly and also follows by direct substitution in Corollary 3.6.",
+  "scope": "General smooth quintic over C; geometric conics are unlabelled and irreducible, and the five contact points are distinct."
+}

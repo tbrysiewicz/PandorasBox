@@ -1,0 +1,31 @@
+{
+  "problem_id": "P_kuramoto_graph",
+  "question_id": "Q4",
+  "statement": "Every cycle C_N, N≥3, admits N·binom(N−1,floor((N−1)/2)) distinct real phase equilibria modulo common phase, attaining its complex bound. The construction uses zero frequencies, all couplings +1 when 4 does not divide N, and one coupling −1 with all others +1 when 4 divides N; the latter case uses signed real couplings.",
+  "answer": {
+    "display": "N·binom(N−1,⌊(N−1)/2⌋) for cycles",
+    "formula": "N*binom(N-1,floor((N-1)/2))",
+    "relation": "equal"
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "lindberg_2020_real_power_flow",
+    "chen_2017_kuramoto_intersection"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/2010.03069v1",
+    "location": "Section IV.A, Theorem 1 and proof, printed p.7; Section II.A for lossless, fixed-voltage identification",
+    "version": "arXiv:2010.03069v1, 6 October 2020; inspected 2026-11-04"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "scope": "Finite isolated-equilibrium maximum on the cycle subclass, with arbitrary nonzero real symmetric couplings allowed.",
+  "notes": "The construction has zero frequencies. If 4 does not divide N, all edge couplings are 1; if 4 divides N, one edge is −1 and the others are 1. Thus the latter case does not prove attainment with all couplings positive.",
+  "result_id": "R_1ef920abd2d44d27efa2ff1e3d3bd8687cb39cdfecfa98662938ed7620f6b591"
+}

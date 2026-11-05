@@ -1,0 +1,28 @@
+{
+  "result_id": "R_6f839275c919d04884a74a82626bf3cb3398a50058f41fa1ddafff34c81c1885",
+  "problem_id": "P_tangent_lines_2_spheres_dimension_2",
+  "question_id": "Q4",
+  "statement": "The maximum real common-tangent count for two circles is four, attained by two externally disjoint circles.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "count": 4,
+    "display": "4",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "sottile_2001_sphere_tangents"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/math/0105180",
+    "location": "Introduction, printed p.1"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "This n=2 assertion is an elementary classical two-circle calculation, included here as a deduction; it is not attributed as a new theorem of Sottile–Theobald, whose general-dimensional theorem assumes n≥3."
+}

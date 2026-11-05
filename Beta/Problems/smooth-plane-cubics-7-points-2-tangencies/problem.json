@@ -11,10 +11,11 @@
     "tangencies": 2
   },
   "reference_ids": [
-    "aluffi_1990_smooth_cubics"
+    "aluffi_1990_smooth_cubics",
+    "bertrand_2008_real_zeuthen_two_lines"
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

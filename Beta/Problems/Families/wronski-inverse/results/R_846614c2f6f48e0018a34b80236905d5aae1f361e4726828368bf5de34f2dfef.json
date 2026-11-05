@@ -9,7 +9,8 @@
     "relation": "equal"
   },
   "reference_ids": [
-    "levinson_2019_topological_shapiro"
+    "levinson_2019_topological_shapiro",
+    "mukhin_2007_schubert_representations"
   ],
   "source": {
     "url": "https://arxiv.org/html/1907.11924v2",
@@ -20,10 +21,10 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Corollary 1.5 addresses the simple-root covering and does not by itself establish full transversality for arbitrary osculating partition conditions.\n\nImported from the 2026-10-26 catalogue record R_09227b9dc6fe6c83; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Corollary 1.5 addresses the simple-root covering and does not by itself establish full transversality for arbitrary osculating partition conditions.\n\nImported from the 2026-10-26 catalogue record R_09227b9dc6fe6c83; the source claim has not been newly rechecked against the paper for this beta import.\n\nThe underlying reality and transversality are due to Mukhin–Tarasov–Varchenko; Levinson–Purbhoo give a later topological proof. Triviality of the covering is the corresponding consequence over the contractible distinct-real-root chamber.",
   "scope": "Polynomial spaces with prescribed Wronskian whose roots are all real and distinct.",
   "result_id": "R_846614c2f6f48e0018a34b80236905d5aae1f361e4726828368bf5de34f2dfef"
 }

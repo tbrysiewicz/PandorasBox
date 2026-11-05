@@ -1,0 +1,15 @@
+{
+  "reference_id": "demazure_1988_reconstruction",
+  "title": "Sur deux problèmes de reconstruction",
+  "authors": [
+    "Michel Demazure"
+  ],
+  "year": "1988",
+  "venue": "INRIA Research Report RR-0882",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "url": "https://inria.hal.science/inria-00075672",
+  "notes": "Earlier degree10 computation explicitly credited by Nistér and by Breiding–Fairchild–Santarsiero–Shehu; the latter specifies Theorem 6.4. Original report access was blocked."
+}

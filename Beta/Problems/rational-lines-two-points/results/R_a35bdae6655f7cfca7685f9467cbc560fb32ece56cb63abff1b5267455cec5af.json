@@ -10,7 +10,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "fomin_2009_labeled_floors"
+    "kontsevich_1994_gw"
   ],
   "source": {
     "url": "https://arxiv.org/html/0906.3828v4",
@@ -24,9 +24,9 @@
     "original_result_id": "R_2b00bf0fe47ea5e4"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Source specialization: Set d=1 and g=0 in Theorem 1.6; use the explicit values in Figure 1.",
+  "notes": "Source specialization: Set d=1 and g=0 in Theorem 1.6; use the explicit values in Figure 1.\n\nThe numerical count is associated with the earlier recursion (Kontsevich–Manin for rational curves). Fomin–Mikhalkin’s table remains the inspected verification source; their floor-diagram Theorem 1.6 explicitly restates Brugallé–Mikhalkin. This is not a claim that the individual numerical value was historically first found by the cited recursion.",
   "result_id": "R_a35bdae6655f7cfca7685f9467cbc560fb32ece56cb63abff1b5267455cec5af"
 }

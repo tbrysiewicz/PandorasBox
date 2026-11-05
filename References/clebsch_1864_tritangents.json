@@ -1,0 +1,16 @@
+{
+  "reference_id": "clebsch_1864_tritangents",
+  "title": "Ueber die Wendungsberührebenen der Raumcurven",
+  "authors": [
+    "Alfred Clebsch"
+  ],
+  "year": "1864",
+  "venue": "Journal für die reine und angewandte Mathematik 63, 1–8",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "doi": "10.1515/crll.1864.63.1",
+  "url": "https://doi.org/10.1515/crll.1864.63.1",
+  "notes": "Historical tritangent-count source explicitly credited by Harris–Len and Cueto–Len–Markwig–Ren; the modern odd-theta proof is retained separately."
+}

@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_smooth_plane_conics_0_points_5_tangencies",
+  "question_id": "Q1",
+  "statement": "The generic complex solution count is 1.",
+  "answer": {
+    "count": 1,
+    "display": "1",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "chasles_1864_conic_counts"
+  ],
+  "source": {
+    "url": "https://www.usna.edu/Users/math/traves/_files/documents/Bashelor.pdf",
+    "location": "§3.3–3.4; §4.3 and Table 2",
+    "version": "Author-hosted published article (2008)"
+  },
+  "scope": "Smooth complex conics; 0 general points and 5 general lines.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "result_id": "R_4a44f7250648dda8b2714db0a095d8a1c2986df315799a30027f1038402c2f0c",
+  "notes": "These are classical conic characteristic numbers. Bashelor–Ksir–Traves explicitly state that their paper is expository and its results are not new; their Bézout/duality derivation is retained in the source for verification."
+}

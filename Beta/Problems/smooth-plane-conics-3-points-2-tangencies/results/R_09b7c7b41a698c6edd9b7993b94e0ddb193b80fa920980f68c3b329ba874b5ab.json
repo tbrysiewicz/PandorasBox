@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_smooth_plane_conics_3_points_2_tangencies",
+  "question_id": "Q3",
+  "statement": "The minimum real solution count is 0.",
+  "answer": {
+    "count": 0,
+    "display": "0",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "bertrand_brugalle_mikhalkin_2014_characteristic"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/1105.2004v4",
+    "location": "Example 7.1",
+    "version": "arXiv:1105.2004v4 (12 March 2013)"
+  },
+  "scope": "Smooth real conics; 3 general points and 2 general lines.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "Example 7.1 constructs a generic configuration with no real solutions.",
+  "result_id": "R_09b7c7b41a698c6edd9b7993b94e0ddb193b80fa920980f68c3b329ba874b5ab"
+}

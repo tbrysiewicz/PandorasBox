@@ -1,0 +1,17 @@
+{
+  "reference_id": "baillieul_byrnes_1982_power_flow",
+  "title": "Geometric critical point analysis of lossless power system models",
+  "authors": [
+    "John Baillieul",
+    "Christopher I. Byrnes"
+  ],
+  "year": "1982",
+  "venue": "IEEE Transactions on Circuits and Systems 29(11), 724–737",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "doi": "10.1109/TCS.1982.1085093",
+  "url": "https://doi.org/10.1109/TCS.1982.1085093",
+  "notes": "Explicitly credited for the complete-network count by Chen–Korchevskaia–Lindberg. Modern symmetric-coupling genericity is retained with that paper."
+}

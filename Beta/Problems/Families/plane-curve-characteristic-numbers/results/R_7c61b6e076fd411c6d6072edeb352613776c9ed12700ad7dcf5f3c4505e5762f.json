@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_plane_curve_characteristic_numbers",
+  "question_id": "Q1",
+  "statement": "For smooth conics, the counts with k point conditions and 5−k line tangencies are (1,2,4,4,2,1) for k=5,…,0.",
+  "answer": {
+    "text": "Degree 2: (1,2,4,4,2,1), ordered by k=5,…,0.",
+    "display": "d=2: (1,2,4,4,2,1)",
+    "relation": "partial"
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "chasles_1864_conic_counts"
+  ],
+  "source": {
+    "url": "https://www.usna.edu/Users/math/traves/_files/documents/Bashelor.pdf",
+    "location": "§3.3–3.4; §4.2–4.3 and Table 2 (printed p.713)",
+    "version": "Author-hosted published article (2008)"
+  },
+  "scope": "Degree 2 only; general complex incidence data.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "The paper derives the counts by Bézout and projective duality. Double lines are excluded.\n\nThese are classical conic characteristic numbers. Bashelor–Ksir–Traves explicitly state that their paper is expository and its results are not new; their Bézout/duality derivation is retained in the source for verification.",
+  "result_id": "R_7c61b6e076fd411c6d6072edeb352613776c9ed12700ad7dcf5f3c4505e5762f"
+}

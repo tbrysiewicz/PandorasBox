@@ -1,0 +1,32 @@
+{
+  "result_id": "R_c97a6662bb7f1f81e264dfd02f4bbb5c4556e210673684a06885c8dd5e2c31c2",
+  "problem_id": "P_wronski_inverse",
+  "question_id": "Q9",
+  "statement": "For m and p both even, over a field F in which (m+p−1)! is invertible, the A1-degree of Wr: Gr_F(m,m+p) → P_F^(mp), computed on the big affine cell with the paper's relative orientation, is (D/2)H in GW(F), where D is the generic complex Wronski degree and H=⟨1⟩+⟨−1⟩.",
+  "answer": {
+    "display": "(D/2)H for m,p even",
+    "expression": "(D/2)(⟨1⟩+⟨−1⟩)",
+    "ring": "GW(F)",
+    "relation": "partial",
+    "orientation": "Relative orientation and big affine cell of Brazelton, Theorem 3.29"
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "brazelton_2025_enriched_wronski"
+  ],
+  "source": {
+    "url": "https://nyjm.albany.edu/j/2025/31-9v.pdf",
+    "location": "Theorem A (printed p.197), Lemmas 3.27–3.28 and Theorem 3.29 with proof (pp.213–214)",
+    "version": "Published NYJM version, 24 January 2025; corresponding preprint arXiv:2206.01143v1 (2 June 2022)"
+  },
+  "scope": "Wronski family with m=k and p=n−k; m,p positive even; characteristic zero, or positive characteristic in which (m+p−1)! is invertible.",
+  "notes": "This is a quadratic-form-valued degree, not the unsigned real fibre count. Its rank is D and its real signature is zero. The parity restriction is essential; this record does not assert a global untwisted degree for all parities. The published theorem and its proof were inspected; the rest of the paper was not fully checked.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": []
+}

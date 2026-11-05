@@ -4,12 +4,24 @@
       "source_problem_id": "P_rational_quartics_eleven_points",
       "target_problem_id": "P_plane_nodal_curves",
       "relation_type": "instance_of",
-      "relation_statement": "Find rational plane quartics through eleven general points.",
-      "inheritance_policy": "Only explicitly recorded source specializations are inherited."
+      "relation_statement": "Set d=4 and delta=3; the genus formula g=(d-1)(d-2)/2-delta gives g=0, and d(d+3)/2-delta=11 point conditions. The generic irreducible genus-0 curves through these general points have exactly 3 ordinary nodes and no other singularities.",
+      "inheritance_policy": "Only generic point-constrained enumerative statements with the same irreducibility convention transfer; no equivalence of singularity strata over special point configurations is asserted.",
+      "caveats": "Genus alone does not imply nodality for a special curve. This identifies the enumerative problem over general point configurations, where the counted curves lie in the ordinary nodal locus."
+    },
+    {
+      "relation_id": "P_plane_nodal_curves__subfamily_of__P_plane_curves_degree_genus",
+      "source_problem_id": "P_plane_nodal_curves",
+      "target_problem_id": "P_plane_curves_degree_genus",
+      "relation_type": "subfamily_of",
+      "relation_statement": "For the stored range 1<=d<=4 set g=(d-1)(d-2)/2-delta. The point count d(d+3)/2-delta equals 3d+g-1; an irreducible curve with exactly delta ordinary nodes and no other singularities has geometric genus g.",
+      "evidence_location": "Stored descriptors; arithmetic-genus formula and ordinary-node genus drop.",
+      "supporting_source_url": "https://arxiv.org/abs/alg-geom/9608025",
+      "inheritance_policy": "No automatic inheritance. A result may be transferred only after explicitly checking its hypotheses, parameter specialization, solution convention and genericity.",
+      "caveats": "The source records the nodal locus. Special genus-g curves can have worse singularities; no identification of the complete special-fibre singularity strata is asserted."
     }
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

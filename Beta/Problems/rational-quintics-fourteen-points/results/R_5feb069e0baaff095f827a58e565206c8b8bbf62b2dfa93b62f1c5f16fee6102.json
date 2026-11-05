@@ -1,0 +1,33 @@
+{
+  "problem_id": "P_rational_quintics_fourteen_points",
+  "question_id": "Q2",
+  "statement": "Outside a thin subset of fourteen-tuples of Q-rational points, the arithmetic Galois action on the 87304 rational quintics through those points is transitive. The full symmetric group S87304 is conjectured in the source; an exact geometric monodromy identification is not extracted here.",
+  "answer": {
+    "text": "Arithmetic action transitive outside a thin set; exact group not determined here.",
+    "display": "Transitive arithmetic subgroup of S87304",
+    "relation": "partial"
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "holmes_rome_2019_fields_rational_curves"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/1901.11294v2",
+    "location": "Definition preceding Proposition2.2 and Proposition2.2, printed pages4–5; Conjecture1.5, printed page3",
+    "version": "arXiv:1901.11294v2 (30 April 2020), primary PDF inspected 4 November 2026"
+  },
+  "scope": "Arithmetic splitting-field Galois action for rational quintics through fourteen general Q-rational points, outside a thin exceptional set.",
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_rational_plane_curves",
+    "original_result_id": "R_3d72d024d2e627fd",
+    "inheritance_basis": "Set e=5 in Proposition2.2; the fibre has N5=87304 elements."
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "Specialization e=5 of the family theorem. Transitivity is proved; full symmetry is only conjectured in this source. This result does not identify the geometric complex monodromy group.",
+  "result_id": "R_5feb069e0baaff095f827a58e565206c8b8bbf62b2dfa93b62f1c5f16fee6102"
+}

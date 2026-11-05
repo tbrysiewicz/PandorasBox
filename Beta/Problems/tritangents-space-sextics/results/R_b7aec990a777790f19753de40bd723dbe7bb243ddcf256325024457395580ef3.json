@@ -1,12 +1,12 @@
 {
   "problem_id": "P_tritangents_space_sextics",
   "question_id": "Q4",
-  "statement": "120 real tritangent planes. The complex total is 120 and a generic real family has all 120 contacts real, hence all 120 planes real. The odd-theta convention excludes the cone ruling family.",
+  "statement": "Tropical lifting constructs a smooth real space sextic with all 120 tritangent planes defined over R and all three contacts on every plane real. Thus the maximum real-plane count is 120.",
   "status": "solved",
   "evidence": "theorem",
   "answer": {
-    "text": "120 real tritangent planes.",
-    "display": "120 real tritangent planes.",
+    "count": 120,
+    "display": "120",
     "relation": "equal"
   },
   "reference_ids": [
@@ -14,17 +14,17 @@
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2512.24277v1",
-    "location": "Example 11.1 (statement on printed p. 64) and Example 11.2 (statement on printed pp. 66–67); Corollary 10.7 (printed pp. 63–64)",
-    "version": "arXiv:2512.24277v1 (30 December 2025), 77-page PDF internally dated 1 January 2026"
+    "location": "Section 11, Example 11.2 and its proof, printed pp. 66–68; Theorems 1.3–1.4 supply the lifting framework.",
+    "version": "arXiv:2512.24277v1, submitted 30 December 2025; PDF internally dated 1 January 2026. Exact cited version freshly retrieved 4 November 2026."
   },
   "origin": {
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "These are Puiseux-series/tropical-limit constructions. The value 64 is maximal for the displayed topology, not globally; 120 attains the complex total. Exact example numbers and pages follow the PDF; the HTML rendition has inconsistent numbering and internal date. Generic-scope migration: The complex total is 120 and a generic real family has all 120 contacts real, hence all 120 planes real. The odd-theta convention excludes the cone ruling family.\n\nImported from the 2026-10-26 catalogue record R_4eb4bc3901a443fa; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "This is the distinct tropical construction, not a second attribution of the 2018 construction. The same source also constructs 64 totally real tritangents for a different topology. Real plane coefficients and real contact points are distinguished throughout.",
   "scope": "Smooth algebraic space sextics satisfying tropical genericity hypotheses; totally real tritangent planes.",
   "result_id": "R_b7aec990a777790f19753de40bd723dbe7bb243ddcf256325024457395580ef3"
 }

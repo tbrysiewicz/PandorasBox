@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_kuramoto_graph",
+  "question_id": "Q8",
+  "statement": "If G has no even cycle, every choice of frequencies and nonzero symmetric edge couplings retains the full adjacency-polytope count of complex torus roots, counted with multiplicity.",
+  "answer": {
+    "display": "No loss of torus-root multiplicity when G has no even cycle",
+    "text": "The exceptional coupling set for failure of Bernshtein generality is empty on this graph subclass.",
+    "relation": "partial"
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "chen_2022_typical_atypical"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/2210.00784v3",
+    "location": "Corollaries 4.21–4.23, printed p.17",
+    "version": "arXiv:2210.00784v3, 25 September 2024; inspected 2026-11-04"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "scope": "Connected graphs without even cycles; arbitrary real or complex frequencies and nonzero symmetric couplings.",
+  "notes": "All torus roots remain isolated. Multiple roots may still occur, so this does not assert that the ordinary discriminant is empty. Trees retain 2^(N−1) roots and odd N-cycles retain N·binom(N−1,(N−1)/2), with multiplicity.",
+  "result_id": "R_be0d1586e88a67bbfa0b5683a025e9b813d1aaf9358fbfa6d1059734e0b0d758"
+}

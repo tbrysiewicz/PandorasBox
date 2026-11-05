@@ -12,7 +12,8 @@
   "status": "partial",
   "evidence": "certified_computation",
   "reference_ids": [
-    "breiding_2022_circles_conics"
+    "breiding_2022_circles_conics",
+    "vilmart_2009_circles_conics"
   ],
   "source": {
     "url": "https://arxiv.org/html/2211.06876v1",
@@ -20,7 +21,7 @@
     "version": "arXiv:2211.06876v1 (13 November 2022)"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
   "origin": {
@@ -28,5 +29,5 @@
     "original_result_id": "R_81a810826d0d8d62"
   },
   "scope": "Three real plane conics, with distinct real tritangent circles.",
-  "notes": "The certified construction gives an attained count of 136 and a lower bound on the maximum. Optimality is conjectured, not proved, in this source."
+  "notes": "The certified construction gives an attained count of 136 and a lower bound on the maximum. Optimality is conjectured, not proved, in this source.\n\nVilmart 2009, Theorem 1.1.1, already constructed136 real circles by the triangle degeneration, as explicitly credited in Brysiewicz’s 2026 paper. Breiding et al. remain cited for their specific rational triple, interval certification and accompanying analysis."
 }

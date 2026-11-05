@@ -10,7 +10,8 @@
     "relation": "equal"
   },
   "reference_ids": [
-    "brysiewicz_2020_tangent_quadrics"
+    "brysiewicz_2020_tangent_quadrics",
+    "schubert_1879_kalkul"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2010.10879v2",
@@ -21,10 +22,10 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Singular/extraneous quadrics are removed by saturation; raw Bezout products need not be the answer.\n\nImported from the 2026-10-26 catalogue record R_9a497977435c3a14; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Singular/extraneous quadrics are removed by saturation; raw Bezout products need not be the answer.\n\nImported from the 2026-10-26 catalogue record R_9a497977435c3a14; the source claim has not been newly rechecked against the paper for this beta import.\n\nSchubert 1879, §22 and p.106, is explicitly credited for these numerical counts. Brysiewicz–Fevola–Sturmfels remain cited for their polynomial/prime-ideal formulation and modern verification; their certified real constructions are separate results.",
   "scope": "Nonsingular quadrics in P3 through alpha points, tangent to beta lines and gamma planes, alpha+beta+gamma=9, with general constraints.",
   "result_id": "R_698aff8c8cba575aa31e95c3a7ad1b465cac2db1fbad8fdd90370e17ea0c2df9"
 }

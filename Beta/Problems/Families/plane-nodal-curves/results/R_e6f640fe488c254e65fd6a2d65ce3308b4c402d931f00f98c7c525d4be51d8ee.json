@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_plane_nodal_curves",
+  "question_id": "Q1",
+  "statement": "For irreducible degree-d plane curves with δ ordinary nodes and no other singularities through d(d+3)/2−δ general points, set g=(d−1)(d−2)/2−δ. Their number is the irreducible count N_(d,g) given by Theorem 1.6; in degrees 1,2,3,4 the counts in increasing δ are (1), (1), (1,12), and (1,27,225,620), respectively.",
+  "answer": {
+    "text": "Irreducible counts by the genus–node relation and the marked-floor-diagram formula.",
+    "display": "d=1:(1); d=2:(1); d=3:(1,12); d=4:(1,27,225,620)",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "caporaso_1996_plane_curves"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/0906.3828v4",
+    "location": "Theorem 1.6 and Figure 1, printed pages 6–7; definitions on printed page 2",
+    "version": "arXiv:0906.3828v4 (18 January 2010), primary PDF inspected 4 November 2026"
+  },
+  "scope": "The existing family specifies irreducible nodal curves, with 0≤δ≤(d−1)(d−2)/2.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "Do not use the reducible-inclusive Severi degree 675 for rational quartics: the irreducible count is 620. For general point conditions the curves counted by the irreducible genus-g invariant have precisely the prescribed ordinary nodes.\n\nThe numerical count is associated with the earlier recursion (Caporaso–Harris for plane curves of arbitrary genus). Fomin–Mikhalkin’s table remains the inspected verification source; their floor-diagram Theorem 1.6 explicitly restates Brugallé–Mikhalkin. This is not a claim that the individual numerical value was historically first found by the cited recursion.",
+  "result_id": "R_e6f640fe488c254e65fd6a2d65ce3308b4c402d931f00f98c7c525d4be51d8ee"
+}

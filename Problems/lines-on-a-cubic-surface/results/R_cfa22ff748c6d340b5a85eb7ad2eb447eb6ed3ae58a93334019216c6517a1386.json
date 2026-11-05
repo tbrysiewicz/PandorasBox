@@ -1,0 +1,117 @@
+{
+  "result_id": "R_cfa22ff748c6d340b5a85eb7ad2eb447eb6ed3ae58a93334019216c6517a1386",
+  "problem_id": "P_lines_cubic_surfaces",
+  "question_id": "Q2",
+  "statement": "For each listed nontrivial automorphism type G, the paper determines the parameter-level monodromy on the 27 lines over the stratum of smooth objects with that fixed symmetry. The group table in the answer follows the paper’s type ordering. These generally intransitive actions differ from quotient-space and stack monodromy.",
+  "answer": {
+    "text": "Parameter-level monodromy table for nontrivial symmetry strata.",
+    "display": "Symmetry-restricted monodromy (see parameter table)",
+    "relation": "equal",
+    "parameters": {
+      "solution_degree": 27,
+      "monodromy_kind": "parameter-level",
+      "symmetry_strata": [
+        {
+          "paper_type": 1,
+          "automorphism_group": "C3^3 ⋊ S4",
+          "parameter_monodromy": "1",
+          "order": 1,
+          "lmfdb_url": "https://www.lmfdb.org/Groups/Abstract/1.1"
+        },
+        {
+          "paper_type": 2,
+          "automorphism_group": "S5",
+          "parameter_monodromy": "1",
+          "order": 1,
+          "lmfdb_url": "https://www.lmfdb.org/Groups/Abstract/1.1"
+        },
+        {
+          "paper_type": 3,
+          "automorphism_group": "H3(3) ⋊ C4",
+          "parameter_monodromy": "C3",
+          "order": 3,
+          "lmfdb_url": "https://www.lmfdb.org/Groups/Abstract/3.1"
+        },
+        {
+          "paper_type": 4,
+          "automorphism_group": "H3(3) ⋊ C2",
+          "parameter_monodromy": "C3",
+          "order": 3,
+          "lmfdb_url": "https://www.lmfdb.org/Groups/Abstract/3.1"
+        },
+        {
+          "paper_type": 5,
+          "automorphism_group": "S4",
+          "parameter_monodromy": "C2 × C2",
+          "order": 4,
+          "lmfdb_url": "https://www.lmfdb.org/Groups/Abstract/4.2"
+        },
+        {
+          "paper_type": 6,
+          "automorphism_group": "D6 (order 12)",
+          "parameter_monodromy": "S3 × C2",
+          "order": 12,
+          "lmfdb_url": "https://www.lmfdb.org/Groups/Abstract/12.4"
+        },
+        {
+          "paper_type": 7,
+          "automorphism_group": "C8",
+          "parameter_monodromy": "C8",
+          "order": 8,
+          "lmfdb_url": "https://www.lmfdb.org/Groups/Abstract/8.1"
+        },
+        {
+          "paper_type": 8,
+          "automorphism_group": "S3",
+          "parameter_monodromy": "S3 × S3",
+          "order": 36,
+          "lmfdb_url": "https://www.lmfdb.org/Groups/Abstract/36.10"
+        },
+        {
+          "paper_type": 9,
+          "automorphism_group": "C4",
+          "parameter_monodromy": "U2(F3)",
+          "order": 96,
+          "lmfdb_url": "https://www.lmfdb.org/Groups/Abstract/96.67"
+        },
+        {
+          "paper_type": 10,
+          "automorphism_group": "C2 × C2",
+          "parameter_monodromy": "C2 × C2 × S4",
+          "order": 96
+        },
+        {
+          "paper_type": 11,
+          "automorphism_group": "C2",
+          "parameter_monodromy": "GO4+(3) = W(F4)",
+          "order": 1152
+        }
+      ]
+    },
+    "qualification": "Strata and fixed projective group embeddings are those of the cited paper. This is not the monodromy of the unrestricted family; no transitivity on all solutions is asserted."
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "brazelton_landi_raman_2026_symmetry_solvability",
+    "brazelton_raman_2025_symmetric_cubic_monodromy",
+    "pichonpharabod_2025_symmetric_cubics",
+    "landi_2025_symmetric_cubics"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/2609.30442v1",
+    "location": "Theorem A / Theorem 5.2; Section 5",
+    "version": "arXiv:2609.30442v1 (September 2026)"
+  },
+  "scope": "Symmetry-restricted coefficient strata for the existing 27 lines problem.",
+  "notes": "The paper also gives marked, stacky and geometric monodromy, which must not be identified with the parameter-level group. The symbol 1 here is the trivial group (written 0 in the source table). D_n denotes the dihedral group of order 2n. H3(3) is the order-27 Heisenberg group; C4 ⊚ A4, P and W(L3) retain the paper’s notation. Permutation generators are not invented from abstract group descriptions. LMFDB links in the symmetry table identify abstract parameter-level groups only; they do not assert a transitive action on all 27 or 28 solutions. Identifications use group structure, not just group order.\n\nThe aggregate table includes earlier cubic-family computations of Brazelton–Raman, Landi, and Pichon-Pharabod–Telen; the 2026 paper explicitly credits these, including its alternative proof of the C2×C2 case. It remains cited for the complete comparison and the precise parameter/marked/stack distinctions.",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_cfa22ff748c6d340b5a85eb7ad2eb447eb6ed3ae58a93334019216c6517a1386"
+  },
+  "headline": false
+}

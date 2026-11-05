@@ -1,0 +1,32 @@
+{
+  "problem_id": "P_kuramoto_rank_one_3",
+  "question_id": "Q4",
+  "statement": "3 rank-one oscillators admit 6 real equilibria modulo common phase. This attains the complex bound.",
+  "answer": {
+    "count": 6,
+    "display": "6",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "coss_2017_rank_one_kuramoto"
+  ],
+  "source": {
+    "url": "https://molzahn.github.io/pubs/coss_hauenstein_hoon_molzahn-kuramoto2017.pdf",
+    "location": "Corollary 4.9 (even n); Theorem 4.12 (odd n); Corollary 4.4 (complex bound)",
+    "version": "Source inspected 2026-11-04"
+  },
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_kuramoto_rank_one",
+    "original_result_id": "R_99dc2e5e4d6ca59bcfd6346e08f9eca852f7ea4a008f64ab3353a00b9783f6a6",
+    "inheritance_basis": "Set n=3 in the explicit real-equilibrium construction."
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "result_id": "R_cdf64303f6beb55326d0f449449ccee994b16139abe33b1b4c004f07bf5cb479",
+  "notes": "Coss et al., Section 4.1, explicitly note that the maximum6 for three oscillators was known, citing Baillieul–Byrnes 1982 and Xin–Kikkawa–Liu 2016. This record uses their construction as verification, not as a new discovery of that small case."
+}

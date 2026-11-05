@@ -10,7 +10,9 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "aluffi_1990_smooth_cubics"
+    "aluffi_1990_smooth_cubics",
+    "maillard_1871_cubic_characteristics",
+    "zeuthen_1872_cubic_characteristics"
   ],
   "source": {
     "url": "https://www.math.fsu.edu/~aluffi/papers/1987TegopcIsc.pdf",
@@ -24,9 +26,9 @@
     "original_result_id": "R_0aa57817946901502b07dfd59f80c8e1162f8c4cf8ca26372b75cff63a6d4093"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Source specialization: Entry k=5 of the explicit characteristic-number table in Corollary IV.",
+  "notes": "Source specialization: Entry k=5 of the explicit characteristic-number table in Corollary IV.\n\nAluffi explicitly identifies these characteristic numbers as classical results of Maillard and Zeuthen. Those original claims and Aluffi’s rigorous verification are both cited; the modern proof is not presented as the first numerical claim. Any singleton real or monodromy assertion here is a deduction from the count.",
   "result_id": "R_33a4ce5b74fee08c6b8c4407bfcda4d4dd1923cc851ab95a95b62ce13a49a5fd"
 }

@@ -1,0 +1,29 @@
+{
+  "result_id": "R_e715eeb12d2d43bf18060eb4a5b6ad4e16e81b83cf2e2f632340bda799b98f7d",
+  "problem_id": "P_schubert_four_lines_p3",
+  "question_id": "Q8",
+  "statement": "Fix three pairwise-skew lines and let Q be their unique smooth containing quadric. On the open set of fourth lines not contained in Q and disjoint from the first three, the four-lines problem has a nonreduced fibre exactly when the fourth line is tangent to Q: its two transversal solutions then coalesce. Equivalently the discriminant of the binary quadratic Q restricted to the fourth line is zero.",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "Branch locus on this open chart: disc(Q|l₄)=0 (fourth line tangent to Q).",
+    "display": "disc(Q|ℓ₄)=0",
+    "relation": "partial"
+  },
+  "reference_ids": [
+    "leykin_2007_schubert_galois"
+  ],
+  "source": {
+    "url": "https://arxiv.org/pdf/0710.4607v4",
+    "location": "Section 1, four-lines argument and Figure 1, printed p. 3; real quadratic-intersection consequence"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "scope": "The specified open chart with the first three lines fixed and the fourth line not contained in Q. Degenerate triples and fourth lines contained in Q are outside this statement.",
+  "notes": "Derived directly from the cited bijection between solution lines and points of l_4∩Q. The condition is chart-specific and is not claimed to classify every degenerate four-line configuration.",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": []
+}

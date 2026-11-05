@@ -1,0 +1,30 @@
+{
+  "problem_id": "P_five_point_essential_matrices",
+  "question_id": "Q1",
+  "statement": "Five general calibrated image-point correspondences determine ten complex projective essential matrices.",
+  "answer": {
+    "count": 10,
+    "display": "10",
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "demazure_1988_reconstruction"
+  ],
+  "source": {
+    "url": "https://www-users.cse.umn.edu/~hspark/CSci5980/nister.pdf",
+    "location": "Introduction; Section 3, five-point algorithm",
+    "version": "Source inspected 2026-11-04"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "scope": "Essential matrices up to nonzero scalar; not the 20- or 40-solution pose/depth formulations.",
+  "result_id": "R_599314e7308c1ee70e0a4963c6c847f72d02e5dbf56159f98bcdd2c97623ff7e",
+  "notes": "The generic degree10 predates Nistér’s solver and is credited to Demazure 1988 (Theorem 6.4) by later primary literature. Nistér’s contribution is the efficient elimination algorithm; its 10-real numerical example remains separately cited."
+}

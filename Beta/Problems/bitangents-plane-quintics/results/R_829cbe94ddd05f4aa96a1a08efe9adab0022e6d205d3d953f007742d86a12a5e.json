@@ -10,7 +10,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "cayley_1859_double_tangents"
+    "plucker_1834_curve_formula"
   ],
   "source": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/On_the_Double_Tangents_of_a_Plane_Curve_(IA_jstor-108697).pdf",
@@ -24,9 +24,9 @@
     "original_result_id": "R_20c76013488e57107804c5f5a04c18f9934f078236db6212861e9746f4fc6905"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Source specialization: Evaluate d(d-2)(d^2-9)/2 at d=5.",
+  "notes": "Source specialization: Evaluate d(d-2)(d^2-9)/2 at d=5.\n\nOriginality audit: the count specializes Plücker’s 1834 announced formula. Cayley’s 1859 paper in source supplies a later analytic derivation, not priority for the count.",
   "result_id": "R_829cbe94ddd05f4aa96a1a08efe9adab0022e6d205d3d953f007742d86a12a5e"
 }

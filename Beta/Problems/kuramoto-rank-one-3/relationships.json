@@ -6,10 +6,21 @@
       "relation_type": "instance_of",
       "relation_statement": "Kuramoto equilibria on 3 oscillators with symmetric rank-one coupling, after fixing a reference phase.",
       "inheritance_policy": "Only explicitly recorded source specializations are inherited."
+    },
+    {
+      "relation_id": "P_kuramoto_rank_one_3__input_restriction_of__P_kuramoto_complete_3",
+      "source_problem_id": "P_kuramoto_rank_one_3",
+      "target_problem_id": "P_kuramoto_complete_3",
+      "relation_type": "input_restriction_of",
+      "relation_statement": "For n=3, set each symmetric off-diagonal edge coupling to k_i*k_j, absorbing any common 1/n normalization. The phase equations are then exactly rank-one Kuramoto equations with the same reference phase and frequency constraint.",
+      "evidence_location": "Section 1, equations (2)–(5); Section 2, IC1 and phase-shift quotient.",
+      "supporting_source_url": "https://arxiv.org/pdf/1705.06568",
+      "inheritance_policy": "Input inclusion only; generic complex counts, monodromy and discriminants of arbitrary symmetric couplings do not automatically specialize to the rank-one locus.",
+      "caveats": "Coupling diagonal entries do not enter the sine-difference equations. Rank one refers to the full factorized coupling matrix including any chosen diagonal, not the zero-diagonal adjacency matrix."
     }
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

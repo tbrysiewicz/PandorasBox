@@ -12,7 +12,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "hashimoto_2020_fano_monodromy"
+    "harris_1979_enumerative_galois"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2002.04580v2",
@@ -20,7 +20,7 @@
     "version": "arXiv:2002.04580v2 (22 November 2020), full PDF checked"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
   "origin": {
@@ -28,6 +28,6 @@
     "original_result_id": "R_5926b7aa968645f7"
   },
   "scope": "Generic degree 2n−3 hypersurfaces in complex projective n-space, n≥2, over the unrestricted coefficient family.",
-  "notes": "The inspected source is Hashimoto–Kadets, which attributes the cubic and higher-degree line monodromy computations to Harris [Har79]. Harris’s original text was not inspected. The n=2 member is a line in P² with exactly one line on it, so its permutation action is trivial. The article’s separate alternating-or-symmetric theorem for general Fano problems is not being used in place of these exact line results.",
+  "notes": "The inspected source is Hashimoto–Kadets, which attributes the cubic and higher-degree line monodromy computations to Harris [Har79]. Harris’s original text was not inspected. The n=2 member is a line in P² with exactly one line on it, so its permutation action is trivial. The article’s separate alternating-or-symmetric theorem for general Fano problems is not being used in place of these exact line results.\n\nOriginality audit: Harris (1979) is the original attribution. The later Hashimoto–Kadets or Zhan text retained in source is a verification/restatement source, not the original claim. For the n=2 singleton case this record includes an elementary deduction.",
   "headline": true
 }

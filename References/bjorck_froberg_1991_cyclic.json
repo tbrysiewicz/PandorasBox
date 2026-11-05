@@ -1,0 +1,16 @@
+{
+  "reference_id": "bjorck_froberg_1991_cyclic",
+  "title": "A faster way to count the solutions of inhomogeneous systems of algebraic equations, with applications to cyclic n-roots",
+  "authors": [
+    "Göran Björck",
+    "Ralf Fröberg"
+  ],
+  "year": "1991",
+  "venue": "Journal of Symbolic Computation 12(3), 329–336",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "doi": "10.1016/S0747-7171(08)80153-8",
+  "url": "https://doi.org/10.1016/S0747-7171(08)80153-8"
+}

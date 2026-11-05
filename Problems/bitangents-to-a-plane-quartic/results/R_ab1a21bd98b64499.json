@@ -13,7 +13,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "plaumann_2010_quartic_bitangents"
+    "zeuthen_1874_real_quartics"
   ],
   "source": {
     "url": "https://arxiv.org/html/1008.4104v2",
@@ -21,7 +21,7 @@
     "version": "arXiv:1008.4104v2 (10 January 2011), full PDF checked"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
   "origin": {
@@ -30,5 +30,5 @@
   },
   "headline": true,
   "scope": "Real projective bitangent lines to smooth real plane quartic curves; the two contact points may be real or a complex-conjugate pair.",
-  "notes": "Real lines are counted; contacts need not both be real. The classical classification is attributed to Zeuthen and Klein. This is not the minimum of totally real contact lines."
+  "notes": "Real lines are counted; contacts need not both be real. The classical classification is attributed to Zeuthen and Klein. This is not the minimum of totally real contact lines.\n\nOriginality audit: the real classification is attributed to Zeuthen; Plaumann–Sturmfels–Vinzant is the modern verification source retained in source. Minimum/maximum counts are consequences of that classification. Original Zeuthen text has not been directly checked here."
 }

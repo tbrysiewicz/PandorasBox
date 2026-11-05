@@ -8,10 +8,11 @@
   "reference_ids": [
     "esterov_2018_galois",
     "esterov_2018_wreath",
-    "pokidkin_2025_discriminants"
+    "pokidkin_2025_discriminants",
+    "bernshtein_1975_roots"
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

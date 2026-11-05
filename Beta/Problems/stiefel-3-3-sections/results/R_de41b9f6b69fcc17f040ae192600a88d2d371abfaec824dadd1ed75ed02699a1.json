@@ -10,7 +10,8 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "brysiewicz_2019_stiefel"
+    "brysiewicz_2019_stiefel",
+    "brandt_2017_degree_so"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/1909.10085v2",
@@ -24,9 +25,9 @@
     "original_result_id": "R_7697a26aafe67fbae7e6aac8bbb4e170bed51ab8c35af49e08b0a60b2bc98d11"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Source specialization: Table 1, row k=3, column n=3.",
+  "notes": "Source specialization: Table 1, row k=3, column n=3.\n\nFor k=n, St(n,n)=O(n) has two isomorphic determinant components, so its degree is twice the SO(n) degree computed by Brandt et al.; Brysiewicz–Gesmundo explicitly credit that predecessor. Their general Stiefel formula is a separate result.",
   "result_id": "R_de41b9f6b69fcc17f040ae192600a88d2d371abfaec824dadd1ed75ed02699a1"
 }

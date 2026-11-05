@@ -1,6 +1,6 @@
 {
   "problem_id": "P_smooth_plane_quartics_11_points_3_tangencies",
-  "name": "Smooth quartics through 11 point and tangent to 3 lines",
+  "name": "Smooth quartics through 11 points and tangent to 3 lines",
   "kind": "specific_problem",
   "constructor_call": "smooth_plane_curve_conditions(4, 11, 3)",
   "arguments": [],
@@ -14,7 +14,7 @@
     "vakil_1999_quartic_characteristic"
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

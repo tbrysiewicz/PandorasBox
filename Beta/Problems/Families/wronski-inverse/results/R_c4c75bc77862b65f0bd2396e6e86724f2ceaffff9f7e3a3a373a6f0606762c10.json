@@ -1,0 +1,32 @@
+{
+  "result_id": "R_c4c75bc77862b65f0bd2396e6e86724f2ceaffff9f7e3a3a373a6f0606762c10",
+  "problem_id": "P_wronski_inverse",
+  "question_id": "Q9",
+  "statement": "For any positive m,p in characteristic zero, a simple F-rational inverse-Wronski solution W over a monic polynomial with distinct roots s_1,…,s_(mp) in F has local A1-degree ⟨C det B⟩ in the moving-basis affine coordinates, where C=V(s_1,…,s_(mp))(∏_(i=1)^(m−1) i!)^(mp)(−1)^(m(m−1)p/2) and B is the distinguished Plücker-coordinate matrix of Theorem 4.3.",
+  "answer": {
+    "display": "local degree ⟨C det B⟩",
+    "expression": "⟨V(s)(∏ i!)^(mp)(−1)^(m(m−1)p/2) det B⟩",
+    "ring": "GW(F)",
+    "relation": "partial",
+    "orientation": "Moving-basis affine coordinates and ordered distinguished Plücker coordinates in Theorem 4.3"
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "brazelton_2025_enriched_wronski"
+  ],
+  "source": {
+    "url": "https://nyjm.albany.edu/j/2025/31-9v.pdf",
+    "location": "Section 4, equation (4.2), definition of α(γ,κ), and Theorem 4.3 (printed pp.215–217)",
+    "version": "Published NYJM version, 24 January 2025; corresponding preprint arXiv:2206.01143v1"
+  },
+  "scope": "Simple F-rational W in Gr_F(m,m+p), characteristic zero, with all mp Wronskian roots distinct and F-rational; arbitrary parities.",
+  "notes": "Choose an ordered basis e_1,…,e_(m+p) with W=span(e_(p+1),…,e_(p+m)). Let F_m(s_l) have rows (e_j(s_l),e_j′(s_l),…,e_j^(m−1)(s_l)). Row (γ,κ), in lexicographic order with 1≤γ≤m and 1≤κ≤p, and column l of B is the minor with row set {κ,p+1,…,p+γ−1,p+γ+1,…,p+m}. V(s) is the source's Vandermonde determinant. This is a local computation with specified coordinates, not a parity-free global invariant; residue-field transfers and non-simple points are deliberately outside this recorded scope. Only the stated sections and proof setup were inspected.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": []
+}

@@ -7,7 +7,7 @@
     "text": "D₈ ⋊ Inn(D₈) (order 32)",
     "display": "D₈ ⋊ Inn(D₈) (order 32)",
     "relation": "equal",
-    "qualification": "Attributed to Harris (1982). The original article has not been directly inspected for the exact group description; the recorded identification and permutation realization were checked through Zeng’s exposition. The action uses ordinary circle coefficients, without adjoining chosen square roots of the squared radii.",
+    "qualification": "The exact group description is displayed in Zeng’s notes, using the singular-curve theta-characteristic framework attributed there to Harris (1982). Direct confirmation that Harris states this exact Apollonius group remains unavailable. The action uses ordinary circle coefficients without adjoining chosen square roots of squared radii.",
     "group": {
       "degree": 8,
       "generators": [
@@ -53,21 +53,22 @@
         ]
       ],
       "description": "D₈ ⋊ Inn(D₈)",
-      "lmfdb_url": null
+      "lmfdb_url": "https://www.lmfdb.org/GaloisGroup/8T22"
     }
   },
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "harris_1982_theta"
+    "harris_1982_theta",
+    "zeng_2025_apollonius_monodromy"
   ],
   "source": {
-    "url": "https://doi.org/10.1090/S0002-9947-1982-0654853-6",
-    "location": "Apollonius application; exact page or theorem locator not yet verified in the original article",
-    "version": "Published article, Transactions of the American Mathematical Society 271(2) (1982), 611–638"
+    "url": "https://zengrf.github.io/assets/pdf/circles-of-apollonius-monodromy.pdf",
+    "location": "Author lecture notes, Harris 1982 singular-curve theta-characteristic section and subsequent Apollonian-circle group calculation (inner holomorph and GAP 32,49).",
+    "version": "Author-hosted 2025 notes; original Harris article remains unavailable for direct inspection."
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
   "origin": {
@@ -76,5 +77,5 @@
   },
   "headline": true,
   "scope": "Labelled input circles parameterized by their ordinary conic coefficients, without adjoining chosen square roots of their squared radii.",
-  "notes": "Harris (1982) is the attributed original source and the sole bibliography reference for this result. Direct inspection of the original article and its exact result locator remains pending. Zeng’s 2025 exposition was used as a verification aid for the inner-holomorph description and the identification SmallGroup(32,49), not as the original attribution. The stored permutations give a transitive realization of that group; their labels are abstract solution labels. Do not confuse this monodromy action with McKean’s set-theoretic (C₂)^3 duality action or the group after base change to chosen radii."
+  "notes": "Zeng’s notes display the inner-holomorph description and identification SmallGroup(32,49), and credit Harris (1982) for the singular-curve theta-characteristic framework. This pass does not establish that the exact Apollonius group is stated in Harris, whose article could not be inspected. The stored permutations give a transitive realization of the displayed group; their labels are abstract solution labels. Do not confuse this action with McKean’s set-theoretic (C₂)^3 duality action or the group after base change to chosen radii. The LMFDB link identifies the recorded degree-eight permutation group."
 }

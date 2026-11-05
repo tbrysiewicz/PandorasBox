@@ -17,10 +17,12 @@
     "holmes_rome_2019_fields_rational_curves",
     "itenberg_2003_real_rational",
     "kontsevich_1994_gw",
-    "welschinger_2003_invariants"
+    "welschinger_2003_invariants",
+    "jaramillo_markwig_pauli_rohrle_2025_enriched_plane",
+    "kass_levine_solomon_wickelgren_2023_rational_curves"
   ],
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": []
 }

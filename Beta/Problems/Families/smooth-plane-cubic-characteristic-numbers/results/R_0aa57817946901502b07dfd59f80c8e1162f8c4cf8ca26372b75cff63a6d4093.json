@@ -10,7 +10,9 @@
     "relation": "equal"
   },
   "reference_ids": [
-    "aluffi_1990_smooth_cubics"
+    "aluffi_1990_smooth_cubics",
+    "maillard_1871_cubic_characteristics",
+    "zeuthen_1872_cubic_characteristics"
   ],
   "source": {
     "url": "https://www.math.fsu.edu/~aluffi/papers/1987TegopcIsc.pdf",
@@ -21,10 +23,10 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Smooth genus-one cubics, not rational cubics. Ordinary tangencies and general conditions are essential. This supplies a modern proof of classical characteristic numbers.\n\nImported from the 2026-10-26 catalogue record R_12f0b1ba0ff06183; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Smooth genus-one cubics, not rational cubics. Ordinary tangencies and general conditions are essential. This supplies a modern proof of classical characteristic numbers.\n\nImported from the 2026-10-26 catalogue record R_12f0b1ba0ff06183; the source claim has not been newly rechecked against the paper for this beta import.\n\nAluffi explicitly identifies these characteristic numbers as classical results of Maillard and Zeuthen. Those original claims and Aluffi’s rigorous verification are both cited; the modern proof is not presented as the first numerical claim. Any singleton real or monodromy assertion here is a deduction from the count.",
   "scope": "Smooth plane cubics through 9−k general points and tangent to k general lines.",
   "result_id": "R_0aa57817946901502b07dfd59f80c8e1162f8c4cf8ca26372b75cff63a6d4093"
 }

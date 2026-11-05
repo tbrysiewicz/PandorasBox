@@ -1,0 +1,30 @@
+{
+  "result_id": "R_359564df4a9966222b064f3cae7b1439aa4765d4e5008c49a4f3a3b57a4fdd80",
+  "problem_id": "P_sparse_univariate",
+  "question_id": "Q1",
+  "statement": "Let A⊂Z be a finite support with at least two exponents and put a_min=min A, a_max=max A. A general Laurent polynomial with support A has exactly a_max−a_min distinct roots in C*. Multiplication by x^(−a_min) reduces this to the degree of a polynomial with nonzero constant term.",
+  "status": "solved",
+  "evidence": "theorem",
+  "answer": {
+    "formula": "max(A)−min(A)",
+    "display": "max(A)−min(A)",
+    "relation": "equal"
+  },
+  "reference_ids": [
+    "bernshtein_1975_roots"
+  ],
+  "source": {
+    "url": "https://www.mathnet.ru/php/getFT.phtml?jrnid=faa&option_lang=eng&paperid=2258&what=fullt",
+    "location": "Original Russian article, pp.1–2: Laurent-torus formulation, mixed-volume normalization, Theorem A; specialize to n=2 or n=1 as applicable",
+    "version": "Funktsional. Anal. i Prilozhen. 9(3) (1975), pp.1–4; original primary scan freshly inspected 4 November 2026"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "scope": "Generic univariate Laurent polynomial with prescribed support A, counted in C*.",
+  "notes": "In the exponent convention 0=a_0<a_1<⋯<a_k=a used in the monodromy record, this count is a. The original 1975 bibliographic metadata were verified through MathNet; the root-count statement was directly inspected as Theorem 1.1 in Esterov’s primary research PDF.\n\nOriginality audit: this count is a specialization of Bernshtein’s 1975 theorem. Esterov’s later restatement is not the original counting result.\n\nThe one-variable count is also an elementary consequence of polynomial degree and the fundamental theorem of algebra; no priority for that elementary fact is attributed to Bernshtein.",
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": []
+}

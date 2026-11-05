@@ -1,0 +1,43 @@
+{
+  "problem_id": "P_rational_lines_two_points",
+  "question_id": "Q2",
+  "statement": "The geometric monodromy group in its action on the unique generic solution is the trivial group S1.",
+  "answer": {
+    "text": "Trivial group S1",
+    "display": "S1",
+    "relation": "equal",
+    "group": {
+      "degree": 1,
+      "generators": [
+        [
+          1
+        ]
+      ],
+      "description": "Trivial permutation group on one solution",
+      "lmfdb_url": "https://www.lmfdb.org/GaloisGroup/1T1"
+    }
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "kontsevich_1994_gw"
+  ],
+  "source": {
+    "url": "https://arxiv.org/html/0906.3828v4",
+    "location": "Theorem 1.6, equation (1.5); Example 1.7; Figure 1",
+    "version": "arXiv:0906.3828v4 (18 January 2010), full PDF and corresponding HTML checked"
+  },
+  "scope": "The generic fibre for lines through two points. For real-count assertions, all prescribed points and lines (including any specified contact point) are real and satisfy the genericity assumptions.",
+  "origin": {
+    "kind": "inherited",
+    "source_problem_id": "P_rational_lines_two_points",
+    "original_result_id": "R_a35bdae6655f7cfca7685f9467cbc560fb32ece56cb63abff1b5267455cec5af",
+    "inheritance_basis": "A reduced generic complex fibre of cardinality one has trivial permutation action; for generic real inputs conjugation fixes its unique solution."
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104"
+  ],
+  "checked_by": [],
+  "notes": "Elementary deduction from the recorded complex count one. Complex conjugation preserves the fibre for real input data, so its unique point is fixed and the solution curve is defined over R. A permutation action on a singleton is trivial. These deductions are supplied here explicitly; they are not attributed as separate theorems in the cited paper. The assertion concerns real solution curves, not reality of every point on a real curve.\n\nThe numerical count is associated with the earlier recursion (Kontsevich–Manin for rational curves). Fomin–Mikhalkin’s table remains the inspected verification source; their floor-diagram Theorem 1.6 explicitly restates Brugallé–Mikhalkin. This is not a claim that the individual numerical value was historically first found by the cited recursion.",
+  "result_id": "R_5a7ed7e1e6c5a23d0bd034c5c56e961264791207dea7512358177fe408bc93ff"
+}
