@@ -1,17 +1,5 @@
 {
-  "relationships": [
-    {
-      "relation_id": "P_lines_degree_2n3_hypersurfaces__subfamily_of__P_finite_complete_intersection_fano",
-      "source_problem_id": "P_lines_degree_2n3_hypersurfaces",
-      "target_problem_id": "P_finite_complete_intersection_fano",
-      "relation_type": "subfamily_of",
-      "relation_statement": "For every ambient n>=2, set k=1 and multidegree [2n-3]. The expected Fano dimension is 2(n-1)-((2n-3)+1)=0, so the generic line problem is the one-hypersurface subfamily of finite complete-intersection Fano problems.",
-      "evidence_location": "Introduction: Fano-problem dimension condition; direct substitution k=1 and degree 2n-3.",
-      "supporting_source_url": "https://arxiv.org/pdf/2002.04580",
-      "inheritance_policy": "No automatic inheritance. A result may be transferred only after explicitly checking its hypotheses, parameter specialization, solution convention and genericity.",
-      "caveats": "Special hypersurfaces may have positive-dimensional Fano schemes; the family link concerns the generic finite locus."
-    }
-  ],
+  "relationships": [],
   "generated_by": [
     "Taylor Brysiewicz AI 20261104"
   ],

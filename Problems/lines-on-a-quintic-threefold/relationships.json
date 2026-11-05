@@ -10,17 +10,6 @@
       "supporting_source_url": "https://arxiv.org/pdf/2402.13206v5",
       "inheritance_policy": "The universal line-count formula and generic real lower bound specialize at n=4. The full symmetric monodromy theorem applies because the degree is greater than three. No sharp real minimum or maximum is inferred.",
       "caveats": "The quintic must be general in the finite reduced line-cover locus; a smooth special quintic need not have finitely many lines."
-    },
-    {
-      "relation_id": "P_lines_quintic_threefold__instance_of__P_finite_complete_intersection_fano",
-      "source_problem_id": "P_lines_quintic_threefold",
-      "target_problem_id": "P_finite_complete_intersection_fano",
-      "relation_type": "instance_of",
-      "relation_statement": "Set ambient projective dimension n=4, linear-space dimension k=1, and multidegree [5]. The complete intersection is one hypersurface, and its Fano scheme parameterizes precisely the lines in this problem.",
-      "evidence_location": "Definition of a Fano problem in the introduction; hypersurfaces are the one-entry multidegree case.",
-      "supporting_source_url": "https://arxiv.org/pdf/2002.04580",
-      "inheritance_policy": "No automatic inheritance. A result may be transferred only after explicitly checking its hypotheses, parameter specialization, solution convention and genericity.",
-      "caveats": "The cubic-surface case is the exceptional Weyl-group case, not a full-symmetric case. Use only general hypersurfaces with finite reduced line schemes."
     }
   ],
   "generated_by": [
