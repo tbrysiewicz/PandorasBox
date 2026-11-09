@@ -11,7 +11,7 @@
     "relation": "equal"
   },
   "reference_ids": [
-    "debarre_manivel_1998_fano"
+    "yahl_2022_fano_galois"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2209.07010",
@@ -24,6 +24,6 @@
     "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "The Vandermonde orientation and the decreasing target exponents are paired as in the source. This counts a reduced generic Fano scheme, not arbitrary special fibres.\n\nThe degree formula is Debarre–Manivel, Theorem 4.3; Yahl’s Theorem 2 and numerical table reproduce it. Yahl’s new monodromy results are separately credited to Yahl.",
+  "notes": "The Vandermonde orientation and the decreasing target exponents are paired as in the source. This counts a reduced generic Fano scheme, not arbitrary special fibres.\n\nThe degree formula is Debarre–Manivel, Theorem 4.3; Yahl’s Theorem 2 and numerical table reproduce it. Yahl’s new monodromy results are separately credited to Yahl.\n\nOlivier Debarre; Laurent Manivel, Sur la variété des espaces linéaires contenus dans une intersection complète (1998, article ID debarre_manivel_1998_fano). Earlier attribution or derivation. The current result cites the article actually inspected at the recorded source locator, which restates, tabulates, or specializes this earlier work.",
   "scope": "r>=1, d_j>=2, 2r<=n-s, expected dimension (r+1)(n-r)-sum_j binom(d_j+r,r)=0; general complete intersection over C."
 }

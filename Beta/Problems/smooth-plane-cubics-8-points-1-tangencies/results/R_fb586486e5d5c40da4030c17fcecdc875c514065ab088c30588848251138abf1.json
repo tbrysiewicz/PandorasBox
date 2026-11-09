@@ -1,7 +1,7 @@
 {
   "problem_id": "P_smooth_plane_cubics_8_points_1_tangencies",
   "question_id": "Q1",
-  "statement": "There are 4 smooth plane cubics through 8 general points and properly tangent to 1 general lines.",
+  "statement": "There are 4 smooth plane cubics through 8 general points and properly tangent to one general line.",
   "answer": {
     "count": 4,
     "display": "4",
@@ -10,9 +10,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "aluffi_1990_smooth_cubics",
-    "maillard_1871_cubic_characteristics",
-    "zeuthen_1872_cubic_characteristics"
+    "aluffi_1990_smooth_cubics"
   ],
   "source": {
     "url": "https://www.math.fsu.edu/~aluffi/papers/1987TegopcIsc.pdf",
@@ -29,6 +27,6 @@
     "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Source specialization: Entry k=1 of the explicit characteristic-number table in Corollary IV.\n\nAluffi explicitly identifies these characteristic numbers as classical results of Maillard and Zeuthen. Those original claims and Aluffi’s rigorous verification are both cited; the modern proof is not presented as the first numerical claim. Any singleton real or monodromy assertion here is a deduction from the count.",
+  "notes": "Source specialization: Entry k=1 of the explicit characteristic-number table in Corollary IV.\n\nAluffi explicitly identifies these characteristic numbers as classical results of Maillard and Zeuthen. Aluffi supplies the inspected rigorous verification; the earlier claims remain historical attribution in these notes. Any singleton real or monodromy assertion here is a deduction from the count.\n\nS. Maillard, Recherche des caractéristiques des systèmes élémentaires de courbes planes du troisième ordre (1871, article ID maillard_1871_cubic_characteristics). Historical attribution recorded by the cited supporting article. No separately inspected result locator in this earlier article was recorded for this result.\n\nH. G. Zeuthen, Détermination des caractéristiques des systèmes élémentaires de cubiques (1872, article ID zeuthen_1872_cubic_characteristics). Historical attribution recorded by the cited supporting article. No separately inspected result locator in this earlier article was recorded for this result.",
   "result_id": "R_fb586486e5d5c40da4030c17fcecdc875c514065ab088c30588848251138abf1"
 }

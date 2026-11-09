@@ -1,7 +1,7 @@
 {
   "problem_id": "P_so4_linear_sections",
   "question_id": "Q4",
-  "statement": "The authors report alpha-theory certification of at least one witness set attaining their observed maximum of 30 real points on SO(4). This is a lower bound on the maximum, not a proof that 30 is maximal.",
+  "statement": "A real complementary affine linear section of SO(4) can have at least thirty distinct real points.",
   "status": "partial",
   "evidence": "certified_computation",
   "answer": {
@@ -24,7 +24,7 @@
     "Taylor Brysiewicz AI 20261103"
   ],
   "checked_by": [],
-  "notes": "The paper says only selected maximum witnesses were certified; its full frequency table is numerical. Certificates were not rerun.\n\nImported from the 2026-10-26 catalogue record R_a7b83ced3a66937d; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "The paper says only selected maximum witnesses were certified; its full frequency table is numerical. Certificates were not rerun.\n\nImported from the 2026-10-26 catalogue record R_a7b83ced3a66937d; the source claim has not been newly rechecked against the paper for this beta import.\n\nThe article reports alpha-theory certification of a witness attaining its observed maximum of thirty real points. This establishes a lower bound on the maximum.",
   "scope": "Generic real complementary affine sections of SO(4) in matrix-entry coordinates.",
   "result_id": "R_e7ecc3112e749e01a44f6bd8c5835117bab5d5102c5cbecc8ab0e91f9967f651"
 }

@@ -10,7 +10,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "fulton_1998_intersection_theory"
+    "aslam_2026_common_secants"
   ],
   "source": {
     "url": "https://arxiv.org/html/2603.25003v1",
@@ -25,5 +25,5 @@
   ],
   "checked_by": [],
   "result_id": "R_97e6c46b598b4fb99ea8cef9cb881739f65c5685f45f390b07183f3cbc5c5446",
-  "notes": "Aslam et al. explicitly label the 10-secant count classical and cite Fulton, Example 14.7.7(c), as a standard treatment. The 2026 paper remains the inspected verification source; its monodromy and refined real results retain their own associations."
+  "notes": "Aslam et al. explicitly label the 10-secant count classical and cite Fulton, Example 14.7.7(c), as a standard treatment. The 2026 paper remains the inspected verification source; its monodromy and refined real results retain their own associations.\n\nWilliam Fulton, Intersection Theory, second edition (1998, article ID fulton_1998_intersection_theory). Earlier attribution or derivation. The current result cites the article actually inspected at the recorded source locator, which restates, tabulates, or specializes this earlier work."
 }

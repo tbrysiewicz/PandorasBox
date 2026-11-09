@@ -2,9 +2,9 @@
   "result_id": "R_e58502eb17ed9605",
   "problem_id": "P_circles_three_conics",
   "question_id": "Q1",
-  "statement": "Three general conics in the complex affine plane admit exactly 184 tangent circles. Circles are represented projectively by conics passing through the two circular points at infinity; the count is computed in the space of complete conics and counts geometric circles rather than redundant contact coordinates.",
+  "statement": "Three general conics in the complex affine plane admit exactly 184 geometric tangent circles.",
   "answer": {
-    "text": "Three general conics in the complex affine plane admit exactly 184 tangent circles. Circles are represented projectively by conics passing through the two circular points at infinity; the count is computed in the space of complete conics and counts geometric circles rather than redundant contact coordinates.",
+    "text": "Three general conics in the complex affine plane admit exactly 184 geometric tangent circles.",
     "display": "184",
     "relation": "equal",
     "qualification": "",
@@ -30,5 +30,5 @@
   },
   "headline": true,
   "scope": "Three general complex plane conics; circles are conics through the two circular points at infinity.",
-  "notes": "Generic geometric circles; not the naive degree of the nine-equation incidence system."
+  "notes": "Generic geometric circles; not the naive degree of the nine-equation incidence system.\n\nSource discussion. Three general conics in the complex affine plane admit exactly 184 tangent circles. Circles are represented projectively by conics passing through the two circular points at infinity; the count is computed in the space of complete conics and counts geometric circles rather than redundant contact coordinates."
 }

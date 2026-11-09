@@ -1,7 +1,7 @@
 {
   "problem_id": "P_finite_complete_intersection_fano",
   "question_id": "Q2",
-  "statement": "A finite complete-intersection Fano problem of degree strictly less than 75,000 has full symmetric Galois group unless its type is (r,n,d•)=(1,3,(3)) or (r,2r+2,(2,2)) with r≥1. Twelve previously undetermined types are proved fully symmetric by exact verification of a double root and interval certification of every remaining simple solution.",
+  "statement": "A finite complete-intersection Fano problem of degree strictly less than 75,000 has full symmetric Galois group unless its type is (r,n,d•)=(1,3,(3)) or (r,2r+2,(2,2)) with r≥1.",
   "status": "partial",
   "evidence": "certified_computation",
   "answer": {
@@ -20,10 +20,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261103",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "The theorem is rigorous, combining symbolic computation and interval certification. The threshold is strict. The excluded cubic-surface and two-quadric families have Weyl groups and are not asserted symmetric.\n\nImported from the 2026-10-26 catalogue record R_32738ade4a94c4e6; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "The theorem is rigorous, combining symbolic computation and interval certification. The threshold is strict. The excluded cubic-surface and two-quadric families have Weyl groups and are not asserted symmetric.\n\nImported from the 2026-10-26 catalogue record R_32738ade4a94c4e6; the source claim has not been newly rechecked against the paper for this beta import.\n\nA finite complete-intersection Fano problem of degree strictly less than 75,000 has full symmetric Galois group unless its type is (r,n,d•)=(1,3,(3)) or (r,2r+2,(2,2)) with r≥1. Twelve previously undetermined types are proved fully symmetric by exact verification of a double root and interval certification of every remaining simple solution.",
   "scope": "r-dimensional projective linear spaces on a general complex complete intersection of the specified multidegree in P^n, when the Fano scheme is finite.",
   "result_id": "R_7a86f9941fed4dc49b7757d7fb9bb728d1a4d4a97156802cbb0ca6f5b3dfad11"
 }

@@ -5,10 +5,14 @@
     "George Salmon"
   ],
   "year": "1849",
-  "venue": "The Cambridge and Dublin Mathematical Journal 4, 252–260",
-  "notes": "Historical companion to Cayley 1849. Cayley explicitly credits Salmon for the number of lines; Sottile–Yahl bibliography supplies this publication. Original Salmon text not inspected in this pass. This records the attributed claim, not a new proof inspection.",
+  "venue": "The Cambridge and Dublin Mathematical Journal",
+  "notes": "Original 1849 article. Section VI, printed pages 258–260, derives the line count from the degree of the locus of points admitting a line with fourth-order contact. The cubic specialization gives degree 27 on printed page 260. Section V, printed pages 255–258, also studies singular cubic surfaces and their weighted line counts.",
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
-  "checked_by": []
+  "checked_by": [],
+  "volume": "4",
+  "pages": "252–260",
+  "url": "https://archive.org/details/cambridgeanddub03unkngoog/page/n259/mode/1up"
 }

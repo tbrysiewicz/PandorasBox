@@ -13,7 +13,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "schubert_1879_kalkul"
+    "basu_2016_random_lines"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/1610.01205v2",
@@ -31,5 +31,5 @@
     "inheritance_basis": "Set n=4 and degree 2n−3=5 in Theorem 6. The prefactor is 25/576, and exact expansion using independent complex-Gaussian moments gives E|det J|²=66240; hence (25/576)·66240=2875."
   },
   "headline": true,
-  "notes": "This is an explicitly evaluated specialization of the cited theorem, not a claim that the paper prints 2875. The generic Fano scheme is reduced and zero-dimensional; no claim is made for every smooth quintic.\n\nThe 2875 count is Schubert’s classical 1879 enumeration, also explicitly credited in Álvarez-Vizoso’s introduction. Basu et al. are retained as a verification source; their new determinant expression and real expectations have separate records."
+  "notes": "This is an explicitly evaluated specialization of the cited theorem, not a claim that the paper prints 2875. The generic Fano scheme is reduced and zero-dimensional; no claim is made for every smooth quintic.\n\nThe 2875 count is Schubert’s classical 1879 enumeration, also explicitly credited in Álvarez-Vizoso’s introduction. Basu et al. are retained as a verification source; their new determinant expression and real expectations have separate records.\n\nRelated literature. Kalkül der abzählenden Geometrie (Hermann Schubert, 1879). Historical attribution is retained here. The result’s sole article reference identifies the inspected statement or calculation at the recorded locator."
 }

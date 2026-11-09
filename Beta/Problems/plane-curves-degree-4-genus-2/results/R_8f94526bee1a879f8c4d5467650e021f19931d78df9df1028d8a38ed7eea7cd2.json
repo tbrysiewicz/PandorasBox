@@ -10,7 +10,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "caporaso_1996_plane_curves"
+    "fomin_2009_labeled_floors"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/0906.3828v4",
@@ -28,6 +28,6 @@
     "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "The value is the irreducible count in Figure 1, not the possibly reducible Severi-degree entry in Figure 2.\n\nThe numerical count is associated with the earlier recursion (Caporaso–Harris for plane curves of arbitrary genus). Fomin–Mikhalkin’s table remains the inspected verification source; their floor-diagram Theorem 1.6 explicitly restates Brugallé–Mikhalkin. This is not a claim that the individual numerical value was historically first found by the cited recursion.",
+  "notes": "The value is the irreducible count in Figure 1, not the possibly reducible Severi-degree entry in Figure 2.\n\nThe numerical count is associated with the earlier recursion (Caporaso–Harris for plane curves of arbitrary genus). Fomin–Mikhalkin’s table remains the inspected verification source; their floor-diagram Theorem 1.6 explicitly restates Brugallé–Mikhalkin. This is not a claim that the individual numerical value was historically first found by the cited recursion.\n\nLucia Caporaso; Joe Harris, Counting plane curves of any genus (1998, article ID caporaso_1996_plane_curves). Earlier attribution or derivation. The current result cites the article actually inspected at the recorded source locator, which restates, tabulates, or specializes this earlier work.",
   "result_id": "R_8f94526bee1a879f8c4d5467650e021f19931d78df9df1028d8a38ed7eea7cd2"
 }

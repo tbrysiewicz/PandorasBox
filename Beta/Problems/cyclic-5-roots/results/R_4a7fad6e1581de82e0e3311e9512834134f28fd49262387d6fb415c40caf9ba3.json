@@ -11,8 +11,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "haagerup_2008_cyclic_prime",
-    "bjorck_froberg_1991_cyclic"
+    "haagerup_2008_cyclic_prime"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/0803.2629v1",
@@ -26,9 +25,10 @@
     "original_result_id": "R_090c9dcbe5a8471edb7738fb71bd6c66a379679b166938f4a24474438c466de9"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "Haagerup explicitly recalls simplicity for these small primes. Simplicity for arbitrary prime length is not asserted.\n\nThe earlier enumeration is credited to Björck–Fröberg (1991) in Haagerup’s introduction; Haagerup supplies the inspected recap, including simplicity. The general prime-length theorem remains a separate Haagerup result.",
+  "notes": "Haagerup explicitly recalls simplicity for these small primes. Simplicity for arbitrary prime length is not asserted.\n\nThe earlier enumeration is credited to Björck–Fröberg (1991) in Haagerup’s introduction; Haagerup supplies the inspected recap, including simplicity. The general prime-length theorem remains a separate Haagerup result.\n\nThe following bibliography supplies historical attribution or supporting background for the result. Göran Björck, Ralf Fröberg, A faster way to count the solutions of inhomogeneous systems of algebraic equations, with applications to cyclic n-roots (1991, bjorck_froberg_1991_cyclic).",
   "result_id": "R_4a7fad6e1581de82e0e3311e9512834134f28fd49262387d6fb415c40caf9ba3"
 }

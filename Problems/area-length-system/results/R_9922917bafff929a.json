@@ -2,7 +2,7 @@
   "result_id": "R_9922917bafff929a",
   "problem_id": "P_4simplex_area_length",
   "question_id": "Q4",
-  "statement": "For nonsquared areas (A_123,A_124,A_125,A_134,A_135,A_145,A_234,A_235,A_245,A_345)=(1,11251,5823,5804,2852,1,5350,2972,16615,19144), interval certification proves at least 64 distinct isolated real solutions. The paper also certifies the same conclusion when A_145 is replaced by any integer from 1 through 207.",
+  "statement": "The area–length system has at least 64 distinct isolated real squared-edge solutions for nonsquared areas (A_123,A_124,A_125,A_134,A_135,A_145,A_234,A_235,A_245,A_345)=(1,11251,5823,5804,2852,1,5350,2972,16615,19144), and also when A_145 is replaced by any integer from 1 through 207.",
   "answer": {
     "text": "≥64.",
     "display": "≥64.",
@@ -31,5 +31,5 @@
   },
   "headline": true,
   "scope": "Ten labelled squared edge variables x_ij=l_ij^2 of a 4-simplex; ten Heron equations 4x_ij*x_ik−(x_ij+x_ik−x_jk)^2=16v_ijk, with v_ijk=A_ijk^2. Positive integer nonsquared area parameters; real solutions counted before quotienting x~−x.",
-  "notes": "This is a rigorous lower bound on the maximum. Equality with the maximum additionally uses the numerically reported generic degree 64. Negative squared-edge solutions need not be geometric."
+  "notes": "This is a rigorous lower bound on the maximum. Equality with the maximum additionally uses the numerically reported generic degree 64. Negative squared-edge solutions need not be geometric.\n\nSource discussion. For nonsquared areas (A_123,A_124,A_125,A_134,A_135,A_145,A_234,A_235,A_245,A_345)=(1,11251,5823,5804,2852,1,5350,2972,16615,19144), interval certification proves at least 64 distinct isolated real solutions. The paper also certifies the same conclusion when A_145 is replaced by any integer from 1 through 207."
 }

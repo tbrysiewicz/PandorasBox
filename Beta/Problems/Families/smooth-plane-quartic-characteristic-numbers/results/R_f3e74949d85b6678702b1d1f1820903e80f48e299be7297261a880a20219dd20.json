@@ -1,0 +1,33 @@
+{
+  "problem_id": "P_smooth_plane_quartic_characteristic_numbers",
+  "question_id": "Q4",
+  "statement": "The maximum number of real smooth plane quartics through thirteen general real points and tangent to one general real line is six.",
+  "answer": {
+    "text": "With one line tangency, the maximum is 6 and total reality is attained.",
+    "display": "k=1: 6",
+    "count": 6,
+    "relation": "partial",
+    "value": "6 (k=1)"
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "ronga_2000_real_riemann_hurwitz"
+  ],
+  "source": {
+    "url": "https://www.maths.tcd.ie/EMIS/journals/em/docs/boletim/vol312/v31-2-a5-2000.pdf",
+    "location": "Section 4, Theorem; complex upper count in Section 2, specialized to degree 4",
+    "version": "Published article (2000), printed pp.176–177,183–184; primary PDF checked 9 November 2026"
+  },
+  "scope": "Smooth irreducible degree-4 plane curves through thirteen general real points and tangent to one general real line.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
+  ],
+  "checked_by": [],
+  "notes": "The total-reality construction is the degree-four specialization of the theorem in Section 4. The complex count is 2(d−1)=6. This record was separated from the two-tangency Bertrand result.",
+  "result_id": "R_f3e74949d85b6678702b1d1f1820903e80f48e299be7297261a880a20219dd20"
+}

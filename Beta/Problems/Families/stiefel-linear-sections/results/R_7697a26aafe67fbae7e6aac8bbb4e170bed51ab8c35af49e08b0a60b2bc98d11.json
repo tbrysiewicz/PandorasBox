@@ -1,11 +1,11 @@
 {
   "problem_id": "P_stiefel_linear_sections",
   "question_id": "Q1",
-  "statement": "Table 1 gives the degrees of St(k,n) for small k and n. For n at most 4: St(1,n) has degree 2; St(2,2), St(2,3), St(2,4) have degrees 4, 8, 8; St(3,3), St(3,4), St(4,4) have degrees 16, 40, 80.",
+  "statement": "For n≤4, St(1,n) has degree 2. St(2,2), St(2,3), and St(2,4) have degrees 4,8,8. St(3,3), St(3,4), and St(4,4) have degrees 16,40,80.",
   "status": "partial",
   "evidence": "theorem",
   "answer": {
-    "text": "Table 1 gives the degrees of St(k,n) for small k and n. For n at most 4: St(1,n) has degree 2; St(2,2), St(2,3), St(2,4) have degrees 4, 8, 8; St(3,3), St(3,4), St(4,4) have degrees 16, 40, 80.",
+    "text": "For n≤4, St(1,n) has degree 2; St(2,2), St(2,3), and St(2,4) have degrees 4,8,8; St(3,3), St(3,4), and St(4,4) have degrees 16,40,80.",
     "display": "Small-case table",
     "relation": "partial"
   },
@@ -24,7 +24,7 @@
     "Taylor Brysiewicz AI 20261103"
   ],
   "checked_by": [],
-  "notes": "Small-case values read from the source table. The legacy general-formula transcription is omitted.",
+  "notes": "Small-case values read from the source table. The legacy general-formula transcription is omitted.\n\nThese small-case degrees are the entries of Table 1.",
   "scope": "St(k,n)={X in C^(k×n): XX^T=I_k}, n≥k, in its matrix-entry embedding; generic complementary affine linear section.",
   "result_id": "R_7697a26aafe67fbae7e6aac8bbb4e170bed51ab8c35af49e08b0a60b2bc98d11"
 }

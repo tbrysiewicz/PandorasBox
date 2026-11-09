@@ -1,7 +1,7 @@
 {
   "problem_id": "P_kuramoto_graph",
   "question_id": "Q8",
-  "statement": "For the zero-frequency four-cycle, the balancing equation k_10 k_32=k_12 k_30 produces a parametrized complex solution curve. In particular, when all couplings equal one, θ=(0,t+π,π,t), modulo 2π, is a real one-parameter family of equilibria. Thus phase fixing does not always make the fibre finite.",
+  "statement": "For a zero-frequency four-cycle, the balancing equation k_10 k_32=k_12 k_30 gives a positive-dimensional complex solution fibre. With all couplings equal to one, θ=(0,t+π,π,t) is a real one-parameter family of equilibria modulo 2π.",
   "status": "partial",
   "evidence": "theorem",
   "answer": {
@@ -10,8 +10,7 @@
     "relation": "partial"
   },
   "reference_ids": [
-    "chen_2022_typical_atypical",
-    "lindberg_2020_real_power_flow"
+    "chen_2022_typical_atypical"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2210.00784v3",
@@ -22,10 +21,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "This extracted example is a concrete subfamily of the broader exceptional-coupling theory; it is not a classification of all graph fibres. Migration: Merge exceptional-fibre behaviour into Exceptional locus; preserve each source result separately.\n\nImported from the 2026-10-26 catalogue record R_e2247ca422025ce1; the source claim has not been newly rechecked against the paper for this beta import.\n\nThe all-unit-coupling continuum is credited to Lindberg et al. in the source. The general balancing equation and its construction remain Chen–Korchevskaia–Lindberg’s contribution.",
+  "notes": "This extracted example is a concrete subfamily of the broader exceptional-coupling theory; it is not a classification of all graph fibres. Migration: Merge exceptional-fibre behaviour into Exceptional locus; preserve each source result separately.\n\nImported from the 2026-10-26 catalogue record R_e2247ca422025ce1; the source claim has not been newly rechecked against the paper for this beta import.\n\nThe all-unit-coupling continuum is credited to Lindberg et al. in the source. The general balancing equation and its construction remain Chen–Korchevskaia–Lindberg’s contribution.\n\nFor the zero-frequency four-cycle, the balancing equation k_10 k_32=k_12 k_30 produces a parametrized complex solution curve. In particular, when all couplings equal one, θ=(0,t+π,π,t), modulo 2π, is a real one-parameter family of equilibria. Thus phase fixing does not always make the fibre finite.\n\nThe following bibliography supplies historical attribution or supporting background for the result. Julia Lindberg, Alisha Zachariah, Nigel Boston, Bernard C. Lesieutre, The Distribution of the Number of Real Solutions to the Power Flow Equations (2023, lindberg_2020_real_power_flow).",
   "scope": "Connected graph Kuramoto systems with symmetric nonzero couplings; explicitly extracted exceptional family: zero-frequency C4 on edges 01,12,23,30, with θ_0=0.",
   "result_id": "R_6eb37206b7b885a0850822feacb07aedf2899808fef7cba161d25a82c08493cc"
 }

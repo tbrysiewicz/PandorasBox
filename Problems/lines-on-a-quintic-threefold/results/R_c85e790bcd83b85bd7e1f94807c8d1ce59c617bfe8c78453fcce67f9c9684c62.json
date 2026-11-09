@@ -2,7 +2,7 @@
   "result_id": "R_c85e790bcd83b85bd7e1f94807c8d1ce59c617bfe8c78453fcce67f9c9684c62",
   "problem_id": "P_lines_quintic_threefold",
   "question_id": "Q6",
-  "statement": "For a Kostlan random real quintic hypersurface in RP^4, the expected number of real projective lines is (5/12) E[|det J|]. Here J has six columns (v_i,0),(0,v_i), i=1,2,3, and the independent five-entry Gaussian vectors have coordinate variances (1,4,6,4,1).",
+  "statement": "For a Kostlan random real quintic hypersurface in RP^4, the expected number of real projective lines is (5/12) E|det J|, where J is the Gaussian matrix specified in Notes.",
   "answer": {
     "text": "(5/12) E[|det J|]",
     "display": "(5/12) E[|det J|]",
@@ -22,7 +22,7 @@
     "version": "arXiv:1610.01205v2 (8 November 2016)"
   },
   "scope": "Generic real quintic threefolds under the Kostlan coefficient distribution.",
-  "notes": "Direct specialization n=4: the product of binomial coefficients in the denominator is sqrt(1*5*10*10*5*1)=50, and 5^3/(Gamma(4)*50)=5/12.",
+  "notes": "Direct specialization n=4: the product of binomial coefficients in the denominator is sqrt(1*5*10*10*5*1)=50, and 5^3/(Gamma(4)*50)=5/12.\n\nSource discussion. For a Kostlan random real quintic hypersurface in RP^4, the expected number of real projective lines is (5/12) E[|det J|]. Here J has six columns (v_i,0),(0,v_i), i=1,2,3, and the independent five-entry Gaussian vectors have coordinate variances (1,4,6,4,1).\n\nThe matrix J has paired columns (v_i,0) and (0,v_i), i=1,2,3. The independent five-entry centred Gaussian vectors have coordinate variances (1,4,6,4,1).",
   "generated_by": [
     "Taylor Brysiewicz AI 20261104"
   ],

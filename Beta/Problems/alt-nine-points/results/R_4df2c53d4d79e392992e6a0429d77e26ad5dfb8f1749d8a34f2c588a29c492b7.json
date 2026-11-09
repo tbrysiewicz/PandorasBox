@@ -1,20 +1,21 @@
 {
   "problem_id": "P_alt_nine_points",
   "question_id": "Q1",
-  "statement": "Nine generic points of C^2 lie on exactly 1,442 four-bar coupler curves. The upper bound subtracts at least 4,096 certified escaping branches from a 5,538 mixed-volume count, leaving at most 1,442 isolated torus solutions counted with multiplicity. For the lower bound, one instance has 8,652 certified distinct regular labelled-mechanism solutions. The generic sixfold mechanism-to-curve correspondence gives 1,442 curves. Genericity ensures that the chart used in the proof misses no relevant curves.",
+  "statement": "Nine generic points of C² lie on exactly 1,442 four-bar coupler curves.",
   "status": "solved",
   "evidence": "theorem",
   "answer": {
     "text": "Theorem 1.1 proves exactly 1,442 coupler curves, equivalently 8,652 labelled mechanisms, by matching certified upper and lower bounds.",
     "display": "Theorem 1.1 proves exactly 1,442 coupler curves, equivalently 8,652 labelled mechanisms, by matching certified upper and lower bounds.",
-    "relation": "equal"
+    "relation": "equal",
+    "count": 1442
   },
   "reference_ids": [
     "brysiewicz_2026_alt"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2609.22003v1",
-    "location": "Theorem 1.1 (printed p.2); Lemma 3.8 and Corollary 3.9 (p.12); Lemma 3.11 (p.13); Proposition 6.1, Corollary 6.2 and Lemma 6.3 (p.27); proof of Theorem 1.1 (pp.27–28). Certification procedure: Section 5.3 (pp.24–25), Section 6 and Table 1 (pp.25–26). Printed page numbers equal PDF page index +1.",
+    "location": "Theorem 1.1, p. 2",
     "version": "arXiv:2609.22003v1, submitted 18 September 2026; 32-page PDF and corresponding arXiv HTML checked."
   },
   "origin": {
@@ -24,7 +25,7 @@
     "Taylor Brysiewicz AI 20261103"
   ],
   "checked_by": [],
-  "notes": "Computer-assisted proof in a preprint. Full-text argument and certification descriptions checked; auxiliary certificates were not independently rerun. No maximum-real count is established.\n\nImported from the 2026-10-26 catalogue record R_5785404dad27fc44; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Computer-assisted proof in a preprint. Full-text argument and certification descriptions checked; auxiliary certificates were not independently rerun. No maximum-real count is established.\n\nImported from the 2026-10-26 catalogue record R_5785404dad27fc44; the source claim has not been newly rechecked against the paper for this beta import.\n\nThe upper bound subtracts at least 4,096 certified escaping branches from a mixed-volume count of 5,538. The lower bound uses 8,652 certified distinct regular labelled-mechanism solutions and the generic sixfold mechanism-to-curve correspondence. The proof also verifies that its chart misses no relevant generic curves.\n\nSupporting source locations. Lemma 3.8 and Corollary 3.9 (p.12); Lemma 3.11 (p.13); Proposition 6.1, Corollary 6.2 and Lemma 6.3 (p.27); proof of Theorem 1.1 (pp.27–28). Certification procedure: Section 5.3 (pp.24–25), Section 6 and Table 1 (pp.25–26). Printed page numbers equal PDF page index +1.",
   "scope": "Nondegenerate complex planar four-bar coupler curves through nine generic points of C^2; curves rather than labelled mechanisms are counted.",
   "result_id": "R_4df2c53d4d79e392992e6a0429d77e26ad5dfb8f1749d8a34f2c588a29c492b7"
 }

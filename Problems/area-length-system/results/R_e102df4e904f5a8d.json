@@ -2,7 +2,7 @@
   "result_id": "R_e102df4e904f5a8d",
   "problem_id": "P_4simplex_area_length",
   "question_id": "Q1",
-  "statement": "For generic ten squared triangular areas of a 4-simplex, the area-length system in ten squared edge variables has 64 isolated complex solutions according to the starred numerical result. A total-degree homotopy starts with 1024 paths; 64 reach finite solutions and 960 diverge. The 64 solutions include both members of every global sign pair x and −x.",
+  "statement": "For generic ten squared triangular areas of a 4-simplex, numerical homotopy continuation finds 64 isolated complex squared-edge solutions, including both members of every global sign pair x and −x.",
   "answer": {
     "text": "64 (numerical).",
     "display": "64 (numerical).",
@@ -30,5 +30,5 @@
   },
   "headline": true,
   "scope": "Ten labelled squared edge variables x_ij=l_ij^2 of a 4-simplex; ten Heron equations 4x_ij*x_ik−(x_ij+x_ik−x_jk)^2=16v_ijk, with v_ijk=A_ijk^2.",
-  "notes": "The source explicitly marks the generic degree as susceptible to numerical error. These are squared-length assignments, not 64 Euclidean simplices, unsquared signed edge vectors, or sign-quotient classes."
+  "notes": "The source explicitly marks the generic degree as susceptible to numerical error. These are squared-length assignments, not 64 Euclidean simplices, unsquared signed edge vectors, or sign-quotient classes.\n\nSource discussion. For generic ten squared triangular areas of a 4-simplex, the area-length system in ten squared edge variables has 64 isolated complex solutions according to the starred numerical result. A total-degree homotopy starts with 1024 paths; 64 reach finite solutions and 960 diverge. The 64 solutions include both members of every global sign pair x and −x."
 }

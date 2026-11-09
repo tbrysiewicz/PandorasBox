@@ -1,7 +1,7 @@
 {
   "problem_id": "P_plane_curves_degree_4_genus_3",
   "question_id": "Q1",
-  "statement": "There are 1 smooth plane quartics through 14 general points and properly tangent to 0 general lines.",
+  "statement": "Exactly one smooth plane quartic passes through fourteen general points.",
   "answer": {
     "count": 1,
     "display": "1",
@@ -10,8 +10,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "vakil_1999_quartic_characteristic",
-    "zeuthen_1873_plane_curve_systems"
+    "vakil_1999_quartic_characteristic"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/math/9812018v1",
@@ -25,9 +24,10 @@
     "original_result_id": "R_4f733e1fb33f987b22de2be35c0e6ebe9d54b3d2a65d8d742f3064784ba58822"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "Source specialization: Table 7, entry a=14 point conditions.\n\nZeuthen 1873 predicted these quartic characteristic numbers; Vakil completes their rigorous verification. The prediction and proof are distinguished, and both references are retained. Singleton real/monodromy conclusions are deductions from the count.",
+  "notes": "Source specialization: Table 7, entry a=14 point conditions.\n\nZeuthen 1873 predicted these quartic characteristic numbers; Vakil completes their rigorous verification. The prediction is historical context for the proof. Singleton real/monodromy conclusions are deductions from the count.\n\nThere are 1 smooth plane quartics through 14 general points and properly tangent to 0 general lines.\n\nThe following bibliography supplies historical attribution or supporting background for the result. H. G. Zeuthen, Almindelige Egenskaber ved Systemer af plane Kurver (1873, zeuthen_1873_plane_curve_systems).",
   "result_id": "R_50909c87d4ef4248dcb64574be35152db7b0b1f5a6718ab798c148947a4e6c61"
 }

@@ -1,7 +1,7 @@
 {
   "problem_id": "P_kuramoto_graph",
   "question_id": "Q8",
-  "statement": "For a graph G, some common coupling K>0 and some frequencies produce an equilibrium with identically zero Jacobian if and only if G is bipartite. Set the phases on its two parts to 0 and pi/2 and define the frequencies by the equilibrium equations.",
+  "statement": "A graph admits a Kuramoto equilibrium with identically zero Jacobian for some common coupling K>0 and some frequencies if and only if it is bipartite.",
   "status": "partial",
   "evidence": "theorem",
   "answer": {
@@ -24,7 +24,7 @@
     "Taylor Brysiewicz AI 20261103"
   ],
   "checked_by": [],
-  "notes": "Only the common positive edge-coupling subfamily is classified. This is a classification of a particular singularity type, not the entire discriminant or all singular equilibria. Migration: Merge exceptional-fibre behaviour into Exceptional locus; preserve each source result separately.\n\nImported from the 2026-10-26 catalogue record R_408f00a962805842; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Only the common positive edge-coupling subfamily is classified. This is a classification of a particular singularity type, not the entire discriminant or all singular equilibria. Migration: Merge exceptional-fibre behaviour into Exceptional locus; preserve each source result separately.\n\nImported from the 2026-10-26 catalogue record R_408f00a962805842; the source claim has not been newly rechecked against the paper for this beta import.\n\nFor the bipartite construction, assign phases 0 and pi/2 to the two parts and define the frequencies by the equilibrium equations.",
   "scope": "Connected simple graph G, common positive coupling K on every edge, variable real frequencies, and physical phase equilibria whose full Jacobian is identically zero.",
   "result_id": "R_693223d9901edf862cfa2d1ba44c498876795c38910be1dee434d01ee662f199"
 }

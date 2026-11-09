@@ -1,0 +1,32 @@
+{
+  "result_id": "R_384a53732bafcf7e5035d4d52f47fdef4cf4feaa0989742720fc29b03c9077b7",
+  "problem_id": "P_tangent_lines_4_spheres_dimension_3",
+  "question_id": "Q4",
+  "statement": "There exist four pairwise disjoint unit spheres in R³ with twelve distinct common real tangent lines.",
+  "status": "partial",
+  "evidence": "theorem",
+  "answer": {
+    "text": "Twelve distinct real common tangent lines are attained by unit spheres.",
+    "display": "≥12",
+    "count": 12,
+    "relation": "at_least"
+  },
+  "reference_ids": [
+    "macdonald_2001_four_balls"
+  ],
+  "source": {
+    "url": "https://www.renyi.hu/~pach/publications/tangents.pdf",
+    "location": "Theorem 1, printed page 2; Section 3, tightness construction",
+    "version": "Author-hosted 15-page article PDF, primary Theorem 1 visually checked 9 November 2026"
+  },
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
+  ],
+  "checked_by": [],
+  "scope": "Four pairwise disjoint unit spheres in R³; common tangent lines counted without orientation.",
+  "notes": "Theorem 1 also proves that four unit spheres have at most twelve isolated common tangent lines unless their centers are collinear, when there can be infinitely many. The theorem’s unit-radius construction gives the stated lower bound for the broader ordinary-sphere problem. The unrestricted-sphere upper bound is recorded separately under Sottile–Theobald."
+}

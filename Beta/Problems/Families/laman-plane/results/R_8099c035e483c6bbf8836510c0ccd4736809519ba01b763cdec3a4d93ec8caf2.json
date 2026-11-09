@@ -1,7 +1,7 @@
 {
   "problem_id": "P_laman_plane",
   "question_id": "Q1",
-  "statement": "For an n-vertex (n≥3) Laman graph framework with generic prescribed edge lengths, the number of planar embeddings is strictly smaller than 4^(n−2). The mixed-volume argument bounds the relevant complex polynomial solutions, hence also the real embeddings; rotations and translations are removed by the paper's coordinate normalization.",
+  "statement": "An n-vertex Laman graph, n≥3, has fewer than 4^(n−2) complex planar embeddings with generic edge lengths, under the paper’s normalization removing rotations and translations.",
   "status": "partial",
   "evidence": "theorem",
   "answer": {
@@ -21,10 +21,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261103",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "A mixed-volume bound is not automatically an attained degree. Journal metadata verified on the author's publication page; preprint full text inspected.\n\nImported from the 2026-10-26 catalogue record R_268ce4ee475d2c00; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "A mixed-volume bound is not automatically an attained degree. Journal metadata verified on the author's publication page; preprint full text inspected.\n\nImported from the 2026-10-26 catalogue record R_268ce4ee475d2c00; the source claim has not been newly rechecked against the paper for this beta import.\n\nFor an n-vertex (n≥3) Laman graph framework with generic prescribed edge lengths, the number of planar embeddings is strictly smaller than 4^(n−2). The mixed-volume argument bounds the relevant complex polynomial solutions, hence also the real embeddings; rotations and translations are removed by the paper's coordinate normalization.",
   "scope": "Laman graphs with n≥3 vertices and generic prescribed edge lengths, normalized modulo planar rotations and translations.",
   "result_id": "R_8099c035e483c6bbf8836510c0ccd4736809519ba01b763cdec3a4d93ec8caf2"
 }

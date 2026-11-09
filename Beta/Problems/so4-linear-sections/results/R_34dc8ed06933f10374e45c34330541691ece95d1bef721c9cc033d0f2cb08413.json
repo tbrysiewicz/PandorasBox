@@ -1,7 +1,7 @@
 {
   "problem_id": "P_so4_linear_sections",
   "question_id": "Q4",
-  "statement": "There is a complementary linear section of SO(4) consisting of forty real points. The construction imposes four zero diagonal entries and the two explicitly displayed homogeneous hyperplanes H1,H2; its forty matrices are listed, attaining deg SO(4)=40.",
+  "statement": "There is a complementary linear section of SO(4) consisting of forty distinct real points, attaining deg SO(4)=40.",
   "status": "solved",
   "evidence": "theorem",
   "answer": {
@@ -24,7 +24,7 @@
     "Taylor Brysiewicz AI 20261103"
   ],
   "checked_by": [],
-  "notes": "Does not prove total reality for SO(5).\n\nImported from the 2026-10-26 catalogue record R_3e5cb3f1be36652e; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Does not prove total reality for SO(5).\n\nImported from the 2026-10-26 catalogue record R_3e5cb3f1be36652e; the source claim has not been newly rechecked against the paper for this beta import.\n\nThe construction imposes four zero diagonal entries and two explicitly displayed homogeneous hyperplanes H1,H2. The forty resulting matrices are listed in Section 4.",
   "scope": "Codimension-six real linear sections of SO(4) in 4×4 matrix entries.",
   "result_id": "R_34dc8ed06933f10374e45c34330541691ece95d1bef721c9cc033d0f2cb08413",
   "headline": true

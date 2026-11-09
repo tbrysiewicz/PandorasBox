@@ -2,12 +2,13 @@
   "result_id": "R_ce07b9aa4fbe5c20",
   "problem_id": "P_rational_quartics_eleven_points",
   "question_id": "Q2",
-  "statement": "Specializing Conjecture 1.5 to d=4 predicts arithmetic splitting-field Galois group S620 for rational quartics through eleven general rational points. Proposition 2.2 proves transitivity outside a thin exceptional set; the paper does not prove the full group for d=4.",
+  "statement": "Outside a thin set of rational configurations of eleven points, the arithmetic Galois action on the 620 rational quartics is transitive. Full symmetric group S620 is conjectured in the cited source.",
   "answer": {
     "text": "Arithmetic action transitive; S620 conjectured in the 2020 source.",
     "display": "Arithmetic action transitive; S620 conjectured in the 2020 source.",
     "relation": "partial",
-    "qualification": "This records a proved transitivity statement and a dated full-group conjecture; it does not claim that the full Galois group has been proved or that the conjecture remains open today."
+    "qualification": "This records a proved transitivity statement and a dated full-group conjecture; it does not claim that the full Galois group has been proved or that the conjecture remains open today.",
+    "value": "G ≤ S₆₂₀ (transitive; arithmetic)"
   },
   "status": "partial",
   "evidence": "conjecture",
@@ -29,5 +30,5 @@
   },
   "headline": true,
   "scope": "The arithmetic Galois action on the 620 irreducible rational quartics through eleven general Q-rational plane points.",
-  "notes": "S620 is explicitly a conjecture in this 2020 paper, not a verified group and not an assertion of present-day openness. The geometric complex group is not extracted."
+  "notes": "S620 is explicitly a conjecture in this 2020 paper, not a verified group and not an assertion of present-day openness. The geometric complex group is not extracted.\n\nSource discussion. Specializing Conjecture 1.5 to d=4 predicts arithmetic splitting-field Galois group S620 for rational quartics through eleven general rational points. Proposition 2.2 proves transitivity outside a thin exceptional set; the paper does not prove the full group for d=4."
 }

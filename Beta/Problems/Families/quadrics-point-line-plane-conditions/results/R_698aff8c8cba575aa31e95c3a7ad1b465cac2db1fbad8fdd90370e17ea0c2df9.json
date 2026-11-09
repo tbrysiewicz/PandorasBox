@@ -1,7 +1,7 @@
 {
   "problem_id": "P_quadrics_point_line_plane_conditions",
   "question_id": "Q1",
-  "statement": "For alpha+beta+gamma=9 general point, line-tangency and plane-tangency conditions on nonsingular quadrics in P3, the solution count is the coefficient of T0^(9-alpha)T1^(20-beta)T2^(9-gamma) in the multidegree of the complete-quadric prime ideal I4 specified in Theorem 3.1. This recovers all 55 entries of Figure1; in particular the (3,3,3) count is 104 and the (2,5,2) count is 128.",
+  "statement": "For α+β+γ=9 general point, line-tangency and plane-tangency conditions, the number of nonsingular quadrics in P³ is the coefficient of T0^(9−α)T1^(20−β)T2^(9−γ) in the complete-quadric multidegree of Theorem 3.1. The counts for (α,β,γ)=(3,3,3) and (2,5,2) are 104 and 128.",
   "status": "solved",
   "evidence": "theorem",
   "answer": {
@@ -10,8 +10,7 @@
     "relation": "equal"
   },
   "reference_ids": [
-    "brysiewicz_2020_tangent_quadrics",
-    "schubert_1879_kalkul"
+    "brysiewicz_2020_tangent_quadrics"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2010.10879v2",
@@ -22,10 +21,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "Singular/extraneous quadrics are removed by saturation; raw Bezout products need not be the answer.\n\nImported from the 2026-10-26 catalogue record R_9a497977435c3a14; the source claim has not been newly rechecked against the paper for this beta import.\n\nSchubert 1879, §22 and p.106, is explicitly credited for these numerical counts. Brysiewicz–Fevola–Sturmfels remain cited for their polynomial/prime-ideal formulation and modern verification; their certified real constructions are separate results.",
+  "notes": "Singular/extraneous quadrics are removed by saturation; raw Bezout products need not be the answer.\n\nImported from the 2026-10-26 catalogue record R_9a497977435c3a14; the source claim has not been newly rechecked against the paper for this beta import.\n\nSchubert 1879, §22 and p.106, is explicitly credited for these numerical counts. Brysiewicz–Fevola–Sturmfels provide the supporting article for their polynomial/prime-ideal formulation and modern verification; their certified real constructions are separate results.\n\nFor alpha+beta+gamma=9 general point, line-tangency and plane-tangency conditions on nonsingular quadrics in P3, the solution count is the coefficient of T0^(9-alpha)T1^(20-beta)T2^(9-gamma) in the multidegree of the complete-quadric prime ideal I4 specified in Theorem 3.1. This recovers all 55 entries of Figure1; in particular the (3,3,3) count is 104 and the (2,5,2) count is 128.\n\nThe following bibliography supplies historical attribution or supporting background for the result. Hermann Schubert, Kalkül der abzählenden Geometrie (1879, schubert_1879_kalkul).",
   "scope": "Nonsingular quadrics in P3 through alpha points, tangent to beta lines and gamma planes, alpha+beta+gamma=9, with general constraints.",
   "result_id": "R_698aff8c8cba575aa31e95c3a7ad1b465cac2db1fbad8fdd90370e17ea0c2df9"
 }

@@ -6,7 +6,8 @@
   "evidence": "theorem",
   "answer": {
     "text": "For every finite Fano problem except lines on a cubic surface and linear spaces on intersections of two quadrics, the geometric monodromy contains the alternating group on its N solutions, hence is A_N or S_N. For k-planes on two quadrics in P^(2k+2), the monodromy is W(D_(2k+3)) in characteristic different from two.",
-    "relation": "partial"
+    "relation": "partial",
+    "value": "A_N or S_N (nonexceptional); W(D_{2k+3}) (two quadrics)"
   },
   "reference_ids": [
     "hashimoto_2020_fano_monodromy"

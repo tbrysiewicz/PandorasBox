@@ -1,11 +1,11 @@
 {
   "problem_id": "P_schubert_osculating",
   "question_id": "Q8",
-  "statement": "For distinct real osculation points and zero-dimensional Grassmannian partition conditions, the Schubert intersection is transverse and consists of the expected number of distinct real points. Hence this all-real distinct-parameter locus contains no nonreduced or positive-dimensional fibre.",
+  "statement": "For distinct real osculation points and zero-dimensional Grassmannian Schubert conditions, the intersection is transverse and consists of the expected number of distinct real points.",
   "status": "partial",
   "evidence": "theorem",
   "answer": {
-    "text": "For distinct real osculation points and zero-dimensional Grassmannian partition conditions, the Schubert intersection is transverse and consists of the expected number of distinct real points. Hence this all-real distinct-parameter locus contains no nonreduced or positive-dimensional fibre.",
+    "text": "For distinct real osculation points and zero-dimensional Grassmannian Schubert conditions, the intersection is transverse and consists of the expected number of distinct real points.",
     "display": "No exceptional fibre on the distinct-real osculation locus",
     "relation": "partial"
   },
@@ -24,7 +24,7 @@
     "Taylor Brysiewicz AI 20261103"
   ],
   "checked_by": [],
-  "notes": "The conclusion applies to the distinct-real osculation locus; it does not describe the entire complex discriminant. Strong transversality is attributed to this Corollary, not to the original Shapiro theorem or Levinson–Purbhoo. Migration: Merge exceptional-fibre behaviour into Exceptional locus; preserve each source result separately.\n\nImported from the 2026-10-26 catalogue record R_4f176aaecb906e01; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "The conclusion applies to the distinct-real osculation locus; it does not describe the entire complex discriminant. Strong transversality is attributed to this Corollary, not to the original Shapiro theorem or Levinson–Purbhoo. Migration: Merge exceptional-fibre behaviour into Exceptional locus; preserve each source result separately.\n\nImported from the 2026-10-26 catalogue record R_4f176aaecb906e01; the source claim has not been newly rechecked against the paper for this beta import.\n\nConsequently this distinct-real-parameter locus contains no nonreduced or positive-dimensional fibre.",
   "scope": "Zero-dimensional Grassmannian Schubert problems restricted to flags osculating one rational normal curve; real lower bounds allow conjugate pairs, total reality/transversality requires distinct real osculation points.",
   "result_id": "R_bdeb9b1d72269fa97959ca84c4d3172761e489ab7e1e6c46e947a9fca063a7f8"
 }

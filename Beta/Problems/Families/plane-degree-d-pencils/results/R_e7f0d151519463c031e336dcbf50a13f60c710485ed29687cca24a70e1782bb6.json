@@ -1,7 +1,7 @@
 {
   "problem_id": "P_plane_degree_d_pencils",
   "question_id": "Q8",
-  "statement": "For every d≥3, the number of degree-d plane curves of genus (d−1)(d−2)/2−1 through d(d+3)/2−1 generic points equals 3(d−1)². This is the degree of the discriminant hypersurface of singular degree-d curves, so a generic pencil has 3(d−1)² singular members.",
+  "statement": "For d≥3, a general pencil of degree-d plane curves has exactly 3(d−1)² singular members, each irreducible with one node.",
   "status": "partial",
   "evidence": "theorem",
   "answer": {
@@ -10,8 +10,7 @@
     "relation": "partial"
   },
   "reference_ids": [
-    "boole_1842_linear_transformations",
-    "gelfand_kapranov_zelevinsky_1994_discriminants"
+    "brugalle_2008_floors"
   ],
   "source": {
     "url": "https://arxiv.org/html/0812.3354v3",
@@ -22,10 +21,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "A new proof of a classical formula; generic singular members have one node.\n\nImported from the 2026-10-26 catalogue record R_9b8717d32d7252bb; the source claim has not been newly rechecked against the paper for this beta import.\n\nThe degree3(d−1)^2 is the classical homogeneous-discriminant formula attributed to Boole (GKZ, Chapter 1 Example 4.15 and Chapter 9 Example 1.6). Brugallé–Mikhalkin give a later floor-diagram verification. For monodromy records, this supplies only the discriminant degree/irreducibility; the separate sectional-monodromy argument supplies the group.",
+  "notes": "A new proof of a classical formula; generic singular members have one node.\n\nImported from the 2026-10-26 catalogue record R_9b8717d32d7252bb; the source claim has not been newly rechecked against the paper for this beta import.\n\nThe degree3(d−1)^2 is the classical homogeneous-discriminant formula attributed to Boole (GKZ, Chapter 1 Example 4.15 and Chapter 9 Example 1.6). Brugallé–Mikhalkin give a later floor-diagram verification. For monodromy records, this supplies only the discriminant degree/irreducibility; the separate sectional-monodromy argument supplies the group.\n\nFor every d≥3, the number of degree-d plane curves of genus (d−1)(d−2)/2−1 through d(d+3)/2−1 generic points equals 3(d−1)². This is the degree of the discriminant hypersurface of singular degree-d curves, so a generic pencil has 3(d−1)² singular members.\n\nThe following bibliography supplies historical attribution or supporting background for the result. George Boole, Exposition of a General Theory of Linear Transformations, Parts I–II (1842, boole_1842_linear_transformations) Israel M. Gelfand, Mikhail M. Kapranov, Andrei V. Zelevinsky, Discriminants, Resultants, and Multidimensional Determinants (1994, gelfand_kapranov_zelevinsky_1994_discriminants).",
   "scope": "Projective plane curves of degree d≥3; discriminant in their coefficient space, equivalently singular members of a generic pencil.",
   "result_id": "R_e7f0d151519463c031e336dcbf50a13f60c710485ed29687cca24a70e1782bb6"
 }

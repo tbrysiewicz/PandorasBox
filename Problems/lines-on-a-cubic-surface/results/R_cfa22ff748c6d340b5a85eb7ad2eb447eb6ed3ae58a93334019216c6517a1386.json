@@ -2,7 +2,7 @@
   "result_id": "R_cfa22ff748c6d340b5a85eb7ad2eb447eb6ed3ae58a93334019216c6517a1386",
   "problem_id": "P_lines_cubic_surfaces",
   "question_id": "Q2",
-  "statement": "For each listed nontrivial automorphism type G, the paper determines the parameter-level monodromy on the 27 lines over the stratum of smooth objects with that fixed symmetry. The group table in the answer follows the paper’s type ordering. These generally intransitive actions differ from quotient-space and stack monodromy.",
+  "statement": "The parameter-level monodromy of the 27 lines on a smooth cubic surface with prescribed nontrivial projective automorphism type is given by the classification in Notes.",
   "answer": {
     "text": "Parameter-level monodromy table for nontrivial symmetry strata.",
     "display": "Symmetry-restricted monodromy (see parameter table)",
@@ -93,10 +93,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "brazelton_landi_raman_2026_symmetry_solvability",
-    "brazelton_raman_2025_symmetric_cubic_monodromy",
-    "pichonpharabod_2025_symmetric_cubics",
-    "landi_2025_symmetric_cubics"
+    "brazelton_landi_raman_2026_symmetry_solvability"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2609.30442v1",
@@ -104,7 +101,7 @@
     "version": "arXiv:2609.30442v1 (September 2026)"
   },
   "scope": "Symmetry-restricted coefficient strata for the existing 27 lines problem.",
-  "notes": "The paper also gives marked, stacky and geometric monodromy, which must not be identified with the parameter-level group. The symbol 1 here is the trivial group (written 0 in the source table). D_n denotes the dihedral group of order 2n. H3(3) is the order-27 Heisenberg group; C4 ⊚ A4, P and W(L3) retain the paper’s notation. Permutation generators are not invented from abstract group descriptions. LMFDB links in the symmetry table identify abstract parameter-level groups only; they do not assert a transitive action on all 27 or 28 solutions. Identifications use group structure, not just group order.\n\nThe aggregate table includes earlier cubic-family computations of Brazelton–Raman, Landi, and Pichon-Pharabod–Telen; the 2026 paper explicitly credits these, including its alternative proof of the C2×C2 case. It remains cited for the complete comparison and the precise parameter/marked/stack distinctions.",
+  "notes": "The paper also gives marked, stacky and geometric monodromy, which must not be identified with the parameter-level group. The symbol 1 here is the trivial group (written 0 in the source table). D_n denotes the dihedral group of order 2n. H3(3) is the order-27 Heisenberg group; C4 ⊚ A4, P and W(L3) retain the paper’s notation. Permutation generators are not invented from abstract group descriptions. LMFDB links in the symmetry table identify abstract parameter-level groups only; they do not assert a transitive action on all 27 or 28 solutions. Identifications use group structure, not just group order.\n\nThe aggregate table includes earlier cubic-family computations of Brazelton–Raman, Landi, and Pichon-Pharabod–Telen; the 2026 paper explicitly credits these, including its alternative proof of the C2×C2 case. It remains cited for the complete comparison and the precise parameter/marked/stack distinctions.\n\nRelated literature. Monodromy in the space of symmetric cubic surfaces with a line (Thomas Brazelton; Sidhanth Raman, 2025) | Galois Groups of Symmetric Cubic Surfaces (Eric Pichon-Pharabod; Simon Telen, 2025) | Stacks, Monodromy and Symmetric Cubic Surfaces (Alberto Landi, 2025). Historical or related contributions are retained here. Their own precise statements have not been independently verified for a separate result in this migration.\n\nSource discussion. For each listed nontrivial automorphism type G, the paper determines the parameter-level monodromy on the 27 lines over the stratum of smooth objects with that fixed symmetry. The group table in the answer follows the paper’s type ordering. These generally intransitive actions differ from quotient-space and stack monodromy.\n\nParameter-level monodromy classification. Each line lists the projective automorphism group followed by its parameter-level monodromy group.\n\n- C3^3 ⋊ S4 → 1\n- S5 → 1\n- H3(3) ⋊ C4 → C3\n- H3(3) ⋊ C2 → C3\n- S4 → C2 × C2\n- D6 (order 12) → S3 × C2\n- C8 → C8\n- S3 → S3 × S3\n- C4 → U2(F3)\n- C2 × C2 → C2 × C2 × S4\n- C2 → GO4+(3) = W(F4)",
   "generated_by": [
     "Taylor Brysiewicz AI 20261104"
   ],

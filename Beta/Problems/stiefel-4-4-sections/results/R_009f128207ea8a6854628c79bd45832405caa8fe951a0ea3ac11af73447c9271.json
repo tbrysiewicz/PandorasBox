@@ -10,8 +10,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "brysiewicz_2019_stiefel",
-    "brandt_2017_degree_so"
+    "brysiewicz_2019_stiefel"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/1909.10085v2",
@@ -28,6 +27,6 @@
     "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Source specialization: Table 1, row k=4, column n=4.\n\nFor k=n, St(n,n)=O(n) has two isomorphic determinant components, so its degree is twice the SO(n) degree computed by Brandt et al.; Brysiewicz–Gesmundo explicitly credit that predecessor. Their general Stiefel formula is a separate result.",
+  "notes": "Source specialization: Table 1, row k=4, column n=4.\n\nFor k=n, St(n,n)=O(n) has two isomorphic determinant components, so its degree is twice the SO(n) degree computed by Brandt et al.; Brysiewicz–Gesmundo explicitly credit that predecessor. Their general Stiefel formula is a separate result.\n\nMadeline Brandt; Juliette Bruce; Taylor Brysiewicz; Robert Krone; Elina Robeva, The Degree of SO(n,C) (2017, article ID brandt_2017_degree_so). Supporting degree or irreducibility input for the catalogue deduction, retained here as background bibliography.",
   "result_id": "R_009f128207ea8a6854628c79bd45832405caa8fe951a0ea3ac11af73447c9271"
 }

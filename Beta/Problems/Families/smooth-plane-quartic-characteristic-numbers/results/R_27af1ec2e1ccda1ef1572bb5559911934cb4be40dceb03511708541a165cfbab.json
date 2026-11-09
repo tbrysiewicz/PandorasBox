@@ -1,24 +1,24 @@
 {
   "problem_id": "P_smooth_plane_quartic_characteristic_numbers",
   "question_id": "Q4",
-  "statement": "Total reality holds with one or two line tangencies: the sharp maxima are 6 and 36, respectively.",
+  "statement": "The maximum number of real smooth plane quartics through twelve general real points and tangent to two general real lines is 36.",
   "answer": {
-    "text": "k=1: 6; k=2: 36.",
-    "display": "k=1: 6; k=2: 36",
+    "text": "With two line tangencies, the maximum is 36 and total reality is attained.",
+    "display": "k=2: 36",
+    "count": 36,
     "relation": "partial"
   },
   "status": "partial",
   "evidence": "theorem",
   "reference_ids": [
-    "ronga_2000_real_riemann_hurwitz",
     "bertrand_2008_real_zeuthen_two_lines"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/0710.1095v1",
-    "location": "Theorem 1 and §2.2 for two tangencies; Ronga §4, Theorem, for one tangency",
+    "location": "Theorem 1 and Section 2.2, specialized to degree 4 and two line tangencies (printed pp.2,5–6)",
     "version": "arXiv:0710.1095v1 (4 October 2007); Ronga published 2000"
   },
-  "scope": "Smooth irreducible degree-4 plane curves; all incidence points and lines real and general.",
+  "scope": "Smooth irreducible degree-4 plane curves through twelve general real points and tangent to two general real lines.",
   "origin": {
     "kind": "direct"
   },
@@ -26,6 +26,6 @@
     "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Here k denotes the number of tangent-line conditions. Other k are not settled by these cited statements.",
+  "notes": "Here k denotes the number of tangent-line conditions. Other k are not settled by these cited statements.\n\nFelice Ronga, A real Riemann-Hurwitz theorem (2000, article ID ronga_2000_real_riemann_hurwitz). The one-tangency statement is represented by its own result record.\n\nThis is the two-tangency specialization of Bertrand’s total-reality theorem.",
   "result_id": "R_27af1ec2e1ccda1ef1572bb5559911934cb4be40dceb03511708541a165cfbab"
 }

@@ -14,12 +14,12 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "jaramillo_pauli_2023_correspondence"
+    "jaramillo_markwig_pauli_rohrle_2025_enriched_plane"
   ],
   "source": {
-    "url": "https://arxiv.org/pdf/2309.12586v2",
-    "location": "Definitions2.10/2.18 and Theorems2.11/2.19; characteristic-zero algebraic correspondence and specialization s=0 also in arXiv:2502.02569v4, Theorem1.2 and Proposition5.3",
-    "version": "arXiv:2309.12586v2 (23 September 2024), with arXiv:2502.02569v4 (30 June 2026), primary PDFs inspected 4 November 2026"
+    "url": "https://arxiv.org/pdf/2502.02569v4",
+    "location": "Theorem 1.2 and Proposition 5.3, all-k-rational specialization s=0; explicit deduction from the enriched multiplicities",
+    "version": "arXiv:2502.02569v4 (30 June 2026)"
   },
   "scope": "Irreducible rational plane curves of any degree d through 3d−1 general k-rational point conditions, where k has characteristic zero.",
   "origin": {
@@ -30,6 +30,6 @@
   ],
   "checked_by": [],
   "headline": false,
-  "notes": "Explicit deduction rather than a displayed closed formula quoted from either paper. With all tropical ends of weight one, Definition2.18 makes each arithmetic multiplicity an integer combination of ⟨1⟩ and ⟨−1⟩, whose rank is the complex multiplicity and whose signature after specialization to R is the real multiplicity. Summing therefore gives coefficients (N_d+W_d)/2 and (N_d−W_d)/2 on ⟨1⟩ and ⟨−1⟩, respectively. The integer coefficients are universal combinatorial coefficients, so the same expression holds over every characteristic-zero base field. The enriched correspondence theorem identifies the tropical count with the algebraic one. This strengthens but preserves the separate directly tabulated d=3,4 result. It does not supply formulas for N_d,W_d by itself, nor make an unsigned real-minimum claim.\n\nFor the all-k-rational point constraints used here, the underlying enriched correspondence is Jaramillo Puentes–Pauli (arXiv:2309.11706). The later four-author papers explicitly credit that case; their new extension-point results are not needed for this record. Displayed numerical specializations and the rank/signature deduction remain as stated.",
+  "notes": "Explicit deduction rather than a displayed closed formula quoted from either paper. With all tropical ends of weight one, Definition2.18 makes each arithmetic multiplicity an integer combination of ⟨1⟩ and ⟨−1⟩, whose rank is the complex multiplicity and whose signature after specialization to R is the real multiplicity. Summing therefore gives coefficients (N_d+W_d)/2 and (N_d−W_d)/2 on ⟨1⟩ and ⟨−1⟩, respectively. The integer coefficients are universal combinatorial coefficients, so the same expression holds over every characteristic-zero base field. The enriched correspondence theorem identifies the tropical count with the algebraic one. This strengthens but preserves the separate directly tabulated d=3,4 result. It does not supply formulas for N_d,W_d by itself, nor make an unsigned real-minimum claim.\n\nFor the all-k-rational point constraints used here, the underlying enriched correspondence is Jaramillo Puentes–Pauli (arXiv:2309.11706). The later four-author papers explicitly credit that case; their new extension-point results are not needed for this record. Displayed numerical specializations and the rank/signature deduction remain as stated.\n\nRelated literature. A quadratically enriched correspondence theorem (Andrés Jaramillo Puentes; Sabrina Pauli, 2023). Historical attribution is retained here. The result’s sole article reference identifies the inspected statement or calculation at the recorded locator.\n\nThe cited article’s Theorem 1.2 and Proposition 5.3 support the characteristic-zero algebraic correspondence and its all-k-rational specialization. The multiplicity calculation is also developed in Arithmetic Counts of Tropical Plane Curves and Their Properties by Jaramillo Puentes, Markwig, Pauli, and Röhrle (2024).",
   "result_id": "R_e0c2c8070110202775b1e6cd9cc842a88867472575c9f1e0bd4966f4172fe710"
 }

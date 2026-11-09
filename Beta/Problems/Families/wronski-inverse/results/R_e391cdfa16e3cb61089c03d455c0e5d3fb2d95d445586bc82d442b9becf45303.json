@@ -9,10 +9,11 @@
     "formula": "|χ^λ(2^s 1^r)|",
     "display": "≥ |χ^λ(2ˢ1ʳ)|",
     "relation": "at_least",
-    "qualification": "A lower bound on each prescribed root-type stratum; it is not asserted to be the sharp minimum."
+    "qualification": "A lower bound on each prescribed root-type stratum; it is not asserted to be the sharp minimum.",
+    "value": "≥|χ^λ(2ˢ1ʳ)|"
   },
   "reference_ids": [
-    "mukhin_2014_real_lower"
+    "levinson_2019_topological_shapiro"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/1907.11924v2",
@@ -22,9 +23,10 @@
     "kind": "direct"
   },
   "scope": "Real fibres of the Wronski map on X^λ over the indicated real-root-type stratum. Nonreal roots may repeat as permitted in the source; for regular fibres algebraic multiplicities are 1.",
-  "notes": "Primary PDF downloaded and Theorem 1.3/Corollary 1.4 inspected on 2026-11-04. This supplements the Eremenko–Gabrielov parity-dependent lower bound already present. The lower-bound interpretation is a direct consequence of the source’s character-oriented topological degree.\n\nLevinson–Purbhoo explicitly identify Corollary 1.4 as a special case of Mukhin–Tarasov’s lower-bound theorem. Their character-orientation proof is retained as the verification source.",
+  "notes": "Primary PDF downloaded and Theorem 1.3/Corollary 1.4 inspected on 2026-11-04. This supplements the Eremenko–Gabrielov parity-dependent lower bound already present. The lower-bound interpretation is a direct consequence of the source’s character-oriented topological degree.\n\nLevinson–Purbhoo explicitly identify Corollary 1.4 as a special case of Mukhin–Tarasov’s lower-bound theorem. Their character-orientation proof is retained as the verification source.\n\nThe following bibliography supplies historical attribution or supporting background for the result. Evgeny Mukhin, Vitaly Tarasov, Lower bounds for numbers of real solutions in problems of Schubert calculus (2016, mukhin_2014_real_lower).",
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": []
 }

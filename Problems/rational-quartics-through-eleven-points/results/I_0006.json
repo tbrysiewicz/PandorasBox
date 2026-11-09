@@ -13,8 +13,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "caporaso_1996_plane_curves",
-    "zeuthen_1873_plane_curve_systems"
+    "caporaso_1996_plane_curves"
   ],
   "source": {
     "url": "https://arxiv.org/html/alg-geom/9608025v1",
@@ -30,7 +29,7 @@
   "origin": {
     "kind": "direct"
   },
-  "notes": "Set d=4 and g=0, hence δ=3 nodes. The worked example in Section 1.2 subtracts the 55 reducible line-and-cubic curves from the auxiliary Severi degree 675, giving 675−55=620 irreducible rational quartics.\n\nThe numerical620 count is historically credited to Zeuthen 1873 in the inspected later literature. Caporaso–Harris remain cited for the rigorous recursion and worked verification; the all-genus recursion is a separate contribution.",
+  "notes": "Set d=4 and g=0, hence δ=3 nodes. The worked example in Section 1.2 subtracts the 55 reducible line-and-cubic curves from the auxiliary Severi degree 675, giving 675−55=620 irreducible rational quartics.\n\nThe numerical620 count is historically credited to Zeuthen 1873 in the inspected later literature. Caporaso–Harris remain cited for the rigorous recursion and worked verification; the all-genus recursion is a separate contribution.\n\nRelated literature. Almindelige Egenskaber ved Systemer af plane Kurver (H. G. Zeuthen, 1873). Historical or related contributions are retained here. Their own precise statements have not been independently verified for a separate result in this migration.",
   "scope": "Irreducible rational degree-4 plane curves through eleven general complex points.",
   "headline": true,
   "checked_content_sha256": "1b2310ce133321386d5582c82e8fc0722e2666fe1e3cc1b52001cfc3d73d833f"

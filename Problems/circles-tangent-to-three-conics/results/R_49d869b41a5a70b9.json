@@ -2,9 +2,9 @@
   "result_id": "R_49d869b41a5a70b9",
   "problem_id": "P_circles_three_conics",
   "question_id": "Q4",
-  "statement": "The rational triple in Theorem 4.3 is strongly general and has 184 distinct geometric tangent circles: 160 real circles with positive squared radius and 24 nonreal circles forming 12 conjugate pairs. The same real count persists on a nonempty Euclidean open set. Fourfold splitting plus exact Sturm–Tarski and rational interval/elimination certificates establish 160<=M_R<=184; maximality of 160 remains unproved.",
+  "statement": "The maximum number of real circles tangent to three strongly general real plane conics is at least 160 and at most 184. A rational triple has 160 real tangent circles, and this count persists on a nonempty Euclidean open set.",
   "answer": {
-    "text": "The rational triple in Theorem 4.3 is strongly general and has 184 distinct geometric tangent circles: 160 real circles with positive squared radius and 24 nonreal circles forming 12 conjugate pairs. The same real count persists on a nonempty Euclidean open set. Fourfold splitting plus exact Sturm–Tarski and rational interval/elimination certificates establish 160<=M_R<=184; maximality of 160 remains unproved.",
+    "text": "The maximum number of real circles tangent to three strongly general real plane conics is at least 160 and at most 184. A rational triple has 160 real tangent circles, and this count persists on a nonempty Euclidean open set.",
     "display": "160 ≤ maximum ≤184",
     "relation": "at_least",
     "qualification": "A certified construction attains 160; maximality is unproved.",
@@ -32,5 +32,5 @@
   },
   "headline": true,
   "scope": "Strongly general triples of smooth real plane conics; tangent circles with positive squared radius.",
-  "notes": "Does not prove 160 maximal. The exhibited Euclidean open chamber is not a classification of all chambers. Certificates were inspected as reported, not rerun."
+  "notes": "Does not prove 160 maximal. The exhibited Euclidean open chamber is not a classification of all chambers. Certificates were inspected as reported, not rerun.\n\nSource discussion. The rational triple in Theorem 4.3 is strongly general and has 184 distinct geometric tangent circles: 160 real circles with positive squared radius and 24 nonreal circles forming 12 conjugate pairs. The same real count persists on a nonempty Euclidean open set. Fourfold splitting plus exact Sturm–Tarski and rational interval/elimination certificates establish 160<=M_R<=184; maximality of 160 remains unproved."
 }

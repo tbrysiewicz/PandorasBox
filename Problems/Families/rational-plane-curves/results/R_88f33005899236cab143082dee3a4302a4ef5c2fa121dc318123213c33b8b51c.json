@@ -2,7 +2,7 @@
   "result_id": "R_88f33005899236cab143082dee3a4302a4ef5c2fa121dc318123213c33b8b51c",
   "problem_id": "P_rational_plane_curves",
   "question_id": "Q9",
-  "statement": "For general k-rational point constraints, the quadratically enriched counts in degrees three and four are respectively 2H + 8⟨1⟩ and 190H + 240⟨1⟩.",
+  "statement": "Over a perfect field k of characteristic zero or greater than 4, the quadratically enriched counts of rational plane cubics and quartics through general k-rational point constraints are 2H+8⟨1⟩ and 190H+240⟨1⟩ respectively, where H=⟨1⟩+⟨−1⟩.",
   "answer": {
     "text": "d=3: 2H + 8⟨1⟩; d=4: 190H + 240⟨1⟩",
     "display": "d=3: 2H + 8⟨1⟩; d=4: 190H + 240⟨1⟩",
@@ -14,8 +14,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "jaramillo_pauli_2023_correspondence",
-    "kass_levine_solomon_wickelgren_2023_rational_curves"
+    "jaramillo_markwig_pauli_rohrle_2025_enriched_plane"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2502.02569v4",
@@ -32,5 +31,5 @@
   },
   "headline": false,
   "scope": "Degree-three and degree-four members of the rational-plane-curve family.",
-  "notes": "Ranks recover 12 and 620. Over R the signatures recover 8 and 240; these are signed counts.\n\nFor the all-k-rational point constraints used here, the underlying enriched correspondence is Jaramillo Puentes–Pauli (arXiv:2309.11706). The later four-author papers explicitly credit that case; their new extension-point results are not needed for this record. Displayed numerical specializations and the rank/signature deduction remain as stated."
+  "notes": "Ranks recover 12 and 620. Over R the signatures recover 8 and 240; these are signed counts.\n\nFor the all-k-rational point constraints used here, the underlying enriched correspondence is Jaramillo Puentes–Pauli (arXiv:2309.11706). The later four-author papers explicitly credit that case; their new extension-point results are not needed for this record. Displayed numerical specializations and the rank/signature deduction remain as stated.\n\nRelated literature. A quadratically enriched correspondence theorem (Andrés Jaramillo Puentes; Sabrina Pauli, 2023) | A quadratically enriched count of rational curves (Jesse Leo Kass; Marc Levine; Jake P. Solomon; Kirsten Wickelgren, 2023). These works give preceding correspondence or enriched-enumeration results. The displayed small-degree values are recorded from the sole cited article’s Table 4.\n\nSource discussion. For general k-rational point constraints, the quadratically enriched counts in degrees three and four are respectively 2H + 8⟨1⟩ and 190H + 240⟨1⟩."
 }

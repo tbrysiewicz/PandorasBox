@@ -1,7 +1,7 @@
 {
   "problem_id": "P_sparse_fixed_support",
   "question_id": "Q2",
-  "statement": "For a reduced irreducible tuple A=(A1,…,An) of finite lattice supports, the monodromy group on the V generic torus solutions is the full symmetric group S_V, where V=MV(A1,…,An). Reduced excludes a common proper sublattice after translations; irreducible excludes k supports in a rank-k sublattice for k<n.",
+  "statement": "For a reduced irreducible tuple A=(A1,…,An) of finite lattice supports, the geometric monodromy on its V generic torus solutions is the full symmetric group S_V, where V=MV(A1,…,An).",
   "status": "partial",
   "evidence": "theorem",
   "answer": {
@@ -21,10 +21,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261103",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "Use v3: its addendum repairs a proof gap without changing the main statements.\n\nImported from the 2026-10-26 catalogue record R_a7805e0073d074ea; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Use v3: its addendum repairs a proof gap without changing the main statements.\n\nImported from the 2026-10-26 catalogue record R_a7805e0073d074ea; the source claim has not been newly rechecked against the paper for this beta import.\n\nFor a reduced irreducible tuple A=(A1,…,An) of finite lattice supports, the monodromy group on the V generic torus solutions is the full symmetric group S_V, where V=MV(A1,…,An). Reduced excludes a common proper sublattice after translations; irreducible excludes k supports in a rank-k sublattice for k<n.",
   "scope": "Generic square systems in (C*)^n with fixed support tuple that is reduced and irreducible in the paper's lattice sense.",
   "result_id": "R_0b4bf71a4b2a3e4758797e13e0ba4689557d17dfa5dab7174e6b7ef54583391c"
 }

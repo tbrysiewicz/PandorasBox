@@ -2,9 +2,9 @@
   "result_id": "R_fe163ec42f961278",
   "problem_id": "P_conics_five_conics",
   "question_id": "Q4",
-  "statement": "The five nonsingular rational conics represented by the 5-by-6 coefficient matrix in Figure 2 admit 3264 distinct real tangent conics. The authors compute approximate solutions and use alphaCertified to prove that the associated solutions are distinct and real. Thus this explicit instance attains the full complex count, not merely a numerically observed real count.",
+  "statement": "The five nonsingular rational conics given by the coefficient matrix in Figure 2 admit exactly 3264 distinct real tangent conics.",
   "answer": {
-    "text": "The five nonsingular rational conics represented by the 5-by-6 coefficient matrix in Figure 2 admit 3264 distinct real tangent conics. The authors compute approximate solutions and use alphaCertified to prove that the associated solutions are distinct and real. Thus this explicit instance attains the full complex count, not merely a numerically observed real count.",
+    "text": "The five nonsingular rational conics given by the coefficient matrix in Figure 2 admit exactly 3264 distinct real tangent conics.",
     "display": "3264",
     "relation": "equal",
     "qualification": "Distinct nonsingular real tangent conics attain the full complex count.",
@@ -30,5 +30,5 @@
   },
   "headline": true,
   "scope": "Explicit five nonsingular rational plane conics.",
-  "notes": "Included for the certified total-real instance, not for its software interface or exposition of the classical count."
+  "notes": "Included for the certified total-real instance, not for its software interface or exposition of the classical count.\n\nSource discussion. The five nonsingular rational conics represented by the 5-by-6 coefficient matrix in Figure 2 admit 3264 distinct real tangent conics. The authors compute approximate solutions and use alphaCertified to prove that the associated solutions are distinct and real. Thus this explicit instance attains the full complex count, not merely a numerically observed real count."
 }

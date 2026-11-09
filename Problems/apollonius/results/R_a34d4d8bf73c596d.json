@@ -2,7 +2,7 @@
   "result_id": "R_a34d4d8bf73c596d",
   "problem_id": "P_apollonius_three_circles",
   "question_id": "Q8",
-  "statement": "The collinear-centre case is treated by new quadratic equations. For a common radical axis, pairs collapse to the two common intersection points; special similarity-centre alignments produce two common tangent lines with six other generic solutions.",
+  "statement": "For input circles with a common radical axis, solution pairs collapse to the two common intersection points. Certain similarity-centre alignments yield two common tangent lines together with six other generic solutions.",
   "answer": {
     "text": "Collinear-centre/coaxal and tangent-line limiting cases"
   },
@@ -25,5 +25,5 @@
     "original_result_id": "R_a34d4d8bf73c596d"
   },
   "scope": "Special input configurations with collinear centres or a common radical axis; ordinary admissible circles distinguished from zero-radius and infinite-radius limiting solutions.",
-  "notes": "This analyses completed limiting objects and failure of the generic elimination chart; it does not say every collinear-centre input has fewer ordinary solutions or an infinite fibre. Migration: Merge exceptional-fibre behaviour into Exceptional locus; preserve each source result separately."
+  "notes": "This analyses completed limiting objects and failure of the generic elimination chart; it does not say every collinear-centre input has fewer ordinary solutions or an infinite fibre. Migration: Merge exceptional-fibre behaviour into Exceptional locus; preserve each source result separately.\n\nSource discussion. The collinear-centre case is treated by new quadratic equations. For a common radical axis, pairs collapse to the two common intersection points; special similarity-centre alignments produce two common tangent lines with six other generic solutions."
 }

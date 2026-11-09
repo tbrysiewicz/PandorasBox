@@ -2,9 +2,9 @@
   "result_id": "R_4cccc3fd9bf484e6",
   "problem_id": "P_conics_five_conics",
   "question_id": "Q4",
-  "statement": "There exist five real plane conics with exactly 3264 smooth real conics simply tangent to each prescribed conic at exactly one real contact point. The construction deforms five suitable pairs of lines near the vertices of a regular pentagon; the final local-splitting count is 3264, with every solution having multiplicity one.",
+  "statement": "There are five real plane conics with exactly 3264 smooth real conics, each simply tangent to every input conic at a real contact point.",
   "answer": {
-    "text": "There exist five real plane conics with exactly 3264 smooth real conics simply tangent to each prescribed conic at exactly one real contact point. The construction deforms five suitable pairs of lines near the vertices of a regular pentagon; the final local-splitting count is 3264, with every solution having multiplicity one.",
+    "text": "There are five real plane conics with exactly 3264 smooth real conics, each simply tangent to every input conic at a real contact point.",
     "count": 3264,
     "relation": "equal",
     "qualification": "The construction attains the generic complex count with smooth real solution conics and simple real contacts."
@@ -28,5 +28,5 @@
     "original_result_id": "R_4cccc3fd9bf484e6"
   },
   "scope": "Five general real plane conics; smooth solution conics simply tangent at one real point to each prescribed conic.",
-  "notes": "Solutions are smooth and have multiplicity one, as explicitly specified in the introduction."
+  "notes": "Solutions are smooth and have multiplicity one, as explicitly specified in the introduction.\n\nSource discussion. There exist five real plane conics with exactly 3264 smooth real conics simply tangent to each prescribed conic at exactly one real contact point. The construction deforms five suitable pairs of lines near the vertices of a regular pentagon; the final local-splitting count is 3264, with every solution having multiplicity one."
 }

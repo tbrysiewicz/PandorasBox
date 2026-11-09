@@ -2,7 +2,7 @@
   "result_id": "R_c242c5c20103143decbbe4580d2320cdbb358382bce1606b80758e4cc7fa8c18",
   "problem_id": "P_schubert_four_lines_p3",
   "question_id": "Q3",
-  "statement": "The minimum number of real lines meeting four general real lines in P³ is 0. For three pairwise-skew real input lines, the unique containing smooth split quadric Q is defined over R and the common transversals form its other real ruling. The fourth real line cuts Q in two real points or in a conjugate pair. Both cases occur on open sets of real input data.",
+  "statement": "The minimum number of real lines meeting four general real lines in P³ is zero.",
   "status": "solved",
   "evidence": "theorem",
   "answer": {
@@ -21,7 +21,7 @@
     "kind": "direct"
   },
   "scope": "Four ordered real lines in P³ on the regular pairwise-skew locus; count distinct real common transversals.",
-  "notes": "Elementary consequence of the cited quadric construction: choose the fourth line disjoint from the real quadric. Such lines exist for a split real quadric and can be chosen skew to the first three. The derivation, not an additional numbered theorem in the source, establishes attainability.",
+  "notes": "Elementary consequence of the cited quadric construction: choose the fourth line disjoint from the real quadric. Such lines exist for a split real quadric and can be chosen skew to the first three. The derivation, not an additional numbered theorem in the source, establishes attainability.\n\nFor three pairwise-skew real lines, their unique containing smooth split quadric Q is defined over R. Common transversals form its other real ruling. A fourth real line cuts Q in two real points or a conjugate pair, and both cases occur on open sets.",
   "generated_by": [
     "Taylor Brysiewicz AI 20261104"
   ],

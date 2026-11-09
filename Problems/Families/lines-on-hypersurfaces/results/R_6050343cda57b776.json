@@ -2,9 +2,9 @@
   "result_id": "R_6050343cda57b776",
   "problem_id": "P_lines_degree_2n3_hypersurfaces",
   "question_id": "Q1",
-  "statement": "For a generic hypersurface of degree d=2n-3 in CP^n, the number of lines is d^(2n-2) times sum_(m=0)^(n-2) [(-1)^m(2m+1)K_m e_m(Gamma)], where K_m=binom(2m,m)/(m+1), Gamma={j(d-j)/d^2:1<=j<=n-2}, and e_m denotes the elementary symmetric polynomial with e_0=1. This is an exact complex enumerative count.",
+  "statement": "For a generic hypersurface of degree d=2n−3 in CP^n, the number of lines is d^(2n−2) Σ_(m=0)^(n−2) (−1)^m(2m+1)K_m e_m(Γ), where K_m=binom(2m,m)/(m+1), Γ={j(d−j)/d² | 1≤j≤n−2}, and e_m is the elementary symmetric polynomial with e_0=1.",
   "answer": {
-    "text": "For a generic hypersurface of degree d=2n-3 in CP^n, the number of lines is d^(2n-2) times sum_(m=0)^(n-2) [(-1)^m(2m+1)K_m e_m(Gamma)], where K_m=binom(2m,m)/(m+1), Gamma={j(d-j)/d^2:1<=j<=n-2}, and e_m denotes the elementary symmetric polynomial with e_0=1. This is an exact complex enumerative count.",
+    "text": "For a generic hypersurface of degree d=2n−3 in CP^n, the number of lines is d^(2n−2) Σ_(m=0)^(n−2) (−1)^m(2m+1)K_m e_m(Γ), where K_m=binom(2m,m)/(m+1), Γ={j(d−j)/d² | 1≤j≤n−2}, and e_m is the elementary symmetric polynomial with e_0=1.",
     "display": "d^(2n−2) Σ_{m=0}^{n−2}(−1)^m(2m+1)K_m e_m(Γ)",
     "relation": "equal",
     "qualification": "d=2n−3; K_m=binom(2m,m)/(m+1); Γ={j(d−j)/d²:1≤j≤n−2}; e₀=1.",
@@ -30,5 +30,5 @@
   },
   "headline": true,
   "scope": "Generic degree 2n-3 hypersurfaces in CP^n.",
-  "notes": "Generic hypersurface count; not the count on a specially chosen singular or symmetric hypersurface."
+  "notes": "Generic hypersurface count; not the count on a specially chosen singular or symmetric hypersurface.\n\nSource discussion. For a generic hypersurface of degree d=2n-3 in CP^n, the number of lines is d^(2n-2) times sum_(m=0)^(n-2) [(-1)^m(2m+1)K_m e_m(Gamma)], where K_m=binom(2m,m)/(m+1), Gamma={j(d-j)/d^2:1<=j<=n-2}, and e_m denotes the elementary symmetric polynomial with e_0=1. This is an exact complex enumerative count."
 }

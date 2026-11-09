@@ -1,7 +1,7 @@
 {
   "problem_id": "P_laman_plane",
   "question_id": "Q1",
-  "statement": "For a Laman graph with n vertices and generic edge lengths, the number of planar realization classes modulo orientation-preserving rigid motions is at most binomial(2n−4,n−2). The bound comes from twice the degree of the complex projective Cayley–Menger variety, whose degree is one half of that binomial coefficient; it bounds complex solutions and hence real ones. Reflected realizations are counted separately.",
+  "statement": "For an n-vertex Laman graph with generic edge lengths, the number of complex planar realization classes modulo orientation-preserving rigid motions is at most binom(2n−4,n−2), with reflected realizations counted separately.",
   "status": "partial",
   "evidence": "theorem",
   "answer": {
@@ -21,10 +21,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "Theorem is phrased for Euclidean embeddings; the checked degree argument takes the intersection over C. The projective variety's degree itself is half the realization upper bound.\n\nImported from the 2026-10-26 catalogue record R_8631b75b25631914; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Theorem is phrased for Euclidean embeddings; the checked degree argument takes the intersection over C. The projective variety's degree itself is half the realization upper bound.\n\nImported from the 2026-10-26 catalogue record R_8631b75b25631914; the source claim has not been newly rechecked against the paper for this beta import.\n\nFor a Laman graph with n vertices and generic edge lengths, the number of planar realization classes modulo orientation-preserving rigid motions is at most binomial(2n−4,n−2). The bound comes from twice the degree of the complex projective Cayley–Menger variety, whose degree is one half of that binomial coefficient; it bounds complex solutions and hence real ones. Reflected realizations are counted separately.",
   "scope": "Minimally rigid n-vertex planar frameworks with prescribed edge lengths, modulo planar translations and rotations.",
   "result_id": "R_18edf8a21c92a829f3523823a9b9a9f678615d0c78d25190cdd4b3dd235d539e"
 }

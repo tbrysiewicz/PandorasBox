@@ -1,7 +1,7 @@
 {
   "problem_id": "P_stewart_gough",
   "question_id": "Q8",
-  "statement": "Computation 4.9 decomposes the spatial–spatial rank-at-most-five leg-coefficient locus into seven classes. Their (number,dimension,degree) are (15,30,1), (40,28,3), (15,27,72), (30,26,3), (12,26,444), (1,26,8445), and (2,25,924). The classes are described by coincidences, collinearities, coplanarities, or planar–planar anchor arrangements. Such rank deficiency supplies algebraically dependent leg constraints; consistent lengths can admit positive-dimensional configuration fibres.",
+  "statement": "The spatial–spatial locus of leg-coefficient matrices with rank at most five decomposes numerically into seven classes with (number,dimension,degree) equal to (15,30,1), (40,28,3), (15,27,72), (30,26,3), (12,26,444), (1,26,8445), and (2,25,924).",
   "status": "partial",
   "evidence": "numerical_evidence",
   "answer": {
@@ -21,10 +21,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261103",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "This classifies one concrete rank-deficiency source of exceptional mobility, not every self-motion mechanism. Computation 4.9 uses numerical irreducible decomposition; no exact certificate is claimed here. Inconsistent right-hand sides can produce empty fibres. Migration: Merge exceptional-fibre behaviour into Exceptional locus; preserve each source result separately.\n\nImported from the 2026-10-26 catalogue record R_20d95f7d333efe11; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "This classifies one concrete rank-deficiency source of exceptional mobility, not every self-motion mechanism. Computation 4.9 uses numerical irreducible decomposition; no exact certificate is claimed here. Inconsistent right-hand sides can produce empty fibres. Migration: Merge exceptional-fibre behaviour into Exceptional locus; preserve each source result separately.\n\nImported from the 2026-10-26 catalogue record R_20d95f7d333efe11; the source claim has not been newly rechecked against the paper for this beta import.\n\nComputation 4.9 decomposes the spatial–spatial rank-at-most-five leg-coefficient locus into seven classes. Their (number,dimension,degree) are (15,30,1), (40,28,3), (15,27,72), (30,26,3), (12,26,444), (1,26,8445), and (2,25,924). The classes are described by coincidences, collinearities, coplanarities, or planar–planar anchor arrangements. Such rank deficiency supplies algebraically dependent leg constraints; consistent lengths can admit positive-dimensional configuration fibres.",
   "scope": "Spatial–spatial anchor data whose 6×16 Segre leg-coefficient matrix has rank≤5.",
   "result_id": "R_45e4d92e95cf18e9a1d9f001010f2aa2ce47c72d6700ee79a3dd314ecc59a86e"
 }

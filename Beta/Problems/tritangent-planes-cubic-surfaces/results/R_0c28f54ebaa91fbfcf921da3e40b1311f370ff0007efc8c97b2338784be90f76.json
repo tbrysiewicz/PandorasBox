@@ -1,7 +1,7 @@
 {
   "problem_id": "P_tritangent_planes_cubic_surfaces",
   "question_id": "Q1",
-  "statement": "The 27 lines lie three per tritangent plane and five planes through each line; consequently there are 45 tritangent planes.",
+  "statement": "A general smooth complex cubic surface has exactly 45 tritangent planes.",
   "status": "solved",
   "evidence": "theorem",
   "answer": {
@@ -22,10 +22,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261103",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "General smooth input; do not interpret this as a count of all tangent planes or as a real-reality statement.\n\nImported from the 2026-10-26 catalogue record R_8aae42e72a093e41; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "General smooth input; do not interpret this as a count of all tangent planes or as a real-reality statement.\n\nImported from the 2026-10-26 catalogue record R_8aae42e72a093e41; the source claim has not been newly rechecked against the paper for this beta import.\n\nThe 27 lines lie three per tritangent plane and five planes through each line; consequently there are 45 tritangent planes.",
   "scope": "Tritangent planes of a general smooth complex cubic surface.",
   "result_id": "R_0c28f54ebaa91fbfcf921da3e40b1311f370ff0007efc8c97b2338784be90f76"
 }

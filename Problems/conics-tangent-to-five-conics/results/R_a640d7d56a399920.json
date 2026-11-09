@@ -2,7 +2,7 @@
   "result_id": "R_a640d7d56a399920",
   "problem_id": "P_conics_five_conics",
   "question_id": "Q1",
-  "statement": "Five general nonsingular plane conics have exactly 3,264 nonsingular complex tangent conics. On the space of complete conics, C=2(P+L), and C^5=32(1+5·2+10·4+10·4+5·2+1)=3264. The calculation excludes the double-line component responsible for the naive 6^5 count.",
+  "statement": "Five general nonsingular plane conics have exactly 3264 nonsingular complex conics tangent to all five.",
   "answer": {
     "text": "3264",
     "display": "3264",
@@ -13,8 +13,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "breiding_2019_3264_conics",
-    "chasles_1864_conic_counts"
+    "breiding_2019_3264_conics"
   ],
   "source": {
     "url": "https://files-www.mis.mpg.de/mpi-typo3/preprints/2019/preprint2019_24.pdf",
@@ -31,5 +30,5 @@
   },
   "headline": true,
   "scope": "Nonsingular plane conics tangent to five input plane conics; generic finite complex counts and real constructions have their own hypotheses.",
-  "notes": "Geometric conics for general inputs; the source recalls the complete-conic intersection calculation and cites its transversality justification. Double lines are extraneous.\n\nThe complex3264 count is classical Chasles; the modern paper’s certified all-real instance is a separate result."
+  "notes": "Geometric conics for general inputs; the source recalls the complete-conic intersection calculation and cites its transversality justification. Double lines are extraneous.\n\nThe complex3264 count is classical Chasles; the modern paper’s certified all-real instance is a separate result.\n\nRelated literature. Détermination du nombre des sections coniques qui doivent toucher cinq courbes données d’ordre quelconque, ou satisfaire à diverses autres conditions (Michel Chasles, 1864). Historical or related contributions are retained here. Their own precise statements have not been independently verified for a separate result in this migration.\n\nSource discussion. Five general nonsingular plane conics have exactly 3,264 nonsingular complex tangent conics. On the space of complete conics, C=2(P+L), and C^5=32(1+5·2+10·4+10·4+5·2+1)=3264. The calculation excludes the double-line component responsible for the naive 6^5 count."
 }

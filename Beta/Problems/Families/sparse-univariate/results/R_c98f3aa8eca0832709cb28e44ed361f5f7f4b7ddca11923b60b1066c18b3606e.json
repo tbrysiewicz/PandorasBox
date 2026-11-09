@@ -7,7 +7,8 @@
   "answer": {
     "text": "Proves the expected wreath-product monodromy C_d wr S_(a/d).",
     "display": "(Z/dZ) wr S_{a/d}",
-    "relation": "equal"
+    "relation": "equal",
+    "value": "C_d ≀ S_{a/d}"
   },
   "reference_ids": [
     "esterov_2018_wreath"

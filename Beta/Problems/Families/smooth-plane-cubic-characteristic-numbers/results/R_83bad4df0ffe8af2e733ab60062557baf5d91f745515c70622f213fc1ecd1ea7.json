@@ -1,0 +1,31 @@
+{
+  "problem_id": "P_smooth_plane_cubic_characteristic_numbers",
+  "question_id": "Q4",
+  "statement": "The sharp maximum number of real smooth plane cubics through eight general real points and tangent to one general real line is four.",
+  "answer": {
+    "text": "k=1: 4.",
+    "display": "k=1: 4",
+    "relation": "partial"
+  },
+  "status": "partial",
+  "evidence": "theorem",
+  "reference_ids": [
+    "ronga_2000_real_riemann_hurwitz"
+  ],
+  "source": {
+    "url": "https://www.maths.tcd.ie/EMIS/journals/em/docs/boletim/vol312/v31-2-a5-2000.pdf",
+    "location": "§4, Theorem (printed pp.183–184)",
+    "version": "Published article (2000), 13-page PDF"
+  },
+  "scope": "Smooth irreducible degree-three plane curves through eight general real points and tangent to one general real line.",
+  "origin": {
+    "kind": "direct"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
+  ],
+  "checked_by": [],
+  "notes": "The one-tangency maximum was recorded with Ronga’s §4 theorem in the original combined family result R_b5eb708827acbf846ca18418a250d99f86f0df7690f826b0f947c73d82874245. The separate two-tangency result is due to Bertrand. Here k denotes the number of tangent-line conditions.",
+  "result_id": "R_83bad4df0ffe8af2e733ab60062557baf5d91f745515c70622f213fc1ecd1ea7"
+}

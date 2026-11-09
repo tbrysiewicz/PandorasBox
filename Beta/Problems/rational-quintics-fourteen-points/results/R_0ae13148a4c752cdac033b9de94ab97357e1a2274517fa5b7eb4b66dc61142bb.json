@@ -11,14 +11,12 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "itenberg_2003_real_rational",
-    "jaramillo_pauli_2023_correspondence",
-    "kontsevich_1994_gw"
+    "jaramillo_pauli_2023_correspondence"
   ],
   "source": {
-    "url": "https://arxiv.org/pdf/2309.12586v2",
-    "location": "Definition 2.18 and Theorem 2.19, printed page12; Definitions2.10 and Theorem2.11; combine with arXiv:2502.02569v4 Theorem1.2/Proposition5.3 and the cited exact degree-five N5,W5 values",
-    "version": "arXiv:2309.12586v2 (23 September 2024), with arXiv:2502.02569v4 (30 June 2026); primary PDFs inspected 4 November 2026"
+    "url": "https://arxiv.org/html/2309.11706v2",
+    "location": "Corollary 1.7, specialized to degree-five rational plane curves using N5=87304 and W5=18264",
+    "version": "arXiv:2309.12586v2 (23 September 2024), with arXiv:2502.02569v4 (30 June 2026); primary PDFs inspected 4 November 2026; supporting formula directly checked in arXiv:2309.11706v2 (13 April 2024), Corollary 1.7, on 9 November 2026"
   },
   "scope": "Quadratically enriched count of irreducible rational degree-five plane curves through fourteen general k-rational points, over a characteristic-zero field k.",
   "origin": {
@@ -28,6 +26,6 @@
     "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Explicit deduction, not a quintic table quoted from the paper. For weight-one ends, every arithmetic tropical multiplicity is an integer combination of ⟨1⟩ and ⟨−1⟩. Its rank is the complex multiplicity and its real signature is the Welschinger multiplicity. Consequently the total class is ((N5−W5)/2)h+W5⟨1⟩. Substitute N5=87304 (Fomin–Mikhalkin Figure 1) and W5=18264 (Itenberg–Kharlamov–Shustin printed page2): (87304−18264)/2=34520. The correspondence theorem identifies this class with the algebraic enriched count. The real signature18264 is a signed count and does not assert a sharp unsigned minimum.\n\nThe numerical count is associated with the earlier recursion (Kontsevich–Manin for rational curves). Fomin–Mikhalkin’s table remains the inspected verification source; their floor-diagram Theorem 1.6 explicitly restates Brugallé–Mikhalkin. This is not a claim that the individual numerical value was historically first found by the cited recursion.\n\nFor the all-k-rational point constraints used here, the underlying enriched correspondence is Jaramillo Puentes–Pauli (arXiv:2309.11706). The later four-author papers explicitly credit that case; their new extension-point results are not needed for this record. Displayed numerical specializations and the rank/signature deduction remain as stated.",
+  "notes": "Explicit deduction, not a quintic table quoted from the paper. For weight-one ends, every arithmetic tropical multiplicity is an integer combination of ⟨1⟩ and ⟨−1⟩. Its rank is the complex multiplicity and its real signature is the Welschinger multiplicity. Consequently the total class is ((N5−W5)/2)h+W5⟨1⟩. Substitute N5=87304 (Fomin–Mikhalkin Figure 1) and W5=18264 (Itenberg–Kharlamov–Shustin printed page2): (87304−18264)/2=34520. The correspondence theorem identifies this class with the algebraic enriched count. The real signature18264 is a signed count and does not assert a sharp unsigned minimum.\n\nThe numerical count is associated with the earlier recursion (Kontsevich–Manin for rational curves). Fomin–Mikhalkin’s table remains the inspected verification source; their floor-diagram Theorem 1.6 explicitly restates Brugallé–Mikhalkin. This is not a claim that the individual numerical value was historically first found by the cited recursion.\n\nFor the all-k-rational point constraints used here, the underlying enriched correspondence is Jaramillo Puentes–Pauli (arXiv:2309.11706). The later four-author papers explicitly credit that case; their new extension-point results are not needed for this record. Displayed numerical specializations and the rank/signature deduction remain as stated.\n\nIlia Itenberg; Viatcheslav Kharlamov; Eugenii Shustin, Welschinger invariant and enumeration of real rational curves (2003, article ID itenberg_2003_real_rational). Supplies the Welschinger value W5=18264 used in the explicit numerical specialization. The enriched-count formula is cited separately.\n\nMaxim Kontsevich; Yuri Manin, Gromov-Witten classes, quantum cohomology, and enumerative geometry (1994, article ID kontsevich_1994_gw). Earlier attribution or derivation. The current result cites the article actually inspected at the recorded source locator, which restates, tabulates, or specializes this earlier work.\n\nThe sole cited article supplies Corollary 1.7, N_k^(A1)=((N−W)/2)h+W⟨1⟩. The displayed quintic value is its explicit specialization. The earlier source inspection of arXiv:2309.12586v2 and arXiv:2502.02569v4 is retained in source.version as provenance.",
   "result_id": "R_0ae13148a4c752cdac033b9de94ab97357e1a2274517fa5b7eb4b66dc61142bb"
 }

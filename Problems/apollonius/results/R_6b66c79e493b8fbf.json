@@ -2,9 +2,9 @@
   "result_id": "R_6b66c79e493b8fbf",
   "problem_id": "P_apollonius_three_circles",
   "question_id": "Q4",
-  "statement": "The generic real maximum is 8; table cases 1, 6 and 10 attain it.",
+  "statement": "The maximum number of ordinary real circles tangent to three general real circles is eight, and this maximum is attained.",
   "answer": {
-    "text": "The generic real maximum is 8; table cases 1, 6 and 10 attain it.",
+    "text": "The maximum number of ordinary real circles tangent to three general real circles is eight, and this maximum is attained.",
     "display": "8",
     "relation": "equal",
     "qualification": "Generic ordinary-circle regime of Stoll’s classification; special or completed fibres are separate.",
@@ -33,5 +33,5 @@
     "W_7eadf718f1548be8"
   ],
   "scope": "Three ordinary real input circles with strictly ordered positive radii and general centres, excluding mutual tangencies and the collinear-centre/zero-radius/straight-line special loci discussed separately.",
-  "notes": "The finite maximum is not an upper bound on the size of exceptional infinite fibres in a completed problem."
+  "notes": "The finite maximum is not an upper bound on the size of exceptional infinite fibres in a completed problem.\n\nSource discussion. The generic real maximum is 8; table cases 1, 6 and 10 attain it."
 }

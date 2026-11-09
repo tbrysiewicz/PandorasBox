@@ -2,7 +2,7 @@
   "result_id": "R_988694315c1f4d759346c49164fb0b26af64ac4aada4b892fb4291ed2ad26cd8",
   "problem_id": "P_rational_quartics_eleven_points",
   "question_id": "Q9",
-  "statement": "For eleven general k-rational points, the quadratically enriched count of rational plane quartics is 190H + 240⟨1⟩ in GW(k). Its rank is 620 and its real signature is 240.",
+  "statement": "Over a perfect field k of characteristic zero or greater than 4, the quadratically enriched count of rational plane quartics through eleven general k-rational points is 190H+240⟨1⟩ in GW(k), where H=⟨1⟩+⟨−1⟩.",
   "answer": {
     "text": "190H + 240⟨1⟩",
     "display": "190H + 240⟨1⟩",
@@ -14,7 +14,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "jaramillo_pauli_2023_correspondence"
+    "jaramillo_markwig_pauli_rohrle_2025_enriched_plane"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2502.02569v4",
@@ -31,5 +31,5 @@
   },
   "headline": false,
   "scope": "General eleven-point configurations and irreducible rational plane quartics.",
-  "notes": "The all-rational specialization is repeated in Table 4 from earlier enriched-count work; the 2026 version also treats quadratic extension point constraints.\n\nFor the all-k-rational point constraints used here, the underlying enriched correspondence is Jaramillo Puentes–Pauli (arXiv:2309.11706). The later four-author papers explicitly credit that case; their new extension-point results are not needed for this record. Displayed numerical specializations and the rank/signature deduction remain as stated."
+  "notes": "The all-rational specialization is repeated in Table 4 from earlier enriched-count work; the 2026 version also treats quadratic extension point constraints.\n\nFor the all-k-rational point constraints used here, the underlying enriched correspondence is Jaramillo Puentes–Pauli (arXiv:2309.11706). The later four-author papers explicitly credit that case; their new extension-point results are not needed for this record. Displayed numerical specializations and the rank/signature deduction remain as stated.\n\nRelated literature. A quadratically enriched correspondence theorem (Andrés Jaramillo Puentes; Sabrina Pauli, 2023). Historical attribution is retained here. The result’s sole article reference identifies the inspected statement or calculation at the recorded locator.\n\nSource discussion. For eleven general k-rational points, the quadratically enriched count of rational plane quartics is 190H + 240⟨1⟩ in GW(k). Its rank is 620 and its real signature is 240."
 }

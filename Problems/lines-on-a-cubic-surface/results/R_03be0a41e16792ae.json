@@ -2,7 +2,7 @@
   "result_id": "R_03be0a41e16792ae",
   "problem_id": "P_lines_cubic_surfaces",
   "question_id": "Q3",
-  "statement": "The five nonsingular species have 27,15,7,3,3 real lines; their existence is stated before Art 5, so the minimum is attained at 3.",
+  "statement": "Every nonsingular real cubic surface has at least three real projective lines, and this minimum is attained.",
   "answer": {
     "text": "The minimum real-line count is 3.",
     "display": "3",
@@ -13,8 +13,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "schlafli_1863_cubic_species",
-    "schlafli_1858_cubic_lines"
+    "schlafli_1863_cubic_species"
   ],
   "source": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/On_the_Distribution_of_Surfaces_of_the_Third_Order_into_Species,_in_Reference_to_the_Absence_or_Presence_of_Singular_Points,_and_the_Reality_of_Their_Lines_(IA_jstor-108795).pdf",
@@ -31,5 +30,5 @@
   },
   "headline": true,
   "scope": "Nonsingular real cubic surfaces in real projective three-space; count real projective lines, not only lines with a specified affine incidence.",
-  "notes": "This is a real-count classification, not an independently checked classification of connected parameter chambers.\n\nThe 1863 paper explicitly states that its nonsingular-cubic theory reproduces and develops Schläfli’s 1858 article. The earlier attribution is included; the 1863 text remains the inspected classification source."
+  "notes": "This is a real-count classification, not an independently checked classification of connected parameter chambers.\n\nThe 1863 paper explicitly states that its nonsingular-cubic theory reproduces and develops Schläfli’s 1858 article. The earlier attribution is included; the 1863 text remains the inspected classification source.\n\nRelated literature. An attempt to determine the twenty-seven lines upon a surface of the third order, and to divide such surfaces into species in reference to the reality of the lines upon the surface (Ludwig Schläfli, 1858). Historical or related contributions are retained here. Their own precise statements have not been independently verified for a separate result in this migration.\n\nSource discussion. The five nonsingular species have 27,15,7,3,3 real lines; their existence is stated before Art 5, so the minimum is attained at 3."
 }

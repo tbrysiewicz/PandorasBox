@@ -19,7 +19,7 @@
     "relation": "equal"
   },
   "reference_ids": [
-    "gross_harris_1981_real_curves"
+    "hauenstein_2018_certifying_projections"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/1804.02707",
@@ -32,6 +32,6 @@
     "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Here real means the plane is defined over R; its three contact points may include a conjugate pair. The table separately records totally-real contact counts, which can include odd numbers and are not this answer. The topology rows are respectively: no real components; 1 nondividing; 2 nondividing; 3 dividing; 3 nondividing; 4 nondividing; 5 dividing.\n\nThe underlying real odd-theta count is Gross–Harris, Proposition 5.1. Hauenstein et al. explicitly attribute their Table 1 to this theory; their new certification method is not the origin of the spectrum recorded here.",
+  "notes": "Here real means the plane is defined over R; its three contact points may include a conjugate pair. The table separately records totally-real contact counts, which can include odd numbers and are not this answer. The topology rows are respectively: no real components; 1 nondividing; 2 nondividing; 3 dividing; 3 nondividing; 4 nondividing; 5 dividing.\n\nThe underlying real odd-theta count is Gross–Harris, Proposition 5.1. Hauenstein et al. explicitly attribute their Table 1 to this theory; their new certification method is not the origin of the spectrum recorded here.\n\nBenedict H. Gross; Joe Harris, Real algebraic curves (1981, article ID gross_harris_1981_real_curves). Earlier attribution or derivation. The current result cites the article actually inspected at the recorded source locator, which restates, tabulates, or specializes this earlier work.",
   "scope": "Smooth nonhyperelliptic canonical curves of genus four with a regular odd-theta tritangent fibre."
 }

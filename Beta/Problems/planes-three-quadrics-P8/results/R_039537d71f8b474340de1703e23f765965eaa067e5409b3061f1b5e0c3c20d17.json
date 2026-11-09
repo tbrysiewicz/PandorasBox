@@ -1,17 +1,17 @@
 {
   "problem_id": "P_planes_three_quadrics_P8",
   "question_id": "Q1",
-  "statement": "The generic Fano scheme contains exactly 1024 distinct projective 2-planes. Its degree is 1024, computed by the coefficient formula for Fano degrees and listed in Table 2.",
+  "statement": "The Fano scheme of projective 2-planes on a general intersection of three quadrics in P^8 consists of 1024 distinct complex points.",
   "status": "solved",
   "evidence": "theorem",
   "answer": {
-    "text": "The generic Fano scheme contains exactly 1024 distinct projective 2-planes. Its degree is 1024, computed by the coefficient formula for Fano degrees and listed in Table 2.",
+    "text": "The Fano scheme of projective 2-planes on a general intersection of three quadrics in P^8 consists of 1024 distinct complex points.",
     "display": "1024",
     "count": 1024,
     "relation": "equal"
   },
   "reference_ids": [
-    "debarre_manivel_1998_fano"
+    "yahl_2022_fano_galois"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2209.07010",
@@ -25,7 +25,7 @@
     "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "The degree formula is credited to Debarre–Manivel. General complete intersections have a reduced finite Fano scheme; special fibres require multiplicity and dimension qualifications.\n\nImported from the 2026-10-26 catalogue record R_69f94020de225580; the source claim has not been newly rechecked against the paper for this beta import.\n\nThe degree formula is Debarre–Manivel, Theorem 4.3; Yahl’s Theorem 2 and numerical table reproduce it. Yahl’s new monodromy results are separately credited to Yahl.",
+  "notes": "The degree formula is credited to Debarre–Manivel. General complete intersections have a reduced finite Fano scheme; special fibres require multiplicity and dimension qualifications.\n\nImported from the 2026-10-26 catalogue record R_69f94020de225580; the source claim has not been newly rechecked against the paper for this beta import.\n\nThe degree formula is Debarre–Manivel, Theorem 4.3; Yahl’s Theorem 2 and numerical table reproduce it. Yahl’s new monodromy results are separately credited to Yahl.\n\nOlivier Debarre; Laurent Manivel, Sur la variété des espaces linéaires contenus dans une intersection complète (1998, article ID debarre_manivel_1998_fano). Earlier attribution or derivation. The current result cites the article actually inspected at the recorded source locator, which restates, tabulates, or specializes this earlier work.\n\nThe degree 1024 is computed by the coefficient formula and listed in Table 2.",
   "scope": "Projective 2-planes contained in a general smooth complete intersection of multidegree (2,2,2) in complex P^8.",
   "result_id": "R_039537d71f8b474340de1703e23f765965eaa067e5409b3061f1b5e0c3c20d17"
 }

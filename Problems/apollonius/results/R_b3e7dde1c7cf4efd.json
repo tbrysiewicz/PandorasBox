@@ -2,9 +2,9 @@
   "result_id": "R_b3e7dde1c7cf4efd",
   "problem_id": "P_apollonius_three_circles",
   "question_id": "Q7",
-  "statement": "Fourteen topological relative-position types of three circles are listed and their contact-circle counts and contact types tabulated.",
+  "statement": "The generic relative positions of three real input circles fall into fourteen topological types with the contact-circle counts and contact types given in Table I.",
   "answer": {
-    "text": "Fourteen topological relative-position types of three circles are listed and their contact-circle counts and contact types tabulated."
+    "text": "The generic relative positions of three real input circles fall into fourteen topological types with the contact-circle counts and contact types given in Table I."
   },
   "status": "partial",
   "evidence": "theorem",
@@ -25,5 +25,5 @@
     "original_result_id": "R_b3e7dde1c7cf4efd"
   },
   "scope": "Three real input circles; generic relative-position types, with special tangencies handled separately.",
-  "notes": "The fourteen incidence types are not asserted to be fourteen connected real discriminant-complement chambers. Table I is inspected alongside its explanatory prose; historical special self-contact conventions must be retained."
+  "notes": "The fourteen incidence types are not asserted to be fourteen connected real discriminant-complement chambers. Table I is inspected alongside its explanatory prose; historical special self-contact conventions must be retained.\n\nSource discussion. Fourteen topological relative-position types of three circles are listed and their contact-circle counts and contact types tabulated."
 }

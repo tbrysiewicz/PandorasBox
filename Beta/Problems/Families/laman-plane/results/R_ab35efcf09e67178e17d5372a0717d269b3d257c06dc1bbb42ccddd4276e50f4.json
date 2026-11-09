@@ -5,7 +5,8 @@
   "answer": {
     "display": "≥2^(n−2) for planar graphs",
     "formula": "2^(n-2)",
-    "relation": "at_least"
+    "relation": "at_least",
+    "value": "≥2^(n−2) (planar graphs)"
   },
   "status": "partial",
   "evidence": "theorem",

@@ -1,7 +1,7 @@
 {
   "problem_id": "P_secants_two_twisted_cubics",
   "question_id": "Q2",
-  "statement": "The family of ten common secant lines of two general twisted cubics in complex projective 3-space has full symmetric monodromy S10. The proof identifies two generating permutations by numerical exploration and proves their occurrence by certified homotopy path tracking; thus this is a certified group determination rather than an unverified numerical guess.",
+  "statement": "The geometric monodromy on the ten common secant lines of two general twisted cubics in complex projective three-space is the full symmetric group S10.",
   "status": "solved",
   "evidence": "certified_computation",
   "answer": {
@@ -52,10 +52,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "The generic complex count ten is background here, not added as a new degree contribution.\n\nImported from the 2026-10-26 catalogue record R_f18d5b1250f1148f; the source claim has not been newly rechecked against the paper for this beta import.\n\nLMFDB identification: 10T45 in the recorded permutation degree. Standard generating permutations, when newly supplied here, are an abstract relabeling of the proved group action; they are not additional path-tracking data.",
+  "notes": "The generic complex count ten is background here, not added as a new degree contribution.\n\nImported from the 2026-10-26 catalogue record R_f18d5b1250f1148f; the source claim has not been newly rechecked against the paper for this beta import.\n\nLMFDB identification: 10T45 in the recorded permutation degree. Standard generating permutations, when newly supplied here, are an abstract relabeling of the proved group action; they are not additional path-tracking data.\n\nThe family of ten common secant lines of two general twisted cubics in complex projective 3-space has full symmetric monodromy S10. The proof identifies two generating permutations by numerical exploration and proves their occurrence by certified homotopy path tracking; thus this is a certified group determination rather than an unverified numerical guess.",
   "scope": "Ten common secant lines to a general pair of twisted cubics in complex projective 3-space.",
   "result_id": "R_68011023fb0c26a85354e77447fca45cc5699143de4c7be73314671fc394b42f"
 }

@@ -2,7 +2,7 @@
   "result_id": "R_f0ddb50d8512dcf6",
   "problem_id": "P_4simplex_area_length",
   "question_id": "Q2",
-  "statement": "The global sign involution pairs the generic 64 solutions into 32 blocks, proving containment of the monodromy group in C_2 wr S_32. Numerical loops produce permutations generating that entire wreath product, yielding the source’s starred equality claim and its conditional nonsolvability-by-radicals conclusion.",
+  "statement": "Assuming the generic fibre has the numerically determined 64 solutions, the geometric monodromy of the area–length system is contained in C₂≀S₃₂. Numerical path tracking supports equality with C₂≀S₃₂.",
   "answer": {
     "text": "C₂≀S₃₂ (numerical equality; rigorous containment).",
     "display": "C₂≀S₃₂ (numerical equality; rigorous containment).",
@@ -212,7 +212,8 @@
       ],
       "description": "C₂ ≀ S₃₂",
       "lmfdb_url": null
-    }
+    },
+    "value": "G ≤ C₂≀S₃₂ (degree 64 assumed)"
   },
   "status": "partial",
   "evidence": "numerical_evidence",
@@ -234,5 +235,5 @@
   },
   "headline": true,
   "scope": "Ten labelled squared edge variables x_ij=l_ij^2 of a 4-simplex; ten Heron equations 4x_ij*x_ik−(x_ij+x_ik−x_jk)^2=16v_ijk, with v_ijk=A_ijk^2.",
-  "notes": "The paper expressly says path tracking was not certified. The group acts on all 64 squared-edge assignments; the induced action on the 32 sign pairs is S_32.\n\nThese define the candidate/containing group. The associated area–length result remains partial: the literature gives numerical evidence for equality and a rigorous containment, not a proof of equality."
+  "notes": "The paper expressly says path tracking was not certified. The group acts on all 64 squared-edge assignments; the induced action on the 32 sign pairs is S_32.\n\nThese define the candidate/containing group. The associated area–length result remains partial: the literature gives numerical evidence for equality and a rigorous containment, not a proof of equality.\n\nSource discussion. The global sign involution pairs the generic 64 solutions into 32 blocks, proving containment of the monodromy group in C_2 wr S_32. Numerical loops produce permutations generating that entire wreath product, yielding the source’s starred equality claim and its conditional nonsolvability-by-radicals conclusion.\n\nSource discussion. The geometric monodromy of the area–length system is contained in C₂≀S₃₂ on its 64 squared-edge solutions. Numerical path tracking supports equality with C₂≀S₃₂."
 }

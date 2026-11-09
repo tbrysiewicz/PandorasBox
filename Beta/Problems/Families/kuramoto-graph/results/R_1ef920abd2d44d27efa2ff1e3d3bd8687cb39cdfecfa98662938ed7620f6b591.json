@@ -1,17 +1,17 @@
 {
   "problem_id": "P_kuramoto_graph",
   "question_id": "Q4",
-  "statement": "Every cycle C_N, N≥3, admits N·binom(N−1,floor((N−1)/2)) distinct real phase equilibria modulo common phase, attaining its complex bound. The construction uses zero frequencies, all couplings +1 when 4 does not divide N, and one coupling −1 with all others +1 when 4 divides N; the latter case uses signed real couplings.",
+  "statement": "Every cycle C_N, N≥3, admits N·binom(N−1,floor((N−1)/2)) distinct real phase equilibria modulo common phase for a suitable choice of real signed couplings and zero frequencies.",
   "answer": {
     "display": "N·binom(N−1,⌊(N−1)/2⌋) for cycles",
     "formula": "N*binom(N-1,floor((N-1)/2))",
-    "relation": "equal"
+    "relation": "equal",
+    "value": "≥N·binom(N−1,⌊(N−1)/2⌋) (cycles)"
   },
   "status": "partial",
   "evidence": "theorem",
   "reference_ids": [
-    "lindberg_2020_real_power_flow",
-    "chen_2017_kuramoto_intersection"
+    "lindberg_2020_real_power_flow"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2010.03069v1",
@@ -22,10 +22,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
   "scope": "Finite isolated-equilibrium maximum on the cycle subclass, with arbitrary nonzero real symmetric couplings allowed.",
-  "notes": "The construction has zero frequencies. If 4 does not divide N, all edge couplings are 1; if 4 divides N, one edge is −1 and the others are 1. Thus the latter case does not prove attainment with all couplings positive.",
+  "notes": "The construction has zero frequencies. If 4 does not divide N, all edge couplings are 1; if 4 divides N, one edge is −1 and the others are 1. Thus the latter case does not prove attainment with all couplings positive.\n\nEvery cycle C_N, N≥3, admits N·binom(N−1,floor((N−1)/2)) distinct real phase equilibria modulo common phase, attaining its complex bound. The construction uses zero frequencies, all couplings +1 when 4 does not divide N, and one coupling −1 with all others +1 when 4 divides N; the latter case uses signed real couplings.\n\nThe following bibliography supplies historical attribution or supporting background for the result. Tianran Chen, Robert Davis, Dhagash Mehta, Counting equilibria of the Kuramoto model using birationally invariant intersection index (2017, chen_2017_kuramoto_intersection).",
   "result_id": "R_1ef920abd2d44d27efa2ff1e3d3bd8687cb39cdfecfa98662938ed7620f6b591"
 }

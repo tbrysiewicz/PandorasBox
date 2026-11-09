@@ -11,8 +11,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "haagerup_2008_cyclic_prime",
-    "backelin_froberg_1991_cyclic7"
+    "haagerup_2008_cyclic_prime"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/0803.2629v1",
@@ -29,6 +28,6 @@
     "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Haagerup explicitly recalls simplicity for these small primes. Simplicity for arbitrary prime length is not asserted.\n\nThe earlier924-root enumeration is Backelin–Fröberg (1991), as credited in Haagerup’s introduction; Haagerup supplies the inspected recap, including simplicity.",
+  "notes": "Haagerup explicitly recalls simplicity for these small primes. Simplicity for arbitrary prime length is not asserted.\n\nThe earlier924-root enumeration is Backelin–Fröberg (1991), as credited in Haagerup’s introduction; Haagerup supplies the inspected recap, including simplicity.\n\nJörgen Backelin; Ralf Fröberg, How we proved that there are exactly 924 cyclic 7-roots (1991, article ID backelin_froberg_1991_cyclic7). Historical attribution recorded by the cited supporting article. No separately inspected result locator in this earlier article was recorded for this result.",
   "result_id": "R_da08d8080569536f0103623fec527b3dedc4ccb7c376a66028d5d08ccb892a94"
 }

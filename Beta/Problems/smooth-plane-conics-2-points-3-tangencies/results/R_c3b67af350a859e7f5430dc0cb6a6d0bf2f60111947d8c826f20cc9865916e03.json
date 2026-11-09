@@ -10,8 +10,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "bertrand_brugalle_mikhalkin_2014_characteristic",
-    "bashelor_ksir_traves_2008_conics"
+    "bertrand_brugalle_mikhalkin_2014_characteristic"
   ],
   "source": {
     "url": "https://arxiv.org/html/1105.2004v4",
@@ -23,9 +22,10 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "Example 7.1 constructs a generic configuration with no real solutions. Real projective duality exchanges 3 points/2 lines with 2 points/3 lines.\n\nThis is an elementary real-configuration or conjugation/duality deduction, with Bashelor–Ksir–Traves retained as an expository verification source. Their paper explicitly disclaims novelty; no original discovery is attributed to them here.",
+  "notes": "Example 7.1 constructs a generic configuration with no real solutions. Real projective duality exchanges 3 points/2 lines with 2 points/3 lines.\n\nThis is an elementary real-configuration or conjugation/duality deduction, with Bashelor–Ksir–Traves retained as an expository verification source. Their paper explicitly disclaims novelty; no original discovery is attributed to them here.\n\nThe following bibliography supplies historical attribution or supporting background for the result. Andrew Bashelor, Amy Ksir, Will Traves, Enumerative Algebraic Geometry of Conics (2008, bashelor_ksir_traves_2008_conics).",
   "result_id": "R_c3b67af350a859e7f5430dc0cb6a6d0bf2f60111947d8c826f20cc9865916e03"
 }

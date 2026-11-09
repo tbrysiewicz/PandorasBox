@@ -5,7 +5,8 @@
   "answer": {
     "count": 0,
     "display": "0 for one tangency",
-    "relation": "partial"
+    "relation": "partial",
+    "value": "0 (k=1)"
   },
   "status": "partial",
   "evidence": "theorem",

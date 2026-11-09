@@ -2,7 +2,7 @@
   "result_id": "R_97922f91a97bddf0",
   "problem_id": "P_apollonius_three_circles",
   "question_id": "Q5",
-  "statement": "Exactly the generic real counts {0,4,8} occur in the classified cases. The factored pair-discriminants explain why regular counts change in multiples of four.",
+  "statement": "For three real circles with strictly ordered positive radii in Stoll’s regular nontangent regime, the attainable real solution counts are exactly 0, 4, and 8.",
   "answer": {
     "text": "{0,4,8}",
     "display": "{0,4,8}",
@@ -34,5 +34,5 @@
   },
   "headline": true,
   "scope": "Three ordinary real input circles with strictly ordered positive radii and general centres, excluding mutual tangencies and the collinear-centre/zero-radius/straight-line special loci discussed separately.",
-  "notes": "Special tangencies can produce other distinct counts. This is not the spectrum of all singular/completed fibres."
+  "notes": "Special tangencies can produce other distinct counts. This is not the spectrum of all singular/completed fibres.\n\nSource discussion. Exactly the generic real counts {0,4,8} occur in the classified cases. The factored pair-discriminants explain why regular counts change in multiples of four."
 }

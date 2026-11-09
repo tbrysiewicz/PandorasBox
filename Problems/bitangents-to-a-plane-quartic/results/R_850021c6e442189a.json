@@ -2,7 +2,7 @@
   "result_id": "R_850021c6e442189a",
   "problem_id": "P_bitangents_plane_quartics",
   "question_id": "Q1",
-  "statement": "The paper proves equivalence modulo U of three explicit degree 14 contact equations due to Hesse and Salmon, and corrects normalizations from the 1859 memoir. Intersecting with U yields the 56 generic contact points corresponding in pairs to 28 bitangents.",
+  "statement": "The three degree-14 contact equations of Hesse and Salmon are equivalent modulo a general smooth quartic U. Their intersections with U consist of the 56 generic contact points, paired on its 28 bitangents.",
   "answer": {
     "text": "Equivalent explicit degree 14 equations determine bitangent contact points.",
     "display": "28 (via the degree-14 contact equations)",
@@ -30,5 +30,5 @@
   },
   "headline": true,
   "scope": "A general smooth quartic U=0 and its ordinary double-tangent contact points.",
-  "notes": "The 28 count here is the explicit generic Bézout consequence 4·14/2; the central new result is equivalence of the contact equations. No discriminant or real-chamber statement is inferred."
+  "notes": "The 28 count here is the explicit generic Bézout consequence 4·14/2; the central new result is equivalence of the contact equations. No discriminant or real-chamber statement is inferred.\n\nSource discussion. The paper proves equivalence modulo U of three explicit degree 14 contact equations due to Hesse and Salmon, and corrects normalizations from the 1859 memoir. Intersecting with U yields the 56 generic contact points corresponding in pairs to 28 bitangents."
 }

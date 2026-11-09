@@ -40,7 +40,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "nister_hartley_stewenius_2007_galois"
+    "duff_2021_galois_reconstruction"
   ],
   "source": {
     "url": "https://www.margarethregan.com/GaloisMonodromyManuscript.pdf",
@@ -51,9 +51,10 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "This corollary has a geometric proof. The larger 20- and 40-sheet pose covers have different monodromy.\n\nLMFDB identification: 10T45 in the recorded permutation degree. Standard generating permutations, when newly supplied here, are an abstract relabeling of the proved group action; they are not additional path-tracking data.\n\nDuff et al. explicitly describe Corollary 4.2 as a geometric version of Nistér–Hartley–Stewénius, Section 5. The 2007 paper is the result association; Duff’s geometric proof remains the inspected verification source.",
+  "notes": "This corollary has a geometric proof. The larger 20- and 40-sheet pose covers have different monodromy.\n\nLMFDB identification: 10T45 in the recorded permutation degree. Standard generating permutations, when newly supplied here, are an abstract relabeling of the proved group action; they are not additional path-tracking data.\n\nDuff et al. explicitly describe Corollary 4.2 as a geometric version of Nistér–Hartley–Stewénius, Section 5. The 2007 paper is the result association; Duff’s geometric proof remains the inspected verification source.\n\nThe following bibliography supplies historical attribution or supporting background for the result. David Nistér, Richard Hartley, Henrik Stewénius, Using Galois Theory to Prove Structure from Motion Algorithms are Optimal (2007, nister_hartley_stewenius_2007_galois).",
   "result_id": "R_3fc6dda86e48bf9a46b608145e62149e91e8464081bb5098fdce62b41dd5ac61"
 }

@@ -1,11 +1,11 @@
 {
   "problem_id": "P_schubert_four_lines_p3",
   "question_id": "Q2",
-  "statement": "The monodromy/Galois group is S2. Rotating the fourth given line around the point p in Figure 1 provides a loop interchanging the two solution lines.",
+  "statement": "The geometric monodromy group of the two lines meeting four general lines in P³ is S2.",
   "status": "solved",
   "evidence": "theorem",
   "answer": {
-    "text": "The monodromy/Galois group is S2. Rotating the fourth given line around the point p in Figure 1 provides a loop interchanging the two solution lines.",
+    "text": "The geometric monodromy group of the two lines meeting four general lines in P³ is S2.",
     "display": "S₂",
     "relation": "equal",
     "group": {
@@ -39,7 +39,7 @@
     "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Exact geometric loop argument; this is not one of the paper’s uncertified numerical results.\n\nImported from the 2026-10-26 catalogue record R_6b81984cc1a551e4; the source claim has not been newly rechecked against the paper for this beta import.\n\nLMFDB identification: 2T1 in the recorded permutation degree. Standard generating permutations, when newly supplied here, are an abstract relabeling of the proved group action; they are not additional path-tracking data.",
+  "notes": "Exact geometric loop argument; this is not one of the paper’s uncertified numerical results.\n\nImported from the 2026-10-26 catalogue record R_6b81984cc1a551e4; the source claim has not been newly rechecked against the paper for this beta import.\n\nLMFDB identification: 2T1 in the recorded permutation degree. Standard generating permutations, when newly supplied here, are an abstract relabeling of the proved group action; they are not additional path-tracking data.\n\nRotating the fourth given line around the point p in Figure 1 supplies a loop interchanging the two solution lines.",
   "scope": "Lines meeting four ordered general lines in P3. Chamber statements concern the open set of pairwise skew lines satisfying the genericity conditions of Fehér–Matszangosz Definition 2.6, without quotient by ambient projective transformations or relabelling.",
   "result_id": "R_a3e9309e5c561f626eef370c4db1031fb5402a073facbd12fa9a2b550fa9c287"
 }

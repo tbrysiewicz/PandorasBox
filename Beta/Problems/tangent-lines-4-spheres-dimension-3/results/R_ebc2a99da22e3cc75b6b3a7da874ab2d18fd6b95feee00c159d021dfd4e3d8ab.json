@@ -2,7 +2,7 @@
   "result_id": "R_ebc2a99da22e3cc75b6b3a7da874ab2d18fd6b95feee00c159d021dfd4e3d8ab",
   "problem_id": "P_tangent_lines_4_spheres_dimension_3",
   "question_id": "Q4",
-  "statement": "Four spheres in real three-space can have twelve distinct real common affine tangent lines; twelve is the maximum.",
+  "statement": "Four spheres in real three-space can have twelve distinct real common affine tangent lines. twelve is the maximum.",
   "status": "solved",
   "evidence": "theorem",
   "answer": {
@@ -11,8 +11,7 @@
     "relation": "equal"
   },
   "reference_ids": [
-    "sottile_2001_sphere_tangents",
-    "macdonald_2001_four_balls"
+    "sottile_2001_sphere_tangents"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/math/0105180",
@@ -26,5 +25,5 @@
   ],
   "checked_by": [],
   "scope": "Ordinary spheres with positive radii and a finite regular common-tangent fibre.",
-  "notes": "The 12-real unit-sphere construction is already in Macdonald–Pach–Theobald, Theorem 1 and Section 3, explicitly cited by Sottile–Theobald. The latter supplies the general-dimensional upper bound and construction."
+  "notes": "The 12-real unit-sphere construction is already in Macdonald–Pach–Theobald, Theorem 1 and Section 3, explicitly cited by Sottile–Theobald. The latter supplies the general-dimensional upper bound and construction.\n\nI. G. Macdonald; János Pach; Thorsten Theobald, Common tangents to four unit balls in R^3 (2001, article ID macdonald_2001_four_balls). The twelve-tangent unit-sphere construction is represented by its own result record. Sottile–Theobald supplies the supporting article for this general-sphere result."
 }

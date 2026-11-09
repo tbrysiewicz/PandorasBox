@@ -1,7 +1,7 @@
 {
   "problem_id": "P_sparse_fixed_support",
   "question_id": "Q8",
-  "statement": "For a BK-tuple, the discriminant components are the Cayley discriminants of nonprelinear simple BK-subtuples (codimension one), together with those of prelinear simple BK-subtuples not contained in any nonprelinear simple BK-subtuple (codimension two). In particular, a nonlinear irreducible BK-tuple has an irreducible discriminant hypersurface. Simple means not a union of proper BK-subtuples; prelinear means the quotient by the unique maximal proper BK-subtuple is linear.",
+  "statement": "For a BK-tuple, the discriminant components are the Cayley discriminants of nonprelinear simple BK-subtuples in codimension one, together with those of prelinear simple BK-subtuples not contained in any nonprelinear simple BK-subtuple in codimension two. In particular, a nonlinear irreducible BK-tuple has an irreducible discriminant hypersurface.",
   "status": "partial",
   "evidence": "theorem",
   "answer": {
@@ -23,7 +23,7 @@
     "Taylor Brysiewicz AI 20261103"
   ],
   "checked_by": [],
-  "notes": "Discriminant, Cayley discriminant and mixed discriminant are distinct objects in this paper. The extracted component theorem concerns the full system discriminant; the Cayley discriminants appearing in the formula are the component-defining objects.\n\nImported from the 2026-10-26 catalogue record R_b02a0ac4542e9028; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Discriminant, Cayley discriminant and mixed discriminant are distinct objects in this paper. The extracted component theorem concerns the full system discriminant; the Cayley discriminants appearing in the formula are the component-defining objects.\n\nImported from the 2026-10-26 catalogue record R_b02a0ac4542e9028; the source claim has not been newly rechecked against the paper for this beta import.\n\nA simple BK-subtuple is not a union of proper BK-subtuples. Prelinear means that the quotient by its unique maximal proper BK-subtuple is linear.",
   "scope": "Square sparse systems whose translated supports generate their lattice and form a BK-tuple: total defect zero and every subtuple has nonnegative defect; defect is affine dimension of the Minkowski sum minus number of supports.",
   "result_id": "R_55609f393d1e4f97ea57a66dde07f9162373cca122b4d390be9bd3539fb88d2f"
 }

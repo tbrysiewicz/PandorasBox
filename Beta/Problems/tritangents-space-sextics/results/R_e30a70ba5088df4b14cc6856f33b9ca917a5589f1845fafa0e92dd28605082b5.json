@@ -1354,26 +1354,27 @@
       ],
       "description": "Sp(8,2), order 47377612800, odd-quadratic-form action; lexicographic (a,b) with 0≤a,b<16 and a·b=1",
       "lmfdb_url": null
-    }
+    },
+    "value": "Sp₈(𝔽₂)"
   },
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "harris_2017_sextic_tritangents",
-    "sipe_1982_spin_monodromy"
+    "sertoz_2023_multiple_spin"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/1701.02303v3",
-    "location": "Section 7.2 (quadratic refinements) and Section 7.3, Proposition 7.20 (printed pp.20–21); Harris–Len Theorem 2.2 (p.3)",
+    "location": "Section 7.2 (quadratic refinements) and Section 7.3, Proposition 7.20 (printed pp.20–21)",
     "version": "arXiv:1701.02303v3 (16 July 2023), Section 7 inspected; arXiv:1701.02353v1 (9 January 2017), Theorem 2.2 inspected"
   },
   "scope": "Unrestricted general smooth complex canonical genus-four curves, represented as quadric–cubic complete intersections in P^3; 120 distinct odd-theta tritangent planes on the generic open.",
-  "notes": "This is an explicit consequence of the two cited primary results, not a theorem attributed verbatim to either source. Harris–Len identify tritangents with odd theta characteristics. Sertöz proves the mapping-class monodromy on theta characteristics is the full symplectic precomposition action. The nonhyperelliptic genus-four open is parametrized by canonical embeddings and quadric–cubic equations; changing a canonical frame (PGL_4) and the defining equations has connected fibres. Removing further discriminants from this open does not decrease the resulting generic monodromy. Thus the same Sp(8,2) action is obtained for unrestricted equation pairs. Generator labels: q_(a,b)(x,y)=x·y+a·x+b·y for 4-bit a,b with a·b=1. The eleven generators are transvections at e_1,…,e_4,f_1,…,f_4,e_1+e_2,e_2+e_3,e_3+e_4. Their vector orbit was checked to contain all 255 nonzero vectors; conjugation therefore gives every transvection. Each stored permutation was checked to preserve odd parity and to be an involution. No inference from the E8 Weyl group is used: its quotient describes a special quadric-cone locus and would give the wrong unrestricted group.\n\nSertöz expressly calls the symplectic action before Proposition 7.20 well known and cites Sipe 1982. Sipe is associated with the action; Harris–Len supplies the tritangent/odd-theta identification, while the recorded source preserves Sertöz’s explicit modern formulation.",
+  "notes": "This is a catalogue deduction from Sertöz’s symplectic monodromy statement and the tritangent identification of Harris–Len, Theorem 2.2, https://arxiv.org/pdf/1701.02353v1 (printed p.3). Harris–Len identify tritangents with odd theta characteristics. Sertöz proves the mapping-class monodromy on theta characteristics is the full symplectic precomposition action. The nonhyperelliptic genus-four open is parametrized by canonical embeddings and quadric–cubic equations; changing a canonical frame (PGL_4) and the defining equations has connected fibres. Removing further discriminants from this open does not decrease the resulting generic monodromy. Thus the same Sp(8,2) action is obtained for unrestricted equation pairs. Generator labels: q_(a,b)(x,y)=x·y+a·x+b·y for 4-bit a,b with a·b=1. The eleven generators are transvections at e_1,…,e_4,f_1,…,f_4,e_1+e_2,e_2+e_3,e_3+e_4. Their vector orbit was checked to contain all 255 nonzero vectors; conjugation therefore gives every transvection. Each stored permutation was checked to preserve odd parity and to be an involution. No inference from the E8 Weyl group is used: its quotient describes a special quadric-cone locus and would give the wrong unrestricted group.\n\nSertöz expressly calls the symplectic action before Proposition 7.20 well known and cites Sipe 1982. Sipe is associated with the action; Harris–Len supplies the tritangent/odd-theta identification, while the recorded source preserves Sertöz’s explicit modern formulation.\n\nThe following bibliography supplies historical attribution or supporting background for the result. Corey Harris, Yoav Len, Tritangent planes to space sextics: the algebraic and tropical stories (2017, harris_2017_sextic_tritangents) Patricia L. Sipe, Roots of the canonical bundle of the universal Teichmüller curve and certain subgroups of the mapping class group (1982, sipe_1982_spin_monodromy).",
   "origin": {
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": []
 }

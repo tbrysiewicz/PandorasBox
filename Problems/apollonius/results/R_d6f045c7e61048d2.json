@@ -2,7 +2,7 @@
   "result_id": "R_d6f045c7e61048d2",
   "problem_id": "P_apollonius_three_circles",
   "question_id": "Q3",
-  "statement": "The generic real minimum is 0; the table exhibits the zero-real cases.",
+  "statement": "The minimum number of ordinary real circles tangent to three general real circles is zero, and this minimum is attained.",
   "answer": {
     "text": "0",
     "display": "0",
@@ -30,5 +30,5 @@
   },
   "headline": true,
   "scope": "Three ordinary real input circles with strictly ordered positive radii and general centres, excluding mutual tangencies and the collinear-centre/zero-radius/straight-line special loci discussed separately.",
-  "notes": "The minimum concerns distinct admissible real circles, not a signed or multiplicity-weighted invariant."
+  "notes": "The minimum concerns distinct admissible real circles, not a signed or multiplicity-weighted invariant.\n\nSource discussion. The generic real minimum is 0; the table exhibits the zero-real cases."
 }

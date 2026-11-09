@@ -2,9 +2,9 @@
   "result_id": "R_76847789112c430e",
   "problem_id": "P_lines_degree_2n3_hypersurfaces",
   "question_id": "Q1",
-  "statement": "For a generic degree d=2n-3 hypersurface in CP^n, its line count is C_n=[d^(2n-2)/(Gamma(n)Gamma(n+1))] product_(k=0)^d binom(d,k)^(-1) E|det J|^2. The (2n-2)-square matrix J has paired columns (w,0),(0,w) for n-1 independent complex Gaussian vectors w of length d, with independent entries and E|w_j|^2=binom(d-1,j-1). In particular C_3=27.",
+  "statement": "For a generic degree d=2n−3 hypersurface in CP^n, the number of lines is C_n=[d^(2n−2)/(Γ(n)Γ(n+1))] (∏_(k=0)^d binom(d,k)^(−1)) E|det J|², for the Gaussian matrix J defined in Notes.",
   "answer": {
-    "text": "For a generic degree d=2n-3 hypersurface in CP^n, its line count is C_n=[d^(2n-2)/(Gamma(n)Gamma(n+1))] product_(k=0)^d binom(d,k)^(-1) E|det J|^2. The (2n-2)-square matrix J has paired columns (w,0),(0,w) for n-1 independent complex Gaussian vectors w of length d, with independent entries and E|w_j|^2=binom(d-1,j-1). In particular C_3=27.",
+    "text": "For a generic degree d=2n−3 hypersurface in CP^n, the number of lines is C_n=[d^(2n−2)/(Γ(n)Γ(n+1))] (∏_(k=0)^d binom(d,k)^(−1)) E|det J|², for the Gaussian matrix J defined in Notes.",
     "formula": "C_n = [d^(2n−2)/(Γ(n)Γ(n+1))] (∏_{k=0}^d binom(d,k)^(−1)) E|det J|²",
     "relation": "equal"
   },
@@ -27,5 +27,5 @@
     "original_result_id": "R_76847789112c430e"
   },
   "scope": "Lines on a generic degree 2n-3 hypersurface in CP^n.",
-  "notes": "A formula for the generic count, not a numerical estimate."
+  "notes": "A formula for the generic count, not a numerical estimate.\n\nSource discussion. For a generic degree d=2n-3 hypersurface in CP^n, its line count is C_n=[d^(2n-2)/(Gamma(n)Gamma(n+1))] product_(k=0)^d binom(d,k)^(-1) E|det J|^2. The (2n-2)-square matrix J has paired columns (w,0),(0,w) for n-1 independent complex Gaussian vectors w of length d, with independent entries and E|w_j|^2=binom(d-1,j-1). In particular C_3=27.\n\nThe (2n−2)-square matrix J has paired columns (w,0) and (0,w) for n−1 independent complex Gaussian vectors w of length d, with independent entries satisfying E|w_j|²=binom(d−1,j−1)."
 }

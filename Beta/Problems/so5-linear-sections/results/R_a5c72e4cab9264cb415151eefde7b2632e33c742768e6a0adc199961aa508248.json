@@ -1,7 +1,7 @@
 {
   "problem_id": "P_so5_linear_sections",
   "question_id": "Q5",
-  "statement": "Table 5 reports occurrences of every even value from 0 through 66, together with 76. Counts below the selected certified maximum were not all certified. The sampling experiment supplies numerical evidence of attainability, with separately tallied tracking failures.",
+  "statement": "Numerical samples of regular real complementary affine sections of SO(5) attain every even real-point count from 0 through 66, and also 76.",
   "status": "partial",
   "evidence": "numerical_evidence",
   "answer": {
@@ -21,10 +21,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261103",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "Observed spectra are not chamber classifications or rigorous exhaustive spectra. No distribution-specific expectation is inferred from the unspecified Macaulay2 random call.\n\nImported from the 2026-10-26 catalogue record R_8e6b965aefb6211d; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Observed spectra are not chamber classifications or rigorous exhaustive spectra. No distribution-specific expectation is inferred from the unspecified Macaulay2 random call.\n\nImported from the 2026-10-26 catalogue record R_8e6b965aefb6211d; the source claim has not been newly rechecked against the paper for this beta import.\n\nTable 5 reports occurrences of every even value from 0 through 66, together with 76. Counts below the selected certified maximum were not all certified. The sampling experiment supplies numerical evidence of attainability, with separately tallied tracking failures.",
   "scope": "Numerical samples of generic real complementary affine sections of SO(5); reality tolerance 0.001 per coordinate.",
   "result_id": "R_a5c72e4cab9264cb415151eefde7b2632e33c742768e6a0adc199961aa508248"
 }

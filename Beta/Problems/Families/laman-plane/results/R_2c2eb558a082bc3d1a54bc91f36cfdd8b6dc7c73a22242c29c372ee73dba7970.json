@@ -1,7 +1,7 @@
 {
   "problem_id": "P_laman_plane",
   "question_id": "Q1",
-  "statement": "For a loopless pseudo-Laman bigraph B=(G,H), put A(S)=(G/S,H\\S) and C(S)=(G\\S,H/S). Its count satisfies L(B)=L(A({e}))+L(C({e}))+Σ L(A(M))L(C(N)), summing over M∪N=E, M∩N={e}, |M|,|N|≥2 with both quotient bigraphs pseudo-Laman. Contraction and deletion define / and \\, respectively. Starting at B=(G,G) gives the generic planar realization count; loops give zero and a single biedge gives one.",
+  "statement": "The generic complex planar realization count of a Laman graph is determined by the deletion–contraction recursion for its associated pseudo-Laman bigraph, with reflected realizations counted separately.",
   "status": "solved",
   "evidence": "theorem",
   "answer": {
@@ -21,10 +21,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "Reflections remain distinct. Not a claim that all these realizations can simultaneously be real.\n\nImported from the 2026-10-26 catalogue record R_427ab31e28d855a8; the source claim has not been newly rechecked against the paper for this beta import.\n\nPass3 update (4 November 2026): primary source freshly retrieved and the cited claim rechecked against Definitions 2.4–2.5 p.9; Proposition 2.10 and Proposition 2.11 pp.10–11; Definition 4.4 p.28 (PDF image also inspected); Theorem 4.7 equation(4) p.30; §5 example p.31. The earlier import note above describes its historical verification state.",
+  "notes": "Reflections remain distinct. Not a claim that all these realizations can simultaneously be real.\n\nImported from the 2026-10-26 catalogue record R_427ab31e28d855a8; the source claim has not been newly rechecked against the paper for this beta import.\n\nPass3 update (4 November 2026): primary source freshly retrieved and the cited claim rechecked against Definitions 2.4–2.5 p.9; Proposition 2.10 and Proposition 2.11 pp.10–11; Definition 4.4 p.28 (PDF image also inspected); Theorem 4.7 equation(4) p.30; §5 example p.31. The earlier import note above describes its historical verification state.\n\nFor a loopless pseudo-Laman bigraph B=(G,H), put A(S)=(G/S,H\\S) and C(S)=(G\\S,H/S). Its count satisfies L(B)=L(A({e}))+L(C({e}))+Σ L(A(M))L(C(N)), summing over M∪N=E, M∩N={e}, |M|,|N|≥2 with both quotient bigraphs pseudo-Laman. Contraction and deletion define / and \\, respectively. Starting at B=(G,G) gives the generic planar realization count; loops give zero and a single biedge gives one.",
   "scope": "A labelled Laman graph with generic prescribed squared edge lengths, realized in C^2 modulo translations and rotations.",
   "result_id": "R_2c2eb558a082bc3d1a54bc91f36cfdd8b6dc7c73a22242c29c372ee73dba7970"
 }

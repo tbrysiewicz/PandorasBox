@@ -2,7 +2,7 @@
   "result_id": "I_0173",
   "problem_id": "P_bitangents_plane_quartics",
   "question_id": "Q1",
-  "statement": "Plücker’s 1834 note announces that a general smooth complex plane quartic has 28 bitangent lines; the proof details are deferred.",
+  "statement": "A general smooth complex plane quartic has 28 bitangent lines.",
   "answer": {
     "text": "Announced generic complex count: 28 bitangent lines.",
     "count": 28,
@@ -25,6 +25,6 @@
   "origin": {
     "kind": "direct"
   },
-  "notes": "Specialize the announced general formula to d=4; the quartic paragraph on p. 108 also states 28 explicitly. The 1834 note is an announcement with proof details deferred, so the historical evidence remains an announced result.",
+  "notes": "Specialize the announced general formula to d=4; the quartic paragraph on p. 108 also states 28 explicitly. The 1834 note is an announcement with proof details deferred, so the historical evidence remains an announced result.\n\nSource discussion. Plücker’s 1834 note announces that a general smooth complex plane quartic has 28 bitangent lines; the proof details are deferred.\n\nPlücker’s note announces this count and defers the proof details.",
   "scope": "Ordinary bitangent lines of a general smooth complex plane quartic."
 }

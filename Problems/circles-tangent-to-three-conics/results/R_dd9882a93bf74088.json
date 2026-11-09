@@ -2,7 +2,7 @@
   "result_id": "R_dd9882a93bf74088",
   "problem_id": "P_circles_three_conics",
   "question_id": "Q9",
-  "statement": "The sum of the local indices of tangent circles to three strongly general smooth plane conics equals 92ℍ in GW(k). Its rank is 184, computed by the intersection number H²(6H−2E)³ on the space of complete conics, and its real signature is zero. Here ℍ=⟨1⟩+⟨−1⟩.",
+  "statement": "Over a characteristic-zero field k, the sum of local indices of circles tangent to three strongly general smooth plane conics is 92H in GW(k), with the prescribed relative orientation and H=⟨1⟩+⟨−1⟩.",
   "answer": {
     "text": "92ℍ in GW(k)",
     "display": "92ℍ in GW(k)",
@@ -30,5 +30,5 @@
   },
   "headline": true,
   "scope": "Characteristic-zero field k; three strongly general smooth plane conics, with the relative orientation of Proposition 2.4.",
-  "notes": "Strong generality includes a finite étale zero scheme, smooth solution circles, ordinary contacts and transverse residual intersections. On the blowup of P⁵ along the Veronese double-line locus, H is the pullback of the hyperplane class and E is the exceptional divisor; H²(6H−2E)³=184 computes the geometric rank. Signature zero is a signed count, not the number of real solutions."
+  "notes": "Strong generality includes a finite étale zero scheme, smooth solution circles, ordinary contacts and transverse residual intersections. On the blowup of P⁵ along the Veronese double-line locus, H is the pullback of the hyperplane class and E is the exceptional divisor; H²(6H−2E)³=184 computes the geometric rank. Signature zero is a signed count, not the number of real solutions.\n\nSource discussion. The sum of the local indices of tangent circles to three strongly general smooth plane conics equals 92ℍ in GW(k). Its rank is 184, computed by the intersection number H²(6H−2E)³ on the space of complete conics, and its real signature is zero. Here ℍ=⟨1⟩+⟨−1⟩."
 }

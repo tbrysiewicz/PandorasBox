@@ -2,7 +2,7 @@
   "result_id": "R_cfe500dba0db8086",
   "problem_id": "P_circles_three_conics",
   "question_id": "Q5",
-  "statement": "For every even n between 0 and 136, there is a real conic triple outside the real discriminant with exactly n real tritangent circles. The accompanying data give interval certificates.",
+  "statement": "For every even n between 0 and 136, there are three real plane conics outside the real discriminant with exactly n real tritangent circles.",
   "answer": {
     "text": "Every even count from 0 through 136 is attainable.",
     "values": [
@@ -99,6 +99,6 @@
     "original_result_id": "R_cfe500dba0db8086"
   },
   "scope": "For each even n with 0≤n≤136, Theorem 3.1 supplies a real coefficient triple p in R^18 outside the real discriminant whose circle/contact-point system has exactly n real tangent circles. These are separate certified existence examples; the result does not assert a complete spectrum or a universal upper bound of 136.",
-  "notes": "These separately certified examples establish a partial spectrum, not a complete classification or a universal upper bound.",
+  "notes": "These separately certified examples establish a partial spectrum, not a complete classification or a universal upper bound.\n\nSource discussion. For every even n between 0 and 136, there is a real conic triple outside the real discriminant with exactly n real tritangent circles. The accompanying data give interval certificates.",
   "headline": true
 }

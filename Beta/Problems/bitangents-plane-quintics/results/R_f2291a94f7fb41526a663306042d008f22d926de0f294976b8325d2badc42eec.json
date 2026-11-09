@@ -256,12 +256,13 @@
       "description": "S_120, natural action on 120 bitangent lines",
       "lmfdb_url": null
     },
-    "relation": "equal"
+    "relation": "equal",
+    "value": "S₁₂₀"
   },
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "harris_1979_enumerative_galois"
+    "zhan_2020_k3_monodromy"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2004.08719v3",
@@ -269,7 +270,7 @@
     "version": "arXiv:2004.08719v3, 30 January 2022; attributed there to Harris 1979, Section II.5"
   },
   "scope": "Degree 5 in the existing family; general smooth complex plane quintic and unrestricted coefficient variation, away from the bitangent discriminant.",
-  "notes": "Harris's theorem applies to plane degree d≥5. It is recorded using Zhan's directly inspected primary-paper restatement and the original Harris attribution; Harris's original DOI could not be retrieved in this pass. Substitution d=5 in the recorded Plücker count gives 120. The quartic case is excluded from this statement: its 28-bitangent monodromy is a different action. Abstract cycle and adjacent-transposition generators encode the natural S_120 action.\n\nOriginality audit: Harris (1979) is the original attribution. The later Hashimoto–Kadets or Zhan text retained in source is a verification/restatement source, not the original claim. For the n=2 singleton case this record includes an elementary deduction.",
+  "notes": "Harris's theorem applies to plane degree d≥5. It is recorded using Zhan's directly inspected primary-paper restatement and the original Harris attribution; Harris's original DOI could not be retrieved in this pass. Substitution d=5 in the recorded Plücker count gives 120. The quartic case is excluded from this statement: its 28-bitangent monodromy is a different action. Abstract cycle and adjacent-transposition generators encode the natural S_120 action.\n\nOriginality audit: Harris (1979) is the original attribution. The later Hashimoto–Kadets or Zhan text retained in source is a verification/restatement source, not the original claim. For the n=2 singleton case this record includes an elementary deduction.\n\nJoe Harris, Galois groups of enumerative problems (1979, article ID harris_1979_enumerative_galois). Earlier attribution or derivation. The current result cites the article actually inspected at the recorded source locator, which restates, tabulates, or specializes this earlier work.",
   "origin": {
     "kind": "direct"
   },

@@ -10,8 +10,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "chen_2022_typical_atypical",
-    "baillieul_byrnes_1982_power_flow"
+    "chen_2022_typical_atypical"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2210.00784v3",
@@ -27,5 +26,5 @@
   "checked_by": [],
   "scope": "Complex torus solutions with one reference phase fixed; arbitrary generic symmetric edge couplings.",
   "result_id": "R_008e52652533d7d58755dfe18388e4779610b957b824e3a542eda9d73fb50d0b",
-  "notes": "The complete-network binomial count is credited to Baillieul–Byrnes in Chen–Korchevskaia–Lindberg. The latter remains cited for its explicit genericity theorem with symmetric couplings; the general graph theorem is a separate result."
+  "notes": "The complete-network binomial count is credited to Baillieul–Byrnes in Chen–Korchevskaia–Lindberg. The latter remains cited for its explicit genericity theorem with symmetric couplings; the general graph theorem is a separate result.\n\nJohn Baillieul; Christopher I. Byrnes, Geometric critical point analysis of lossless power system models (1982, article ID baillieul_byrnes_1982_power_flow). Historical attribution recorded by the cited supporting article. No separately inspected result locator in this earlier article was recorded for this result."
 }

@@ -1,16 +1,16 @@
 {
   "problem_id": "P_wronski_inverse",
   "question_id": "Q4",
-  "statement": "Over monic degree-n polynomials with n distinct real roots, Wr:X^λ(1^n)→P_n(1^n) is a topologically trivial covering of degree f^λ, the standard-tableau count of shape λ. Thus every solution in this Schubert cell is real and the fibre has f^λ distinct points. Theorem 1.1 separately states reality even when real Wronskian roots repeat.",
+  "statement": "Over monic degree-n polynomials with distinct real roots, the restricted Wronski map Wr:X^λ(1^n)→P_n(1^n) is a trivial covering of degree f^λ, and every fibre consists of f^λ distinct real points.",
   "status": "solved",
   "evidence": "theorem",
   "answer": {
     "text": "Over monic degree-n polynomials with n distinct real roots, Wr:X^λ(1^n)→P_n(1^n) is a topologically trivial covering of degree f^λ, the standard-tableau count of shape λ. Thus every solution in this Schubert cell is real and the fibre has f^λ distinct points. Theorem 1.1 separately states reality even when real Wronskian roots repeat.",
-    "relation": "equal"
+    "relation": "equal",
+    "value": "f^λ"
   },
   "reference_ids": [
-    "levinson_2019_topological_shapiro",
-    "mukhin_2007_schubert_representations"
+    "levinson_2019_topological_shapiro"
   ],
   "source": {
     "url": "https://arxiv.org/html/1907.11924v2",
@@ -21,10 +21,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "Corollary 1.5 addresses the simple-root covering and does not by itself establish full transversality for arbitrary osculating partition conditions.\n\nImported from the 2026-10-26 catalogue record R_09227b9dc6fe6c83; the source claim has not been newly rechecked against the paper for this beta import.\n\nThe underlying reality and transversality are due to Mukhin–Tarasov–Varchenko; Levinson–Purbhoo give a later topological proof. Triviality of the covering is the corresponding consequence over the contractible distinct-real-root chamber.",
+  "notes": "Corollary 1.5 addresses the simple-root covering and does not by itself establish full transversality for arbitrary osculating partition conditions.\n\nImported from the 2026-10-26 catalogue record R_09227b9dc6fe6c83; the source claim has not been newly rechecked against the paper for this beta import.\n\nThe underlying reality and transversality are due to Mukhin–Tarasov–Varchenko; Levinson–Purbhoo give a later topological proof. Triviality of the covering is the corresponding consequence over the contractible distinct-real-root chamber.\n\nOver monic degree-n polynomials with n distinct real roots, Wr:X^λ(1^n)→P_n(1^n) is a topologically trivial covering of degree f^λ, the standard-tableau count of shape λ. Thus every solution in this Schubert cell is real and the fibre has f^λ distinct points. Theorem 1.1 separately states reality even when real Wronskian roots repeat.\n\nThe following bibliography supplies historical attribution or supporting background for the result. Evgeny Mukhin, Vitaly Tarasov, Alexander Varchenko, Schubert calculus and representations of the general linear group (2009, mukhin_2007_schubert_representations).",
   "scope": "Polynomial spaces with prescribed Wronskian whose roots are all real and distinct.",
   "result_id": "R_846614c2f6f48e0018a34b80236905d5aae1f361e4726828368bf5de34f2dfef"
 }

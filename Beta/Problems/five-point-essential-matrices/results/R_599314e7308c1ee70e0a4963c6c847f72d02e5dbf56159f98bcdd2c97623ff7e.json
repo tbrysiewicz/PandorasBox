@@ -10,7 +10,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "demazure_1988_reconstruction"
+    "nister_2003_five_point"
   ],
   "source": {
     "url": "https://www-users.cse.umn.edu/~hspark/CSci5980/nister.pdf",
@@ -21,10 +21,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
   "scope": "Essential matrices up to nonzero scalar; not the 20- or 40-solution pose/depth formulations.",
   "result_id": "R_599314e7308c1ee70e0a4963c6c847f72d02e5dbf56159f98bcdd2c97623ff7e",
-  "notes": "The generic degree10 predates Nistér’s solver and is credited to Demazure 1988 (Theorem 6.4) by later primary literature. Nistér’s contribution is the efficient elimination algorithm; its 10-real numerical example remains separately cited."
+  "notes": "The generic degree10 predates Nistér’s solver and is credited to Demazure 1988 (Theorem 6.4) by later primary literature. Nistér’s contribution is the efficient elimination algorithm; its 10-real numerical example remains separately cited.\n\nThe following bibliography supplies historical attribution or supporting background for the result. Michel Demazure, Sur deux problèmes de reconstruction (1988, demazure_1988_reconstruction)."
 }

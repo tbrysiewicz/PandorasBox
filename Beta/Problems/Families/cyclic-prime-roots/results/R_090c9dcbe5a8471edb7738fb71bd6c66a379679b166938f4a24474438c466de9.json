@@ -1,7 +1,7 @@
 {
   "problem_id": "P_cyclic_prime_roots",
   "question_id": "Q1",
-  "statement": "For every prime p, the labelled cyclic p-root system has finitely many solutions and their total intersection multiplicity is binom(2p−2,p−1). The corresponding cyclic-sum map on (C*)^p is proper of that multiplicity. Distinct-root equality is not asserted for every prime.",
+  "statement": "For every prime p, the labelled cyclic p-root system has finitely many solutions with total intersection multiplicity binom(2p−2,p−1).",
   "status": "partial",
   "evidence": "theorem",
   "answer": {
@@ -22,10 +22,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261103",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "Do not confuse ordinary real z-coordinates with unimodular cyclic roots/CAZAC sequences. All cyclic relabellings are counted.\n\nImported from the 2026-10-26 catalogue record R_0683fe549ebc1287; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Do not confuse ordinary real z-coordinates with unimodular cyclic roots/CAZAC sequences. All cyclic relabellings are counted.\n\nImported from the 2026-10-26 catalogue record R_0683fe549ebc1287; the source claim has not been newly rechecked against the paper for this beta import.\n\nFor every prime p, the labelled cyclic p-root system has finitely many solutions and their total intersection multiplicity is binom(2p−2,p−1). The corresponding cyclic-sum map on (C*)^p is proper of that multiplicity. Distinct-root equality is not asserted for every prime.",
   "scope": "Labelled z=(z_0,...,z_(n−1))∈(C*)^n satisfying Σ_i z_i...z_(i+k−1)=0 for k=1,...,n−1 (indices modulo n), and ∏_i z_i=1; no symmetry quotient. Restrict n=p prime.",
   "result_id": "R_090c9dcbe5a8471edb7738fb71bd6c66a379679b166938f4a24474438c466de9"
 }

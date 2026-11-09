@@ -2,7 +2,7 @@
   "result_id": "R_b0d37c6b1d49070c",
   "problem_id": "P_lines_cubic_surfaces",
   "question_id": "Q1",
-  "statement": "The opening argument proves that a general cubic surface contains exactly 27 lines, using five tritangent planes through each line; the next paragraph gives an argument not assuming a line beforehand.",
+  "statement": "A general smooth complex cubic surface contains exactly 27 distinct projective lines.",
   "answer": {
     "text": "The complex line count is 27.",
     "count": 27,
@@ -11,8 +11,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "cayley_1849_triple_tangent",
-    "salmon_1849_triple_tangent"
+    "cayley_1849_triple_tangent"
   ],
   "source": {
     "url": "https://rcin.org.pl/Content/119101/PDF/WA35_143391_12807-1_Art76.pdf",
@@ -28,5 +27,5 @@
     "original_result_id": "R_b0d37c6b1d49070c"
   },
   "scope": "Lines on a general smooth complex cubic surface in projective three-space.",
-  "notes": "The original author explicitly credits Salmon for determining the number. The 1849 identity and 1889 result locator are both retained.\n\nOriginality audit: Salmon is credited by Cayley for determining the number 27; Cayley supplies the argument described in this record. Both historical contributions are retained. Salmon’s original text has not been inspected here."
+  "notes": "The original author explicitly credits Salmon for determining the number. The 1849 identity and 1889 result locator are both retained.\n\nOriginality audit: Salmon is credited by Cayley for determining the number 27; Cayley supplies the argument described in this record. Both historical contributions are retained. Salmon’s original text has not been inspected here.\n\nRelated literature. On the triple tangent planes to a surface of the third order (George Salmon, 1849). Cayley credits Salmon with determining the count. The independent Salmon result is being verified separately.\n\nSource discussion. The opening argument proves that a general cubic surface contains exactly 27 lines, using five tritangent planes through each line; the next paragraph gives an argument not assuming a line beforehand."
 }

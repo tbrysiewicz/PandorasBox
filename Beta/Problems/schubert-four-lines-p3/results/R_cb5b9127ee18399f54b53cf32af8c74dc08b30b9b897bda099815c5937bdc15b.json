@@ -2,7 +2,7 @@
   "result_id": "R_cb5b9127ee18399f54b53cf32af8c74dc08b30b9b897bda099815c5937bdc15b",
   "problem_id": "P_schubert_four_lines_p3",
   "question_id": "Q4",
-  "statement": "The maximum number of real lines meeting four general real lines in P³ is 2. For three pairwise-skew real input lines, the unique containing smooth split quadric Q is defined over R and the common transversals form its other real ruling. The fourth real line cuts Q in two real points or in a conjugate pair. Both cases occur on open sets of real input data.",
+  "statement": "The sharp maximum number of real lines meeting four general real lines in P³ is two.",
   "status": "solved",
   "evidence": "theorem",
   "answer": {
@@ -21,9 +21,10 @@
     "kind": "direct"
   },
   "scope": "Four ordered real lines in P³ on the regular pairwise-skew locus; count distinct real common transversals.",
-  "notes": "Elementary consequence of the cited quadric construction: a real secant fourth line gives two real points on Q and two distinct real solution lines, and the complex degree is 2. The derivation is recorded explicitly rather than attributed as a separate theorem.",
+  "notes": "Elementary consequence of the cited quadric construction: a real secant fourth line gives two real points on Q and two distinct real solution lines, and the complex degree is 2. The derivation is recorded explicitly rather than attributed as a separate theorem.\n\nThe maximum number of real lines meeting four general real lines in P³ is 2. For three pairwise-skew real input lines, the unique containing smooth split quadric Q is defined over R and the common transversals form its other real ruling. The fourth real line cuts Q in two real points or in a conjugate pair. Both cases occur on open sets of real input data.",
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": []
 }

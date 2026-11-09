@@ -1,13 +1,14 @@
 {
   "problem_id": "P_so5_linear_sections",
   "question_id": "Q4",
-  "statement": "The authors report alpha-theory certification of at least one witness set attaining their observed maximum of 76 real points on SO(5). This is a lower bound on the maximum, not a proof that 76 is maximal.",
+  "statement": "A real complementary affine linear section of SO(5) can have at least seventy-six distinct real points.",
   "status": "partial",
   "evidence": "certified_computation",
   "answer": {
     "text": "An example with 76 real section points was certified.",
     "display": "An example with 76 real section points was certified.",
-    "relation": "partial"
+    "relation": "partial",
+    "lower_bound": 76
   },
   "reference_ids": [
     "brandt_2017_degree_so"
@@ -24,7 +25,7 @@
     "Taylor Brysiewicz AI 20261103"
   ],
   "checked_by": [],
-  "notes": "The paper says only selected maximum witnesses were certified; its full frequency table is numerical. Certificates were not rerun.\n\nImported from the 2026-10-26 catalogue record R_5c302788bab01be8; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "The paper says only selected maximum witnesses were certified; its full frequency table is numerical. Certificates were not rerun.\n\nImported from the 2026-10-26 catalogue record R_5c302788bab01be8; the source claim has not been newly rechecked against the paper for this beta import.\n\nThe article reports alpha-theory certification of a witness attaining its observed maximum of seventy-six real points. This establishes a lower bound on the maximum.",
   "scope": "Generic real complementary affine sections of SO(5) in matrix-entry coordinates.",
   "result_id": "R_ae4e3a2142885b12c3968f8d6dc31a71ca8bc97cbcb8a1f00f21953721d23d6d"
 }

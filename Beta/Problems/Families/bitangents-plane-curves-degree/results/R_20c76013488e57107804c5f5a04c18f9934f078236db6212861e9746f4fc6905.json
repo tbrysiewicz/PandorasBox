@@ -1,7 +1,7 @@
 {
   "problem_id": "P_bitangents_plane_curves_degree",
   "question_id": "Q1",
-  "statement": "Section7 obtains a contact-point curve of degree(d−2)(d²−9), then divides its intersection count with the degree-d curve by two to give d(d−2)(d²−9)/2 bitangents.",
+  "statement": "A general smooth complex plane curve of degree d≥4 has d(d−2)(d²−9)/2 ordinary bitangent lines.",
   "status": "solved",
   "evidence": "theorem",
   "answer": {
@@ -10,7 +10,6 @@
     "relation": "equal"
   },
   "reference_ids": [
-    "plucker_1834_curve_formula",
     "cayley_1859_double_tangents"
   ],
   "source": {
@@ -22,10 +21,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "The paper credits Plücker 1834 for the count. Cayley supplies an analytic derivation, not priority for the numerical formula. Generic smoothness and ordinary contact are essential.\n\nImported from the 2026-10-26 catalogue record R_3c44d1090943e802; the source claim has not been newly rechecked against the paper for this beta import.\n\nOriginality audit: Plücker (1834) is associated with the announced count, and Cayley (1859) with this record’s analytic derivation. These are distinct contributions.\n\nCayley’s opening paragraph explicitly attributes the numerical double-tangent formula to Plücker 1834. Cayley remains cited for the analytical contact-curve construction included in this record.",
+  "notes": "The paper credits Plücker 1834 for the count. Cayley supplies an analytic derivation, not priority for the numerical formula. Generic smoothness and ordinary contact are essential.\n\nImported from the 2026-10-26 catalogue record R_3c44d1090943e802; the source claim has not been newly rechecked against the paper for this beta import.\n\nOriginality audit: Plücker (1834) is associated with the announced count, and Cayley (1859) with this record’s analytic derivation. These are distinct contributions.\n\nCayley’s opening paragraph explicitly attributes the numerical double-tangent formula to Plücker 1834. Cayley remains cited for the analytical contact-curve construction included in this record.\n\nSection7 obtains a contact-point curve of degree(d−2)(d²−9), then divides its intersection count with the degree-d curve by two to give d(d−2)(d²−9)/2 bitangents.\n\nThe following bibliography supplies historical attribution or supporting background for the result. Julius Plücker, Solution d'une question fondamentale concernant la théorie générale des courbes. (1834, plucker_1834_curve_formula).",
   "scope": "General smooth complex projective plane curves of degree d≥4, ordinary bitangents with two distinct contact points.",
   "result_id": "R_20c76013488e57107804c5f5a04c18f9934f078236db6212861e9746f4fc6905"
 }

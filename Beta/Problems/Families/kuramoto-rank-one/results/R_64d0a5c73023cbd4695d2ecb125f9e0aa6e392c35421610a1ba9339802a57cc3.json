@@ -1,7 +1,7 @@
 {
   "problem_id": "P_kuramoto_rank_one",
   "question_id": "Q1",
-  "statement": "For generic zero-sum frequencies and positive rank-one coupling parameters in the polynomial Kuramoto formulation (4), the complex root count after identifying configurations differing by a common phase shift is 2^n−2. This counts complex algebraic solutions, not only physical phases.",
+  "statement": "For generic zero-sum frequencies and positive rank-one couplings, the polynomial Kuramoto system with n oscillators has 2^n−2 complex solutions modulo common phase shift.",
   "status": "solved",
   "evidence": "theorem",
   "answer": {
@@ -21,10 +21,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261103",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "Count is for the polynomial formulation (4) modulo shift; the real-equilibrium algorithm uses conditions IC1–IC3.\n\nImported from the 2026-10-26 catalogue record R_a3847adad435e1cb; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Count is for the polynomial formulation (4) modulo shift; the real-equilibrium algorithm uses conditions IC1–IC3.\n\nImported from the 2026-10-26 catalogue record R_a3847adad435e1cb; the source claim has not been newly rechecked against the paper for this beta import.\n\nFor generic zero-sum frequencies and positive rank-one coupling parameters in the polynomial Kuramoto formulation (4), the complex root count after identifying configurations differing by a common phase shift is 2^n−2. This counts complex algebraic solutions, not only physical phases.",
   "scope": "n oscillators, symmetric rank-one couplings k_i k_j with positive k_i; zero-sum frequencies; quotient by common phase shift. The equations use coupling coefficient k_i k_j/n: ω_i=(1/n)Σ_j k_i k_j sin(θ_i−θ_j).",
   "result_id": "R_64d0a5c73023cbd4695d2ecb125f9e0aa6e392c35421610a1ba9339802a57cc3"
 }

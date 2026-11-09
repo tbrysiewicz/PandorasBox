@@ -13,8 +13,7 @@
   "status": "solved",
   "evidence": "certified_computation",
   "reference_ids": [
-    "boole_1842_linear_transformations",
-    "gelfand_kapranov_zelevinsky_1994_discriminants"
+    "pichonpharabod_2025_symmetric_cubics"
   ],
   "source": {
     "url": "https://arxiv.org/html/2509.06785v1",
@@ -31,5 +30,5 @@
   },
   "headline": true,
   "scope": "Projective lines on smooth cubic surfaces in P3. Generic complex enumeration, real parameter chambers, and probability distributions on real coefficients are distinguished in individual associations.",
-  "notes": "This is the classical homogeneous-discriminant formula attributed to Boole: four variables and degree3 give4(3−1)^3=32. GKZ supplies a standard proof and irreducibility; the unrestricted row is expressly not new in Pichon-Pharabod–Telen."
+  "notes": "This is the classical homogeneous-discriminant formula attributed to Boole: four variables and degree3 give4(3−1)^3=32. GKZ supplies a standard proof and irreducibility; the unrestricted row is expressly not new in Pichon-Pharabod–Telen.\n\nRelated literature. Exposition of a General Theory of Linear Transformations, Parts I–II (George Boole, 1842) | Discriminants, Resultants, and Multidimensional Determinants (Israel M. Gelfand; Mikhail M. Kapranov; Andrei V. Zelevinsky, 1994). Historical or related contributions are retained here. Their own precise statements have not been independently verified for a separate result in this migration."
 }

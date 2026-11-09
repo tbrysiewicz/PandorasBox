@@ -10,7 +10,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "kontsevich_1994_gw"
+    "fomin_2009_labeled_floors"
   ],
   "source": {
     "url": "https://arxiv.org/html/0906.3828v4",
@@ -28,6 +28,6 @@
     "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Elementary deduction from the recorded complex count one. Complex conjugation preserves the fibre for real input data, so its unique point is fixed and the solution curve is defined over R. A permutation action on a singleton is trivial. These deductions are supplied here explicitly; they are not attributed as separate theorems in the cited paper. The assertion concerns real solution curves, not reality of every point on a real curve.\n\nThe numerical count is associated with the earlier recursion (Kontsevich–Manin for rational curves). Fomin–Mikhalkin’s table remains the inspected verification source; their floor-diagram Theorem 1.6 explicitly restates Brugallé–Mikhalkin. This is not a claim that the individual numerical value was historically first found by the cited recursion.",
+  "notes": "Elementary deduction from the recorded complex count one. Complex conjugation preserves the fibre for real input data, so its unique point is fixed and the solution curve is defined over R. A permutation action on a singleton is trivial. These deductions are supplied here explicitly; they are not attributed as separate theorems in the cited paper. The assertion concerns real solution curves, not reality of every point on a real curve.\n\nThe numerical count is associated with the earlier recursion (Kontsevich–Manin for rational curves). Fomin–Mikhalkin’s table remains the inspected verification source; their floor-diagram Theorem 1.6 explicitly restates Brugallé–Mikhalkin. This is not a claim that the individual numerical value was historically first found by the cited recursion.\n\nMaxim Kontsevich; Yuri Manin, Gromov-Witten classes, quantum cohomology, and enumerative geometry (1994, article ID kontsevich_1994_gw). Earlier attribution or derivation. The current result cites the article actually inspected at the recorded source locator, which restates, tabulates, or specializes this earlier work.",
   "result_id": "R_5f4b34256b42b6f1a697c1c7377a9d0eb6cd797a6df6d1389e0e8b7109ebf930"
 }

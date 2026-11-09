@@ -1,7 +1,7 @@
 {
   "problem_id": "P_schubert_four_lines_p3",
   "question_id": "Q1",
-  "statement": "There are two complex lines meeting four general lines in P3: the first three lie in one ruling of a smooth quadric, and the two intersections of the fourth line with that quadric determine the two solution lines.",
+  "statement": "Exactly two complex projective lines meet four general lines in P³.",
   "status": "solved",
   "evidence": "theorem",
   "answer": {
@@ -22,10 +22,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "This introductory geometric argument is exact and independent of the paper’s later uncertified numerical Galois computations.\n\nImported from the 2026-10-26 catalogue record R_4113ca0c0e067d9b; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "This introductory geometric argument is exact and independent of the paper’s later uncertified numerical Galois computations.\n\nImported from the 2026-10-26 catalogue record R_4113ca0c0e067d9b; the source claim has not been newly rechecked against the paper for this beta import.\n\nThere are two complex lines meeting four general lines in P3: the first three lie in one ruling of a smooth quadric, and the two intersections of the fourth line with that quadric determine the two solution lines.",
   "scope": "Lines meeting four ordered general lines in complex projective three-space.",
   "result_id": "R_b39e76454ecf50efad2f3c2d2bb382bca3210676f41461ae3ddbecfe55b1d984"
 }

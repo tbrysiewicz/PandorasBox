@@ -2,7 +2,7 @@
   "result_id": "R_eed825a6bc9a554f01a2f2f653d84181a41020e943ad4e30532697187a6b9443",
   "problem_id": "P_schubert_four_lines_p3",
   "question_id": "Q5",
-  "statement": "For four general real lines in P³, the attainable numbers of distinct real common transversals are exactly {0,2}. A single real solution occurs only on the branch locus, with multiplicity two, and is excluded from this regular-fibre spectrum.",
+  "statement": "The attainable numbers of distinct real lines meeting four general real lines in P³ are exactly 0 and 2.",
   "status": "solved",
   "evidence": "theorem",
   "answer": {
@@ -24,7 +24,7 @@
     "kind": "direct"
   },
   "scope": "Four ordered real lines in P³ on the regular pairwise-skew locus; count distinct real common transversals.",
-  "notes": "Derived from the real quadratic restriction Q|l_4 in the cited geometric construction. Positive and negative discriminant give the two attained counts. Complex conjugation and degree 2 exclude any other regular count.",
+  "notes": "Derived from the real quadratic restriction Q|l_4 in the cited geometric construction. Positive and negative discriminant give the two attained counts. Complex conjugation and degree 2 exclude any other regular count.\n\nA single real solution occurs only on the branch locus with multiplicity two and is excluded from the regular-fibre spectrum.",
   "generated_by": [
     "Taylor Brysiewicz AI 20261104"
   ],

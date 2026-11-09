@@ -2,9 +2,9 @@
   "result_id": "R_a33101735defbb1e",
   "problem_id": "P_apollonius_three_circles",
   "question_id": "Q8",
-  "statement": "Euler reduces the branch to L z²−2Mz+N=0 and z=(M±sqrt(M²−LN))/L. Thus the displayed branch radicand M²−LN controls coincidence and reality: positive gives two distinct real algebraic roots, negative gives no real roots, before geometric admissibility and sign-pair identifications. The coefficients L,M,N are explicitly given in the input distances and signed radii.",
+  "statement": "In the regular signed-radius chart with L≠0, a branch of the three-circle contact problem satisfies Lz²−2Mz+N=0. Its algebraic roots are distinct and real when M²−LN>0, coincide when M²−LN=0, and are nonreal when M²−LN<0.",
   "answer": {
-    "text": "Euler reduces the branch to L z²−2Mz+N=0 and z=(M±sqrt(M²−LN))/L. Thus the displayed branch radicand M²−LN controls coincidence and reality: positive gives two distinct real algebraic roots, negative gives no real roots, before geometric admissibility and sign-pair identifications. The coefficients L,M,N are explicitly given in the input distances and signed radii."
+    "text": "In the regular signed-radius chart with L≠0, a branch of the three-circle contact problem satisfies Lz²−2Mz+N=0. Its algebraic roots are distinct and real when M²−LN>0, coincide when M²−LN=0, and are nonreal when M²−LN<0."
   },
   "status": "partial",
   "evidence": "theorem",
@@ -25,5 +25,5 @@
     "original_result_id": "R_a33101735defbb1e"
   },
   "scope": "The signed-radius branch of the three-circle contact equations in Euler’s noncollinear-centre regular chart, with nonzero leading coefficient L.",
-  "notes": "This is a discriminant of a specified elimination branch, not a claimed global reduced discriminant equation or degree. A repeated algebraic root may be geometrically inadmissible; regular-chart hypotheses remain necessary."
+  "notes": "This is a discriminant of a specified elimination branch, not a claimed global reduced discriminant equation or degree. A repeated algebraic root may be geometrically inadmissible; regular-chart hypotheses remain necessary.\n\nSource discussion. Euler reduces the branch to L z²−2Mz+N=0 and z=(M±sqrt(M²−LN))/L. Thus the displayed branch radicand M²−LN controls coincidence and reality: positive gives two distinct real algebraic roots, negative gives no real roots, before geometric admissibility and sign-pair identifications. The coefficients L,M,N are explicitly given in the input distances and signed radii."
 }

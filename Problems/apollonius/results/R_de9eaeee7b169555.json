@@ -2,7 +2,7 @@
   "result_id": "R_de9eaeee7b169555",
   "problem_id": "P_apollonius_three_circles",
   "question_id": "Q1",
-  "statement": "For three general circles the ordinary complex circle problem has degree 8. The four quadratic branches give at most eight geometric circles; Stoll’s regular eight-real cases attain this upper bound, so the generic complex degree is eight. Opposite signed-radius descriptions are identified.",
+  "statement": "Three general labelled complex input circles admit exactly eight distinct ordinary geometric circles tangent to all three.",
   "answer": {
     "text": "8",
     "display": "8",
@@ -30,5 +30,5 @@
   },
   "headline": true,
   "scope": "Three general labelled complex circles as inputs; distinct ordinary geometric solution circles tangent to all three, modulo the signed-radius duplication. Exclude point circles, limiting lines and exceptional quadratic-branch charts.",
-  "notes": "Explicit consequence of Stoll’s quadratic branch calculation and a regular eight-real case. Ordinary geometric circles, not oriented signed-radius duplicates or exceptional point/line circles."
+  "notes": "Explicit consequence of Stoll’s quadratic branch calculation and a regular eight-real case. Ordinary geometric circles, not oriented signed-radius duplicates or exceptional point/line circles.\n\nSource discussion. For three general circles the ordinary complex circle problem has degree 8. The four quadratic branches give at most eight geometric circles; Stoll’s regular eight-real cases attain this upper bound, so the generic complex degree is eight. Opposite signed-radius descriptions are identified."
 }

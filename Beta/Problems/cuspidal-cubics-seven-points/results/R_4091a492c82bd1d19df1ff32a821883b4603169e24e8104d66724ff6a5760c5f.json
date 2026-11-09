@@ -1,7 +1,7 @@
 {
   "problem_id": "P_cuspidal_cubics_seven_points",
   "question_id": "Q8",
-  "statement": "The source constructs local walls across which two real cuspidal cubics appear or disappear: a tangent line–conic union with five generic marked points on the conic and two on the line away from tangency, and a cuspidal cubic with one marked point at its cusp and six generic real marked smooth points.",
+  "statement": "The number of real cuspidal cubics through seven real marked points changes by two across the local tangent line–conic wall and marked-cusp wall described in Section 4.",
   "answer": {
     "text": "The source constructs local walls across which two real cuspidal cubics appear or disappear: a tangent line–conic union with five generic marked points on the conic and two on the line away from tangency, and a cuspidal cubic with one marked point at its cusp and six generic real marked smooth points.",
     "display": "Two wall types; real count changes by 2",
@@ -22,9 +22,10 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "This gives local wall-crossing behavior, not a complete exceptional-locus or real-count-spectrum classification. Case (b) is explicitly constructed for seven real points.",
+  "notes": "This gives local wall-crossing behavior, not a complete exceptional-locus or real-count-spectrum classification. Case (b) is explicitly constructed for seven real points.\n\nThe source constructs local walls across which two real cuspidal cubics appear or disappear: a tangent line–conic union with five generic marked points on the conic and two on the line away from tangency, and a cuspidal cubic with one marked point at its cusp and six generic real marked smooth points.",
   "result_id": "R_4091a492c82bd1d19df1ff32a821883b4603169e24e8104d66724ff6a5760c5f"
 }

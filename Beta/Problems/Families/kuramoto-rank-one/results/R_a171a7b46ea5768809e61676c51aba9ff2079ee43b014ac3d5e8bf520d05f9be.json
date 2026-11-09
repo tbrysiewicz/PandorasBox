@@ -1,7 +1,7 @@
 {
   "problem_id": "P_kuramoto_rank_one",
   "question_id": "Q3",
-  "statement": "Equation (3) gives |omega_i|≤(k_i/n)sum_{j≠i}k_j for every real equilibrium. For any positive coupling vector, one can choose a zero-sum frequency vector violating this inequality, on an open set. Thus the minimum real equilibrium count in this family is exactly 0.",
+  "statement": "For positive rank-one couplings and arbitrary zero-sum real frequencies, the minimum number of real phase equilibria modulo common phase shift is zero.",
   "status": "solved",
   "evidence": "theorem",
   "answer": {
@@ -22,10 +22,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261103",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "This zero minimum is a direct consequence of the displayed equilibrium equations; it is not claimed as a separately numbered zero-count theorem. Real means phase equilibria modulo a common shift, not real Laurent coordinates. Frequencies are arbitrary zero-sum real inputs.\n\nImported from the 2026-10-26 catalogue record R_4283c8b6a963a723; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "This zero minimum is a direct consequence of the displayed equilibrium equations; it is not claimed as a separately numbered zero-count theorem. Real means phase equilibria modulo a common shift, not real Laurent coordinates. Frequencies are arbitrary zero-sum real inputs.\n\nImported from the 2026-10-26 catalogue record R_4283c8b6a963a723; the source claim has not been newly rechecked against the paper for this beta import.\n\nEquation (3) gives |omega_i|≤(k_i/n)sum_{j≠i}k_j for every real equilibrium. For any positive coupling vector, one can choose a zero-sum frequency vector violating this inequality, on an open set. Thus the minimum real equilibrium count in this family is exactly 0.",
   "scope": "n oscillators, symmetric rank-one couplings k_i k_j with positive k_i; zero-sum frequencies; quotient by common phase shift. The equations use coupling coefficient k_i k_j/n: ω_i=(1/n)Σ_j k_i k_j sin(θ_i−θ_j). | n oscillators with positive rank-one coupling, modulo common phase. The equations use coupling coefficient k_i k_j/n: ω_i=(1/n)Σ_j k_i k_j sin(θ_i−θ_j).",
   "result_id": "R_a171a7b46ea5768809e61676c51aba9ff2079ee43b014ac3d5e8bf520d05f9be"
 }

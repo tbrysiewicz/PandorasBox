@@ -2,7 +2,7 @@
   "result_id": "R_6849417c7cc7ccef",
   "problem_id": "P_bitangents_plane_quartics",
   "question_id": "Q2",
-  "statement": "The generic bitangent Galois group is W(E7)/{±1}≅Sp6(F2), of order 1,451,520; the paper describes its action through Cayley octads and Cremona transformations.",
+  "statement": "The generic bitangent Galois group of a smooth plane quartic is W(E7)/{±1}≅Sp6(F2), of order 1,451,520.",
   "answer": {
     "text": "Sp₆(F₂) ≅ W(E₇)/{±1}",
     "display": "Sp₆(F₂) ≅ W(E₇)/{±1}",
@@ -74,7 +74,8 @@
       ],
       "description": "Sp₆(𝔽₂)",
       "lmfdb_url": "https://www.lmfdb.org/GaloisGroup/28T1256"
-    }
+    },
+    "value": "Sp₆(𝔽₂)"
   },
   "status": "solved",
   "evidence": "theorem",
@@ -96,5 +97,5 @@
   },
   "headline": true,
   "scope": "The 28 bitangents of a general plane quartic and their coefficient splitting field.",
-  "notes": "The full group is generic; special rational quartics can have smaller splitting-field groups. This established classical group is substantively used and represented, rather than claimed as a new discovery here.\n\nThe displayed pair is copied from primary database construction data, with its stated order 1451520. The default verifier checks exact transcription and transitivity; --full also enumerates the group.\n\nGenerator source: https://www.lmfdb.org/Groups/Abstract/1451520.a — Construction of abstract group, Sage/GAP permutation generators.\n\nLMFDB identification: 28T1256 in the recorded permutation degree. Standard generating permutations, when newly supplied here, are an abstract relabeling of the proved group action; they are not additional path-tracking data. LMFDB abstract group 1451520.a lists 28T1256 as its degree-28 realization."
+  "notes": "The full group is generic; special rational quartics can have smaller splitting-field groups. This established classical group is substantively used and represented, rather than claimed as a new discovery here.\n\nThe displayed pair is copied from primary database construction data, with its stated order 1451520. The default verifier checks exact transcription and transitivity; --full also enumerates the group.\n\nGenerator source: https://www.lmfdb.org/Groups/Abstract/1451520.a — Construction of abstract group, Sage/GAP permutation generators.\n\nLMFDB identification: 28T1256 in the recorded permutation degree. Standard generating permutations, when newly supplied here, are an abstract relabeling of the proved group action; they are not additional path-tracking data. LMFDB abstract group 1451520.a lists 28T1256 as its degree-28 realization.\n\nSource discussion. The generic bitangent Galois group is W(E7)/{±1}≅Sp6(F2), of order 1,451,520; the paper describes its action through Cayley octads and Cremona transformations."
 }

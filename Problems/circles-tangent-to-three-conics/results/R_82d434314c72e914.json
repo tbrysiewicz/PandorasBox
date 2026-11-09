@@ -2,7 +2,7 @@
   "result_id": "R_82d434314c72e914",
   "problem_id": "P_circles_three_conics",
   "question_id": "Q3",
-  "statement": "Theorem 3.1 constructs and interval-certifies an instance outside the real discriminant with exactly n real tritangent circles for every even n from 0 to 136. Taking n=0, together with nonnegativity, proves that the minimum real count is exactly zero.",
+  "statement": "The minimum number of real circles tangent to three general real plane conics is zero, and this minimum is attained outside the real discriminant.",
   "answer": {
     "text": "0",
     "display": "0",
@@ -30,5 +30,5 @@
   },
   "headline": true,
   "scope": "Minimum over real coefficient triples of plane conics outside the real discriminant in R^18 for the source’s circle/contact-point system. The zero-real-circle instance supplied by Theorem 3.1 attains the nonnegative lower bound; it is an existence construction, not a claim that every real triple has zero real circles.",
-  "notes": "An attained exact minimum. The paper explicitly places the examples outside the real discriminant; its certificates are cited, not rerun."
+  "notes": "An attained exact minimum. The paper explicitly places the examples outside the real discriminant; its certificates are cited, not rerun.\n\nSource discussion. Theorem 3.1 constructs and interval-certifies an instance outside the real discriminant with exactly n real tritangent circles for every even n from 0 to 136. Taking n=0, together with nonnegativity, proves that the minimum real count is exactly zero."
 }

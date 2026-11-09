@@ -1,7 +1,7 @@
 {
   "problem_id": "P_tritangents_space_sextics",
   "question_id": "Q1",
-  "statement": "A smooth canonical sextic obtained by intersecting a smooth quadric and a smooth cubic in projective 3-space over an algebraically closed field of characteristic different from two has 120 tritangent planes. The proof establishes a bijection with odd theta characteristics; each is represented by its contact divisor.",
+  "statement": "A smooth canonical sextic that is the intersection of a smooth quadric and a smooth cubic in P³ over an algebraically closed field of characteristic different from two has 120 tritangent planes.",
   "status": "solved",
   "evidence": "theorem",
   "answer": {
@@ -11,8 +11,7 @@
     "relation": "equal"
   },
   "reference_ids": [
-    "harris_2017_sextic_tritangents",
-    "clebsch_1864_tritangents"
+    "harris_2017_sextic_tritangents"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/1701.02353v1",
@@ -23,10 +22,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "A smooth quadric is required for this version of the statement. Contact-divisor interpretation allows appropriate special contacts; generic curves have distinct contact points.\n\nImported from the 2026-10-26 catalogue record R_e2974ebd2c22c2f6; the source claim has not been newly rechecked against the paper for this beta import.\n\nHarris–Len explicitly trace this classical count to Clebsch 1864. Their proof of the odd-theta correspondence in the stated setting remains cited as verification.",
+  "notes": "A smooth quadric is required for this version of the statement. Contact-divisor interpretation allows appropriate special contacts; generic curves have distinct contact points.\n\nImported from the 2026-10-26 catalogue record R_e2974ebd2c22c2f6; the source claim has not been newly rechecked against the paper for this beta import.\n\nHarris–Len explicitly trace this classical count to Clebsch 1864. Their proof of the odd-theta correspondence in the stated setting remains cited as verification.\n\nA smooth canonical sextic obtained by intersecting a smooth quadric and a smooth cubic in projective 3-space over an algebraically closed field of characteristic different from two has 120 tritangent planes. The proof establishes a bijection with odd theta characteristics; each is represented by its contact divisor.\n\nThe following bibliography supplies historical attribution or supporting background for the result. Alfred Clebsch, Ueber die Wendungsberührebenen der Raumcurven (1864, clebsch_1864_tritangents).",
   "scope": "Smooth canonical sextic given by the transverse intersection of a smooth quadric and a smooth cubic in P3, characteristic not two.",
   "result_id": "R_b11bd66d2c76a9f852ae3017da7364d402747108bb633e0f6f595dca7c6b8dbb"
 }

@@ -2,14 +2,15 @@
   "result_id": "R_8ccf3d39d12191e9",
   "problem_id": "P_rational_plane_curves",
   "question_id": "Q4",
-  "statement": "In degree four, the lattice-path construction produces eleven generic real point constraints for which 564 of the 620 irreducible rational quartics are real. Therefore the degree-four maximum is at least 564 and at most 620; the general-degree maximum is not determined by this result.",
+  "statement": "There are eleven generic real points for which exactly 564 of the 620 irreducible rational quartics are real. The maximum real count is therefore between 564 and 620.",
   "answer": {
-    "text": "In degree four, the lattice-path construction produces eleven generic real point constraints for which 564 of the 620 irreducible rational quartics are real. Therefore the degree-four maximum is at least 564 and at most 620; the general-degree maximum is not determined by this result.",
+    "text": "There are eleven generic real points for which exactly 564 of the 620 irreducible rational quartics are real. The maximum real count is therefore between 564 and 620.",
     "lower_bound": 564,
     "upper_bound": 620,
     "relation": "partial",
     "qualification": "Eleven generic real input points. The construction attains 564 real quartics; it does not establish the exact maximum.",
-    "display": "d=4: 564 ≤ maximum ≤ 620"
+    "display": "d=4: 564 ≤ maximum ≤ 620",
+    "value": "564≤M≤620 (d=4)"
   },
   "status": "partial",
   "evidence": "theorem",
@@ -30,6 +31,6 @@
     "original_result_id": "R_8ccf3d39d12191e9"
   },
   "scope": "The degree-four member of the rational-plane-curve family, with all eleven input points real and generic.",
-  "notes": "This fills only a specified family member and is orange at family level. It is a construction giving a lower bound on the maximum, not proof that 564 is maximal.",
+  "notes": "This fills only a specified family member and is orange at family level. It is a construction giving a lower bound on the maximum, not proof that 564 is maximal.\n\nSource discussion. In degree four, the lattice-path construction produces eleven generic real point constraints for which 564 of the 620 irreducible rational quartics are real. Therefore the degree-four maximum is at least 564 and at most 620; the general-degree maximum is not determined by this result.",
   "headline": true
 }

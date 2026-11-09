@@ -1,7 +1,7 @@
 {
   "problem_id": "P_laman_plane",
   "question_id": "Q4",
-  "statement": "There are real edge-length assignments for fan gluings of Desargues graphs whose number of real planar embeddings grows as 12^(n/3). Each further Desargues copy shares a fixed base triangle, adds three vertices, and multiplies the realization count by 12; reflection across the fixed base edge supplies an overall factor two. The journal gives this as a construction lower bound on the maximum, not an upper bound for all Laman graphs.",
+  "statement": "There are real edge-length assignments for fan gluings of Desargues graphs whose number of real planar embeddings grows as 12^(n/3).",
   "status": "partial",
   "evidence": "theorem",
   "answer": {
@@ -24,7 +24,7 @@
     "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Journal Proposition 5.6 is used. The older arXiv:math/0207126v1 Proposition 5.6 incorrectly gives the larger 24^(n/3) fan factor; that is not merely an abstract typo. No claim that this construction realizes the global maximum.\n\nImported from the 2026-10-26 catalogue record R_e51e5ffeafcabfc6; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Journal Proposition 5.6 is used. The older arXiv:math/0207126v1 Proposition 5.6 incorrectly gives the larger 24^(n/3) fan factor; that is not merely an abstract typo. No claim that this construction realizes the global maximum.\n\nImported from the 2026-10-26 catalogue record R_e51e5ffeafcabfc6; the source claim has not been newly rechecked against the paper for this beta import.\n\nEach additional Desargues copy shares a fixed base triangle, adds three vertices, and multiplies the realization count by 12. Reflection across the fixed base edge supplies an overall factor two. This gives a construction lower bound.",
   "scope": "Families of minimally rigid planar graphs with choices of real edge lengths.",
   "result_id": "R_81b44df7e3bf4b1cfdf2f0be9241e75092c4cb78a830158c005a80d911b71c2f"
 }

@@ -2,7 +2,7 @@
   "result_id": "R_8dbefb87a0309229",
   "problem_id": "P_lines_cubic_surfaces",
   "question_id": "Q4",
-  "statement": "Section 8 follows the lines under the smoothing: the three simple lines persist and the 24 lines coalesced along the tetrahedron edges separate into real lines for type I, giving 27.",
+  "statement": "A type-I real smoothing of the four-node cubic surface contains 27 real projective lines.",
   "answer": {
     "text": "A smoothing realizes all 27 lines as real.",
     "count": 27,
@@ -12,8 +12,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "klein_1873_cubic_surfaces",
-    "schlafli_1858_cubic_lines"
+    "klein_1873_cubic_surfaces"
   ],
   "source": {
     "url": "https://gdz.sub.uni-goettingen.de/download/pdf/PPN235181684_0006/LOG_0040.pdf",
@@ -29,5 +28,5 @@
     "original_result_id": "R_8dbefb87a0309229"
   },
   "scope": "Nonsingular real cubic surfaces obtained by smoothing the real four-node cubic in Klein’s construction.",
-  "notes": "The paragraph also displays 15,7,3,3 for the other types. No chamber-connectedness result is catalogued from the historical deformation argument in this pass.\n\nKlein explicitly credits Schläfli for the five real-line types. Klein remains cited for the geometric deformation/topological description included in this record."
+  "notes": "The paragraph also displays 15,7,3,3 for the other types. No chamber-connectedness result is catalogued from the historical deformation argument in this pass.\n\nKlein explicitly credits Schläfli for the five real-line types. Klein remains cited for the geometric deformation/topological description included in this record.\n\nRelated literature. An attempt to determine the twenty-seven lines upon a surface of the third order, and to divide such surfaces into species in reference to the reality of the lines upon the surface (Ludwig Schläfli, 1858). Historical or related contributions are retained here. Their own precise statements have not been independently verified for a separate result in this migration.\n\nSource discussion. Section 8 follows the lines under the smoothing: the three simple lines persist and the 24 lines coalesced along the tetrahedron edges separate into real lines for type I, giving 27."
 }

@@ -7,7 +7,8 @@
   "answer": {
     "text": "Provides combinatorial criteria for expected wreath-product monodromy and examples where that expected equality fails.",
     "display": "Provides combinatorial criteria for expected wreath-product monodromy and examples where that expected equality fails.",
-    "relation": "partial"
+    "relation": "partial",
+    "value": "G ≤ (H/L) ≀ S_d"
   },
   "reference_ids": [
     "esterov_2018_wreath"

@@ -2,7 +2,7 @@
   "result_id": "R_900a362baa36496e",
   "problem_id": "P_circles_three_conics",
   "question_id": "Q5",
-  "statement": "The explicit rational triple in Theorem 4.3 is strongly general and has 184 distinct geometric tangent circles: exactly 160 real circles with positive squared radius and 24 nonreal circles forming 12 conjugate pairs. The same real count occurs on a nonempty Euclidean open set of strongly general real triples.",
+  "statement": "A strongly general rational triple of plane conics has 184 distinct tangent circles, comprising 160 real circles with positive squared radius and 24 nonreal circles. The real count persists on a nonempty Euclidean open set.",
   "answer": {
     "text": "160 is attainable",
     "values": [
@@ -29,5 +29,5 @@
     "original_result_id": "R_900a362baa36496e"
   },
   "scope": "Attainability for the explicit smooth conic triple over Q in Theorem 4.3, with delta_0=1/500000, and on a nonempty Euclidean open set of strongly general real triples. The tangent-circle scheme is finite and étale, all solution circles are smooth, and contacts are ordinary with transverse residual intersections. Exactly 160 real circles have positive squared radius; the remaining 24 geometric circles are nonreal.",
-  "notes": "An individual attainable count; this does not settle the complete spectrum."
+  "notes": "An individual attainable count; this does not settle the complete spectrum.\n\nSource discussion. The explicit rational triple in Theorem 4.3 is strongly general and has 184 distinct geometric tangent circles: exactly 160 real circles with positive squared radius and 24 nonreal circles forming 12 conjugate pairs. The same real count occurs on a nonempty Euclidean open set of strongly general real triples."
 }

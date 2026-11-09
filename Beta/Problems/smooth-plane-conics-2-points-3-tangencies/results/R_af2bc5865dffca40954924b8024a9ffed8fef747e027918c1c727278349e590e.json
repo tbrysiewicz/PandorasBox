@@ -10,7 +10,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "chasles_1864_conic_counts"
+    "bashelor_ksir_traves_2008_conics"
   ],
   "source": {
     "url": "https://www.usna.edu/Users/math/traves/_files/documents/Bashelor.pdf",
@@ -22,9 +22,10 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
   "result_id": "R_af2bc5865dffca40954924b8024a9ffed8fef747e027918c1c727278349e590e",
-  "notes": "These are classical conic characteristic numbers. Bashelor–Ksir–Traves explicitly state that their paper is expository and its results are not new; their Bézout/duality derivation is retained in the source for verification."
+  "notes": "These are classical conic characteristic numbers. Bashelor–Ksir–Traves explicitly state that their paper is expository and its results are not new; their Bézout/duality derivation is retained in the source for verification.\n\nThe following bibliography supplies historical attribution or supporting background for the result. Michel Chasles, Détermination du nombre des sections coniques qui doivent toucher cinq courbes données d’ordre quelconque, ou satisfaire à diverses autres conditions (1864, chasles_1864_conic_counts)."
 }

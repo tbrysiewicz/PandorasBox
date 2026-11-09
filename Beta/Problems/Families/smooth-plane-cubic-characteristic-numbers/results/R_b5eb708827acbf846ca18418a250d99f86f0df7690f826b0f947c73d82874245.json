@@ -1,31 +1,32 @@
 {
   "problem_id": "P_smooth_plane_cubic_characteristic_numbers",
   "question_id": "Q4",
-  "statement": "Total reality holds with one or two line tangencies: the sharp maxima are 4 and 16, respectively.",
+  "statement": "The sharp maximum number of real smooth plane cubics through seven general real points and tangent to two general real lines is 16.",
   "answer": {
-    "text": "k=1: 4; k=2: 16.",
-    "display": "k=1: 4; k=2: 16",
-    "relation": "partial"
+    "text": "k=2: 16.",
+    "display": "k=2: 16",
+    "relation": "partial",
+    "value": "16 (k=2)"
   },
   "status": "partial",
   "evidence": "theorem",
   "reference_ids": [
-    "ronga_2000_real_riemann_hurwitz",
     "bertrand_2008_real_zeuthen_two_lines"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/0710.1095v1",
-    "location": "Theorem 1 and §2.2 for two tangencies; Ronga §4, Theorem, for one tangency",
+    "location": "Theorem 1 and §2.2, two line tangencies",
     "version": "arXiv:0710.1095v1 (4 October 2007); Ronga published 2000"
   },
-  "scope": "Smooth irreducible degree-3 plane curves; all incidence points and lines real and general.",
+  "scope": "Smooth irreducible degree-three plane curves through seven general real points and tangent to two general real lines.",
   "origin": {
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "Here k denotes the number of tangent-line conditions. Other k are not settled by these cited statements.",
+  "notes": "Here k denotes the number of tangent-line conditions. Other k are not settled by these cited statements.\n\nTotal reality holds with one or two line tangencies: the sharp maxima are 4 and 16, respectively.\n\nThe one-line-tangency result formerly included here is now recorded separately. Felice Ronga, A real Riemann-Hurwitz theorem (2000, ronga_2000_real_riemann_hurwitz).",
   "result_id": "R_b5eb708827acbf846ca18418a250d99f86f0df7690f826b0f947c73d82874245"
 }

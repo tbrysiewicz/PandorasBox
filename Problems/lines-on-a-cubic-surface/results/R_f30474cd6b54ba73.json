@@ -1,0 +1,32 @@
+{
+  "result_id": "R_f30474cd6b54ba73",
+  "problem_id": "P_lines_cubic_surfaces",
+  "question_id": "Q1",
+  "statement": "A general smooth complex cubic surface contains exactly 27 distinct projective lines.",
+  "answer": {
+    "text": "The complex line count is 27.",
+    "display": "27",
+    "count": 27,
+    "relation": "equal"
+  },
+  "status": "solved",
+  "evidence": "theorem",
+  "reference_ids": [
+    "salmon_1849_triple_tangent"
+  ],
+  "source": {
+    "url": "https://archive.org/details/cambridgeanddub03unkngoog/page/n267/mode/1up",
+    "location": "Section VI, printed pages 258–260, with the cubic count on page 260",
+    "version": "Original 1849 journal article, volume 4, pages 252–260, Internet Archive scan"
+  },
+  "generated_by": [
+    "Taylor Brysiewicz AI 20261109"
+  ],
+  "checked_by": [],
+  "origin": {
+    "kind": "direct",
+    "original_result_id": "R_f30474cd6b54ba73"
+  },
+  "scope": "Lines on a general smooth complex cubic surface in projective three-space.",
+  "notes": "Section VI computes the degree of the locus of points through which a line has fourth-order contact with a surface. For a cubic surface, such a line lies entirely on the surface. The cubic specialization gives degree 27 on printed page 260. This record uses the general smooth complex case of the classical calculation. Section V separately discusses singular cubic surfaces and the multiplicities assigned to their lines."
+}

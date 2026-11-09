@@ -2,7 +2,7 @@
   "result_id": "R_9cd6401e6db0dc8d1f30bc1b43a299e5bdbff7ecc0434cf0af2d87ffd07a8142",
   "problem_id": "P_bitangents_plane_quartics",
   "question_id": "Q2",
-  "statement": "For each listed nontrivial automorphism type G, the paper determines the parameter-level monodromy on the 28 bitangents over the stratum of smooth objects with that fixed symmetry. The group table in the answer follows the paper’s type ordering. These generally intransitive actions differ from quotient-space and stack monodromy.",
+  "statement": "The parameter-level monodromy of the 28 bitangents of a smooth plane quartic with prescribed nontrivial projective automorphism type is given by the classification in Notes.",
   "answer": {
     "text": "Parameter-level monodromy table for nontrivial symmetry strata.",
     "display": "Symmetry-restricted monodromy (see parameter table)",
@@ -108,7 +108,7 @@
     "version": "arXiv:2609.30442v1 (September 2026)"
   },
   "scope": "Symmetry-restricted coefficient strata for the existing 28 bitangents problem.",
-  "notes": "The paper also gives marked, stacky and geometric monodromy, which must not be identified with the parameter-level group. The symbol 1 here is the trivial group (written 0 in the source table). The source uses D8 for the dihedral group of order 8 in the quartic table; cubic D6 has order 12. See Proposition 7.7 and Appendix B.6 for the quartic convention. H3(3) is the order-27 Heisenberg group; C4 ⊚ A4, P and W(L3) retain the paper’s notation. Permutation generators are not invented from abstract group descriptions. LMFDB links in the symmetry table identify abstract parameter-level groups only; they do not assert a transitive action on all 27 or 28 solutions. Identifications use group structure, not just group order.",
+  "notes": "The paper also gives marked, stacky and geometric monodromy, which must not be identified with the parameter-level group. The symbol 1 here is the trivial group (written 0 in the source table). The source uses D8 for the dihedral group of order 8 in the quartic table; cubic D6 has order 12. See Proposition 7.7 and Appendix B.6 for the quartic convention. H3(3) is the order-27 Heisenberg group; C4 ⊚ A4, P and W(L3) retain the paper’s notation. Permutation generators are not invented from abstract group descriptions. LMFDB links in the symmetry table identify abstract parameter-level groups only; they do not assert a transitive action on all 27 or 28 solutions. Identifications use group structure, not just group order.\n\nSource discussion. For each listed nontrivial automorphism type G, the paper determines the parameter-level monodromy on the 28 bitangents over the stratum of smooth objects with that fixed symmetry. The group table in the answer follows the paper’s type ordering. These generally intransitive actions differ from quotient-space and stack monodromy.\n\nParameter-level monodromy classification. Each line lists the projective automorphism group followed by its parameter-level monodromy group.\n\n- PSL2(7) → 1\n- C4^2 ⋊ S3 → 1\n- C4 ⊚ A4 → C4\n- S4 → C2 × C2\n- Pauli group P of order 16 → C4 × C2 × C2\n- C9 → C9\n- D8 (dihedral group of order 8) → D8 × C2 × C2\n- C6 → C3 × SL2(F3)\n- S3 → S3 × S3\n- C2 × C2 → SmallGroup(256,51978)\n- C3 → W(L3)\n- C2 → N_{Sp6(F2)}(C2)",
   "generated_by": [
     "Taylor Brysiewicz AI 20261104"
   ],

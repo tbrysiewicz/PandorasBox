@@ -10,9 +10,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "aluffi_1991_singular_cubics",
-    "maillard_1871_cubic_characteristics",
-    "zeuthen_1872_cubic_characteristics"
+    "aluffi_1991_singular_cubics"
   ],
   "source": {
     "url": "https://www.math.fsu.edu/~aluffi/papers/1988TegopcIInacc.pdf",
@@ -26,9 +24,10 @@
     "original_result_id": "R_4020ede577cff352e97ae601cab8d0d6e23218846689152940a5d71734474e11"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "Source specialization: Entry k=3 of Theorem III, column D; proper tangencies.\n\nAluffi explicitly identifies these characteristic numbers as classical results of Maillard and Zeuthen. Those original claims and Aluffi’s rigorous verification are both cited; the modern proof is not presented as the first numerical claim. Any singleton real or monodromy assertion here is a deduction from the count.",
+  "notes": "Source specialization: Entry k=3 of Theorem III, column D; proper tangencies.\n\nAluffi explicitly identifies these characteristic numbers as classical results of Maillard and Zeuthen. Those original claims supply historical context for Aluffi’s rigorous verification; the modern proof is not presented as the first numerical claim. Any singleton real or monodromy assertion here is a deduction from the count.\n\nThe following bibliography supplies historical attribution or supporting background for the result. S. Maillard, Recherche des caractéristiques des systèmes élémentaires de courbes planes du troisième ordre (1871, maillard_1871_cubic_characteristics) H. G. Zeuthen, Détermination des caractéristiques des systèmes élémentaires de cubiques (1872, zeuthen_1872_cubic_characteristics).",
   "result_id": "R_550dba8f9de63b6485d493ac8cc2beb7e14d8c8124cec64a4301cc7b13bf0ced"
 }

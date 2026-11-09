@@ -1,7 +1,7 @@
 {
   "problem_id": "P_conics_five_tangent_plane_quintic",
   "question_id": "Q1",
-  "statement": "A degeneration to five lines produces the lower bound 12·2⁵+5·3·2·2⁴+10·4·2³+1=1185 for conics with five tangencies to a plane quintic.",
+  "statement": "A general smooth plane quintic has at least 1,185 nonsingular conics tangent to it at five distinct points.",
   "status": "partial",
   "evidence": "theorem",
   "answer": {
@@ -22,10 +22,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261103",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "Source-asserted classical geometric lower bound; not independently reconstructed as a modern deformation proof in this audit. The author and editor explicitly decline an exactness assertion. It does not prove 1185 real conics. The editor corrects a coefficient in an earlier de Jonquières formula, so 1135 is not retained as a verified count.\n\nImported from the 2026-10-26 catalogue record R_195eb1fa4d7989e0; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Source-asserted classical geometric lower bound; not independently reconstructed as a modern deformation proof in this audit. The author and editor explicitly decline an exactness assertion. It does not prove 1185 real conics. The editor corrects a coefficient in an earlier de Jonquières formula, so 1135 is not retained as a verified count.\n\nImported from the 2026-10-26 catalogue record R_195eb1fa4d7989e0; the source claim has not been newly rechecked against the paper for this beta import.\n\nA degeneration to five lines produces the lower bound 12·2⁵+5·3·2·2⁴+10·4·2³+1=1185 for conics with five tangencies to a plane quintic.",
   "scope": "Nonsingular plane conics tangent at five distinct points to one general smooth plane quintic.",
   "result_id": "R_00fd9671c46db66d47b5bced72d3d3a4e1974203b8a637ab8d37e07502ccfa2a"
 }

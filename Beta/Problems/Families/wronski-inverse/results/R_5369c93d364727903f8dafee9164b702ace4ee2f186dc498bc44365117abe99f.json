@@ -10,7 +10,7 @@
     "relation": "equal"
   },
   "reference_ids": [
-    "schubert_1886_linear_spaces"
+    "eremenko_2001_wronski_degree"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/math/0108133v4",
@@ -24,7 +24,7 @@
     "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Theorem A is credited to Schubert; the paper identifies the Wronski map as a central projection with center disjoint from the Grassmannian. This is the degree of that projection, not an unsupported substitution of variety degree.\n\nImported from the 2026-10-26 catalogue record R_3b265d2296311021; the source claim has not been newly rechecked against the paper for this beta import.\n\nEremenko–Gabrielov explicitly credit this complex degree to Schubert’s 1886 computation. Their realization of the Wronski map as a central projection is retained in the source; their new real topological degree has its own record.",
+  "notes": "Theorem A is credited to Schubert; the paper identifies the Wronski map as a central projection with center disjoint from the Grassmannian. This is the degree of that projection, not an unsupported substitution of variety degree.\n\nImported from the 2026-10-26 catalogue record R_3b265d2296311021; the source claim has not been newly rechecked against the paper for this beta import.\n\nEremenko–Gabrielov explicitly credit this complex degree to Schubert’s 1886 computation. Their realization of the Wronski map as a central projection is retained in the source; their new real topological degree has its own record.\n\nHermann Schubert, Anzahl-Bestimmungen für lineare Räume beliebiger Dimension (1886, article ID schubert_1886_linear_spaces). Earlier attribution or derivation. The current result cites the article actually inspected at the recorded source locator, which restates, tabulates, or specializes this earlier work.",
   "scope": "Inverse Wronski problem Wr:Gr(d,C[z]≤n−1)→P(C[z]≤d(n−d)); real-root, Schubert-cell and cyclic-fixed restrictions are recorded separately.",
   "result_id": "R_5369c93d364727903f8dafee9164b702ace4ee2f186dc498bc44365117abe99f"
 }

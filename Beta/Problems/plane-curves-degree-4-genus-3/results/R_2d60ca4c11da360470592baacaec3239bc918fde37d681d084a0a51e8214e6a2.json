@@ -10,8 +10,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "vakil_1999_quartic_characteristic",
-    "zeuthen_1873_plane_curve_systems"
+    "vakil_1999_quartic_characteristic"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/math/9812018v1",
@@ -26,9 +25,10 @@
     "inheritance_basis": "A reduced generic complex fibre of cardinality one has trivial permutation action; for generic real inputs conjugation fixes its unique solution."
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "Elementary deduction from the recorded complex count one. Complex conjugation preserves the fibre for real input data, so its unique point is fixed and the solution curve is defined over R. A permutation action on a singleton is trivial. These deductions are supplied here explicitly; they are not attributed as separate theorems in the cited paper. The assertion concerns real solution curves, not reality of every point on a real curve.\n\nZeuthen 1873 predicted these quartic characteristic numbers; Vakil completes their rigorous verification. The prediction and proof are distinguished, and both references are retained. Singleton real/monodromy conclusions are deductions from the count.",
+  "notes": "Elementary deduction from the recorded complex count one. Complex conjugation preserves the fibre for real input data, so its unique point is fixed and the solution curve is defined over R. A permutation action on a singleton is trivial. These deductions are supplied here explicitly; they are not attributed as separate theorems in the cited paper. The assertion concerns real solution curves, not reality of every point on a real curve.\n\nZeuthen 1873 predicted these quartic characteristic numbers; Vakil completes their rigorous verification. The prediction is historical context for the proof. Singleton real/monodromy conclusions are deductions from the count.\n\nThe following bibliography supplies historical attribution or supporting background for the result. H. G. Zeuthen, Almindelige Egenskaber ved Systemer af plane Kurver (1873, zeuthen_1873_plane_curve_systems).",
   "result_id": "R_2d60ca4c11da360470592baacaec3239bc918fde37d681d084a0a51e8214e6a2"
 }

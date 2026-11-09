@@ -2,7 +2,7 @@
   "result_id": "R_5458b141c60bf68f",
   "problem_id": "P_bitangents_plane_quartics",
   "question_id": "Q7",
-  "statement": "The complement of the quartic discriminant in real projective coefficient space RP14 has six connected components, one for each topology in Table 1: four ovals, three ovals, two nonnested ovals, one oval, two nested ovals, and empty. Their real bitangent counts are 28,16,8,4,4,4.",
+  "statement": "The smooth-real-quartic locus in RP14 has six connected components, corresponding to four ovals, three ovals, two nonnested ovals, one oval, two nested ovals, and empty real locus. Their real bitangent counts are 28, 16, 8, 4, 4, and 4 respectively.",
   "answer": {
     "text": "6 chambers: four ovals; three ovals; two nonnested ovals; one oval; two nested ovals; empty",
     "display": "6 chambers: four ovals; three ovals; two nonnested ovals; one oval; two nested ovals; empty",
@@ -12,8 +12,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "zeuthen_1874_real_quartics",
-    "klein_1876_real_quartic_components"
+    "plaumann_2010_quartic_bitangents"
   ],
   "source": {
     "url": "https://arxiv.org/html/1008.4104v2",
@@ -30,5 +29,5 @@
   },
   "headline": true,
   "scope": "Real bitangent lines to a smooth real plane quartic; tangency points may be real or a complex-conjugate pair.",
-  "notes": "These are smooth-quartic parameter chambers, not chambers separating contact-point reality within a fixed topology. Attribution in the paper is to Zeuthen and Klein.\n\nOriginality audit: Zeuthen supplies the topology classification and Klein (1876), Section 5, the connectedness of each type. Plaumann–Sturmfels–Vinzant is retained as the modern verification source. Original historical texts have not been directly checked here."
+  "notes": "These are smooth-quartic parameter chambers, not chambers separating contact-point reality within a fixed topology. Attribution in the paper is to Zeuthen and Klein.\n\nOriginality audit: Zeuthen supplies the topology classification and Klein (1876), Section 5, the connectedness of each type. Plaumann–Sturmfels–Vinzant is retained as the modern verification source. Original historical texts have not been directly checked here.\n\nRelated literature. Sur les différentes formes des courbes planes du quatrième ordre (H. G. Zeuthen, 1874) | Ueber den Verlauf der Abel’schen Integrale bei den Curven vierten Grades (Felix Klein, 1876). Historical or related contributions are retained here. Their own precise statements have not been independently verified for a separate result in this migration.\n\nSource discussion. The complement of the quartic discriminant in real projective coefficient space RP14 has six connected components, one for each topology in Table 1: four ovals, three ovals, two nonnested ovals, one oval, two nested ovals, and empty. Their real bitangent counts are 28,16,8,4,4,4."
 }

@@ -2,11 +2,12 @@
   "result_id": "R_ebe8149cfc2808c6",
   "problem_id": "P_rational_plane_curves",
   "question_id": "Q3",
-  "statement": "Every such configuration has at least d!/2 real curves. The paper additionally computes the signed Welschinger values W4=240 and W5=18264, giving these stronger universal lower bounds in degrees four and five.",
+  "statement": "Through any 3d−1 generic real points there are at least d!/2 irreducible real rational degree-d plane curves. The signed Welschinger counts W4=240 and W5=18264 give lower bounds of 240 and 18264 in degrees four and five.",
   "answer": {
-    "text": "Every such configuration has at least d!/2 real curves. The paper additionally computes the signed Welschinger values W4=240 and W5=18264, giving these stronger universal lower bounds in degrees four and five.",
+    "text": "Through any 3d−1 generic real points there are at least d!/2 irreducible real rational degree-d plane curves. The signed Welschinger counts W4=240 and W5=18264 give lower bounds of 240 and 18264 in degrees four and five.",
     "display": "All-real: minimum ≥ d!/2; d=4: ≥240; d=5: ≥18,264",
-    "qualification": "All 3d−1 input points are real and generic. These are lower bounds; attainment of the displayed bounds is not asserted."
+    "qualification": "All 3d−1 input points are real and generic. These are lower bounds; attainment of the displayed bounds is not asserted.",
+    "value": "≥d!/2 (all-real points)"
   },
   "status": "partial",
   "evidence": "theorem",
@@ -27,6 +28,6 @@
     "original_result_id": "R_ebe8149cfc2808c6"
   },
   "scope": "Irreducible rational plane curves of degree d≥1 through 3d−1 generic real points.",
-  "notes": "These are lower bounds on the minimum; neither attainment of 240 nor total reality in degree four is proved here.",
+  "notes": "These are lower bounds on the minimum; neither attainment of 240 nor total reality in degree four is proved here.\n\nSource discussion. Every such configuration has at least d!/2 real curves. The paper additionally computes the signed Welschinger values W4=240 and W5=18264, giving these stronger universal lower bounds in degrees four and five.",
   "headline": true
 }

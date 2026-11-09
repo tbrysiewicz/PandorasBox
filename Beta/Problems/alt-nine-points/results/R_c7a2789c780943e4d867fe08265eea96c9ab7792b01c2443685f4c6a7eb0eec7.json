@@ -1,7 +1,7 @@
 {
   "problem_id": "P_alt_nine_points",
   "question_id": "Q1",
-  "statement": "For a randomly generated rational complex nine-point Alt instance, regeneration produces 8,652 approximate polynomial roots. At 256-bit precision, alphaCertified gives a floating-point soft certificate that these approximations correspond to distinct solutions. This validates the found solutions subject to the stated floating-point qualification; it does not prove that additional roots are absent and therefore is not a proof of generic degree 8,652.",
+  "statement": "For a rational complex nine-point Alt instance, regeneration finds 8,652 approximate solutions with a 256-bit floating-point soft certificate that they represent distinct roots.",
   "status": "partial",
   "evidence": "numerical_evidence",
   "answer": {
@@ -24,7 +24,7 @@
     "Taylor Brysiewicz AI 20261103"
   ],
   "checked_by": [],
-  "notes": "Soft certification at 256-bit precision is distinguished from the exact rational certificate in §5.1. This is a lower-bound check, not a proof that no additional solutions exist. This describes the evidence in this earlier paper; Brysiewicz (2026), Theorem 1.1, now proves the 1,442-curve count.\n\nImported from the 2026-10-26 catalogue record R_328334034d7a7bc2; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Soft certification at 256-bit precision is distinguished from the exact rational certificate in §5.1. This is a lower-bound check, not a proof that no additional solutions exist. This describes the evidence in this earlier paper; Brysiewicz (2026), Theorem 1.1, now proves the 1,442-curve count.\n\nImported from the 2026-10-26 catalogue record R_328334034d7a7bc2; the source claim has not been newly rechecked against the paper for this beta import.\n\nThe certificate validates the found solutions subject to its floating-point qualification. It does not prove that additional roots are absent or establish the generic degree.",
   "scope": "Twelve-variable polynomial formulation of nine-point four-bar synthesis, with label and Roberts-cognate symmetries.",
   "result_id": "R_c7a2789c780943e4d867fe08265eea96c9ab7792b01c2443685f4c6a7eb0eec7"
 }

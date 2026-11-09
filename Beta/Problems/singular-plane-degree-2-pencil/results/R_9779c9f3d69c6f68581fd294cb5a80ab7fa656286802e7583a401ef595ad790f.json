@@ -10,8 +10,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "boole_1842_linear_transformations",
-    "gelfand_kapranov_zelevinsky_1994_discriminants"
+    "fomin_2009_labeled_floors"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/0906.3828v4",
@@ -23,9 +22,10 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "The three singular conics are unions of two distinct lines. This is a discriminant count and includes reducible conics. A general pencil is determined by four general base points; each partition of the four points into two pairs gives one singular conic.\n\nThis is the degree-two specialization of the classical homogeneous-discriminant formula, attributed to Boole. Fomin–Mikhalkin Figure 2 is retained as a verification source, not the origin of this count.",
+  "notes": "The three singular conics are unions of two distinct lines. This is a discriminant count and includes reducible conics. A general pencil is determined by four general base points; each partition of the four points into two pairs gives one singular conic.\n\nThis is the degree-two specialization of the classical homogeneous-discriminant formula, attributed to Boole. Fomin–Mikhalkin Figure 2 is retained as a verification source, not the origin of this count.\n\nThe following bibliography supplies historical attribution or supporting background for the result. George Boole, Exposition of a General Theory of Linear Transformations, Parts I–II (1842, boole_1842_linear_transformations) Israel M. Gelfand, Mikhail M. Kapranov, Andrei V. Zelevinsky, Discriminants, Resultants, and Multidimensional Determinants (1994, gelfand_kapranov_zelevinsky_1994_discriminants).",
   "result_id": "R_9779c9f3d69c6f68581fd294cb5a80ab7fa656286802e7583a401ef595ad790f"
 }

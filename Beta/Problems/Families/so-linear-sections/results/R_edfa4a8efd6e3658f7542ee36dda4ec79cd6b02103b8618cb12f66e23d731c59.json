@@ -1,7 +1,7 @@
 {
   "problem_id": "P_so_linear_sections",
   "question_id": "Q1",
-  "statement": "In the matrix-entry embedding over C, deg SO(n)=2^(n−1) det[binom(2n−2i−2j,n−2i)] for 1≤i,j≤floor(n/2). Thus a generic complementary affine linear section has that many complex points. Table 1 lists n=2,…,9 as 2,8,40,384,4768,111616,3433600,196968448.",
+  "statement": "In the matrix-entry embedding over C, deg SO(n)=2^(n−1)det[binom(2n−2i−2j,n−2i)] for 1≤i,j≤floor(n/2). this is the number of points in a generic complementary affine linear section.",
   "status": "solved",
   "evidence": "theorem",
   "answer": {
@@ -24,7 +24,7 @@
     "Taylor Brysiewicz AI 20261103"
   ],
   "checked_by": [],
-  "notes": "Characteristic zero; do not identify this degree with an arbitrary coordinate projection.\n\nImported from the 2026-10-26 catalogue record R_43e3af59d22ba2c5; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Characteristic zero; do not identify this degree with an arbitrary coordinate projection.\n\nImported from the 2026-10-26 catalogue record R_43e3af59d22ba2c5; the source claim has not been newly rechecked against the paper for this beta import.\n\nTable 1 gives the values for n=2,…,9 as 2,8,40,384,4768,111616,3433600,196968448.",
   "scope": "SO(n,C) in the matrix-entry embedding, intersected with a generic linear subspace of codimension n(n−1)/2.",
   "result_id": "R_edfa4a8efd6e3658f7542ee36dda4ec79cd6b02103b8618cb12f66e23d731c59"
 }

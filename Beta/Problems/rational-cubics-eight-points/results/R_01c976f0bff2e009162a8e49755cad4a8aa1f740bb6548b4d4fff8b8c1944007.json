@@ -10,9 +10,7 @@
     "relation": "equal"
   },
   "reference_ids": [
-    "aluffi_1991_singular_cubics",
-    "maillard_1871_cubic_characteristics",
-    "zeuthen_1872_cubic_characteristics"
+    "aluffi_1991_singular_cubics"
   ],
   "source": {
     "url": "https://www.math.fsu.edu/~aluffi/papers/1988TegopcIInacc.pdf",
@@ -26,7 +24,7 @@
     "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Cuspidal and reducible cubics do not occur for eight general points. The generic nodal specialization does not classify exceptional eight-point configurations.\n\nImported from the 2026-10-26 catalogue record R_26b71f4b467cbd16; the source claim has not been newly rechecked against the paper for this beta import.\n\nAluffi explicitly identifies these characteristic numbers as classical results of Maillard and Zeuthen. Those original claims and Aluffi’s rigorous verification are both cited; the modern proof is not presented as the first numerical claim. Any singleton real or monodromy assertion here is a deduction from the count.",
+  "notes": "Cuspidal and reducible cubics do not occur for eight general points. The generic nodal specialization does not classify exceptional eight-point configurations.\n\nImported from the 2026-10-26 catalogue record R_26b71f4b467cbd16; the source claim has not been newly rechecked against the paper for this beta import.\n\nAluffi explicitly identifies these characteristic numbers as classical results of Maillard and Zeuthen. Aluffi supplies the inspected rigorous verification; the earlier claims remain historical attribution in these notes. Any singleton real or monodromy assertion here is a deduction from the count.\n\nS. Maillard, Recherche des caractéristiques des systèmes élémentaires de courbes planes du troisième ordre (1871, article ID maillard_1871_cubic_characteristics). Historical attribution recorded by the cited supporting article. No separately inspected result locator in this earlier article was recorded for this result.\n\nH. G. Zeuthen, Détermination des caractéristiques des systèmes élémentaires de cubiques (1872, article ID zeuthen_1872_cubic_characteristics). Historical attribution recorded by the cited supporting article. No separately inspected result locator in this earlier article was recorded for this result.",
   "scope": "Irreducible rational cubics through eight general complex points; the solutions are nodal.",
   "result_id": "R_01c976f0bff2e009162a8e49755cad4a8aa1f740bb6548b4d4fff8b8c1944007"
 }

@@ -1,7 +1,7 @@
 {
   "problem_id": "P_se_kinematic_sections",
   "question_id": "Q1",
-  "statement": "For the kinematic embedding (14), dimension is N(N+1)/2. Put D(m)=2^(m−1)det[binom(2(m−i−j),m−2i)] for 1≤i,j≤floor(m/2), the ordinary matrix degree of SO_m. Theorem 5.1 proves deg(SE_N)=D(N+1) for odd N; its proof yields deg(SE_(2k))≤D(2k+1)−2^(k−1)D(2k). These degrees count generic complementary affine linear sections of this specified embedding.",
+  "statement": "For the kinematic embedding (14), dim(SE_N)=N(N+1)/2. With D(m)=2^(m−1)det[binom(2(m−i−j),m−2i)] for 1≤i,j≤floor(m/2), deg(SE_N)=D(N+1) for odd N and deg(SE_(2k))≤D(2k+1)−2^(k−1)D(2k).",
   "status": "partial",
   "evidence": "theorem",
   "answer": {
@@ -24,7 +24,7 @@
     "Taylor Brysiewicz AI 20261103"
   ],
   "checked_by": [],
-  "notes": "The binomial determinant uses the standard zero convention outside the binomial range. Even-N equality is not asserted; Table 2 gives computational evidence for N=4,6 and Problem 5.2 asks for even N≥8.\n\nImported from the 2026-10-26 catalogue record R_1f283746084b7854; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "The binomial determinant uses the standard zero convention outside the binomial range. Even-N equality is not asserted; Table 2 gives computational evidence for N=4,6 and Problem 5.2 asks for even N≥8.\n\nImported from the 2026-10-26 catalogue record R_1f283746084b7854; the source claim has not been newly rechecked against the paper for this beta import.\n\nD(m) is the ordinary matrix degree of SO_m. These degrees count generic complementary affine linear sections of the specified embedding. The odd case is Theorem 5.1 and the even upper bound follows in its proof.",
   "scope": "Zariski closure of {(r,x,y,M): MᵀM=I,det M=1,Mx+y=0,2r+xᵀx=0} in C^(N²+2N+1), intersected with N(N+1)/2 general affine hyperplanes.",
   "result_id": "R_6180cac052f41061402cbede19c46ad06f403f66473872dc598005b263a64e24"
 }

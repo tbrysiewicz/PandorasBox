@@ -10,8 +10,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "chen_2022_typical_atypical",
-    "baillieul_byrnes_1982_power_flow"
+    "chen_2022_typical_atypical"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2210.00784v3",
@@ -29,5 +28,5 @@
   ],
   "checked_by": [],
   "result_id": "R_2ab9a19d553c7530a15b2624037e7fa633f5227fc7f3669b03139f9c083fc5a2",
-  "notes": "Direct evaluation of the complete-graph adjacency-polytope volume formula.\n\nThe complete-network binomial count is credited to Baillieul–Byrnes in Chen–Korchevskaia–Lindberg. The latter remains cited for its explicit genericity theorem with symmetric couplings; the general graph theorem is a separate result."
+  "notes": "Direct evaluation of the complete-graph adjacency-polytope volume formula.\n\nThe complete-network binomial count is credited to Baillieul–Byrnes in Chen–Korchevskaia–Lindberg. The latter remains cited for its explicit genericity theorem with symmetric couplings; the general graph theorem is a separate result.\n\nJohn Baillieul; Christopher I. Byrnes, Geometric critical point analysis of lossless power system models (1982, article ID baillieul_byrnes_1982_power_flow). Historical attribution recorded by the cited supporting article. No separately inspected result locator in this earlier article was recorded for this result."
 }

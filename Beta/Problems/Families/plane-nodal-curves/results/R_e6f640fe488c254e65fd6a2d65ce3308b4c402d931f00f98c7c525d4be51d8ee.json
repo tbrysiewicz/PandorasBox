@@ -1,7 +1,7 @@
 {
   "problem_id": "P_plane_nodal_curves",
   "question_id": "Q1",
-  "statement": "For irreducible degree-d plane curves with δ ordinary nodes and no other singularities through d(d+3)/2−δ general points, set g=(d−1)(d−2)/2−δ. Their number is the irreducible count N_(d,g) given by Theorem 1.6; in degrees 1,2,3,4 the counts in increasing δ are (1), (1), (1,12), and (1,27,225,620), respectively.",
+  "statement": "For irreducible degree-d plane curves with δ ordinary nodes and no other singularities through d(d+3)/2−δ general points, set g=(d−1)(d−2)/2−δ. Their number is the irreducible count N_(d,g) given by Theorem 1.6. in degrees 1,2,3,4 the counts in increasing δ are (1), (1), (1,12), and (1,27,225,620), respectively.",
   "answer": {
     "text": "Irreducible counts by the genus–node relation and the marked-floor-diagram formula.",
     "display": "d=1:(1); d=2:(1); d=3:(1,12); d=4:(1,27,225,620)",
@@ -10,7 +10,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "caporaso_1996_plane_curves"
+    "fomin_2009_labeled_floors"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/0906.3828v4",
@@ -25,6 +25,6 @@
     "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Do not use the reducible-inclusive Severi degree 675 for rational quartics: the irreducible count is 620. For general point conditions the curves counted by the irreducible genus-g invariant have precisely the prescribed ordinary nodes.\n\nThe numerical count is associated with the earlier recursion (Caporaso–Harris for plane curves of arbitrary genus). Fomin–Mikhalkin’s table remains the inspected verification source; their floor-diagram Theorem 1.6 explicitly restates Brugallé–Mikhalkin. This is not a claim that the individual numerical value was historically first found by the cited recursion.",
+  "notes": "Do not use the reducible-inclusive Severi degree 675 for rational quartics: the irreducible count is 620. For general point conditions the curves counted by the irreducible genus-g invariant have precisely the prescribed ordinary nodes.\n\nThe numerical count is associated with the earlier recursion (Caporaso–Harris for plane curves of arbitrary genus). Fomin–Mikhalkin’s table remains the inspected verification source; their floor-diagram Theorem 1.6 explicitly restates Brugallé–Mikhalkin. This is not a claim that the individual numerical value was historically first found by the cited recursion.\n\nLucia Caporaso; Joe Harris, Counting plane curves of any genus (1998, article ID caporaso_1996_plane_curves). Earlier attribution or derivation. The current result cites the article actually inspected at the recorded source locator, which restates, tabulates, or specializes this earlier work.",
   "result_id": "R_e6f640fe488c254e65fd6a2d65ce3308b4c402d931f00f98c7c525d4be51d8ee"
 }

@@ -2,9 +2,9 @@
   "result_id": "R_4c5908ea6085176e",
   "problem_id": "P_circles_three_conics",
   "question_id": "Q4",
-  "statement": "The rational conics specified in equation (1), consisting of the hyperbola 20x^2-5y^2+1=0 and two perturbed double lines, have 144 real tritangent circles. Numerical certification establishes the example and disproves the earlier conjectured maximum 136. This proves a lower bound 144 on the maximum, not its equality to 144.",
+  "statement": "There are three real plane conics with 144 distinct real tritangent circles, so the maximum real count is at least 144.",
   "answer": {
-    "text": "The rational conics specified in equation (1), consisting of the hyperbola 20x^2-5y^2+1=0 and two perturbed double lines, have 144 real tritangent circles. Numerical certification establishes the example and disproves the earlier conjectured maximum 136. This proves a lower bound 144 on the maximum, not its equality to 144.",
+    "text": "There are three real plane conics with 144 distinct real tritangent circles, so the maximum real count is at least 144.",
     "count": 144,
     "relation": "at_least",
     "lower_bound": 144
@@ -28,5 +28,5 @@
     "original_result_id": "R_4c5908ea6085176e"
   },
   "scope": "Explicit rational triple of plane conics and its real tritangent circles.",
-  "notes": "Proves maximum at least 144, not maximum equal to 144; not a complete chamber classification."
+  "notes": "Proves maximum at least 144, not maximum equal to 144; not a complete chamber classification.\n\nSource discussion. The rational conics specified in equation (1), consisting of the hyperbola 20x^2-5y^2+1=0 and two perturbed double lines, have 144 real tritangent circles. Numerical certification establishes the example and disproves the earlier conjectured maximum 136. This proves a lower bound 144 on the maximum, not its equality to 144."
 }

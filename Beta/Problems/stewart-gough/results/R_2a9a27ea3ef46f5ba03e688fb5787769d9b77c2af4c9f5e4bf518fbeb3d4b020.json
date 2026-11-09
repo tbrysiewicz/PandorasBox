@@ -1,7 +1,7 @@
 {
   "problem_id": "P_stewart_gough",
   "question_id": "Q4",
-  "statement": "For a general Stewart–Gough platform, the explicit base points, platform points and six leg lengths in Table 2 produce 40 numerically distinct real direct-kinematic postures. Table 3 lists all 40 posture vectors, and Figures 3–4 display them. The example is obtained by deforming an initial design with six real postures and turning its 17 conjugate pairs into real pairs. This paper supplies numerical realization evidence, without an exact certification of these solutions.",
+  "statement": "The explicit Stewart–Gough platform in Table 2 has forty numerically distinct real direct-kinematic postures.",
   "status": "partial",
   "evidence": "numerical_evidence",
   "answer": {
@@ -24,7 +24,7 @@
     "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Numerical construction here; rigorous certification is supplied separately by Hauenstein–Sottile.\n\nImported from the 2026-10-26 catalogue record R_11f1c17a8cb31c54; the source claim has not been newly rechecked against the paper for this beta import.\n\nPass3 update (4 November 2026): primary source freshly retrieved and the cited claim rechecked against Author-uploaded full-text §3 numerical procedure pp.11–12; §4 An example and Tables 2–3 pp.12–13; Figures 3–4 pp.14–15; §5 conclusions p.15. The earlier import note above describes its historical verification state.",
+  "notes": "Numerical construction here; rigorous certification is supplied separately by Hauenstein–Sottile.\n\nImported from the 2026-10-26 catalogue record R_11f1c17a8cb31c54; the source claim has not been newly rechecked against the paper for this beta import.\n\nPass3 update (4 November 2026): primary source freshly retrieved and the cited claim rechecked against Author-uploaded full-text §3 numerical procedure pp.11–12; §4 An example and Tables 2–3 pp.12–13; Figures 3–4 pp.14–15; §5 conclusions p.15. The earlier import note above describes its historical verification state.\n\nTable 3 lists the forty posture vectors and Figures 3–4 display them. The example deforms a design with six real postures, turning seventeen conjugate pairs into real pairs. This is numerical realization evidence without exact certification in this article.",
   "scope": "Six fixed-length SPS legs connecting specified base and moving-platform anchors in three dimensions.",
   "result_id": "R_2a9a27ea3ef46f5ba03e688fb5787769d9b77c2af4c9f5e4bf518fbeb3d4b020"
 }

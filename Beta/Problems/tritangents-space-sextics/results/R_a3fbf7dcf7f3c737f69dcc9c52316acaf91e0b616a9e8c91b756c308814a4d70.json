@@ -10,9 +10,7 @@
     "relation": "partial"
   },
   "reference_ids": [
-    "kulkarni_2017_space_sextics",
-    "farkas_verra_2014_odd_spin",
-    "sertoz_2017_double_spin"
+    "kulkarni_2017_space_sextics"
   ],
   "source": {
     "url": "https://arxiv.org/html/1712.06274v2",
@@ -26,7 +24,7 @@
     "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "These are coefficient-space bidegrees, not tritangent counts or the degree of the sextic.\n\nImported from the 2026-10-26 catalogue record R_f8cea3a7a53b574e; the source claim has not been newly rechecked against the paper for this beta import.\n\nImmediately before Theorem 5.4, the authors state that these numbers are derived from Farkas–Verra and Sertöz’s dissertation. Those sources supply the spin-divisor calculations; Kulkarni et al. supply the stated specialization to quadric/cubic coefficient space.",
+  "notes": "These are coefficient-space bidegrees, not tritangent counts or the degree of the sextic.\n\nImported from the 2026-10-26 catalogue record R_f8cea3a7a53b574e; the source claim has not been newly rechecked against the paper for this beta import.\n\nImmediately before Theorem 5.4, the authors state that these numbers are derived from Farkas–Verra and Sertöz’s dissertation. Those sources supply the spin-divisor calculations; Kulkarni et al. supply the stated specialization to quadric/cubic coefficient space.\n\nGavril Farkas; Alessandro Verra, The geometry of the moduli space of odd spin curves (2014, article ID farkas_verra_2014_odd_spin). Spin-divisor calculations used by the cited article to derive the coefficient-space bidegrees.\n\nEmre Can Sertöz, Enumerative Geometry of Double Spin Curves (2017, article ID sertoz_2017_double_spin). Spin-divisor calculations used by the cited article to derive the coefficient-space bidegrees.",
   "scope": "Pairs of a quadric Q and cubic K in P9 × P19 defining canonical space sextics and their odd-theta tritangents.",
   "result_id": "R_a3fbf7dcf7f3c737f69dcc9c52316acaf91e0b616a9e8c91b756c308814a4d70"
 }

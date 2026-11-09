@@ -2,9 +2,9 @@
   "result_id": "R_81a810826d0d8d62",
   "problem_id": "P_circles_three_conics",
   "question_id": "Q4",
-  "statement": "There exist three real plane conics with exactly 136 real tritangent circles. The proof supplies a specific rational triple, obtained by perturbing a triangle degeneration and hill climbing, and certifies its solutions. Hence the global maximum is at least 136. The source’s separate conjecture that 136 is maximal is not part of the proved statement.",
+  "statement": "There are three real plane conics with exactly 136 real tritangent circles, so the maximum real count is at least 136.",
   "answer": {
-    "text": "There exist three real plane conics with exactly 136 real tritangent circles. The proof supplies a specific rational triple, obtained by perturbing a triangle degeneration and hill climbing, and certifies its solutions. Hence the global maximum is at least 136. The source’s separate conjecture that 136 is maximal is not part of the proved statement.",
+    "text": "There are three real plane conics with exactly 136 real tritangent circles, so the maximum real count is at least 136.",
     "count": 136,
     "relation": "at_least",
     "lower_bound": 136
@@ -12,8 +12,7 @@
   "status": "partial",
   "evidence": "certified_computation",
   "reference_ids": [
-    "breiding_2022_circles_conics",
-    "vilmart_2009_circles_conics"
+    "breiding_2022_circles_conics"
   ],
   "source": {
     "url": "https://arxiv.org/html/2211.06876v1",
@@ -29,5 +28,5 @@
     "original_result_id": "R_81a810826d0d8d62"
   },
   "scope": "Three real plane conics, with distinct real tritangent circles.",
-  "notes": "The certified construction gives an attained count of 136 and a lower bound on the maximum. Optimality is conjectured, not proved, in this source.\n\nVilmart 2009, Theorem 1.1.1, already constructed136 real circles by the triangle degeneration, as explicitly credited in Brysiewicz’s 2026 paper. Breiding et al. remain cited for their specific rational triple, interval certification and accompanying analysis."
+  "notes": "The certified construction gives an attained count of 136 and a lower bound on the maximum. Optimality is conjectured, not proved, in this source.\n\nVilmart 2009, Theorem 1.1.1, already constructed136 real circles by the triangle degeneration, as explicitly credited in Brysiewicz’s 2026 paper. Breiding et al. remain cited for their specific rational triple, interval certification and accompanying analysis.\n\nRelated literature. Étude de cercles tangents à des coniques (Shaula Fiorelli Vilmart, 2009). Historical or related contributions are retained here. Their own precise statements have not been independently verified for a separate result in this migration.\n\nSource discussion. There exist three real plane conics with exactly 136 real tritangent circles. The proof supplies a specific rational triple, obtained by perturbing a triangle degeneration and hill climbing, and certifies its solutions. Hence the global maximum is at least 136. The source’s separate conjecture that 136 is maximal is not part of the proved statement."
 }

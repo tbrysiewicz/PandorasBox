@@ -24,7 +24,8 @@
       ],
       "description": "C2×C2, nontransitive action with two orbits of size two",
       "lmfdb_url": "https://www.lmfdb.org/Groups/Abstract/4.2"
-    }
+    },
+    "value": "C₂ × C₂"
   },
   "status": "solved",
   "evidence": "theorem",

@@ -1,13 +1,14 @@
 {
   "problem_id": "P_tangent_lines_spheres",
   "question_id": "Q4",
-  "statement": "For each n>=3 there is a configuration of 2n-2 unit spheres in R^n having 3*2^(n-1) distinct real common tangent lines. Together with the complex upper bound in Theorem 2(a), this proves total reality and attains the generic complex count within the equal-radius subfamily.",
+  "statement": "For every n≥3, there is a configuration of 2n−2 unit spheres in R^n with 3·2^(n−1) distinct real common tangent lines, attaining the generic complex count.",
   "status": "solved",
   "evidence": "theorem",
   "answer": {
     "text": "For each n>=3 there is a configuration of 2n-2 unit spheres in R^n having 3*2^(n-1) distinct real common tangent lines. Together with the complex upper bound in Theorem 2(a), this proves total reality and attains the generic complex count within the equal-radius subfamily.",
     "display": "3·2^(n−1)",
-    "relation": "equal"
+    "relation": "equal",
+    "value": "3·2^(n−1) (n≥3)"
   },
   "reference_ids": [
     "sottile_2001_sphere_tangents"
@@ -21,10 +22,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261103",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "Total reality attains the generic sphere count; does not assert every sphere configuration is fully real.\n\nImported from the 2026-10-26 catalogue record R_0e4a9f0ea7681ec1; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Total reality attains the generic sphere count; does not assert every sphere configuration is fully real.\n\nImported from the 2026-10-26 catalogue record R_0e4a9f0ea7681ec1; the source claim has not been newly rechecked against the paper for this beta import.\n\nFor each n>=3 there is a configuration of 2n-2 unit spheres in R^n having 3*2^(n-1) distinct real common tangent lines. Together with the complex upper bound in Theorem 2(a), this proves total reality and attains the generic complex count within the equal-radius subfamily.",
   "scope": "Common tangent lines to 2n-2 real spheres in R^n, n >= 3.",
   "result_id": "R_ea7c0df42ea55f028f83dc83fc2ffa94754f6683db7ef30fb6ab3a006043dea6"
 }

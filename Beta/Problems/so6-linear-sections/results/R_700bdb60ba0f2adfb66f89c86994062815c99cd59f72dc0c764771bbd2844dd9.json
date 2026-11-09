@@ -9557,8 +9557,7 @@
     }
   },
   "reference_ids": [
-    "kadets_2018_sectional_monodromy",
-    "brandt_2017_degree_so"
+    "kadets_2018_sectional_monodromy"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/1809.07293v2",
@@ -9574,6 +9573,6 @@
     "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "Deduction, not a named SO case in Kadets: take a general integral curve section of the irreducible projective closure; its variable-hyperplane monodromy S_D embeds in the unrestricted section monodromy. Restricting to the open set of affine sections missing infinity preserves this conclusion. Degree from Brandt et al. Theorem 1.1/Table 1.\n\nThis is a catalogue application of the classical characteristic-zero sectional-monodromy theorem, called folklore in Kadets, Proposition 1.1. Kadets is cited for an explicit proof, not as the originator of that theorem; the stated Bertini reduction identifies the particular enumerative family.",
+  "notes": "Deduction, not a named SO case in Kadets: take a general integral curve section of the irreducible projective closure; its variable-hyperplane monodromy S_D embeds in the unrestricted section monodromy. Restricting to the open set of affine sections missing infinity preserves this conclusion. Degree from Brandt et al. Theorem 1.1/Table 1.\n\nThis is a catalogue application of the classical characteristic-zero sectional-monodromy theorem, called folklore in Kadets, Proposition 1.1. Kadets is cited for an explicit proof, not as the originator of that theorem; the stated Bertini reduction identifies the particular enumerative family.\n\nMadeline Brandt; Juliette Bruce; Taylor Brysiewicz; Robert Krone; Elina Robeva, The Degree of SO(n,C) (2017, article ID brandt_2017_degree_so). Supporting degree or irreducibility input for the catalogue deduction, retained here as background bibliography.",
   "scope": "Unrestricted complementary affine linear sections; no restriction to coordinate projections or homogeneous slices."
 }

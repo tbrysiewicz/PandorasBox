@@ -7,7 +7,8 @@
   "answer": {
     "text": "Let d>n, with partitions ν,λ¹,…,λᵏ totaling n(d−n). Prescribe ν at infinity and λʲ at distinct conjugation-invariant osculation points, with the first 2c points conjugately paired and λ^(2i−1)=λ^(2i). The real solution count with multiplicity is at least the absolute coefficient of ∏_i x_i^(d−i−ν_(n+1−i)) in Δ_n(x)∏_(i=1)^c s_(λ^(2i))(x₁²,…,x_n²)∏_(j=2c+1)^k s_(λʲ)(x), where Δ_n=∏_(i<j)(x_i−x_j) and s denotes a Schur polynomial.",
     "display": "≥ absolute Schur-coefficient bound",
-    "relation": "partial"
+    "relation": "partial",
+    "value": "≥ absolute Schur-coefficient bound"
   },
   "reference_ids": [
     "mukhin_2014_real_lower"

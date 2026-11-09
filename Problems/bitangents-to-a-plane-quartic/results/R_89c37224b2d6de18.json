@@ -18,7 +18,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "zeuthen_1874_real_quartics"
+    "plaumann_2010_quartic_bitangents"
   ],
   "source": {
     "url": "https://arxiv.org/html/1008.4104v2",
@@ -35,5 +35,5 @@
   },
   "headline": true,
   "scope": "Real bitangent lines to a smooth real plane quartic; tangency points may be real or a complex-conjugate pair.",
-  "notes": "This includes real lines tangent only at conjugate nonreal points; it is not the spectrum of totally real tangency. The theorem is explicitly credited to classical work by Zeuthen and Klein.\n\nOriginality audit: the real classification is attributed to Zeuthen; Plaumann–Sturmfels–Vinzant is the modern verification source retained in source. Minimum/maximum counts are consequences of that classification. Original Zeuthen text has not been directly checked here."
+  "notes": "This includes real lines tangent only at conjugate nonreal points; it is not the spectrum of totally real tangency. The theorem is explicitly credited to classical work by Zeuthen and Klein.\n\nOriginality audit: the real classification is attributed to Zeuthen; Plaumann–Sturmfels–Vinzant is the modern verification source retained in source. Minimum/maximum counts are consequences of that classification. Original Zeuthen text has not been directly checked here.\n\nRelated literature. Sur les différentes formes des courbes planes du quatrième ordre (H. G. Zeuthen, 1874). Historical attribution is retained here. The result’s sole article reference identifies the inspected statement or calculation at the recorded locator."
 }

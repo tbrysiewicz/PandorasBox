@@ -6551,7 +6551,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "harris_1979_enumerative_galois"
+    "zhan_2020_k3_monodromy"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/2004.08719v3",
@@ -6568,5 +6568,5 @@
   },
   "headline": true,
   "scope": "Generic complex parameter space of five labelled plane conics; action on geometric tangent conics.",
-  "notes": "The inspected source is Zhan’s research-paper introduction, which attributes the theorem to Harris (1979). Harris’s original text was not available for direct inspection. This is geometric monodromy, not the group of every arithmetic specialization.\n\nAn adjacent transposition and a full cycle generate the natural symmetric group. Labels are abstract solution labels, not a labelling of a particular computed fibre.\n\nOriginality audit: Harris (1979) is the original attribution. The later Hashimoto–Kadets or Zhan text retained in source is a verification/restatement source, not the original claim. For the n=2 singleton case this record includes an elementary deduction."
+  "notes": "The inspected source is Zhan’s research-paper introduction, which attributes the theorem to Harris (1979). Harris’s original text was not available for direct inspection. This is geometric monodromy, not the group of every arithmetic specialization.\n\nAn adjacent transposition and a full cycle generate the natural symmetric group. Labels are abstract solution labels, not a labelling of a particular computed fibre.\n\nOriginality audit: Harris (1979) is the original attribution. The later Hashimoto–Kadets or Zhan text retained in source is a verification/restatement source, not the original claim. For the n=2 singleton case this record includes an elementary deduction.\n\nRelated literature. Galois groups of enumerative problems (Joe Harris, 1979). Historical attribution is retained here. The result’s sole article reference identifies the inspected statement or calculation at the recorded locator."
 }

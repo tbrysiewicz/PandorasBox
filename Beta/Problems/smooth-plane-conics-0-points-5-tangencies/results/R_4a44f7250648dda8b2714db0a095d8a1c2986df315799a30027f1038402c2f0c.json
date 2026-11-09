@@ -1,7 +1,7 @@
 {
   "problem_id": "P_smooth_plane_conics_0_points_5_tangencies",
   "question_id": "Q1",
-  "statement": "The generic complex solution count is 1.",
+  "statement": "There is one smooth complex plane conic tangent to five general lines.",
   "answer": {
     "count": 1,
     "display": "1",
@@ -10,7 +10,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "chasles_1864_conic_counts"
+    "bashelor_ksir_traves_2008_conics"
   ],
   "source": {
     "url": "https://www.usna.edu/Users/math/traves/_files/documents/Bashelor.pdf",
@@ -26,5 +26,5 @@
   ],
   "checked_by": [],
   "result_id": "R_4a44f7250648dda8b2714db0a095d8a1c2986df315799a30027f1038402c2f0c",
-  "notes": "These are classical conic characteristic numbers. Bashelor–Ksir–Traves explicitly state that their paper is expository and its results are not new; their Bézout/duality derivation is retained in the source for verification."
+  "notes": "These are classical conic characteristic numbers. Bashelor–Ksir–Traves explicitly state that their paper is expository and its results are not new; their Bézout/duality derivation is retained in the source for verification.\n\nMichel Chasles, Détermination du nombre des sections coniques qui doivent toucher cinq courbes données d’ordre quelconque, ou satisfaire à diverses autres conditions (1864, article ID chasles_1864_conic_counts). Earlier attribution or derivation. The current result cites the article actually inspected at the recorded source locator, which restates, tabulates, or specializes this earlier work."
 }

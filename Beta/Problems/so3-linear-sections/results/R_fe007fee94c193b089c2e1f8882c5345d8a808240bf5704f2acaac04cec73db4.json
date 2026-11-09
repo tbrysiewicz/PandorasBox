@@ -1,7 +1,7 @@
 {
   "problem_id": "P_so3_linear_sections",
   "question_id": "Q4",
-  "statement": "The authors report alpha-theory certification of at least one witness set attaining their observed maximum of 8 real points on SO(3). Together with degree 8 this proves total reality for SO(3).",
+  "statement": "A real complementary affine linear section of SO(3) can consist of eight distinct real points, attaining its complex degree.",
   "status": "solved",
   "evidence": "certified_computation",
   "answer": {
@@ -25,7 +25,7 @@
     "Taylor Brysiewicz AI 20261103"
   ],
   "checked_by": [],
-  "notes": "The paper says only selected maximum witnesses were certified; its full frequency table is numerical. Certificates were not rerun.\n\nImported from the 2026-10-26 catalogue record R_d3a50fec998fb98d; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "The paper says only selected maximum witnesses were certified; its full frequency table is numerical. Certificates were not rerun.\n\nImported from the 2026-10-26 catalogue record R_d3a50fec998fb98d; the source claim has not been newly rechecked against the paper for this beta import.\n\nThe article reports alpha-theory certification of at least one witness attaining eight real points.",
   "scope": "Generic real complementary affine sections of SO(3) in matrix-entry coordinates.",
   "result_id": "R_fe007fee94c193b089c2e1f8882c5345d8a808240bf5704f2acaac04cec73db4"
 }

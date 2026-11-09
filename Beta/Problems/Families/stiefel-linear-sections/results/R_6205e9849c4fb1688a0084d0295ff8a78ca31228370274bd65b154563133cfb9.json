@@ -7,7 +7,8 @@
   "answer": {
     "text": "For k<n, generic unrestricted complementary affine sections of St(k,n) have geometric monodromy S_D, where D is the matrix-entry degree.",
     "display": "For k<n: S_D, D=deg St(k,n). The k=n orthogonal case is excluded here.",
-    "relation": "partial"
+    "relation": "partial",
+    "value": "S_D (k<n)"
   },
   "reference_ids": [
     "kadets_2018_sectional_monodromy"

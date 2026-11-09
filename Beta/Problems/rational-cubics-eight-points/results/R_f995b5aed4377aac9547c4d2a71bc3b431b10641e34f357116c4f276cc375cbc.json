@@ -1,11 +1,11 @@
 {
   "problem_id": "P_rational_cubics_eight_points",
   "question_id": "Q2",
-  "statement": "For eight general Q-rational input points, the generic arithmetic splitting-field Galois group of the twelve rational cubics is S12; outside a thin exceptional set of rational configurations the specialization also has Galois group S12. Section 3 proves this by an explicit degree-12 discriminant polynomial and an exact MAGMA group computation.",
+  "statement": "The generic arithmetic splitting-field Galois group of the twelve rational cubics through eight Q-rational points is S12. Outside a thin exceptional set of rational configurations, the specialized Galois group is also S12.",
   "status": "partial",
   "evidence": "certified_computation",
   "answer": {
-    "text": "For eight general Q-rational input points, the generic arithmetic splitting-field Galois group of the twelve rational cubics is S12; outside a thin exceptional set of rational configurations the specialization also has Galois group S12. Section 3 proves this by an explicit degree-12 discriminant polynomial and an exact MAGMA group computation.",
+    "text": "The generic arithmetic splitting-field Galois group of the twelve rational cubics through eight Q-rational points is S12. Outside a thin exceptional set of rational configurations, the specialized Galois group is also S12.",
     "display": "S12 for the generic arithmetic problem over Q; complex geometric monodromy not extracted here.",
     "relation": "partial",
     "group": {
@@ -42,7 +42,8 @@
       ],
       "description": "S12 in its natural action on the twelve rational cubic curves; this record concerns arithmetic Galois action over Q",
       "lmfdb_url": "https://www.lmfdb.org/GaloisGroup/12T301"
-    }
+    },
+    "value": "S₁₂ (arithmetic)"
   },
   "reference_ids": [
     "holmes_rome_2019_fields_rational_curves"
@@ -59,7 +60,7 @@
     "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "The arithmetic generic group is not by itself a proof of the geometric complex monodromy group. The printed eight-point witness list on p.299 repeats (−3,1); the paper also gives the pencil cubics and discriminant polynomial. The MAGMA calculation was read, not independently rerun. Do not silently repair the witness coordinates.\n\nImported from the 2026-10-26 catalogue record R_347be5f7128d0861; the source claim has not been newly rechecked against the paper for this beta import.\n\nLMFDB identification: 12T301 in the recorded permutation degree. Standard generating permutations, when newly supplied here, are an abstract relabeling of the proved group action; they are not additional path-tracking data. Linking the arithmetic group does not upgrade this record to a proof of complex geometric monodromy.",
+  "notes": "The arithmetic generic group is not by itself a proof of the geometric complex monodromy group. The printed eight-point witness list on p.299 repeats (−3,1); the paper also gives the pencil cubics and discriminant polynomial. The MAGMA calculation was read, not independently rerun. Do not silently repair the witness coordinates.\n\nImported from the 2026-10-26 catalogue record R_347be5f7128d0861; the source claim has not been newly rechecked against the paper for this beta import.\n\nLMFDB identification: 12T301 in the recorded permutation degree. Standard generating permutations, when newly supplied here, are an abstract relabeling of the proved group action; they are not additional path-tracking data. Linking the arithmetic group does not upgrade this record to a proof of complex geometric monodromy.\n\nSection 3 proves this using an explicit degree-12 discriminant polynomial and an exact MAGMA group computation.",
   "scope": "Twelve irreducible rational cubics through eight general labelled points. The extracted Galois statement is arithmetic over Q and the rational function field of the point-configuration space, and for Q-rational specializations outside a thin set.",
   "result_id": "R_f995b5aed4377aac9547c4d2a71bc3b431b10641e34f357116c4f276cc375cbc"
 }

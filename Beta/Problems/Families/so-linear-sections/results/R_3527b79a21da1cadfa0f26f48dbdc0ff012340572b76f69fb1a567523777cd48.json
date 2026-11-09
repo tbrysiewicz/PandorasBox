@@ -7,7 +7,8 @@
   "answer": {
     "text": "For unrestricted generic complementary affine sections of SO(n,C), n≥2, the geometric monodromy group is S_D, where D is the matrix-entry degree of SO(n,C).",
     "display": "S_D, D=deg SO(n,C) (the displayed degree formula).",
-    "relation": "equal"
+    "relation": "equal",
+    "value": "S_D"
   },
   "reference_ids": [
     "kadets_2018_sectional_monodromy"

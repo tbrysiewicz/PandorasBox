@@ -1,7 +1,7 @@
 {
   "problem_id": "P_tritangents_space_sextics",
   "question_id": "Q5",
-  "statement": "For s>0 ovals: 8(2^(s−1)−1) real planes in the separating case; 2^(s+2) otherwise. This is the real-plane count by topology on the source locus, not the separate spectrum of totally-real contact planes. The full generic-plane spectrum is not asserted here.",
+  "statement": "For a real smooth canonical genus-four sextic with s>0 ovals, the number of real tritangent planes is 8(2^(s−1)−1) in the separating case and 2^(s+2) in the nonseparating case.",
   "status": "partial",
   "evidence": "theorem",
   "answer": {
@@ -10,7 +10,7 @@
     "relation": "partial"
   },
   "reference_ids": [
-    "gross_harris_1981_real_curves"
+    "harris_2017_sextic_tritangents"
   ],
   "source": {
     "url": "https://arxiv.org/pdf/1701.02353v1",
@@ -21,10 +21,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "Substitute g=4 in the two real-odd-theta formulas. This is a count of real tritangent planes; contact points may consist of one real point and a nonreal conjugate pair. The previous attribution to Kulkarni et al. Theorem 1.1 and its five-oval/three-real-contact scope mixed this with a different result: that theorem constructs 84,…,120 totally real contact planes. The corrected scope and source refer to the plane-count question. This pass inspected Harris–Len Proposition 3.1 directly; it did not fully check the paper.\n\nOriginality audit: the theta-characteristic formulas already appear with proof in Gross–Harris (1981), Proposition 5.1. Specialization to g=4 and the classical tritangent correspondence give this record. Harris–Len remains the inspected exposition in source, not the original theta-count attribution. Absolute priority before 1981 remains open.",
+  "notes": "Substitute g=4 in the two real-odd-theta formulas. This is a count of real tritangent planes; contact points may consist of one real point and a nonreal conjugate pair. The previous attribution to Kulkarni et al. Theorem 1.1 and its five-oval/three-real-contact scope mixed this with a different result: that theorem constructs 84,…,120 totally real contact planes. The corrected scope and source refer to the plane-count question. This pass inspected Harris–Len Proposition 3.1 directly; it did not fully check the paper.\n\nOriginality audit: the theta-characteristic formulas already appear with proof in Gross–Harris (1981), Proposition 5.1. Specialization to g=4 and the classical tritangent correspondence give this record. Harris–Len remains the inspected exposition in source, not the original theta-count attribution. Absolute priority before 1981 remains open.\n\nFor s>0 ovals: 8(2^(s−1)−1) real planes in the separating case; 2^(s+2) otherwise. This is the real-plane count by topology on the source locus, not the separate spectrum of totally-real contact planes. The full generic-plane spectrum is not asserted here.\n\nThe following bibliography supplies historical attribution or supporting background for the result. Benedict H. Gross, Joe Harris, Real algebraic curves (1981, gross_harris_1981_real_curves).",
   "scope": "Smooth real canonical genus-four sextics on a smooth quadric, with s>0 real ovals and regular tritangent fibre; real planes are counted regardless of whether all contact points are real.",
   "result_id": "R_2e5f1bd2cee0e0088082999d741deab500fa070b771f16a692dca66560a74cc7"
 }

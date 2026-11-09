@@ -1,7 +1,7 @@
 {
   "problem_id": "P_so3_linear_sections",
   "question_id": "Q5",
-  "statement": "Table 3 reports occurrences of {0,2,4,6,8}. Counts below the selected certified maximum were not all certified. The sampling experiment supplies numerical evidence of attainability, with separately tallied tracking failures.",
+  "statement": "Numerical samples of regular real complementary affine sections of SO(3) attain the real-point counts 0, 2, 4, 6, and 8.",
   "status": "partial",
   "evidence": "numerical_evidence",
   "answer": {
@@ -21,10 +21,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261103"
+    "Taylor Brysiewicz AI 20261103",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "Observed spectra are not chamber classifications or rigorous exhaustive spectra. No distribution-specific expectation is inferred from the unspecified Macaulay2 random call.\n\nImported from the 2026-10-26 catalogue record R_bdb61b8e61d4d570; the source claim has not been newly rechecked against the paper for this beta import.",
+  "notes": "Observed spectra are not chamber classifications or rigorous exhaustive spectra. No distribution-specific expectation is inferred from the unspecified Macaulay2 random call.\n\nImported from the 2026-10-26 catalogue record R_bdb61b8e61d4d570; the source claim has not been newly rechecked against the paper for this beta import.\n\nTable 3 reports occurrences of {0,2,4,6,8}. Counts below the selected certified maximum were not all certified. The sampling experiment supplies numerical evidence of attainability, with separately tallied tracking failures.",
   "scope": "Numerical samples of generic real complementary affine sections of SO(3); reality tolerance 0.001 per coordinate.",
   "result_id": "R_5fec9d4c2da7df70fbe34939f7a6a3a4f4e8b28599e7084b48d92bd0cf18500b"
 }

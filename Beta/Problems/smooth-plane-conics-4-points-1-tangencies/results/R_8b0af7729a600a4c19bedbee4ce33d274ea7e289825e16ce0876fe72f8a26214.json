@@ -14,7 +14,7 @@
   ],
   "source": {
     "url": "https://arxiv.org/html/1105.2004v4",
-    "location": "Proposition 7.3, with all constraint degrees equal to 1; complex upper bound from Bashelor–Ksir–Traves, Table 2",
+    "location": "Proposition 7.3, with all constraint degrees equal to 1",
     "version": "arXiv:1105.2004v4 (12 March 2013)"
   },
   "scope": "Smooth real conics; 4 general points and 1 general lines.",
@@ -22,9 +22,10 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "Specialize Proposition 7.3 to k=4 and 1 line constraints.\n\nThe explicit total-reality theorem/specialization is associated with Bertrand–Brugallé–Mikhalkin. Bashelor–Ksir–Traves is an expository verification source for the complex upper bound.",
+  "notes": "Specialize Proposition 7.3 to k=4 and 1 line constraints.\n\nThe explicit total-reality theorem/specialization is associated with Bertrand–Brugallé–Mikhalkin. Bashelor–Ksir–Traves is an expository verification source for the complex upper bound.\n\nThe complex upper bound is given by Bashelor–Ksir–Traves, Table 2.",
   "result_id": "R_8b0af7729a600a4c19bedbee4ce33d274ea7e289825e16ce0876fe72f8a26214"
 }

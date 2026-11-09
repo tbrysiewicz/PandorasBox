@@ -2,12 +2,13 @@
   "result_id": "R_3d72d024d2e627fd",
   "problem_id": "P_rational_plane_curves",
   "question_id": "Q2",
-  "statement": "For every degree d, Proposition 2.2 proves that the arithmetic action on the N_d rational curves is transitive outside a thin subset of rational configurations. Conjecture 1.5 predicts the full symmetric group S_(N_d); §3 proves this for d=3 (S12), while d=1,2 are trivial.",
+  "statement": "Outside a thin set of rational point configurations, the arithmetic Galois action on the N_d rational degree-d plane curves is transitive. The group is trivial for d=1,2 and S12 for d=3, and is conjecturally S_(N_d) for general d.",
   "answer": {
     "text": "Arithmetic group: trivial for d=1,2; S12 for d=3; transitive generally. S_(N_d) conjectured in this source.",
     "display": "Arithmetic group: trivial for d=1,2; S12 for d=3; transitive generally. S_(N_d) conjectured in this source.",
     "relation": "partial",
-    "qualification": "Conjecture 1.5 is dated 2020 and is not asserted to be currently open. This is an arithmetic Galois statement, not an extracted geometric complex-monodromy classification."
+    "qualification": "Conjecture 1.5 is dated 2020 and is not asserted to be currently open. This is an arithmetic Galois statement, not an extracted geometric complex-monodromy classification.",
+    "value": "1 (d≤2); S₁₂ (d=3); G≤S_{N_d} (transitive; arithmetic)"
   },
   "status": "partial",
   "evidence": "conjecture",
@@ -29,5 +30,5 @@
   },
   "headline": true,
   "scope": "Arithmetic Galois action on degree-d rational plane curves through 3d−1 general Q-rational points; generic splitting field over the rational function field of the point-configuration space.",
-  "notes": "The full symmetric-group statement is a conjecture in this 2020 source for general d. No current unresolved-status claim is made, and arithmetic Galois is distinguished from geometric complex monodromy."
+  "notes": "The full symmetric-group statement is a conjecture in this 2020 source for general d. No current unresolved-status claim is made, and arithmetic Galois is distinguished from geometric complex monodromy.\n\nSource discussion. For every degree d, Proposition 2.2 proves that the arithmetic action on the N_d rational curves is transitive outside a thin subset of rational configurations. Conjecture 1.5 predicts the full symmetric group S_(N_d); §3 proves this for d=3 (S12), while d=1,2 are trivial."
 }

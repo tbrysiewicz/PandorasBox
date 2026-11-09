@@ -2,7 +2,7 @@
   "result_id": "R_3e765d30e30d97c1",
   "problem_id": "P_circles_three_conics",
   "question_id": "Q6",
-  "statement": "Section 4.1 studies 50,000 independent input coefficient vectors distributed as N(0_18,I_18), using numerical homotopy continuation to count real circles. Figure 4 reports the empirical count distribution, concentrated around 20 with substantial mass at zero. This is numerical evidence toward the distribution and expectation, not an exact expected-count formula.",
+  "statement": "For independent standard Gaussian input coefficients of three plane conics, numerical sampling of 50,000 triples gives a real tangent-circle count distribution concentrated near 20 with substantial mass at zero.",
   "answer": {
     "text": "Gaussian sampling studied; no verified mean",
     "display": "Gaussian sampling studied; no verified mean",
@@ -30,5 +30,5 @@
   },
   "headline": true,
   "scope": "Real conic coefficients in the paper’s monomial coordinates, independently standard normal; data set D2, without the hill-climbing augmentation of D1.",
-  "notes": "The paper does not report an exact expectation or validated mean. The linked raw D2 labels include odd counts and values exceeding the textual cutoff of 60, so an unvalidated sample mean is not promoted to a mathematical answer."
+  "notes": "The paper does not report an exact expectation or validated mean. The linked raw D2 labels include odd counts and values exceeding the textual cutoff of 60, so an unvalidated sample mean is not promoted to a mathematical answer.\n\nSource discussion. Section 4.1 studies 50,000 independent input coefficient vectors distributed as N(0_18,I_18), using numerical homotopy continuation to count real circles. Figure 4 reports the empirical count distribution, concentrated around 20 with substantial mass at zero. This is numerical evidence toward the distribution and expectation, not an exact expected-count formula."
 }

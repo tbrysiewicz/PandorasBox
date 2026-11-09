@@ -1,7 +1,7 @@
 {
   "problem_id": "P_tritangents_space_sextics",
   "question_id": "Q4",
-  "statement": "Tropical lifting constructs a smooth real space sextic with all 120 tritangent planes defined over R and all three contacts on every plane real. Thus the maximum real-plane count is 120.",
+  "statement": "There exists a smooth real space sextic with 120 real tritangent planes and three real contact points on every plane, attaining the maximum real-plane count.",
   "status": "solved",
   "evidence": "theorem",
   "answer": {
@@ -24,7 +24,7 @@
     "Taylor Brysiewicz AI 20261104"
   ],
   "checked_by": [],
-  "notes": "This is the distinct tropical construction, not a second attribution of the 2018 construction. The same source also constructs 64 totally real tritangents for a different topology. Real plane coefficients and real contact points are distinguished throughout.",
+  "notes": "This is the distinct tropical construction, not a second attribution of the 2018 construction. The same source also constructs 64 totally real tritangents for a different topology. Real plane coefficients and real contact points are distinguished throughout.\n\nThe construction uses tropical lifting in Example 11.2 and Theorems 1.3–1.4.",
   "scope": "Smooth algebraic space sextics satisfying tropical genericity hypotheses; totally real tritangent planes.",
   "result_id": "R_b7aec990a777790f19753de40bd723dbe7bb243ddcf256325024457395580ef3"
 }

@@ -20,9 +20,7 @@
   "status": "solved",
   "evidence": "theorem",
   "reference_ids": [
-    "aluffi_1990_smooth_cubics",
-    "maillard_1871_cubic_characteristics",
-    "zeuthen_1872_cubic_characteristics"
+    "aluffi_1990_smooth_cubics"
   ],
   "source": {
     "url": "https://www.math.fsu.edu/~aluffi/papers/1987TegopcIsc.pdf",
@@ -37,9 +35,10 @@
     "inheritance_basis": "A reduced generic complex fibre of cardinality one has trivial permutation action; for generic real inputs conjugation fixes its unique solution."
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "Elementary deduction from the recorded complex count one. Complex conjugation preserves the fibre for real input data, so its unique point is fixed and the solution curve is defined over R. A permutation action on a singleton is trivial. These deductions are supplied here explicitly; they are not attributed as separate theorems in the cited paper. The assertion concerns real solution curves, not reality of every point on a real curve.\n\nAluffi explicitly identifies these characteristic numbers as classical results of Maillard and Zeuthen. Those original claims and Aluffi’s rigorous verification are both cited; the modern proof is not presented as the first numerical claim. Any singleton real or monodromy assertion here is a deduction from the count.",
+  "notes": "Elementary deduction from the recorded complex count one. Complex conjugation preserves the fibre for real input data, so its unique point is fixed and the solution curve is defined over R. A permutation action on a singleton is trivial. These deductions are supplied here explicitly; they are not attributed as separate theorems in the cited paper. The assertion concerns real solution curves, not reality of every point on a real curve.\n\nAluffi explicitly identifies these characteristic numbers as classical results of Maillard and Zeuthen. Those original claims supply historical context for Aluffi’s rigorous verification; the modern proof is not presented as the first numerical claim. Any singleton real or monodromy assertion here is a deduction from the count.\n\nThe following bibliography supplies historical attribution or supporting background for the result. S. Maillard, Recherche des caractéristiques des systèmes élémentaires de courbes planes du troisième ordre (1871, maillard_1871_cubic_characteristics) H. G. Zeuthen, Détermination des caractéristiques des systèmes élémentaires de cubiques (1872, zeuthen_1872_cubic_characteristics).",
   "result_id": "R_8cff3e45bd9ba5afdd564a0153f08742e1dc97d1ff95b46b37b5e3acc5961f75"
 }

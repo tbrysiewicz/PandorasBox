@@ -1,7 +1,7 @@
 {
   "problem_id": "P_rational_plane_maximal_line_contact",
   "question_id": "Q1",
-  "statement": "Let z(d) count rational degree-d curves through 2d−1 generic points with order-d contact to a fixed line at a fixed point. With z(1)=1, z(d+1)=Σ_(k=1)^d ((2d)!/k!)Σ_(a₁+⋯+a_k=d;a_i>0)∏_i[a_i²z(a_i)/(2a_i)!]. Free-contact counts through 2d generic points equal dz(d). Figure 8 gives z(3)=7 and z(4)=138, hence free-contact counts 21 and 552.",
+  "statement": "The numbers z(d) of rational degree-d plane curves through 2d−1 general points with order-d contact at a specified point of a fixed line satisfy the recursion of Theorem 4.9. Free-contact counts through 2d general points equal d z(d), giving 21 in degree three and 552 in degree four.",
   "status": "solved",
   "evidence": "theorem",
   "answer": {
@@ -20,10 +20,11 @@
     "kind": "direct"
   },
   "generated_by": [
-    "Taylor Brysiewicz AI 20261104"
+    "Taylor Brysiewicz AI 20261104",
+    "Taylor Brysiewicz AI 20261109"
   ],
   "checked_by": [],
-  "notes": "The two contact-point conventions impose different numbers of general point conditions.\n\nImported from the 2026-10-26 catalogue record R_5fc078e2692728b8; the source claim has not been newly rechecked against the paper for this beta import.\n\nPass3 update (4 November 2026): primary source freshly retrieved and the cited claim rechecked against Introduction p.2; definitions §§1.1–1.2, pp.4–6; Theorem 1.6 p.6; Figures 1–2 and Severi-degree definition p.7; §4.4, Corollary 4.8, Theorem 4.9 eq.(4.6), Figure 8, pp.23–25. The earlier import note above describes its historical verification state.",
+  "notes": "The two contact-point conventions impose different numbers of general point conditions.\n\nImported from the 2026-10-26 catalogue record R_5fc078e2692728b8; the source claim has not been newly rechecked against the paper for this beta import.\n\nPass3 update (4 November 2026): primary source freshly retrieved and the cited claim rechecked against Introduction p.2; definitions §§1.1–1.2, pp.4–6; Theorem 1.6 p.6; Figures 1–2 and Severi-degree definition p.7; §4.4, Corollary 4.8, Theorem 4.9 eq.(4.6), Figure 8, pp.23–25. The earlier import note above describes its historical verification state.\n\nLet z(d) count rational degree-d curves through 2d−1 generic points with order-d contact to a fixed line at a fixed point. With z(1)=1, z(d+1)=Σ_(k=1)^d ((2d)!/k!)Σ_(a₁+⋯+a_k=d;a_i>0)∏_i[a_i²z(a_i)/(2a_i)!]. Free-contact counts through 2d generic points equal dz(d). Figure 8 gives z(3)=7 and z(4)=138, hence free-contact counts 21 and 552.",
   "scope": "Irreducible degree-d rational plane curves with order-d contact to a fixed line: 2d−1 generic points if the contact point is fixed, 2d if it is free.",
   "result_id": "R_15350fe6a9a57dd3d5775043e0d51d6e3419cbb8ca5df5b41c45596ed247bb4f"
 }
